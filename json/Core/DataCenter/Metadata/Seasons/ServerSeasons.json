@@ -1,0 +1,66 @@
+[
+  {
+    "uid": 1,
+    "nameId": "1057964",
+    "beginning": 1524610800000,
+    "closure": 1532991600000,
+    "resetDate": -3600000,
+    "flagObjectId": 20763
+  },
+  {
+    "uid": 2,
+    "nameId": "1057965",
+    "beginning": 1548720000000,
+    "closure": 1554850800000,
+    "resetDate": -3600000,
+    "flagObjectId": 20763
+  },
+  {
+    "uid": 3,
+    "nameId": "1057966",
+    "beginning": 1533078000000,
+    "closure": 1548720000000,
+    "resetDate": -3600000,
+    "flagObjectId": 20763
+  },
+  {
+    "uid": 4,
+    "nameId": "1057967",
+    "beginning": 1563231600000,
+    "closure": 1569884400000,
+    "resetDate": -3600000,
+    "flagObjectId": 20763
+  },
+  {
+    "uid": 5,
+    "nameId": "1057968",
+    "beginning": 1579737600000,
+    "closure": 1596236400000,
+    "resetDate": -3600000,
+    "flagObjectId": 20763
+  },
+  {
+    "uid": 14,
+    "nameId": "1057969",
+    "beginning": 1612137600000,
+    "closure": 1625612400000,
+    "resetDate": -3600000,
+    "flagObjectId": 20763
+  },
+  {
+    "uid": 16,
+    "nameId": "1057970",
+    "beginning": 1625698800000,
+    "closure": 1640995200000,
+    "resetDate": -3600000,
+    "flagObjectId": 20763
+  },
+  {
+    "uid": 24,
+    "nameId": "1057971",
+    "beginning": 1682982000000,
+    "closure": 1700611200000,
+    "resetDate": -3600000,
+    "flagObjectId": 20763
+  }
+]

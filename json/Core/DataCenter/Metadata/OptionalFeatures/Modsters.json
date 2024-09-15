@@ -1,0 +1,3521 @@
+[
+  {
+    "id": 26511,
+    "itemId": 28718,
+    "modsterId": 7424,
+    "order": 0,
+    "parentsModsterId": [
+      7561,
+      7562,
+      7606,
+      7607,
+      7609,
+      7610,
+      7611,
+      7612,
+      7613
+    ],
+    "modsterActiveSpells": [
+      26857,
+      26858,
+      26859
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7018
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26512,
+    "itemId": 28719,
+    "modsterId": 7425,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      26860,
+      26861,
+      26862
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7019
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26513,
+    "itemId": 28720,
+    "modsterId": 7426,
+    "order": 0,
+    "parentsModsterId": [
+      7563,
+      7614
+    ],
+    "modsterActiveSpells": [
+      26863,
+      26864,
+      26865
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7020
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26514,
+    "itemId": 28721,
+    "modsterId": 7427,
+    "order": 0,
+    "parentsModsterId": [
+      7562,
+      7563,
+      7610,
+      7611,
+      7612,
+      7613,
+      7614
+    ],
+    "modsterActiveSpells": [
+      26866,
+      26867,
+      26868
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7021
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26515,
+    "itemId": 28722,
+    "modsterId": 7428,
+    "order": 0,
+    "parentsModsterId": [
+      7561,
+      7563,
+      7562,
+      7606,
+      7607,
+      7609,
+      7610,
+      7611,
+      7612,
+      7613,
+      7614
+    ],
+    "modsterActiveSpells": [
+      26869,
+      26870,
+      26871
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7022
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26516,
+    "itemId": 28723,
+    "modsterId": 7429,
+    "order": 0,
+    "parentsModsterId": [
+      7563,
+      7561,
+      7606,
+      7607,
+      7609,
+      7614
+    ],
+    "modsterActiveSpells": [
+      26872,
+      26873,
+      26874
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7023
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26517,
+    "itemId": 28724,
+    "modsterId": 7430,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      26875,
+      26876,
+      26877
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7024
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26518,
+    "itemId": 28725,
+    "modsterId": 7431,
+    "order": 0,
+    "parentsModsterId": [
+      7561,
+      7606,
+      7607,
+      7609
+    ],
+    "modsterActiveSpells": [
+      26878,
+      26879,
+      26880
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7025
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26519,
+    "itemId": 28726,
+    "modsterId": 7432,
+    "order": 0,
+    "parentsModsterId": [
+      7561,
+      7563,
+      7562,
+      7606,
+      7607,
+      7609,
+      7610,
+      7611,
+      7612,
+      7613,
+      7614
+    ],
+    "modsterActiveSpells": [
+      26881,
+      26882,
+      26883
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7026
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26520,
+    "itemId": 28727,
+    "modsterId": 7433,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      26884,
+      26885,
+      26886
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7027
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26521,
+    "itemId": 28728,
+    "modsterId": 7434,
+    "order": 0,
+    "parentsModsterId": [
+      7558,
+      7559,
+      7601,
+      7602,
+      7603,
+      7604
+    ],
+    "modsterActiveSpells": [
+      26887,
+      26888,
+      26889
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7028
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26522,
+    "itemId": 28729,
+    "modsterId": 7435,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      26890,
+      26891,
+      26892
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7029
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26523,
+    "itemId": 28730,
+    "modsterId": 7436,
+    "order": 0,
+    "parentsModsterId": [
+      7559,
+      7602,
+      7603,
+      7604
+    ],
+    "modsterActiveSpells": [
+      26893,
+      26894,
+      26895
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7030
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26524,
+    "itemId": 28731,
+    "modsterId": 7437,
+    "order": 0,
+    "parentsModsterId": [
+      7558,
+      7559,
+      7601,
+      7602,
+      7603,
+      7604
+    ],
+    "modsterActiveSpells": [
+      26896,
+      26897,
+      26898
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7031
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26525,
+    "itemId": 28732,
+    "modsterId": 7438,
+    "order": 0,
+    "parentsModsterId": [
+      7558,
+      7559,
+      7601,
+      7602,
+      7603,
+      7604
+    ],
+    "modsterActiveSpells": [
+      26899,
+      26900,
+      26901
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7032
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26526,
+    "itemId": 28733,
+    "modsterId": 7439,
+    "order": 0,
+    "parentsModsterId": [
+      7558,
+      7559,
+      7601,
+      7602,
+      7603,
+      7604
+    ],
+    "modsterActiveSpells": [
+      26902,
+      26903,
+      26904
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7033
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26527,
+    "itemId": 28734,
+    "modsterId": 7440,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      26905,
+      26906,
+      26907
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7034
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26528,
+    "itemId": 28735,
+    "modsterId": 7441,
+    "order": 0,
+    "parentsModsterId": [
+      7558,
+      7601
+    ],
+    "modsterActiveSpells": [
+      26908,
+      26909,
+      26910
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7035
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26529,
+    "itemId": 28736,
+    "modsterId": 7442,
+    "order": 0,
+    "parentsModsterId": [
+      7560,
+      7559,
+      7602,
+      7603,
+      7604,
+      7605
+    ],
+    "modsterActiveSpells": [
+      26911,
+      26912,
+      26913
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7036
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26530,
+    "itemId": 28737,
+    "modsterId": 7443,
+    "order": 0,
+    "parentsModsterId": [
+      7558,
+      7560,
+      7601,
+      7605
+    ],
+    "modsterActiveSpells": [
+      26914,
+      26915,
+      26916
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7037
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26531,
+    "itemId": 28738,
+    "modsterId": 7444,
+    "order": 0,
+    "parentsModsterId": [
+      7560,
+      7559,
+      7602,
+      7603,
+      7604,
+      7605
+    ],
+    "modsterActiveSpells": [
+      26917,
+      26918,
+      26919
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7038
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26532,
+    "itemId": 28739,
+    "modsterId": 7445,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      26920,
+      26921,
+      26922
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7039
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26533,
+    "itemId": 28740,
+    "modsterId": 7446,
+    "order": 0,
+    "parentsModsterId": [
+      7560,
+      7605
+    ],
+    "modsterActiveSpells": [
+      26923,
+      26924,
+      26925
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7040
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26534,
+    "itemId": 28741,
+    "modsterId": 7447,
+    "order": 0,
+    "parentsModsterId": [
+      7560,
+      7558,
+      7601,
+      7605
+    ],
+    "modsterActiveSpells": [
+      26926,
+      26927,
+      26928
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7041
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26535,
+    "itemId": 28742,
+    "modsterId": 7448,
+    "order": 0,
+    "parentsModsterId": [
+      7579,
+      7564,
+      7565,
+      7560,
+      7605,
+      7615,
+      7616,
+      7617,
+      7618,
+      7723
+    ],
+    "modsterActiveSpells": [
+      26929,
+      26930,
+      26931
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7042
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26536,
+    "itemId": 28743,
+    "modsterId": 7449,
+    "order": 0,
+    "parentsModsterId": [
+      7573,
+      7577,
+      7578,
+      7560,
+      7605,
+      7633,
+      7634,
+      7635,
+      7636,
+      7637,
+      7638,
+      7648,
+      7649,
+      7650,
+      7651,
+      7652,
+      7653
+    ],
+    "modsterActiveSpells": [
+      26932,
+      26933,
+      26934
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7043
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26537,
+    "itemId": 28744,
+    "modsterId": 7450,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      26935,
+      26936,
+      26937
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7044
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26538,
+    "itemId": 28745,
+    "modsterId": 7451,
+    "order": 0,
+    "parentsModsterId": [
+      7592,
+      7670,
+      7671
+    ],
+    "modsterActiveSpells": [
+      26938,
+      26939,
+      26940
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7045
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26539,
+    "itemId": 28746,
+    "modsterId": 7452,
+    "order": 0,
+    "parentsModsterId": [
+      7569,
+      7627
+    ],
+    "modsterActiveSpells": [
+      26941,
+      26942,
+      26943
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7046
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26540,
+    "itemId": 28747,
+    "modsterId": 7453,
+    "order": 0,
+    "parentsModsterId": [
+      7566,
+      7569,
+      7592,
+      7560,
+      7605,
+      7619,
+      7620,
+      7621,
+      7622,
+      7627,
+      7670,
+      7671
+    ],
+    "modsterActiveSpells": [
+      26944,
+      26945,
+      26946
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7047
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26541,
+    "itemId": 28748,
+    "modsterId": 7454,
+    "order": 0,
+    "parentsModsterId": [
+      7564,
+      7579,
+      7569,
+      7615,
+      7616,
+      7627,
+      7723
+    ],
+    "modsterActiveSpells": [
+      26947,
+      26948,
+      26949
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7048
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26542,
+    "itemId": 28749,
+    "modsterId": 7455,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      26950,
+      26951,
+      26952
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7049
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26543,
+    "itemId": 28750,
+    "modsterId": 7456,
+    "order": 0,
+    "parentsModsterId": [
+      7573,
+      7633,
+      7634,
+      7635,
+      7636,
+      7637,
+      7638
+    ],
+    "modsterActiveSpells": [
+      26953,
+      26954,
+      26955
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7050
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26544,
+    "itemId": 28751,
+    "modsterId": 7457,
+    "order": 0,
+    "parentsModsterId": [
+      7578,
+      7651,
+      7652,
+      7653
+    ],
+    "modsterActiveSpells": [
+      26956,
+      26957,
+      26958
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7051
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26545,
+    "itemId": 28752,
+    "modsterId": 7458,
+    "order": 0,
+    "parentsModsterId": [
+      7565,
+      7577,
+      7579,
+      7617,
+      7618,
+      7648,
+      7649,
+      7650,
+      7723
+    ],
+    "modsterActiveSpells": [
+      26959,
+      26960,
+      26961
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7052
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26546,
+    "itemId": 28753,
+    "modsterId": 7459,
+    "order": 0,
+    "parentsModsterId": [
+      7570,
+      7572,
+      7564,
+      7565,
+      7615,
+      7616,
+      7617,
+      7618,
+      7628,
+      7629,
+      7631,
+      7632
+    ],
+    "modsterActiveSpells": [
+      26962,
+      26963,
+      26964
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7053
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26547,
+    "itemId": 28754,
+    "modsterId": 7460,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      26965,
+      26966,
+      26967
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7054
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26548,
+    "itemId": 28755,
+    "modsterId": 7461,
+    "order": 0,
+    "parentsModsterId": [
+      7579,
+      7723
+    ],
+    "modsterActiveSpells": [
+      26968,
+      26969,
+      26970
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7055
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26549,
+    "itemId": 28756,
+    "modsterId": 7462,
+    "order": 0,
+    "parentsModsterId": [
+      7579,
+      7566,
+      7578,
+      7619,
+      7620,
+      7621,
+      7622,
+      7651,
+      7652,
+      7653,
+      7723
+    ],
+    "modsterActiveSpells": [
+      26971,
+      26972,
+      26973
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7056
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26550,
+    "itemId": 28757,
+    "modsterId": 7463,
+    "order": 0,
+    "parentsModsterId": [
+      7572,
+      7631,
+      7632
+    ],
+    "modsterActiveSpells": [
+      26974,
+      26975,
+      26976
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7057
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26551,
+    "itemId": 28758,
+    "modsterId": 7464,
+    "order": 0,
+    "parentsModsterId": [
+      7580,
+      7592,
+      7565,
+      7570,
+      7617,
+      7618,
+      7628,
+      7629,
+      7654,
+      7655,
+      7656,
+      7670,
+      7671
+    ],
+    "modsterActiveSpells": [
+      26977,
+      26978,
+      26979
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7058
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26552,
+    "itemId": 28759,
+    "modsterId": 7465,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      26980,
+      26981,
+      26982
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7059
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26553,
+    "itemId": 28760,
+    "modsterId": 7466,
+    "order": 0,
+    "parentsModsterId": [
+      7570,
+      7628,
+      7629
+    ],
+    "modsterActiveSpells": [
+      26983,
+      26984,
+      26985
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7060
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26554,
+    "itemId": 28761,
+    "modsterId": 7467,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      26986,
+      26987,
+      26988
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7061
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26555,
+    "itemId": 28762,
+    "modsterId": 7468,
+    "order": 0,
+    "parentsModsterId": [
+      7570,
+      7572,
+      7564,
+      7566,
+      7615,
+      7616,
+      7619,
+      7620,
+      7621,
+      7622,
+      7628,
+      7629,
+      7631,
+      7632
+    ],
+    "modsterActiveSpells": [
+      26989,
+      26990,
+      26991
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7062
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26556,
+    "itemId": 28763,
+    "modsterId": 7469,
+    "order": 0,
+    "parentsModsterId": [
+      7574,
+      7573,
+      7572,
+      7578,
+      7631,
+      7632,
+      7633,
+      7634,
+      7635,
+      7636,
+      7637,
+      7638,
+      7639,
+      7640,
+      7641,
+      7651,
+      7652,
+      7653
+    ],
+    "modsterActiveSpells": [
+      26992,
+      26993,
+      26994
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7063
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26557,
+    "itemId": 28764,
+    "modsterId": 7470,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      26995,
+      26996,
+      26997
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7064
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26558,
+    "itemId": 28765,
+    "modsterId": 7471,
+    "order": 0,
+    "parentsModsterId": [
+      7564,
+      7570,
+      7572,
+      7577,
+      7615,
+      7616,
+      7628,
+      7629,
+      7631,
+      7632,
+      7648,
+      7649,
+      7650
+    ],
+    "modsterActiveSpells": [
+      26998,
+      26999,
+      27000
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7065
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26559,
+    "itemId": 28766,
+    "modsterId": 7472,
+    "order": 0,
+    "parentsModsterId": [
+      7580,
+      7654,
+      7655,
+      7656
+    ],
+    "modsterActiveSpells": [
+      27001,
+      27002,
+      27003
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7066
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26560,
+    "itemId": 28767,
+    "modsterId": 7473,
+    "order": 0,
+    "parentsModsterId": [
+      7578,
+      7580,
+      7569,
+      7577,
+      7627,
+      7648,
+      7649,
+      7650,
+      7651,
+      7652,
+      7653,
+      7654,
+      7655,
+      7656
+    ],
+    "modsterActiveSpells": [
+      27004,
+      27005,
+      27006
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7067
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26561,
+    "itemId": 28768,
+    "modsterId": 7474,
+    "order": 0,
+    "parentsModsterId": [
+      7583,
+      7588,
+      7592,
+      7578,
+      7651,
+      7652,
+      7653,
+      7661,
+      7662,
+      7669,
+      7670,
+      7671
+    ],
+    "modsterActiveSpells": [
+      27007,
+      27008,
+      27009
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7068
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26562,
+    "itemId": 28769,
+    "modsterId": 7475,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      27010,
+      27011,
+      27012
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7069
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26563,
+    "itemId": 28770,
+    "modsterId": 7476,
+    "order": 0,
+    "parentsModsterId": [
+      7566,
+      7569,
+      7573,
+      7580,
+      7619,
+      7620,
+      7621,
+      7622,
+      7627,
+      7633,
+      7634,
+      7635,
+      7636,
+      7637,
+      7638,
+      7654,
+      7655,
+      7656
+    ],
+    "modsterActiveSpells": [
+      27013,
+      27014,
+      27015
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7070
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26564,
+    "itemId": 28771,
+    "modsterId": 7477,
+    "order": 0,
+    "parentsModsterId": [
+      7574,
+      7639,
+      7640,
+      7641
+    ],
+    "modsterActiveSpells": [
+      27016,
+      27017,
+      27018
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7071
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26565,
+    "itemId": 28772,
+    "modsterId": 7478,
+    "order": 0,
+    "parentsModsterId": [
+      7574,
+      7580,
+      7570,
+      7577,
+      7628,
+      7629,
+      7639,
+      7640,
+      7641,
+      7648,
+      7649,
+      7650,
+      7654,
+      7655,
+      7656
+    ],
+    "modsterActiveSpells": [
+      27019,
+      27020,
+      27021
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7072
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26566,
+    "itemId": 28773,
+    "modsterId": 7479,
+    "order": 0,
+    "parentsModsterId": [
+      7567,
+      7568,
+      7582,
+      7584,
+      7588,
+      7623,
+      7624,
+      7625,
+      7626,
+      7657,
+      7658,
+      7659,
+      7660,
+      7663,
+      7664,
+      7669
+    ],
+    "modsterActiveSpells": [
+      27022,
+      27023,
+      27024
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7073
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26567,
+    "itemId": 28774,
+    "modsterId": 7480,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      27025,
+      27026,
+      27027
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7074
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26568,
+    "itemId": 28775,
+    "modsterId": 7481,
+    "order": 0,
+    "parentsModsterId": [
+      7565,
+      7569,
+      7574,
+      7592,
+      7617,
+      7618,
+      7627,
+      7639,
+      7640,
+      7641,
+      7670,
+      7671
+    ],
+    "modsterActiveSpells": [
+      27028,
+      27029,
+      27030
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7075
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26569,
+    "itemId": 28776,
+    "modsterId": 7482,
+    "order": 0,
+    "parentsModsterId": [
+      7583,
+      7661,
+      7662
+    ],
+    "modsterActiveSpells": [
+      27031,
+      27032,
+      27033
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7076
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26570,
+    "itemId": 28777,
+    "modsterId": 7483,
+    "order": 0,
+    "parentsModsterId": [
+      7566,
+      7583,
+      7588,
+      7572,
+      7619,
+      7620,
+      7621,
+      7622,
+      7631,
+      7632,
+      7661,
+      7662,
+      7669
+    ],
+    "modsterActiveSpells": [
+      27034,
+      27035,
+      27036
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7077
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26571,
+    "itemId": 28778,
+    "modsterId": 7484,
+    "order": 0,
+    "parentsModsterId": [
+      7585,
+      7567,
+      7573,
+      7588,
+      7633,
+      7634,
+      7635,
+      7636,
+      7637,
+      7638,
+      7665,
+      7666,
+      7669
+    ],
+    "modsterActiveSpells": [
+      27037,
+      27038,
+      27039
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7078
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26572,
+    "itemId": 28779,
+    "modsterId": 7485,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      27040,
+      27041,
+      27042
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7079
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26573,
+    "itemId": 28780,
+    "modsterId": 7486,
+    "order": 0,
+    "parentsModsterId": [
+      7570,
+      7577,
+      7583,
+      7588,
+      7628,
+      7629,
+      7648,
+      7649,
+      7650,
+      7661,
+      7662,
+      7669
+    ],
+    "modsterActiveSpells": [
+      27043,
+      27044,
+      27045
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7080
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26574,
+    "itemId": 28781,
+    "modsterId": 7487,
+    "order": 0,
+    "parentsModsterId": [
+      7582,
+      7657,
+      7658,
+      7659,
+      7660
+    ],
+    "modsterActiveSpells": [
+      27046,
+      27047,
+      27048
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7081
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26575,
+    "itemId": 28782,
+    "modsterId": 7488,
+    "order": 0,
+    "parentsModsterId": [
+      7584,
+      7663,
+      7664
+    ],
+    "modsterActiveSpells": [
+      27049,
+      27050,
+      27051
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7082
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26576,
+    "itemId": 28783,
+    "modsterId": 7489,
+    "order": 0,
+    "parentsModsterId": [
+      7586,
+      7592,
+      7574,
+      7639,
+      7640,
+      7641,
+      7667,
+      7668,
+      7670,
+      7671
+    ],
+    "modsterActiveSpells": [
+      27052,
+      27053,
+      27054
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7083
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26577,
+    "itemId": 28784,
+    "modsterId": 7490,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      27055,
+      27056,
+      27057
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7084
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26578,
+    "itemId": 28785,
+    "modsterId": 7491,
+    "order": 0,
+    "parentsModsterId": [
+      7567,
+      7568,
+      7582,
+      7584,
+      7588,
+      7623,
+      7624,
+      7625,
+      7626,
+      7657,
+      7658,
+      7659,
+      7660,
+      7663,
+      7664,
+      7669
+    ],
+    "modsterActiveSpells": [
+      27058,
+      27059,
+      27060
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7085
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26579,
+    "itemId": 28786,
+    "modsterId": 7492,
+    "order": 0,
+    "parentsModsterId": [
+      7568,
+      7623,
+      7624,
+      7625,
+      7626
+    ],
+    "modsterActiveSpells": [
+      27061,
+      27062,
+      27063
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7086
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26580,
+    "itemId": 28787,
+    "modsterId": 7493,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      27064,
+      27065,
+      27066
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7087
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26581,
+    "itemId": 28788,
+    "modsterId": 7494,
+    "order": 0,
+    "parentsModsterId": [
+      7586,
+      7582,
+      7580,
+      7654,
+      7655,
+      7656,
+      7657,
+      7658,
+      7659,
+      7660,
+      7667,
+      7668
+    ],
+    "modsterActiveSpells": [
+      27067,
+      27068,
+      27069
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7088
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26582,
+    "itemId": 28789,
+    "modsterId": 7495,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      27070,
+      27071,
+      27072
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7089
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26583,
+    "itemId": 28790,
+    "modsterId": 7496,
+    "order": 0,
+    "parentsModsterId": [
+      7567,
+      7584,
+      7588,
+      7568,
+      7582,
+      7623,
+      7624,
+      7625,
+      7626,
+      7657,
+      7658,
+      7659,
+      7660,
+      7663,
+      7664,
+      7669
+    ],
+    "modsterActiveSpells": [
+      27073,
+      27074,
+      27075
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7090
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26584,
+    "itemId": 28791,
+    "modsterId": 7497,
+    "order": 0,
+    "parentsModsterId": [
+      7567
+    ],
+    "modsterActiveSpells": [
+      27076,
+      27077,
+      27078
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7091
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26585,
+    "itemId": 28792,
+    "modsterId": 7498,
+    "order": 0,
+    "parentsModsterId": [
+      7585,
+      7568,
+      7567,
+      7588,
+      7623,
+      7624,
+      7625,
+      7626,
+      7665,
+      7666,
+      7669
+    ],
+    "modsterActiveSpells": [
+      27079,
+      27080,
+      27081
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7092
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26586,
+    "itemId": 28793,
+    "modsterId": 7499,
+    "order": 0,
+    "parentsModsterId": [
+      7582,
+      7574,
+      7592,
+      7639,
+      7640,
+      7641,
+      7657,
+      7658,
+      7659,
+      7660,
+      7670,
+      7671
+    ],
+    "modsterActiveSpells": [
+      27082,
+      27083,
+      27084
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7093
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26587,
+    "itemId": 28794,
+    "modsterId": 7500,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      27085,
+      27086,
+      27087
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7094
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26588,
+    "itemId": 28795,
+    "modsterId": 7501,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      27088,
+      27089,
+      27090
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7095
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26589,
+    "itemId": 28796,
+    "modsterId": 7502,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      27091,
+      27092,
+      27093
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7096
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26590,
+    "itemId": 28797,
+    "modsterId": 7503,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      27094,
+      27095,
+      27096
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7097
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26591,
+    "itemId": 28798,
+    "modsterId": 7504,
+    "order": 0,
+    "parentsModsterId": [
+      7567,
+      7572,
+      7578,
+      7585,
+      7631,
+      7632,
+      7651,
+      7652,
+      7653,
+      7665,
+      7666
+    ],
+    "modsterActiveSpells": [
+      27097,
+      27098,
+      27099
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7098
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26592,
+    "itemId": 28799,
+    "modsterId": 7505,
+    "order": 0,
+    "parentsModsterId": [
+      7586,
+      7667,
+      7668
+    ],
+    "modsterActiveSpells": [
+      27100,
+      27101,
+      27102
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7099
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26593,
+    "itemId": 28800,
+    "modsterId": 7506,
+    "order": 0,
+    "parentsModsterId": [
+      7586,
+      7568,
+      7573,
+      7623,
+      7624,
+      7625,
+      7626,
+      7633,
+      7634,
+      7635,
+      7636,
+      7637,
+      7638,
+      7667,
+      7668
+    ],
+    "modsterActiveSpells": [
+      27103,
+      27104,
+      27105
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7100
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26594,
+    "itemId": 28801,
+    "modsterId": 7507,
+    "order": 0,
+    "parentsModsterId": [
+      7583,
+      7584,
+      7661,
+      7662,
+      7663,
+      7664
+    ],
+    "modsterActiveSpells": [
+      27106,
+      27107,
+      27108
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7101
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26595,
+    "itemId": 28802,
+    "modsterId": 7508,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      27109,
+      27110,
+      27111
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7102
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26596,
+    "itemId": 28803,
+    "modsterId": 7509,
+    "order": 0,
+    "parentsModsterId": [
+      7568,
+      7573,
+      7580,
+      7623,
+      7624,
+      7625,
+      7626,
+      7633,
+      7634,
+      7635,
+      7636,
+      7637,
+      7638,
+      7654,
+      7655,
+      7656
+    ],
+    "modsterActiveSpells": [
+      27112,
+      27113,
+      27114
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7103
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26597,
+    "itemId": 28804,
+    "modsterId": 7510,
+    "order": 0,
+    "parentsModsterId": [
+      7575,
+      7585,
+      7586,
+      7643,
+      7644,
+      7645,
+      7646,
+      7647,
+      7665,
+      7666,
+      7667,
+      7668
+    ],
+    "modsterActiveSpells": [
+      27115,
+      27116,
+      27117
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7104
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26598,
+    "itemId": 28805,
+    "modsterId": 7511,
+    "order": 0,
+    "parentsModsterId": [
+      7575,
+      7568,
+      7592,
+      7623,
+      7624,
+      7625,
+      7626,
+      7643,
+      7644,
+      7645,
+      7646,
+      7647,
+      7670,
+      7671
+    ],
+    "modsterActiveSpells": [
+      27118,
+      27119,
+      27120
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7105
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26599,
+    "itemId": 28806,
+    "modsterId": 7512,
+    "order": 0,
+    "parentsModsterId": [
+      7575,
+      7583,
+      7573,
+      7633,
+      7634,
+      7635,
+      7636,
+      7637,
+      7638,
+      7643,
+      7644,
+      7645,
+      7646,
+      7647,
+      7661,
+      7662
+    ],
+    "modsterActiveSpells": [
+      27121,
+      27122,
+      27123
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7106
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26600,
+    "itemId": 28807,
+    "modsterId": 7513,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      27124,
+      27125,
+      27126
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7107
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26601,
+    "itemId": 28808,
+    "modsterId": 7514,
+    "order": 0,
+    "parentsModsterId": [
+      7585,
+      7665,
+      7666
+    ],
+    "modsterActiveSpells": [
+      27127,
+      27128,
+      27129
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7108
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26602,
+    "itemId": 28809,
+    "modsterId": 7515,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      27130,
+      27131,
+      27132
+    ],
+    "modsterPassiveSpells": [
+      26450
+    ],
+    "modsterHiddenAchievements": [
+      7109
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26603,
+    "itemId": 28810,
+    "modsterId": 7516,
+    "order": 0,
+    "parentsModsterId": [
+      7575,
+      7582,
+      7573,
+      7633,
+      7634,
+      7635,
+      7636,
+      7637,
+      7638,
+      7643,
+      7644,
+      7645,
+      7646,
+      7647,
+      7657,
+      7658,
+      7659,
+      7660
+    ],
+    "modsterActiveSpells": [
+      27133,
+      27134,
+      27135
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7110
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26604,
+    "itemId": 28811,
+    "modsterId": 7517,
+    "order": 0,
+    "parentsModsterId": [
+      7568,
+      7584,
+      7592,
+      7623,
+      7624,
+      7625,
+      7626,
+      7663,
+      7664,
+      7670,
+      7671
+    ],
+    "modsterActiveSpells": [
+      27136,
+      27137,
+      27138
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7111
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26605,
+    "itemId": 28812,
+    "modsterId": 7518,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      27139,
+      27140,
+      27141
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7112
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26606,
+    "itemId": 28813,
+    "modsterId": 7519,
+    "order": 0,
+    "parentsModsterId": [
+      7574,
+      7583,
+      7580,
+      7639,
+      7640,
+      7641,
+      7654,
+      7655,
+      7656,
+      7661,
+      7662
+    ],
+    "modsterActiveSpells": [
+      27142,
+      27143,
+      27144
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7113
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26607,
+    "itemId": 28814,
+    "modsterId": 7520,
+    "order": 0,
+    "parentsModsterId": [
+      7586,
+      7585,
+      7665,
+      7666,
+      7667,
+      7668
+    ],
+    "modsterActiveSpells": [
+      27145,
+      27146,
+      27147
+    ],
+    "modsterPassiveSpells": [
+      26455
+    ],
+    "modsterHiddenAchievements": [
+      7114
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26608,
+    "itemId": 28815,
+    "modsterId": 7521,
+    "order": 0,
+    "parentsModsterId": [
+      7574,
+      7575,
+      7582,
+      7639,
+      7640,
+      7641,
+      7643,
+      7644,
+      7645,
+      7646,
+      7647,
+      7657,
+      7658,
+      7659,
+      7660
+    ],
+    "modsterActiveSpells": [
+      27148,
+      27149,
+      27150
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7115
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26609,
+    "itemId": 28816,
+    "modsterId": 7522,
+    "order": 0,
+    "parentsModsterId": [
+      7583,
+      7584,
+      7661,
+      7662,
+      7663,
+      7664
+    ],
+    "modsterActiveSpells": [
+      27151,
+      27152,
+      27153
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7116
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26610,
+    "itemId": 28817,
+    "modsterId": 7523,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      27154,
+      27155,
+      27156
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7117
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26611,
+    "itemId": 28818,
+    "modsterId": 7524,
+    "order": 0,
+    "parentsModsterId": [
+      7586,
+      7592,
+      7580,
+      7654,
+      7655,
+      7656,
+      7667,
+      7668,
+      7670,
+      7671
+    ],
+    "modsterActiveSpells": [
+      27157,
+      27158,
+      27159
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7118
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26612,
+    "itemId": 28819,
+    "modsterId": 7525,
+    "order": 0,
+    "parentsModsterId": [
+      7571,
+      7630
+    ],
+    "modsterActiveSpells": [
+      27160,
+      27161,
+      27162
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7119
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26613,
+    "itemId": 28820,
+    "modsterId": 7526,
+    "order": 0,
+    "parentsModsterId": [
+      7571,
+      7589,
+      7585,
+      7584,
+      7630,
+      7663,
+      7664,
+      7665,
+      7666
+    ],
+    "modsterActiveSpells": [
+      27163,
+      27164,
+      27165
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7120
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26614,
+    "itemId": 28821,
+    "modsterId": 7527,
+    "order": 0,
+    "parentsModsterId": [
+      7571,
+      7575,
+      7630,
+      7643,
+      7644,
+      7645,
+      7646,
+      7647
+    ],
+    "modsterActiveSpells": [
+      27166,
+      27167,
+      27168
+    ],
+    "modsterPassiveSpells": [
+      26462
+    ],
+    "modsterHiddenAchievements": [
+      7121
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26615,
+    "itemId": 28822,
+    "modsterId": 7528,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      27169,
+      27170,
+      27171
+    ],
+    "modsterPassiveSpells": [
+      26463
+    ],
+    "modsterHiddenAchievements": [
+      7122
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26616,
+    "itemId": 28823,
+    "modsterId": 7529,
+    "order": 0,
+    "parentsModsterId": [
+      7571,
+      7589,
+      7584,
+      7592,
+      7630,
+      7663,
+      7664,
+      7670,
+      7671
+    ],
+    "modsterActiveSpells": [
+      27172,
+      27173,
+      27174
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7123
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26617,
+    "itemId": 28824,
+    "modsterId": 7530,
+    "order": 0,
+    "parentsModsterId": [
+      7582,
+      7585,
+      7580,
+      7654,
+      7655,
+      7656,
+      7657,
+      7658,
+      7659,
+      7660,
+      7665,
+      7666
+    ],
+    "modsterActiveSpells": [
+      27175,
+      27176,
+      27177
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7124
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26618,
+    "itemId": 28825,
+    "modsterId": 7531,
+    "order": 0,
+    "parentsModsterId": [
+      7589,
+      7571,
+      7586,
+      7574,
+      7630,
+      7639,
+      7640,
+      7641,
+      7667,
+      7668
+    ],
+    "modsterActiveSpells": [
+      27178,
+      27179,
+      27180
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7125
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26619,
+    "itemId": 28826,
+    "modsterId": 7532,
+    "order": 0,
+    "parentsModsterId": [
+      7590,
+      7589
+    ],
+    "modsterActiveSpells": [
+      27181,
+      27182,
+      27183
+    ],
+    "modsterPassiveSpells": [
+      26467
+    ],
+    "modsterHiddenAchievements": [
+      7126
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26620,
+    "itemId": 28827,
+    "modsterId": 7533,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      27184,
+      27185,
+      27186
+    ],
+    "modsterPassiveSpells": [
+      26468
+    ],
+    "modsterHiddenAchievements": [
+      7127
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26621,
+    "itemId": 28828,
+    "modsterId": 7534,
+    "order": 0,
+    "parentsModsterId": [
+      7589
+    ],
+    "modsterActiveSpells": [
+      27187,
+      27188,
+      27189
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7128
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26622,
+    "itemId": 28829,
+    "modsterId": 7535,
+    "order": 0,
+    "parentsModsterId": [
+      7587,
+      7591
+    ],
+    "modsterActiveSpells": [
+      27190,
+      27191,
+      27192
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7129
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26623,
+    "itemId": 28830,
+    "modsterId": 7536,
+    "order": 0,
+    "parentsModsterId": [
+      7576,
+      7581,
+      7589,
+      7590,
+      7585,
+      7574,
+      7639,
+      7640,
+      7641,
+      7665,
+      7666
+    ],
+    "modsterActiveSpells": [
+      27193,
+      27194,
+      27195
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7130
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26624,
+    "itemId": 28831,
+    "modsterId": 7537,
+    "order": 0,
+    "parentsModsterId": [
+      7576,
+      7581
+    ],
+    "modsterActiveSpells": [
+      27196,
+      27197,
+      27198
+    ],
+    "modsterPassiveSpells": [
+      26472
+    ],
+    "modsterHiddenAchievements": [
+      7131
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26625,
+    "itemId": 28832,
+    "modsterId": 7538,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      27199,
+      27200,
+      27201
+    ],
+    "modsterPassiveSpells": [
+      26473
+    ],
+    "modsterHiddenAchievements": [
+      7132
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26626,
+    "itemId": 28833,
+    "modsterId": 7539,
+    "order": 0,
+    "parentsModsterId": [
+      7571,
+      7575,
+      7589,
+      7630,
+      7643,
+      7644,
+      7645,
+      7646,
+      7647
+    ],
+    "modsterActiveSpells": [
+      27202,
+      27203,
+      27204
+    ],
+    "modsterPassiveSpells": [
+      26474
+    ],
+    "modsterHiddenAchievements": [
+      7133
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26627,
+    "itemId": 28834,
+    "modsterId": 7540,
+    "order": 0,
+    "parentsModsterId": [
+      7587,
+      7589
+    ],
+    "modsterActiveSpells": [
+      27205,
+      27206,
+      27207
+    ],
+    "modsterPassiveSpells": [
+      26475
+    ],
+    "modsterHiddenAchievements": [
+      7134
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26628,
+    "itemId": 28835,
+    "modsterId": 7541,
+    "order": 0,
+    "parentsModsterId": [
+      7576,
+      7581,
+      7587,
+      7590,
+      7591
+    ],
+    "modsterActiveSpells": [
+      27208,
+      27209,
+      27210
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7135
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26629,
+    "itemId": 28836,
+    "modsterId": 7542,
+    "order": 0,
+    "parentsModsterId": [
+      7590,
+      7591
+    ],
+    "modsterActiveSpells": [
+      27211,
+      27212,
+      27213
+    ],
+    "modsterPassiveSpells": [
+      26477
+    ],
+    "modsterHiddenAchievements": [
+      7136
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26630,
+    "itemId": 28837,
+    "modsterId": 7543,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      27214,
+      27215,
+      27216
+    ],
+    "modsterPassiveSpells": [
+      26478
+    ],
+    "modsterHiddenAchievements": [
+      7137
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26631,
+    "itemId": 28838,
+    "modsterId": 7544,
+    "order": 0,
+    "parentsModsterId": [
+      7581,
+      7587,
+      7590,
+      7591,
+      7576,
+      7571,
+      7630
+    ],
+    "modsterActiveSpells": [
+      27217,
+      27218,
+      27219
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7138
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26632,
+    "itemId": 28839,
+    "modsterId": 7545,
+    "order": 0,
+    "parentsModsterId": [
+      7576,
+      7587,
+      7591,
+      7581
+    ],
+    "modsterActiveSpells": [
+      27220,
+      27221,
+      27222
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7139
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26633,
+    "itemId": 28840,
+    "modsterId": 7546,
+    "order": 0,
+    "parentsModsterId": [
+      7576,
+      7591
+    ],
+    "modsterActiveSpells": [
+      27223,
+      27224,
+      27225
+    ],
+    "modsterPassiveSpells": [
+      26481
+    ],
+    "modsterHiddenAchievements": [
+      7140
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26634,
+    "itemId": 28841,
+    "modsterId": 7547,
+    "order": 0,
+    "parentsModsterId": [
+      7581,
+      7590,
+      7587
+    ],
+    "modsterActiveSpells": [
+      27226,
+      27227,
+      27228
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7141
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26635,
+    "itemId": 28842,
+    "modsterId": 7548,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      27229,
+      27230,
+      27231
+    ],
+    "modsterPassiveSpells": [
+      26483
+    ],
+    "modsterHiddenAchievements": [
+      7142
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26636,
+    "itemId": 28843,
+    "modsterId": 7549,
+    "order": 0,
+    "parentsModsterId": [
+      7588,
+      7669
+    ],
+    "modsterActiveSpells": [
+      27232,
+      27233,
+      27234
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7143
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26637,
+    "itemId": 28844,
+    "modsterId": 7550,
+    "order": 0,
+    "parentsModsterId": [
+      7587
+    ],
+    "modsterActiveSpells": [
+      27235,
+      27236,
+      27237
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7144
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26638,
+    "itemId": 28845,
+    "modsterId": 7551,
+    "order": 0,
+    "parentsModsterId": [
+      7575,
+      7643,
+      7644,
+      7645,
+      7646,
+      7647
+    ],
+    "modsterActiveSpells": [
+      27238,
+      27239,
+      27240
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7145
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26639,
+    "itemId": 28846,
+    "modsterId": 7552,
+    "order": 0,
+    "parentsModsterId": [
+      7591
+    ],
+    "modsterActiveSpells": [
+      27241,
+      27242,
+      27243
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7146
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26640,
+    "itemId": 28847,
+    "modsterId": 7553,
+    "order": 0,
+    "parentsModsterId": [
+      7576
+    ],
+    "modsterActiveSpells": [
+      27244,
+      27245,
+      27246
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7147
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26641,
+    "itemId": 28848,
+    "modsterId": 7554,
+    "order": 0,
+    "parentsModsterId": [
+      7590
+    ],
+    "modsterActiveSpells": [
+      27247,
+      27248,
+      27249
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7148
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26642,
+    "itemId": 28849,
+    "modsterId": 7555,
+    "order": 0,
+    "parentsModsterId": [
+      7581
+    ],
+    "modsterActiveSpells": [
+      27250,
+      27251,
+      27252
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7149
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26493,
+    "itemId": 28700,
+    "modsterId": 7406,
+    "order": 0,
+    "parentsModsterId": [
+      7577,
+      7648,
+      7649,
+      7650
+    ],
+    "modsterActiveSpells": [
+      26803,
+      26804,
+      26805
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7000
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26494,
+    "itemId": 28701,
+    "modsterId": 7407,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      26806,
+      26807,
+      26808
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7001
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26495,
+    "itemId": 28702,
+    "modsterId": 7408,
+    "order": 0,
+    "parentsModsterId": [
+      7565,
+      7617,
+      7618
+    ],
+    "modsterActiveSpells": [
+      26809,
+      26810,
+      26811
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7002
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26496,
+    "itemId": 28703,
+    "modsterId": 7409,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      26812,
+      26813,
+      26814
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7003
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26497,
+    "itemId": 28704,
+    "modsterId": 7410,
+    "order": 0,
+    "parentsModsterId": [
+      7566,
+      7619,
+      7620,
+      7621,
+      7622
+    ],
+    "modsterActiveSpells": [
+      26815,
+      26816,
+      26817
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7004
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26498,
+    "itemId": 28705,
+    "modsterId": 7411,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      26818,
+      26819,
+      26820
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7005
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26499,
+    "itemId": 28706,
+    "modsterId": 7412,
+    "order": 0,
+    "parentsModsterId": [
+      7564,
+      7615,
+      7616
+    ],
+    "modsterActiveSpells": [
+      26821,
+      26822,
+      26823
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7006
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26500,
+    "itemId": 28707,
+    "modsterId": 7413,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      26824,
+      26825,
+      26826
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7007
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26501,
+    "itemId": 28708,
+    "modsterId": 7414,
+    "order": 0,
+    "parentsModsterId": [
+      7557,
+      7562,
+      7610,
+      7611,
+      7612,
+      7613
+    ],
+    "modsterActiveSpells": [
+      26827,
+      26828,
+      26829
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7008
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26502,
+    "itemId": 28709,
+    "modsterId": 7415,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      26830,
+      26831,
+      26832
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7009
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26503,
+    "itemId": 28710,
+    "modsterId": 7416,
+    "order": 0,
+    "parentsModsterId": [
+      7557
+    ],
+    "modsterActiveSpells": [
+      26833,
+      26834,
+      26835
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7010
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26504,
+    "itemId": 28711,
+    "modsterId": 7417,
+    "order": 0,
+    "parentsModsterId": [
+      7557,
+      7562,
+      7610,
+      7611,
+      7612,
+      7613
+    ],
+    "modsterActiveSpells": [
+      26836,
+      26837,
+      26838
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7011
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26505,
+    "itemId": 28712,
+    "modsterId": 7418,
+    "order": 0,
+    "parentsModsterId": [
+      7557,
+      7561,
+      7606,
+      7607,
+      7609
+    ],
+    "modsterActiveSpells": [
+      26839,
+      26840,
+      26841
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7012
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26506,
+    "itemId": 28713,
+    "modsterId": 7419,
+    "order": 0,
+    "parentsModsterId": [
+      7557,
+      7563,
+      7614
+    ],
+    "modsterActiveSpells": [
+      26842,
+      26843,
+      26844
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7013
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26507,
+    "itemId": 28714,
+    "modsterId": 7420,
+    "order": 0,
+    "parentsModsterId": [],
+    "modsterActiveSpells": [
+      26845,
+      26846,
+      26847
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7014
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26508,
+    "itemId": 28715,
+    "modsterId": 7421,
+    "order": 0,
+    "parentsModsterId": [
+      7557,
+      7562,
+      7610,
+      7611,
+      7612,
+      7613
+    ],
+    "modsterActiveSpells": [
+      26848,
+      26849,
+      26850
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7015
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26509,
+    "itemId": 28716,
+    "modsterId": 7422,
+    "order": 0,
+    "parentsModsterId": [
+      7557,
+      7561,
+      7606,
+      7607,
+      7609
+    ],
+    "modsterActiveSpells": [
+      26851,
+      26852,
+      26853
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7016
+    ],
+    "modsterAchievements": []
+  },
+  {
+    "id": 26510,
+    "itemId": 28717,
+    "modsterId": 7423,
+    "order": 0,
+    "parentsModsterId": [
+      7562,
+      7610,
+      7611,
+      7612,
+      7613
+    ],
+    "modsterActiveSpells": [
+      26854,
+      26855,
+      26856
+    ],
+    "modsterPassiveSpells": [],
+    "modsterHiddenAchievements": [
+      7017
+    ],
+    "modsterAchievements": []
+  }
+]

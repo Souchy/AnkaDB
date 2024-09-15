@@ -1,0 +1,416 @@
+[
+  {
+    "id": 1,
+    "titleId": "7473",
+    "messageId": "7474",
+    "iconId": 0,
+    "typeId": 1,
+    "trigger": "",
+    "cantBeClosed": false
+  },
+  {
+    "id": 2,
+    "titleId": "7441",
+    "messageId": "7442",
+    "iconId": 0,
+    "typeId": 1,
+    "trigger": "",
+    "cantBeClosed": false
+  },
+  {
+    "id": 3,
+    "titleId": "7465",
+    "messageId": "7466",
+    "iconId": 0,
+    "typeId": 1,
+    "trigger": "",
+    "cantBeClosed": false
+  },
+  {
+    "id": 4,
+    "titleId": "7457",
+    "messageId": "7458",
+    "iconId": 0,
+    "typeId": 1,
+    "trigger": "",
+    "cantBeClosed": false
+  },
+  {
+    "id": 5,
+    "titleId": "7447",
+    "messageId": "765248",
+    "iconId": 0,
+    "typeId": 1,
+    "trigger": "",
+    "cantBeClosed": false
+  },
+  {
+    "id": 6,
+    "titleId": "7475",
+    "messageId": "196404",
+    "iconId": 0,
+    "typeId": 1,
+    "trigger": "",
+    "cantBeClosed": false
+  },
+  {
+    "id": 7,
+    "titleId": "7437",
+    "messageId": "7438",
+    "iconId": 0,
+    "typeId": 1,
+    "trigger": "",
+    "cantBeClosed": false
+  },
+  {
+    "id": 8,
+    "titleId": "538575",
+    "messageId": "538571",
+    "iconId": 0,
+    "typeId": 1,
+    "trigger": "",
+    "cantBeClosed": false
+  },
+  {
+    "id": 9,
+    "titleId": "7461",
+    "messageId": "7462",
+    "iconId": 0,
+    "typeId": 1,
+    "trigger": "",
+    "cantBeClosed": false
+  },
+  {
+    "id": 10,
+    "titleId": "7489",
+    "messageId": "756779",
+    "iconId": 0,
+    "typeId": 1,
+    "trigger": "CharacterLevelUp",
+    "cantBeClosed": false
+  },
+  {
+    "id": 11,
+    "titleId": "7491",
+    "messageId": "732669",
+    "iconId": 0,
+    "typeId": 1,
+    "trigger": "PlayerNewSpell",
+    "cantBeClosed": false
+  },
+  {
+    "id": 12,
+    "titleId": "7485",
+    "messageId": "715406",
+    "iconId": 0,
+    "typeId": 1,
+    "trigger": "PlayerIsDead",
+    "cantBeClosed": false
+  },
+  {
+    "id": 13,
+    "titleId": "7487",
+    "messageId": "424501",
+    "iconId": 0,
+    "typeId": 1,
+    "trigger": "PlayerIsDead",
+    "cantBeClosed": false
+  },
+  {
+    "id": 14,
+    "titleId": "7483",
+    "messageId": "568687",
+    "iconId": 0,
+    "typeId": 1,
+    "trigger": "GameRolePlayPlayerLifeStatus,0:2",
+    "cantBeClosed": false
+  },
+  {
+    "id": 15,
+    "titleId": "7481",
+    "messageId": "7482",
+    "iconId": 0,
+    "typeId": 1,
+    "trigger": "",
+    "cantBeClosed": false
+  },
+  {
+    "id": 16,
+    "titleId": "7495",
+    "messageId": "7496",
+    "iconId": 0,
+    "typeId": 1,
+    "trigger": "",
+    "cantBeClosed": false
+  },
+  {
+    "id": 22,
+    "titleId": "7451",
+    "messageId": "7452",
+    "iconId": 0,
+    "typeId": 1,
+    "trigger": "CreaturesMode",
+    "cantBeClosed": false
+  },
+  {
+    "id": 23,
+    "titleId": "7435",
+    "messageId": "661455",
+    "iconId": 0,
+    "typeId": 1,
+    "trigger": "LifePointsRegenBegin",
+    "cantBeClosed": false
+  },
+  {
+    "id": 24,
+    "titleId": "7443",
+    "messageId": "7444",
+    "iconId": 0,
+    "typeId": 4,
+    "trigger": "",
+    "cantBeClosed": false
+  },
+  {
+    "id": 29,
+    "titleId": "7459",
+    "messageId": "7460",
+    "iconId": 0,
+    "typeId": 1,
+    "trigger": "OpenSmileys",
+    "cantBeClosed": false
+  },
+  {
+    "id": 30,
+    "titleId": "76674",
+    "messageId": "7472",
+    "iconId": 1,
+    "typeId": 4,
+    "trigger": "",
+    "cantBeClosed": false
+  },
+  {
+    "id": 33,
+    "titleId": "7479",
+    "messageId": "7480",
+    "iconId": 0,
+    "typeId": 4,
+    "trigger": "",
+    "cantBeClosed": false
+  },
+  {
+    "id": 34,
+    "titleId": "823595",
+    "messageId": "322123",
+    "iconId": 0,
+    "typeId": 4,
+    "trigger": "",
+    "cantBeClosed": false
+  },
+  {
+    "id": 36,
+    "titleId": "988546",
+    "messageId": "322121",
+    "iconId": 0,
+    "typeId": 4,
+    "trigger": "",
+    "cantBeClosed": false
+  },
+  {
+    "id": 37,
+    "titleId": "756273",
+    "messageId": "756274",
+    "iconId": 4,
+    "typeId": 4,
+    "trigger": "",
+    "cantBeClosed": false
+  },
+  {
+    "id": 41,
+    "titleId": "1092063",
+    "messageId": "1100604",
+    "iconId": 0,
+    "typeId": 9,
+    "trigger": "",
+    "cantBeClosed": true
+  },
+  {
+    "id": 42,
+    "titleId": "1092064",
+    "messageId": "1091739",
+    "iconId": 0,
+    "typeId": 9,
+    "trigger": "",
+    "cantBeClosed": true
+  },
+  {
+    "id": 43,
+    "titleId": "1092065",
+    "messageId": "1091740",
+    "iconId": 0,
+    "typeId": 9,
+    "trigger": "",
+    "cantBeClosed": true
+  },
+  {
+    "id": 44,
+    "titleId": "1092066",
+    "messageId": "1091742",
+    "iconId": 0,
+    "typeId": 9,
+    "trigger": "",
+    "cantBeClosed": true
+  },
+  {
+    "id": 45,
+    "titleId": "1092067",
+    "messageId": "1101476",
+    "iconId": 0,
+    "typeId": 9,
+    "trigger": "",
+    "cantBeClosed": true
+  },
+  {
+    "id": 46,
+    "titleId": "1092068",
+    "messageId": "1101472",
+    "iconId": 0,
+    "typeId": 9,
+    "trigger": "",
+    "cantBeClosed": true
+  },
+  {
+    "id": 47,
+    "titleId": "1092069",
+    "messageId": "1091745",
+    "iconId": 0,
+    "typeId": 9,
+    "trigger": "",
+    "cantBeClosed": true
+  },
+  {
+    "id": 48,
+    "titleId": "1092070",
+    "messageId": "1101510",
+    "iconId": 0,
+    "typeId": 9,
+    "trigger": "",
+    "cantBeClosed": true
+  },
+  {
+    "id": 49,
+    "titleId": "1092071",
+    "messageId": "1091747",
+    "iconId": 0,
+    "typeId": 9,
+    "trigger": "",
+    "cantBeClosed": true
+  },
+  {
+    "id": 50,
+    "titleId": "1092072",
+    "messageId": "1091748",
+    "iconId": 0,
+    "typeId": 9,
+    "trigger": "",
+    "cantBeClosed": true
+  },
+  {
+    "id": 51,
+    "titleId": "1101512",
+    "messageId": "1101511",
+    "iconId": 0,
+    "typeId": 9,
+    "trigger": "",
+    "cantBeClosed": true
+  },
+  {
+    "id": 52,
+    "titleId": "1092074",
+    "messageId": "1091750",
+    "iconId": 0,
+    "typeId": 9,
+    "trigger": "",
+    "cantBeClosed": true
+  },
+  {
+    "id": 53,
+    "titleId": "1092075",
+    "messageId": "1101468",
+    "iconId": 0,
+    "typeId": 9,
+    "trigger": "",
+    "cantBeClosed": true
+  },
+  {
+    "id": 54,
+    "titleId": "1092076",
+    "messageId": "1091752",
+    "iconId": 0,
+    "typeId": 9,
+    "trigger": "",
+    "cantBeClosed": true
+  },
+  {
+    "id": 55,
+    "titleId": "1092077",
+    "messageId": "1091753",
+    "iconId": 0,
+    "typeId": 9,
+    "trigger": "",
+    "cantBeClosed": true
+  },
+  {
+    "id": 56,
+    "titleId": "1092078",
+    "messageId": "1101536",
+    "iconId": 0,
+    "typeId": 9,
+    "trigger": "",
+    "cantBeClosed": true
+  },
+  {
+    "id": 57,
+    "titleId": "1092079",
+    "messageId": "1091755",
+    "iconId": 0,
+    "typeId": 9,
+    "trigger": "",
+    "cantBeClosed": true
+  },
+  {
+    "id": 58,
+    "titleId": "1100637",
+    "messageId": "1091756",
+    "iconId": 0,
+    "typeId": 9,
+    "trigger": "",
+    "cantBeClosed": true
+  },
+  {
+    "id": 59,
+    "titleId": "1092081",
+    "messageId": "1101471",
+    "iconId": 0,
+    "typeId": 9,
+    "trigger": "",
+    "cantBeClosed": true
+  },
+  {
+    "id": 60,
+    "titleId": "1092082",
+    "messageId": "1091758",
+    "iconId": 0,
+    "typeId": 9,
+    "trigger": "",
+    "cantBeClosed": true
+  },
+  {
+    "id": 61,
+    "titleId": "1092083",
+    "messageId": "1101475",
+    "iconId": 0,
+    "typeId": 9,
+    "trigger": "",
+    "cantBeClosed": true
+  }
+]

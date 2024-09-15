@@ -1,0 +1,266 @@
+[
+  {
+    "id": 32,
+    "categoryName": "Pers\u00E9v\u00E9rance de la L\u00E9olhy\u00E8ne",
+    "categoryOverridable": true,
+    "categorySpells": [
+      29821
+    ]
+  },
+  {
+    "id": 18,
+    "categoryName": "Toile de l\u0027Arakne",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12480
+    ]
+  },
+  {
+    "id": 13,
+    "categoryName": "Robustesse du Craqueleur",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12489
+    ]
+  },
+  {
+    "id": 26,
+    "categoryName": "Empathie de la Boursoin",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12506
+    ]
+  },
+  {
+    "id": 12,
+    "categoryName": "Protection de la Krokille",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12490
+    ]
+  },
+  {
+    "id": 14,
+    "categoryName": "\u00C9corce de l\u0027Abraknyde",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12498
+    ]
+  },
+  {
+    "id": 20,
+    "categoryName": "\u00C9vasion du Kitsou",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12479
+    ]
+  },
+  {
+    "id": 3,
+    "categoryName": "Rage du Mulou",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12486
+    ]
+  },
+  {
+    "id": 8,
+    "categoryName": "Douceur de la Boufette",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12488
+    ]
+  },
+  {
+    "id": 24,
+    "categoryName": "Acuit\u00E9 du Noeul",
+    "categoryOverridable": true,
+    "categorySpells": [
+      23153
+    ]
+  },
+  {
+    "id": 31,
+    "categoryName": "Patience du Thomondor",
+    "categoryOverridable": true,
+    "categorySpells": [
+      29820
+    ]
+  },
+  {
+    "id": 5,
+    "categoryName": "Brutalit\u00E9 du Trool",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12484
+    ]
+  },
+  {
+    "id": 23,
+    "categoryName": "Appel du Pandore",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12501
+    ]
+  },
+  {
+    "id": 33,
+    "categoryName": "S\u00E9r\u00E9nit\u00E9 du Bambouto",
+    "categoryOverridable": true,
+    "categorySpells": [
+      29822
+    ]
+  },
+  {
+    "id": 35,
+    "categoryName": "Piquant du Prespic",
+    "categoryOverridable": true,
+    "categorySpells": [
+      29824
+    ]
+  },
+  {
+    "id": 15,
+    "categoryName": "D\u00E9vouement de la Domoizelle",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12503
+    ]
+  },
+  {
+    "id": 22,
+    "categoryName": "Toxicit\u00E9 du Scorbute",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12505
+    ]
+  },
+  {
+    "id": 4,
+    "categoryName": "Soif du Moskito",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12482
+    ]
+  },
+  {
+    "id": 28,
+    "categoryName": "Entrave du Dragoeuf",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12502
+    ]
+  },
+  {
+    "id": 21,
+    "categoryName": "Agitation du Kozaru",
+    "categoryOverridable": true,
+    "categorySpells": [
+      23152
+    ]
+  },
+  {
+    "id": 11,
+    "categoryName": "Immortalit\u00E9 du Chafer",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12497
+    ]
+  },
+  {
+    "id": 25,
+    "categoryName": "Altruisme du Champa",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12499
+    ]
+  },
+  {
+    "id": 17,
+    "categoryName": "Hyst\u00E9rie de la Truche",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12481
+    ]
+  },
+  {
+    "id": 27,
+    "categoryName": "Bienveillance de la Tofoune",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12500
+    ]
+  },
+  {
+    "id": 6,
+    "categoryName": "Barbarie du Kanig",
+    "categoryOverridable": true,
+    "categorySpells": [
+      23151
+    ]
+  },
+  {
+    "id": 16,
+    "categoryName": "C\u00E9l\u00E9rit\u00E9 du Piou",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12475
+    ]
+  },
+  {
+    "id": 29,
+    "categoryName": "G\u00E9n\u00E9rosit\u00E9 du Bwak",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12487
+    ]
+  },
+  {
+    "id": 34,
+    "categoryName": "R\u00E9confort du Timansot",
+    "categoryOverridable": true,
+    "categorySpells": [
+      29823
+    ]
+  },
+  {
+    "id": 1,
+    "categoryName": "Pr\u00E9cision du Bwork",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12485
+    ]
+  },
+  {
+    "id": 19,
+    "categoryName": "\u00C9pargne du Koalak",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12477
+    ]
+  },
+  {
+    "id": 9,
+    "categoryName": "Gourmandise du Gloutoblop",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12492
+    ]
+  },
+  {
+    "id": 2,
+    "categoryName": "Impatience du Wabbit",
+    "categoryOverridable": true,
+    "categorySpells": [
+      12483
+    ]
+  },
+  {
+    "id": 30,
+    "categoryName": "Carapace du Scarafeuille",
+    "categoryOverridable": true,
+    "categorySpells": [
+      29819
+    ]
+  }
+]
