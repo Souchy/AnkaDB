@@ -1,0 +1,5 @@
+{
+  "BepInExVersion": "6.0.0-be.697+5362580",
+  "GameVersion": "2.73.45.43",
+  "GameBuildId": "d051121221774dd495318f324c39c17b"
+}
