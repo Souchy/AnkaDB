@@ -21125,6 +21125,11 @@
     "m_lastUpdatedVersion": 0
   },
   {
+    "rawParams": "targetGfxId:2633",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
     "rawParams": "animId:0",
     "type": 1,
     "m_lastUpdatedVersion": 0
@@ -35885,7 +35890,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:0,targetGfxId:20907,targetGfxDisplayType:0,targetGfxDisplayType2:0,casterGfxDisplayType:0",
+    "rawParams": "animId:0,targetGfxId:20802,targetGfxDisplayType:2",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -56945,33 +56950,33 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "targetGfxId:7592",
-    "type": 1,
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7592,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.3,\u0022scaleY\u0022:1.3}]}]}}",
+    "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "targetGfxId:7589",
-    "type": 1,
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7589,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.3,\u0022scaleY\u0022:1.3}]}]}}",
+    "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "targetGfxId:7590",
-    "type": 1,
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7590,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.3,\u0022scaleY\u0022:1.3}]}]}}",
+    "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "targetGfxId:7591",
-    "type": 1,
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7591,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.3,\u0022scaleY\u0022:1.3}]}]}}",
+    "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "targetGfxId:7593",
-    "type": 1,
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7593,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.3,\u0022scaleY\u0022:1.3}]}]}}",
+    "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "targetGfxId:7594",
-    "type": 1,
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7594,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.3,\u0022scaleY\u0022:1.3}]}]}}",
+    "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
@@ -60825,8 +60830,8 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque602\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:8995,\u0022directionType\u0022:\u0022oriented\u0022,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8995,\u0022directionType\u0022:\u0022oriented\u0022,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]}]}}",
-    "type": 9,
+    "rawParams": "animId:602,targetGfxId:8995,targetGfxDisplayType:2",
+    "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
@@ -60900,8 +60905,8 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque602\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:7941,\u0022directionType\u0022:\u0022oriented\u0022,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7941,\u0022directionType\u0022:\u0022oriented\u0022,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]}]}}",
-    "type": 9,
+    "rawParams": "animId:602,targetGfxId:7941,targetGfxDisplayType:2",
+    "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
@@ -61480,7 +61485,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:808,targetGfxId:8064,targetGfxDisplayType:2",
+    "rawParams": "animId:814,targetGfxId:8064,targetGfxDisplayType:2",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -61490,7 +61495,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:800,targetGfxId:8041",
+    "rawParams": "animId:814,targetGfxId:8041",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -61505,7 +61510,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:800,targetGfxId:8040",
+    "rawParams": "animId:814,targetGfxId:8040",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -61515,7 +61520,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:802,targetGfxId:8046",
+    "rawParams": "animId:802,targetGfxId:8043",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -61525,7 +61530,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:806,targetGfxId:8055,targetGfxId2:8056,targetGfxShowUnder2:1",
+    "rawParams": "animId:814,targetGfxId:8055,targetGfxId2:8056,targetGfxShowUnder2:1",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -61650,12 +61655,12 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:809",
+    "rawParams": "animId:809,targetGfxId:9138,targetGfxDisplayType:2",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:804,targetGfxId:8067,targetGfxDisplayType:2",
+    "rawParams": "animId:814,targetGfxId:8067,targetGfxDisplayType:2",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -61670,7 +61675,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:810",
+    "rawParams": "animId:810,targetGfxId:9138,targetGfxDisplayType:2",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -61845,7 +61850,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "targetGfxId:7988",
+    "rawParams": "targetGfxId:9167",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -61870,7 +61875,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "targetGfxId:7990,targetGfxDisplayType:2",
+    "rawParams": "targetGfxId:9168",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -61955,7 +61960,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "targetGfxId:8004",
+    "rawParams": "targetGfxId:9166",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -61970,7 +61975,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1509,targetGfxId:7698",
+    "rawParams": "animId:1509,targetGfxId:7716",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -62075,7 +62080,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1501",
+    "rawParams": "targetGfxId:9174",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -62155,7 +62160,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "targetGfxId:7697",
+    "rawParams": "targetGfxId:9173",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -62575,12 +62580,12 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:507",
+    "rawParams": "animId:515",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:507",
+    "rawParams": "animId:515",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -62715,7 +62720,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque502\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:8136,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8136,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque509\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:8136,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8136,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]}]}}",
     "type": 9,
     "m_lastUpdatedVersion": 0
   },
@@ -63740,7 +63745,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1302",
+    "rawParams": "animId:1302,targetGfxId:8290",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -64075,8 +64080,8 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1110,targetGfxId:8350",
-    "type": 1,
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1110\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:8396,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:8397,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8350,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
@@ -64235,8 +64240,8 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1101,targetGfxId:8373,targetGfxId2:8372,targetGfxShowUnder2:1",
-    "type": 1,
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1101\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8373,\u0022isOriented\u0022:false,\u0022scaleY\u0022:0.7}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8372,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
@@ -64490,7 +64495,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8435,\u0022isOriented\u0022:false}]}]}}",
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9154,\u0022isOriented\u0022:false}]}]}}",
     "type": 9,
     "m_lastUpdatedVersion": 0
   },
@@ -65735,7 +65740,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1204,targetGfxId:8600,targetGfxDisplayType:2,targetGfxId2:8599,targetGfxDisplayType2:2",
+    "rawParams": "animId:1200,targetGfxId:8600,targetGfxDisplayType:2,targetGfxId2:8599,targetGfxDisplayType2:2",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -66055,7 +66060,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1724,targetGfxId:8744",
+    "rawParams": "animId:1706,targetGfxId:8744",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -67240,8 +67245,8 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7131,\u0022isOriented\u0022:false,\u0022scaleX\u0022:0.7,\u0022scaleY\u0022:0.7}]}]}}",
-    "type": 9,
+    "rawParams": "targetGfxId:7131",
+    "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
@@ -67310,7 +67315,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022trail\u0022,\u0022gfxId\u0022:8970,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isFromCaster\u0022:true,\u0022isToTarget\u0022:true}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:8969,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8969,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.5,\u0022scaleY\u0022:1.5}]}]}}",
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022trail\u0022,\u0022gfxId\u0022:8970,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isFromCaster\u0022:true,\u0022isToTarget\u0022:true}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:8969,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9161,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]}]}}",
     "type": 9,
     "m_lastUpdatedVersion": 0
   },
@@ -67350,8 +67355,8 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "",
-    "type": 1,
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9160,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false,\u0022offsetY\u0022:-10,\u0022scaleX\u0022:2,\u0022scaleY\u0022:2},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9159,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
@@ -67425,8 +67430,8 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7290,\u0022isOriented\u0022:false,\u0022scaleX\u0022:0.8,\u0022scaleY\u0022:0.8}]}]}}",
-    "type": 9,
+    "rawParams": "targetGfxId:7290",
+    "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
@@ -67510,7 +67515,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "",
+    "rawParams": "targetGfxId:9162",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -67675,7 +67680,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1",
+    "rawParams": "animId:1,targetGfxId:9026",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -67685,7 +67690,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "",
+    "rawParams": "targetGfxId:7802,targetGfxShowUnder:1,targetGfxId2:7801",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -67695,7 +67700,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "targetGfxId:9027",
+    "rawParams": "targetGfxId:7785",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -67705,7 +67710,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:0",
+    "rawParams": "animId:0,targetGfxId:7775",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -67720,8 +67725,8 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:2,targetGfxId:9013,targetGfxId2:9014,targetGfxShowUnder2:1",
-    "type": 1,
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9014,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9013,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
@@ -67735,8 +67740,8 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:2",
-    "type": 1,
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9014,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9013,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
@@ -67750,7 +67755,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "",
+    "rawParams": "targetGfxId:9146,targetGfxShowUnder:1",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -67760,7 +67765,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:2",
+    "rawParams": "targetGfxId:9149",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -67780,7 +67785,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:6",
+    "rawParams": "targetGfxId:9147,targetGfxShowUnder:1",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -67820,17 +67825,17 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1000",
+    "rawParams": "animId:1000,targetGfxId:7775",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1003",
+    "rawParams": "animId:1003,targetGfxId:7775",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1002",
+    "rawParams": "animId:1002,targetGfxId:7775",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -67905,23 +67910,23 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1001,targetGfxId:7797,targetGfxId2:7798,targetGfxShowUnder2:1",
+    "rawParams": "animId:1001,targetGfxId:7798,targetGfxShowUnder:1,targetGfxId2:7797",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1002",
+    "rawParams": "animId:1003",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1003,targetGfxId:7861",
-    "type": 1,
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7861,\u0022isOriented\u0022:false,\u0022scaleX\u0022:0.8,\u0022scaleY\u0022:0.8}]}]}}",
+    "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "targetGfxId:7793",
-    "type": 1,
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7862,\u0022isOriented\u0022:false,\u0022scaleX\u0022:0.8,\u0022scaleY\u0022:0.8}]}]}}",
+    "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
@@ -67970,7 +67975,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1002,targetGfxId:7800",
+    "rawParams": "animId:1002,targetGfxId:7800,targetGfxDisplayType:2",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -68005,7 +68010,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1003",
+    "rawParams": "animId:1003,targetGfxId:7809",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -68105,12 +68110,12 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1000",
+    "rawParams": "animId:1000,targetGfxId:9021",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1000,targetGfxId:9021",
+    "rawParams": "targetGfxId:9021",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -68145,7 +68150,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1213",
+    "rawParams": "animId:1215",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -68155,7 +68160,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1213",
+    "rawParams": "animId:1215",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -68215,7 +68220,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "targetGfxId:7699",
+    "rawParams": "targetGfxId:9175",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -68440,12 +68445,12 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1412",
+    "rawParams": "animId:1400",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1400",
+    "rawParams": "animId:1401",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -68465,7 +68470,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1401",
+    "rawParams": "animId:1402",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -68490,7 +68495,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1403",
+    "rawParams": "animId:1411",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -68535,12 +68540,12 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1403,targetGfxId:7420",
+    "rawParams": "animId:1411",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1403,targetGfxId:7420",
+    "rawParams": "animId:1413,targetGfxId:7420",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -68560,12 +68565,12 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1403,targetGfxId:7405,targetGfxDisplayType:2",
+    "rawParams": "animId:1411",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1403,targetGfxId:7405,targetGfxDisplayType:2",
+    "rawParams": "animId:1413,targetGfxId:7405,targetGfxDisplayType:2",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -68575,12 +68580,12 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1412",
+    "rawParams": "animId:1400",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1400",
+    "rawParams": "animId:1401",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -68595,7 +68600,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1401",
+    "rawParams": "animId:1402",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -68715,13 +68720,13 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1407",
+    "rawParams": "animId:1407,targetGfxId:8829",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "targetGfxId:8829",
-    "type": 1,
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8829,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
@@ -69555,8 +69560,58 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "",
-    "type": 1,
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimArme6\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimArme19\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimArme8\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimArme271\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimArme2\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimArme3\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimArme7\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimArme22\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimArme4\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimArme5\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimArme0\u0022}]}]}}",
+    "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
@@ -69565,63 +69620,13 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "",
-    "type": 1,
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimArme21\u0022}]}]}}",
+    "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "",
-    "type": 1,
-    "m_lastUpdatedVersion": 0
-  },
-  {
-    "rawParams": "",
-    "type": 1,
-    "m_lastUpdatedVersion": 0
-  },
-  {
-    "rawParams": "",
-    "type": 1,
-    "m_lastUpdatedVersion": 0
-  },
-  {
-    "rawParams": "",
-    "type": 1,
-    "m_lastUpdatedVersion": 0
-  },
-  {
-    "rawParams": "",
-    "type": 1,
-    "m_lastUpdatedVersion": 0
-  },
-  {
-    "rawParams": "",
-    "type": 1,
-    "m_lastUpdatedVersion": 0
-  },
-  {
-    "rawParams": "",
-    "type": 1,
-    "m_lastUpdatedVersion": 0
-  },
-  {
-    "rawParams": "",
-    "type": 1,
-    "m_lastUpdatedVersion": 0
-  },
-  {
-    "rawParams": "",
-    "type": 1,
-    "m_lastUpdatedVersion": 0
-  },
-  {
-    "rawParams": "",
-    "type": 1,
-    "m_lastUpdatedVersion": 0
-  },
-  {
-    "rawParams": "",
-    "type": 1,
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimArme20\u0022}]}]}}",
+    "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
@@ -70070,8 +70075,8 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:0,targetGfxId:8886,targetGfxShowUnder:1",
-    "type": 1,
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8886,\u0022isOriented\u0022:false,\u0022scaleX\u0022:0.7,\u0022scaleY\u0022:0.7}]}]}}",
+    "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
@@ -70590,17 +70595,17 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "",
+    "rawParams": "targetGfxId:9148,targetGfxShowUnder:1",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "",
+    "rawParams": "targetGfxId:9150,targetGfxShowUnder:1",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "",
+    "rawParams": "targetGfxId:9151,targetGfxShowUnder:1",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -70775,7 +70780,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "",
+    "rawParams": "animId:988",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -71000,8 +71005,8 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7131,\u0022isOriented\u0022:false,\u0022scaleX\u0022:0.5,\u0022scaleY\u0022:0.5}]}]}}",
-    "type": 9,
+    "rawParams": "targetGfxId:9164",
+    "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
@@ -71035,7 +71040,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1403",
+    "rawParams": "animId:1412",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -71100,6 +71105,51 @@
     "m_lastUpdatedVersion": 0
   },
   {
+    "rawParams": "animId:16,targetGfxId:8983",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "casterGfxId:20510",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "casterGfxId:20904",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "casterGfxId:4120",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "casterGfxId:3986",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "casterGfxId:3859",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:0,casterGfxId:3699",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:6,casterGfxId:4704",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:4,casterGfxId:8225",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
     "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque104\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:8256,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8256,\u0022isOriented\u0022:false}]}]}}",
     "type": 9,
     "m_lastUpdatedVersion": 0
@@ -71120,6 +71170,26 @@
     "m_lastUpdatedVersion": 0
   },
   {
+    "rawParams": "animId:0",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:0",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:0",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
     "rawParams": "animId:420",
     "type": 1,
     "m_lastUpdatedVersion": 0
@@ -71135,8 +71205,28 @@
     "m_lastUpdatedVersion": 0
   },
   {
+    "rawParams": "animId:18,targetGfxId:20709",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:26,targetGfxId:2160",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
     "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8123,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false,\u0022scaleX\u0022:0.6,\u0022scaleY\u0022:0.6}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8124,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false,\u0022scaleX\u0022:0.6,\u0022scaleY\u0022:0.6}]}]}}",
     "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:13,targetGfxId:5574",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:7",
+    "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
@@ -71160,18 +71250,68 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8886,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false,\u0022scaleX\u0022:0.5,\u0022scaleY\u0022:0.5}]}]}}",
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8886,\u0022isOriented\u0022:false,\u0022scaleX\u0022:0.7,\u0022scaleY\u0022:0.7}]}]}}",
     "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8129,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.4,\u0022scaleY\u0022:1.4}]}]}}",
+    "rawParams": "animId:0,targetGfxId:8566,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:0,targetGfxId:8214,targetGfxId2:8215,targetGfxShowUnder2:1",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7775,\u0022isOriented\u0022:false}]}]}}",
     "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8118,\u0022isOriented\u0022:false,\u0022offsetY\u0022:-2}]}]}}",
+    "rawParams": "targetGfxOriented:1",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8129,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.6,\u0022scaleY\u0022:1.6}]}]}}",
     "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8118,\u0022isOriented\u0022:false,\u0022scaleX\u0022:0.6,\u0022scaleY\u0022:0.6}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "targetGfxId:8735",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "targetGfxId:9163,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "targetGfxId:9169",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "targetGfxId:9170",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "targetGfxId:9172",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "targetGfxId:9171",
+    "type": 1,
     "m_lastUpdatedVersion": 0
   }
 ]

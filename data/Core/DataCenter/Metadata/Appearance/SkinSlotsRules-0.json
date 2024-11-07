@@ -116441,6 +116441,34 @@
       },
       {
         "slotRuleType": 3,
+        "slotRuleInfo": 2165,
+        "slotsRules": [
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 3,
+        "slotRuleInfo": 2169,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 3,
+        "slotRuleInfo": 2170,
+        "slotsRules": [
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 3,
         "slotRuleInfo": 2244,
         "slotsRules": [
           {}

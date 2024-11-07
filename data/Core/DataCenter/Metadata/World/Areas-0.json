@@ -6,10 +6,10 @@
     "containHouses": true,
     "containPaddocks": true,
     "bounds": {
-      "x": -47,
-      "y": -70,
-      "width": 63,
-      "height": 104
+      "x": -24,
+      "y": -13,
+      "width": 40,
+      "height": 47
     },
     "worldmapId": 0,
     "hasWorldMap": false,
@@ -918,10 +918,10 @@
     "containHouses": false,
     "containPaddocks": false,
     "bounds": {
-      "x": 0,
-      "y": -3,
-      "width": 4,
-      "height": 4
+      "x": -13,
+      "y": -29,
+      "width": 17,
+      "height": 30
     },
     "worldmapId": 19,
     "hasWorldMap": true,
@@ -1002,6 +1002,22 @@
       "y": -29,
       "width": 31,
       "height": 41
+    },
+    "worldmapId": 0,
+    "hasWorldMap": false,
+    "hasSuggestion": true
+  },
+  {
+    "id": 95,
+    "nameId": 1105383,
+    "superAreaId": 0,
+    "containHouses": false,
+    "containPaddocks": false,
+    "bounds": {
+      "x": -47,
+      "y": -70,
+      "width": 48,
+      "height": 71
     },
     "worldmapId": 0,
     "hasWorldMap": false,

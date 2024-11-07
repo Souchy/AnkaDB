@@ -1,44 +1,16 @@
 [
   {
     "id": 10,
-    "choiceNameId": 1102039,
+    "choiceNameId": 1102695,
     "duration": 45,
     "proposalCount": 2,
     "options": [
-      {
-        "id": 126,
-        "descriptionId": 1097739,
-        "rewardType": 5,
-        "rewardValue": 80634,
-        "gfxId": 11
-      },
       {
         "id": 204,
         "descriptionId": 1098639,
         "rewardType": 0,
         "rewardValue": 80843,
         "gfxId": 10
-      },
-      {
-        "id": 138,
-        "descriptionId": 1097729,
-        "rewardType": 5,
-        "rewardValue": 80647,
-        "gfxId": 11
-      },
-      {
-        "id": 123,
-        "descriptionId": 1097727,
-        "rewardType": 5,
-        "rewardValue": 80630,
-        "gfxId": 11
-      },
-      {
-        "id": 137,
-        "descriptionId": 1097728,
-        "rewardType": 5,
-        "rewardValue": 80646,
-        "gfxId": 11
       },
       {
         "id": 179,
@@ -139,6 +111,41 @@
         "gfxId": 11
       },
       {
+        "id": 126,
+        "descriptionId": 1097739,
+        "rewardType": 5,
+        "rewardValue": 80634,
+        "gfxId": 11
+      },
+      {
+        "id": 127,
+        "descriptionId": 1097740,
+        "rewardType": 5,
+        "rewardValue": 80635,
+        "gfxId": 11
+      },
+      {
+        "id": 138,
+        "descriptionId": 1097729,
+        "rewardType": 5,
+        "rewardValue": 80647,
+        "gfxId": 11
+      },
+      {
+        "id": 123,
+        "descriptionId": 1097727,
+        "rewardType": 5,
+        "rewardValue": 80630,
+        "gfxId": 11
+      },
+      {
+        "id": 137,
+        "descriptionId": 1097728,
+        "rewardType": 5,
+        "rewardValue": 80646,
+        "gfxId": 11
+      },
+      {
         "id": 141,
         "descriptionId": 1097732,
         "rewardType": 5,
@@ -206,13 +213,6 @@
         "descriptionId": 1097747,
         "rewardType": 5,
         "rewardValue": 80645,
-        "gfxId": 11
-      },
-      {
-        "id": 127,
-        "descriptionId": 1097740,
-        "rewardType": 5,
-        "rewardValue": 80635,
         "gfxId": 11
       },
       {
@@ -289,7 +289,7 @@
   },
   {
     "id": 11,
-    "choiceNameId": 1102031,
+    "choiceNameId": 1102651,
     "duration": 60,
     "proposalCount": 2,
     "options": [
@@ -325,7 +325,7 @@
   },
   {
     "id": 12,
-    "choiceNameId": 1102032,
+    "choiceNameId": 1102652,
     "duration": 60,
     "proposalCount": 2,
     "options": [
@@ -361,7 +361,7 @@
   },
   {
     "id": 13,
-    "choiceNameId": 1102033,
+    "choiceNameId": 1102653,
     "duration": 60,
     "proposalCount": 2,
     "options": [
@@ -397,7 +397,7 @@
   },
   {
     "id": 14,
-    "choiceNameId": 1102034,
+    "choiceNameId": 1102654,
     "duration": 60,
     "proposalCount": 2,
     "options": [
@@ -433,13 +433,13 @@
   },
   {
     "id": 15,
-    "choiceNameId": 1102035,
+    "choiceNameId": 1102655,
     "duration": 60,
     "proposalCount": 2,
     "options": [
       {
         "id": 160,
-        "descriptionId": 1102027,
+        "descriptionId": 1102677,
         "rewardType": 5,
         "rewardValue": 80689,
         "gfxId": 24
@@ -498,7 +498,7 @@
   },
   {
     "id": 17,
-    "choiceNameId": 1102040,
+    "choiceNameId": 1102696,
     "duration": 30,
     "proposalCount": 3,
     "options": [
@@ -615,18 +615,18 @@
         "gfxId": 16
       },
       {
-        "id": 186,
-        "descriptionId": 1097440,
-        "rewardType": 5,
-        "rewardValue": 80891,
-        "gfxId": 15
-      },
-      {
         "id": 196,
         "descriptionId": 1100426,
         "rewardType": 5,
         "rewardValue": 80888,
         "gfxId": 21
+      },
+      {
+        "id": 186,
+        "descriptionId": 1097440,
+        "rewardType": 5,
+        "rewardValue": 80885,
+        "gfxId": 15
       }
     ]
   }

@@ -230,9 +230,9 @@
       5319189,
       5984835
     ],
-    "spawnMap": 153092354,
+    "spawnMap": 153093378,
     "complexity": 2,
-    "sortIndex": 10
+    "sortIndex": 6
   },
   {
     "id": 2,
@@ -465,9 +465,9 @@
       16755757,
       12495223
     ],
-    "spawnMap": 153092354,
-    "complexity": 2,
-    "sortIndex": 5
+    "spawnMap": 153093378,
+    "complexity": 4,
+    "sortIndex": 13
   },
   {
     "id": 3,
@@ -700,7 +700,7 @@
       7814953,
       15588265
     ],
-    "spawnMap": 153092354,
+    "spawnMap": 153093378,
     "complexity": 2,
     "sortIndex": 7
   },
@@ -935,9 +935,9 @@
       3435918,
       15066306
     ],
-    "spawnMap": 153092354,
-    "complexity": 1,
-    "sortIndex": 6
+    "spawnMap": 153093378,
+    "complexity": 2,
+    "sortIndex": 8
   },
   {
     "id": 5,
@@ -1170,9 +1170,9 @@
       15042816,
       12499369
     ],
-    "spawnMap": 153092354,
-    "complexity": 3,
-    "sortIndex": 17
+    "spawnMap": 153093378,
+    "complexity": 5,
+    "sortIndex": 19
   },
   {
     "id": 6,
@@ -1405,9 +1405,9 @@
       7687730,
       14648576
     ],
-    "spawnMap": 153092354,
-    "complexity": 2,
-    "sortIndex": 8
+    "spawnMap": 153093378,
+    "complexity": 4,
+    "sortIndex": 16
   },
   {
     "id": 7,
@@ -1640,7 +1640,7 @@
       9799968,
       9791002
     ],
-    "spawnMap": 153092354,
+    "spawnMap": 153093378,
     "complexity": 1,
     "sortIndex": 4
   },
@@ -1875,7 +1875,7 @@
       12200764,
       12038292
     ],
-    "spawnMap": 153092354,
+    "spawnMap": 153093378,
     "complexity": 1,
     "sortIndex": 1
   },
@@ -2110,7 +2110,7 @@
       9392643,
       16422159
     ],
-    "spawnMap": 153092354,
+    "spawnMap": 153093378,
     "complexity": 1,
     "sortIndex": 2
   },
@@ -2345,9 +2345,9 @@
       15258276,
       15258276
     ],
-    "spawnMap": 153092354,
+    "spawnMap": 153093378,
     "complexity": 3,
-    "sortIndex": 15
+    "sortIndex": 12
   },
   {
     "id": 11,
@@ -2580,7 +2580,7 @@
       16422159,
       7750188
     ],
-    "spawnMap": 153092354,
+    "spawnMap": 153093378,
     "complexity": 1,
     "sortIndex": 3
   },
@@ -2815,9 +2815,9 @@
       14533780,
       9904435
     ],
-    "spawnMap": 153092354,
-    "complexity": 2,
-    "sortIndex": 13
+    "spawnMap": 153093378,
+    "complexity": 3,
+    "sortIndex": 11
   },
   {
     "id": 13,
@@ -3050,9 +3050,9 @@
       7098924,
       12499369
     ],
-    "spawnMap": 153092354,
-    "complexity": 3,
-    "sortIndex": 16
+    "spawnMap": 153093378,
+    "complexity": 5,
+    "sortIndex": 17
   },
   {
     "id": 14,
@@ -3285,9 +3285,9 @@
       11839343,
       14077359
     ],
-    "spawnMap": 153092354,
-    "complexity": 2,
-    "sortIndex": 12
+    "spawnMap": 153093378,
+    "complexity": 3,
+    "sortIndex": 10
   },
   {
     "id": 15,
@@ -3520,9 +3520,9 @@
       10984301,
       8100502
     ],
-    "spawnMap": 153092354,
-    "complexity": 2,
-    "sortIndex": 9
+    "spawnMap": 153093378,
+    "complexity": 4,
+    "sortIndex": 14
   },
   {
     "id": 16,
@@ -3755,9 +3755,9 @@
       2388929,
       12957582
     ],
-    "spawnMap": 153092354,
-    "complexity": 3,
-    "sortIndex": 14
+    "spawnMap": 153093378,
+    "complexity": 5,
+    "sortIndex": 18
   },
   {
     "id": 17,
@@ -3990,9 +3990,9 @@
       15987438,
       16755757
     ],
-    "spawnMap": 153092354,
-    "complexity": 2,
-    "sortIndex": 11
+    "spawnMap": 153093378,
+    "complexity": 4,
+    "sortIndex": 15
   },
   {
     "id": 18,
@@ -4225,9 +4225,9 @@
       9717256,
       16756535
     ],
-    "spawnMap": 153092354,
-    "complexity": 1,
-    "sortIndex": 18
+    "spawnMap": 153093378,
+    "complexity": 2,
+    "sortIndex": 5
   },
   {
     "id": 20,
@@ -4460,8 +4460,8 @@
       8885653,
       4209983
     ],
-    "spawnMap": 153092354,
-    "complexity": 2,
-    "sortIndex": 1
+    "spawnMap": 153093378,
+    "complexity": 3,
+    "sortIndex": 9
   }
 ]

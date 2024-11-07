@@ -1,198 +1,23 @@
 [
   {
-    "id": 6,
-    "gfxId": "Wind",
-    "referenceKey": "air"
+    "id": 72,
+    "gfxId": "areaFork",
+    "referenceKey": "fourche"
   },
   {
-    "id": 7,
-    "gfxId": "PA",
-    "referenceKey": "PA"
-  },
-  {
-    "id": 8,
-    "gfxId": "PM",
-    "referenceKey": "PM"
-  },
-  {
-    "id": 9,
-    "gfxId": "PO",
-    "referenceKey": "PO"
-  },
-  {
-    "id": 10,
-    "gfxId": "Health",
-    "referenceKey": "PV"
-  },
-  {
-    "id": 5,
-    "gfxId": "Earth",
-    "referenceKey": "terre"
-  },
-  {
-    "id": 4,
-    "gfxId": "Fire",
-    "referenceKey": "feu"
-  },
-  {
-    "id": 3,
-    "gfxId": "Water",
-    "referenceKey": "eau"
-  },
-  {
-    "id": 11,
-    "gfxId": "AttackPA",
-    "referenceKey": "retraitPA"
-  },
-  {
-    "id": 12,
-    "gfxId": "AttackPM",
-    "referenceKey": "retraitPM"
-  },
-  {
-    "id": 13,
-    "gfxId": "DodgePA",
-    "referenceKey": "esquivePA"
-  },
-  {
-    "id": 14,
-    "gfxId": "DodgePM",
-    "referenceKey": "esquivePM"
-  },
-  {
-    "id": 16,
-    "gfxId": "Tacle",
-    "referenceKey": "tacle"
-  },
-  {
-    "id": 17,
-    "gfxId": "Damages",
-    "referenceKey": "dmgMelee"
-  },
-  {
-    "id": 18,
-    "gfxId": "Distance",
-    "referenceKey": "dmgDistance"
-  },
-  {
-    "id": 19,
-    "gfxId": "Weapons",
-    "referenceKey": "dmgArme"
-  },
-  {
-    "id": 20,
-    "gfxId": "Spells",
-    "referenceKey": "dmgSort"
-  },
-  {
-    "id": 21,
-    "gfxId": "Heal",
-    "referenceKey": "soin"
-  },
-  {
-    "id": 22,
-    "gfxId": "experience",
-    "referenceKey": "XP"
+    "id": 15,
+    "gfxId": "flee",
+    "referenceKey": "fuite"
   },
   {
     "id": 23,
-    "gfxId": "Initiative",
+    "gfxId": "initiative",
     "referenceKey": "initiative"
   },
   {
     "id": 24,
-    "gfxId": "Invocation",
+    "gfxId": "invocation",
     "referenceKey": "invocation"
-  },
-  {
-    "id": 25,
-    "gfxId": "Neutral",
-    "referenceKey": "neutre"
-  },
-  {
-    "id": 26,
-    "gfxId": "Power",
-    "referenceKey": "puissance"
-  },
-  {
-    "id": 27,
-    "gfxId": "Prospection",
-    "referenceKey": "PP"
-  },
-  {
-    "id": 28,
-    "gfxId": "Pod",
-    "referenceKey": "pod"
-  },
-  {
-    "id": 29,
-    "gfxId": "Wisdom",
-    "referenceKey": "sagesse"
-  },
-  {
-    "id": 30,
-    "gfxId": "Push",
-    "referenceKey": "dmgPoussee"
-  },
-  {
-    "id": 31,
-    "gfxId": "Critical",
-    "referenceKey": "critique"
-  },
-  {
-    "id": 15,
-    "gfxId": "Flee",
-    "referenceKey": "fuite"
-  },
-  {
-    "id": 33,
-    "gfxId": "WindRes",
-    "referenceKey": "resAir"
-  },
-  {
-    "id": 34,
-    "gfxId": "WaterRes",
-    "referenceKey": "resEau"
-  },
-  {
-    "id": 35,
-    "gfxId": "FireRes",
-    "referenceKey": "resFeu"
-  },
-  {
-    "id": 36,
-    "gfxId": "EarthRes",
-    "referenceKey": "resTerre"
-  },
-  {
-    "id": 37,
-    "gfxId": "NeutralRes",
-    "referenceKey": "resNeutre"
-  },
-  {
-    "id": 38,
-    "gfxId": "CriticalRes",
-    "referenceKey": "resCrit"
-  },
-  {
-    "id": 39,
-    "gfxId": "DistanceRes",
-    "referenceKey": "resDistance"
-  },
-  {
-    "id": 40,
-    "gfxId": "DamagesRes",
-    "referenceKey": "resMelee"
-  },
-  {
-    "id": 41,
-    "gfxId": "SpellsRes",
-    "referenceKey": "resSort"
-  },
-  {
-    "id": 42,
-    "gfxId": "WeaponsRes",
-    "referenceKey": "resArme"
   },
   {
     "id": 44,
@@ -200,24 +25,9 @@
     "referenceKey": "bouclier"
   },
   {
-    "id": 43,
-    "gfxId": "Erosion",
-    "referenceKey": "erosion"
-  },
-  {
-    "id": 45,
-    "gfxId": "PushRes",
-    "referenceKey": "resPoussee"
-  },
-  {
-    "id": 46,
-    "gfxId": "Return",
-    "referenceKey": "renvoi"
-  },
-  {
-    "id": 47,
-    "gfxId": "Energy",
-    "referenceKey": "energie"
+    "id": 54,
+    "gfxId": "kama",
+    "referenceKey": "kama"
   },
   {
     "id": 48,
@@ -230,34 +40,9 @@
     "referenceKey": "infini"
   },
   {
-    "id": 50,
-    "gfxId": "multiElement",
-    "referenceKey": "multiElement"
-  },
-  {
-    "id": 51,
-    "gfxId": "MultiElementRes",
-    "referenceKey": "resMultiElement"
-  },
-  {
-    "id": 52,
-    "gfxId": "Quest",
-    "referenceKey": "quete"
-  },
-  {
     "id": 53,
     "gfxId": "questionMark",
     "referenceKey": "queteValid"
-  },
-  {
-    "id": 54,
-    "gfxId": "Kama",
-    "referenceKey": "kama"
-  },
-  {
-    "id": 55,
-    "gfxId": "Step",
-    "referenceKey": "seuil"
   },
   {
     "id": 56,
@@ -310,11 +95,6 @@
     "referenceKey": "croixEnDiagonaleCentreVide"
   },
   {
-    "id": 67,
-    "gfxId": "areaCrossWithoutCenter",
-    "referenceKey": "croixEnDiagonaleCentreVide"
-  },
-  {
     "id": 68,
     "gfxId": "areaCone",
     "referenceKey": "cone"
@@ -340,19 +120,39 @@
     "referenceKey": "croix"
   },
   {
-    "id": 72,
-    "gfxId": "areaFork",
-    "referenceKey": "Fourche"
-  },
-  {
     "id": 73,
     "gfxId": "areaRectangle",
     "referenceKey": "rectangle"
   },
   {
-    "id": 81,
-    "gfxId": "damagereceived",
-    "referenceKey": "dmgRecus"
+    "id": 67,
+    "gfxId": "areaCrossWithoutCenter",
+    "referenceKey": "croixCentreVide"
+  },
+  {
+    "id": 74,
+    "gfxId": "areaDiagonalCross",
+    "referenceKey": "croixEnDiagonale"
+  },
+  {
+    "id": 75,
+    "gfxId": "crossedSwords",
+    "referenceKey": "epeesCroisees"
+  },
+  {
+    "id": 76,
+    "gfxId": "lock",
+    "referenceKey": "verrouillage"
+  },
+  {
+    "id": 77,
+    "gfxId": "skull",
+    "referenceKey": "teteDeMort"
+  },
+  {
+    "id": 78,
+    "gfxId": "hourglass",
+    "referenceKey": "sablier"
   },
   {
     "id": 83,
@@ -360,19 +160,9 @@
     "referenceKey": "dmgBloqu\u00E9s"
   },
   {
-    "id": 89,
-    "gfxId": "pet",
-    "referenceKey": "Familier"
-  },
-  {
     "id": 90,
     "gfxId": "link",
-    "referenceKey": "Liaison"
-  },
-  {
-    "id": 93,
-    "gfxId": "gift",
-    "referenceKey": "Cadeau"
+    "referenceKey": "liaison"
   },
   {
     "id": 91,
@@ -380,9 +170,24 @@
     "referenceKey": "armeChasse"
   },
   {
-    "id": 80,
-    "gfxId": "Pull",
-    "referenceKey": "attirer"
+    "id": 25,
+    "gfxId": "neutral",
+    "referenceKey": "neutre"
+  },
+  {
+    "id": 7,
+    "gfxId": "pa",
+    "referenceKey": "pa"
+  },
+  {
+    "id": 8,
+    "gfxId": "pm",
+    "referenceKey": "pm"
+  },
+  {
+    "id": 9,
+    "gfxId": "po",
+    "referenceKey": "po"
   },
   {
     "id": 84,
@@ -390,14 +195,9 @@
     "referenceKey": "zaap"
   },
   {
-    "id": 92,
-    "gfxId": "healrecieved",
-    "referenceKey": "soinRecu"
-  },
-  {
-    "id": 94,
-    "gfxId": "FM",
-    "referenceKey": "FM"
+    "id": 27,
+    "gfxId": "prospection",
+    "referenceKey": "pp"
   },
   {
     "id": 79,
@@ -420,13 +220,263 @@
     "referenceKey": "piege"
   },
   {
-    "id": 82,
-    "gfxId": "damagedealt",
-    "referenceKey": "dmgEnvoyes"
+    "id": 26,
+    "gfxId": "power",
+    "referenceKey": "puissance"
   },
   {
     "id": 88,
     "gfxId": "stateAdd",
     "referenceKey": "ajouterEtat"
+  },
+  {
+    "id": 80,
+    "gfxId": "pull",
+    "referenceKey": "attirer"
+  },
+  {
+    "id": 6,
+    "gfxId": "wind",
+    "referenceKey": "air"
+  },
+  {
+    "id": 93,
+    "gfxId": "gift",
+    "referenceKey": "cadeau"
+  },
+  {
+    "id": 19,
+    "gfxId": "weapons",
+    "referenceKey": "dmgArme"
+  },
+  {
+    "id": 18,
+    "gfxId": "distance",
+    "referenceKey": "dmgDistance"
+  },
+  {
+    "id": 82,
+    "gfxId": "damageDealt",
+    "referenceKey": "dmgEnvoyes"
+  },
+  {
+    "id": 30,
+    "gfxId": "push",
+    "referenceKey": "dmgPoussee"
+  },
+  {
+    "id": 81,
+    "gfxId": "damageReceived",
+    "referenceKey": "dmgRecus"
+  },
+  {
+    "id": 20,
+    "gfxId": "spells",
+    "referenceKey": "dmgSort"
+  },
+  {
+    "id": 3,
+    "gfxId": "water",
+    "referenceKey": "eau"
+  },
+  {
+    "id": 47,
+    "gfxId": "energy",
+    "referenceKey": "energie"
+  },
+  {
+    "id": 43,
+    "gfxId": "erosion",
+    "referenceKey": "erosion"
+  },
+  {
+    "id": 13,
+    "gfxId": "dodgePA",
+    "referenceKey": "esquivePA"
+  },
+  {
+    "id": 14,
+    "gfxId": "dodgePM",
+    "referenceKey": "esquivePM"
+  },
+  {
+    "id": 89,
+    "gfxId": "pet",
+    "referenceKey": "familier"
+  },
+  {
+    "id": 4,
+    "gfxId": "fire",
+    "referenceKey": "feu"
+  },
+  {
+    "id": 10,
+    "gfxId": "health",
+    "referenceKey": "pv"
+  },
+  {
+    "id": 52,
+    "gfxId": "quest",
+    "referenceKey": "quete"
+  },
+  {
+    "id": 46,
+    "gfxId": "return",
+    "referenceKey": "renvoi"
+  },
+  {
+    "id": 33,
+    "gfxId": "windRes",
+    "referenceKey": "resAir"
+  },
+  {
+    "id": 42,
+    "gfxId": "weaponsRes",
+    "referenceKey": "resArme"
+  },
+  {
+    "id": 38,
+    "gfxId": "criticalRes",
+    "referenceKey": "resCrit"
+  },
+  {
+    "id": 39,
+    "gfxId": "distanceRes",
+    "referenceKey": "resDistance"
+  },
+  {
+    "id": 34,
+    "gfxId": "waterRes",
+    "referenceKey": "resEau"
+  },
+  {
+    "id": 35,
+    "gfxId": "fireRes",
+    "referenceKey": "resFeu"
+  },
+  {
+    "id": 51,
+    "gfxId": "multiElementRes",
+    "referenceKey": "resMultiElement"
+  },
+  {
+    "id": 37,
+    "gfxId": "neutralRes",
+    "referenceKey": "resNeutre"
+  },
+  {
+    "id": 45,
+    "gfxId": "pushRes",
+    "referenceKey": "resPoussee"
+  },
+  {
+    "id": 41,
+    "gfxId": "spellsRes",
+    "referenceKey": "resSort"
+  },
+  {
+    "id": 36,
+    "gfxId": "earthRes",
+    "referenceKey": "resTerre"
+  },
+  {
+    "id": 11,
+    "gfxId": "attackPA",
+    "referenceKey": "retraitPA"
+  },
+  {
+    "id": 12,
+    "gfxId": "attackPM",
+    "referenceKey": "retraitPM"
+  },
+  {
+    "id": 29,
+    "gfxId": "wisdom",
+    "referenceKey": "sagesse"
+  },
+  {
+    "id": 55,
+    "gfxId": "step",
+    "referenceKey": "seuil"
+  },
+  {
+    "id": 21,
+    "gfxId": "heal",
+    "referenceKey": "soin"
+  },
+  {
+    "id": 92,
+    "gfxId": "healRecieved",
+    "referenceKey": "soinRecu"
+  },
+  {
+    "id": 16,
+    "gfxId": "tacle",
+    "referenceKey": "tacle"
+  },
+  {
+    "id": 5,
+    "gfxId": "earth",
+    "referenceKey": "terre"
+  },
+  {
+    "id": 22,
+    "gfxId": "experience",
+    "referenceKey": "xp"
+  },
+  {
+    "id": 31,
+    "gfxId": "critical",
+    "referenceKey": "critique"
+  },
+  {
+    "id": 94,
+    "gfxId": "fm",
+    "referenceKey": "fm"
+  },
+  {
+    "id": 28,
+    "gfxId": "pod",
+    "referenceKey": "pod"
+  },
+  {
+    "id": 95,
+    "gfxId": "losange",
+    "referenceKey": "losange"
+  },
+  {
+    "id": 98,
+    "gfxId": "CriticalDmg",
+    "referenceKey": "dmgCritique"
+  },
+  {
+    "id": 50,
+    "gfxId": "multiElementDamages",
+    "referenceKey": "multiElement"
+  },
+  {
+    "id": 17,
+    "gfxId": "meleeDamages",
+    "referenceKey": "dmgMelee"
+  },
+  {
+    "id": 40,
+    "gfxId": "meleeDamagesRes",
+    "referenceKey": "resMelee"
+  },
+  {
+    "id": 96,
+    "gfxId": "damage",
+    "referenceKey": "dommages"
+  },
+  {
+    "id": 97,
+    "gfxId": "multiElementDamages",
+    "referenceKey": "dmgMultiElement"
+  },
+  {
+    "id": 99,
+    "gfxId": "healDealt",
+    "referenceKey": "soinDonne"
   }
 ]

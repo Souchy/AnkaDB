@@ -965,7 +965,7 @@
     "assetId": "70_1",
     "breed": 7,
     "gender": 0,
-    "label": "I",
+    "label": "1",
     "order": 0,
     "payable": false
   },
@@ -975,7 +975,7 @@
     "assetId": "70_2",
     "breed": 7,
     "gender": 0,
-    "label": "II",
+    "label": "2",
     "order": 1,
     "payable": false
   },
@@ -985,7 +985,7 @@
     "assetId": "70_3",
     "breed": 7,
     "gender": 0,
-    "label": "III",
+    "label": "3",
     "order": 2,
     "payable": false
   },
@@ -995,7 +995,7 @@
     "assetId": "70_4",
     "breed": 7,
     "gender": 0,
-    "label": "IV",
+    "label": "4",
     "order": 3,
     "payable": false
   },
@@ -1005,7 +1005,7 @@
     "assetId": "70_5",
     "breed": 7,
     "gender": 0,
-    "label": "V",
+    "label": "1.2",
     "order": 4,
     "payable": false
   },
@@ -1015,7 +1015,7 @@
     "assetId": "70_6",
     "breed": 7,
     "gender": 0,
-    "label": "VI",
+    "label": "2.2",
     "order": 5,
     "payable": false
   },
@@ -1025,7 +1025,7 @@
     "assetId": "70_7",
     "breed": 7,
     "gender": 0,
-    "label": "VII",
+    "label": "3.2",
     "order": 6,
     "payable": false
   },
@@ -1035,7 +1035,7 @@
     "assetId": "70_8",
     "breed": 7,
     "gender": 0,
-    "label": "VIII",
+    "label": "4.2",
     "order": 7,
     "payable": false
   },
@@ -1045,7 +1045,7 @@
     "assetId": "71_1",
     "breed": 7,
     "gender": 1,
-    "label": "I",
+    "label": "1",
     "order": 0,
     "payable": false
   },
@@ -1055,7 +1055,7 @@
     "assetId": "71_2",
     "breed": 7,
     "gender": 1,
-    "label": "II",
+    "label": "2",
     "order": 1,
     "payable": false
   },
@@ -1065,7 +1065,7 @@
     "assetId": "71_3",
     "breed": 7,
     "gender": 1,
-    "label": "III",
+    "label": "3",
     "order": 2,
     "payable": false
   },
@@ -1075,7 +1075,7 @@
     "assetId": "71_4",
     "breed": 7,
     "gender": 1,
-    "label": "IV",
+    "label": "4",
     "order": 3,
     "payable": false
   },
@@ -1085,7 +1085,7 @@
     "assetId": "71_5",
     "breed": 7,
     "gender": 1,
-    "label": "V",
+    "label": "1.2",
     "order": 4,
     "payable": false
   },
@@ -1095,7 +1095,7 @@
     "assetId": "71_6",
     "breed": 7,
     "gender": 1,
-    "label": "VI",
+    "label": "2.2",
     "order": 5,
     "payable": false
   },
@@ -1105,7 +1105,7 @@
     "assetId": "71_7",
     "breed": 7,
     "gender": 1,
-    "label": "VII",
+    "label": "3.2",
     "order": 6,
     "payable": false
   },
@@ -1115,7 +1115,7 @@
     "assetId": "71_8",
     "breed": 7,
     "gender": 1,
-    "label": "VIII",
+    "label": "4.2",
     "order": 7,
     "payable": false
   },
@@ -2565,7 +2565,7 @@
     "assetId": "170_1",
     "breed": 17,
     "gender": 0,
-    "label": "I",
+    "label": "1",
     "order": 0,
     "payable": false
   },
@@ -2575,7 +2575,7 @@
     "assetId": "170_2",
     "breed": 17,
     "gender": 0,
-    "label": "II",
+    "label": "2",
     "order": 1,
     "payable": false
   },
@@ -2585,7 +2585,7 @@
     "assetId": "170_3",
     "breed": 17,
     "gender": 0,
-    "label": "III",
+    "label": "3",
     "order": 2,
     "payable": false
   },
@@ -2595,7 +2595,7 @@
     "assetId": "170_4",
     "breed": 17,
     "gender": 0,
-    "label": "IV",
+    "label": "4",
     "order": 3,
     "payable": false
   },
@@ -2605,7 +2605,7 @@
     "assetId": "170_5",
     "breed": 17,
     "gender": 0,
-    "label": "V",
+    "label": "1.2",
     "order": 4,
     "payable": false
   },
@@ -2615,7 +2615,7 @@
     "assetId": "170_6",
     "breed": 17,
     "gender": 0,
-    "label": "VI",
+    "label": "2.2",
     "order": 5,
     "payable": false
   },
@@ -2625,7 +2625,7 @@
     "assetId": "170_7",
     "breed": 17,
     "gender": 0,
-    "label": "VII",
+    "label": "3.2",
     "order": 6,
     "payable": false
   },
@@ -2635,7 +2635,7 @@
     "assetId": "170_8",
     "breed": 17,
     "gender": 0,
-    "label": "VIII",
+    "label": "4.2",
     "order": 7,
     "payable": false
   },
@@ -2645,7 +2645,7 @@
     "assetId": "171_1",
     "breed": 17,
     "gender": 1,
-    "label": "I",
+    "label": "1",
     "order": 0,
     "payable": false
   },
@@ -2655,7 +2655,7 @@
     "assetId": "171_2",
     "breed": 17,
     "gender": 1,
-    "label": "II",
+    "label": "2",
     "order": 1,
     "payable": false
   },
@@ -2665,7 +2665,7 @@
     "assetId": "171_3",
     "breed": 17,
     "gender": 1,
-    "label": "III",
+    "label": "3",
     "order": 2,
     "payable": false
   },
@@ -2675,7 +2675,7 @@
     "assetId": "171_4",
     "breed": 17,
     "gender": 1,
-    "label": "IV",
+    "label": "4",
     "order": 3,
     "payable": false
   },
@@ -2685,7 +2685,7 @@
     "assetId": "171_5",
     "breed": 17,
     "gender": 1,
-    "label": "V",
+    "label": "2.2",
     "order": 4,
     "payable": false
   },
@@ -2695,7 +2695,7 @@
     "assetId": "171_6",
     "breed": 17,
     "gender": 1,
-    "label": "VI",
+    "label": "1.2",
     "order": 5,
     "payable": false
   },
@@ -2705,7 +2705,7 @@
     "assetId": "171_7",
     "breed": 17,
     "gender": 1,
-    "label": "VII",
+    "label": "3.2",
     "order": 6,
     "payable": false
   },
@@ -2715,7 +2715,7 @@
     "assetId": "171_8",
     "breed": 17,
     "gender": 1,
-    "label": "VIII",
+    "label": "4.2",
     "order": 7,
     "payable": false
   },
@@ -3764,6 +3764,326 @@
     "skins": "5319",
     "assetId": "110_16",
     "breed": 11,
+    "gender": 0,
+    "label": "4.4_coiffeur",
+    "order": 16,
+    "payable": true
+  },
+  {
+    "id": 404,
+    "skins": "5351",
+    "assetId": "71_9",
+    "breed": 7,
+    "gender": 1,
+    "label": "1.3",
+    "order": 8,
+    "payable": false
+  },
+  {
+    "id": 405,
+    "skins": "5347",
+    "assetId": "71_13",
+    "breed": 7,
+    "gender": 1,
+    "label": "1.4_coiffeur",
+    "order": 13,
+    "payable": true
+  },
+  {
+    "id": 406,
+    "skins": "5352",
+    "assetId": "71_10",
+    "breed": 7,
+    "gender": 1,
+    "label": "2.3",
+    "order": 9,
+    "payable": false
+  },
+  {
+    "id": 407,
+    "skins": "5348",
+    "assetId": "71_14",
+    "breed": 7,
+    "gender": 1,
+    "label": "2.4_coiffeur",
+    "order": 14,
+    "payable": true
+  },
+  {
+    "id": 408,
+    "skins": "5349",
+    "assetId": "71_11",
+    "breed": 7,
+    "gender": 1,
+    "label": "3.3",
+    "order": 10,
+    "payable": false
+  },
+  {
+    "id": 410,
+    "skins": "5353",
+    "assetId": "71_15",
+    "breed": 7,
+    "gender": 1,
+    "label": "3.4_coiffeur",
+    "order": 15,
+    "payable": true
+  },
+  {
+    "id": 411,
+    "skins": "5350",
+    "assetId": "71_12",
+    "breed": 7,
+    "gender": 1,
+    "label": "4.3",
+    "order": 11,
+    "payable": false
+  },
+  {
+    "id": 412,
+    "skins": "5354",
+    "assetId": "71_16",
+    "breed": 7,
+    "gender": 1,
+    "label": "4.4_coiffeur",
+    "order": 16,
+    "payable": true
+  },
+  {
+    "id": 413,
+    "skins": "5343",
+    "assetId": "70_9",
+    "breed": 7,
+    "gender": 0,
+    "label": "1.3",
+    "order": 8,
+    "payable": false
+  },
+  {
+    "id": 414,
+    "skins": "5339",
+    "assetId": "70_13",
+    "breed": 7,
+    "gender": 0,
+    "label": "1.4_coiffeur",
+    "order": 13,
+    "payable": true
+  },
+  {
+    "id": 415,
+    "skins": "5340",
+    "assetId": "70_10",
+    "breed": 7,
+    "gender": 0,
+    "label": "2.3",
+    "order": 9,
+    "payable": false
+  },
+  {
+    "id": 416,
+    "skins": "5344",
+    "assetId": "70_14",
+    "breed": 7,
+    "gender": 0,
+    "label": "2.4_coiffeur",
+    "order": 14,
+    "payable": true
+  },
+  {
+    "id": 417,
+    "skins": "5341",
+    "assetId": "70_11",
+    "breed": 7,
+    "gender": 0,
+    "label": "3.3",
+    "order": 10,
+    "payable": false
+  },
+  {
+    "id": 418,
+    "skins": "5345",
+    "assetId": "70_15",
+    "breed": 7,
+    "gender": 0,
+    "label": "3.4_coiffeur",
+    "order": 15,
+    "payable": true
+  },
+  {
+    "id": 419,
+    "skins": "5342",
+    "assetId": "70_12",
+    "breed": 7,
+    "gender": 0,
+    "label": "4.3",
+    "order": 11,
+    "payable": false
+  },
+  {
+    "id": 420,
+    "skins": "5346",
+    "assetId": "70_16",
+    "breed": 7,
+    "gender": 0,
+    "label": "4.4_coiffeur",
+    "order": 16,
+    "payable": true
+  },
+  {
+    "id": 421,
+    "skins": "5363",
+    "assetId": "171_9",
+    "breed": 17,
+    "gender": 1,
+    "label": "1.3",
+    "order": 8,
+    "payable": false
+  },
+  {
+    "id": 422,
+    "skins": "5367",
+    "assetId": "171_13",
+    "breed": 17,
+    "gender": 1,
+    "label": "1.4_coiffeur",
+    "order": 13,
+    "payable": true
+  },
+  {
+    "id": 423,
+    "skins": "5368",
+    "assetId": "171_10",
+    "breed": 17,
+    "gender": 1,
+    "label": "2.3",
+    "order": 9,
+    "payable": false
+  },
+  {
+    "id": 424,
+    "skins": "5364",
+    "assetId": "171_14",
+    "breed": 17,
+    "gender": 1,
+    "label": "2.4_coiffeur",
+    "order": 14,
+    "payable": true
+  },
+  {
+    "id": 426,
+    "skins": "5369",
+    "assetId": "171_11",
+    "breed": 17,
+    "gender": 1,
+    "label": "3.3",
+    "order": 10,
+    "payable": false
+  },
+  {
+    "id": 427,
+    "skins": "5365",
+    "assetId": "171_15",
+    "breed": 17,
+    "gender": 1,
+    "label": "3.4_coiffeur",
+    "order": 15,
+    "payable": false
+  },
+  {
+    "id": 428,
+    "skins": "5366",
+    "assetId": "171_12",
+    "breed": 17,
+    "gender": 1,
+    "label": "4.3",
+    "order": 11,
+    "payable": false
+  },
+  {
+    "id": 430,
+    "skins": "5370",
+    "assetId": "171_16",
+    "breed": 17,
+    "gender": 1,
+    "label": "4.4_coiffeur",
+    "order": 16,
+    "payable": true
+  },
+  {
+    "id": 431,
+    "skins": "5359",
+    "assetId": "170_9",
+    "breed": 17,
+    "gender": 0,
+    "label": "1.3",
+    "order": 8,
+    "payable": false
+  },
+  {
+    "id": 432,
+    "skins": "5355",
+    "assetId": "170_13",
+    "breed": 17,
+    "gender": 0,
+    "label": "1.4_coiffeur",
+    "order": 13,
+    "payable": true
+  },
+  {
+    "id": 434,
+    "skins": "5360",
+    "assetId": "170_10",
+    "breed": 17,
+    "gender": 0,
+    "label": "2.3",
+    "order": 9,
+    "payable": false
+  },
+  {
+    "id": 435,
+    "skins": "5356",
+    "assetId": "170_14",
+    "breed": 17,
+    "gender": 0,
+    "label": "2.4_coiffeur",
+    "order": 14,
+    "payable": true
+  },
+  {
+    "id": 437,
+    "skins": "5357",
+    "assetId": "170_11",
+    "breed": 17,
+    "gender": 0,
+    "label": "3.3",
+    "order": 10,
+    "payable": false
+  },
+  {
+    "id": 438,
+    "skins": "5361",
+    "assetId": "170_15",
+    "breed": 17,
+    "gender": 0,
+    "label": "3.4_coiffeur",
+    "order": 15,
+    "payable": false
+  },
+  {
+    "id": 439,
+    "skins": "5362",
+    "assetId": "170_12",
+    "breed": 17,
+    "gender": 0,
+    "label": "4.3",
+    "order": 11,
+    "payable": false
+  },
+  {
+    "id": 440,
+    "skins": "5358",
+    "assetId": "170_16",
+    "breed": 17,
     "gender": 0,
     "label": "4.4_coiffeur",
     "order": 16,

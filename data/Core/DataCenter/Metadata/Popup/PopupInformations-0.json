@@ -183,7 +183,7 @@
     "id": 21,
     "parentId": 7,
     "titleId": "871833",
-    "descriptionId": 871838,
+    "descriptionId": 1102196,
     "illuName": "fr_subscribe_subscribe.jpg",
     "buttons": [
       {
@@ -470,26 +470,6 @@
     ],
     "criterion": "PL\u003E4",
     "cacheType": 2,
-    "autoTrigger": true
-  },
-  {
-    "id": 43,
-    "parentId": 5,
-    "titleId": "1098482",
-    "descriptionId": 1098597,
-    "illuName": "fr_survey_betaunity.jpg",
-    "buttons": [
-      {
-        "id": 42,
-        "popupId": 43,
-        "type": 0,
-        "textId": "1098594",
-        "actionType": 0,
-        "actionValue": "link.betaUnitySurvey"
-      }
-    ],
-    "criterion": "BT=1",
-    "cacheType": 1,
     "autoTrigger": true
   }
 ]
