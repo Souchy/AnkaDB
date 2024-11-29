@@ -1853,215 +1853,6 @@
     ]
   },
   {
-    "id": 12,
-    "actionId": 420,
-    "targetId": 1748,
-    "progressionPerLevelRange": [
-      {
-        "values": [
-          0,
-          10
-        ]
-      },
-      {
-        "values": [
-          100,
-          0.95
-        ]
-      }
-    ]
-  },
-  {
-    "id": 107,
-    "actionId": 420,
-    "targetId": 10863,
-    "progressionPerLevelRange": [
-      {
-        "values": [
-          0,
-          10
-        ]
-      },
-      {
-        "values": [
-          100,
-          0.95
-        ]
-      }
-    ]
-  },
-  {
-    "id": 114,
-    "actionId": 416,
-    "targetId": 10985,
-    "progressionPerLevelRange": [
-      {
-        "values": [
-          0,
-          10
-        ]
-      },
-      {
-        "values": [
-          100,
-          0.95
-        ]
-      }
-    ]
-  },
-  {
-    "id": 121,
-    "actionId": 416,
-    "targetId": 11014,
-    "progressionPerLevelRange": [
-      {
-        "values": [
-          0,
-          10
-        ]
-      },
-      {
-        "values": [
-          100,
-          0.95
-        ]
-      }
-    ]
-  },
-  {
-    "id": 221,
-    "actionId": 414,
-    "targetId": 13603,
-    "progressionPerLevelRange": [
-      {
-        "values": [
-          0,
-          10
-        ]
-      },
-      {
-        "values": [
-          100,
-          0.95
-        ]
-      }
-    ]
-  },
-  {
-    "id": 227,
-    "actionId": 420,
-    "targetId": 19286,
-    "progressionPerLevelRange": [
-      {
-        "values": [
-          0,
-          10
-        ]
-      },
-      {
-        "values": [
-          100,
-          0.95
-        ]
-      }
-    ]
-  },
-  {
-    "id": 228,
-    "actionId": 416,
-    "targetId": 19286,
-    "progressionPerLevelRange": [
-      {
-        "values": [
-          0,
-          10
-        ]
-      },
-      {
-        "values": [
-          100,
-          0.95
-        ]
-      }
-    ]
-  },
-  {
-    "id": 33,
-    "actionId": 416,
-    "targetId": 7524,
-    "progressionPerLevelRange": [
-      {
-        "values": [
-          0,
-          10
-        ]
-      },
-      {
-        "values": [
-          100,
-          0.95
-        ]
-      }
-    ]
-  },
-  {
-    "id": 160,
-    "actionId": 420,
-    "targetId": 13000,
-    "progressionPerLevelRange": [
-      {
-        "values": [
-          0,
-          10
-        ]
-      },
-      {
-        "values": [
-          100,
-          0.95
-        ]
-      }
-    ]
-  },
-  {
-    "id": 187,
-    "actionId": 420,
-    "targetId": 15607,
-    "progressionPerLevelRange": [
-      {
-        "values": [
-          0,
-          10
-        ]
-      },
-      {
-        "values": [
-          100,
-          0.95
-        ]
-      }
-    ]
-  },
-  {
-    "id": 186,
-    "actionId": 414,
-    "targetId": 15607,
-    "progressionPerLevelRange": [
-      {
-        "values": [
-          0,
-          10
-        ]
-      },
-      {
-        "values": [
-          100,
-          0.95
-        ]
-      }
-    ]
-  },
-  {
     "id": 14,
     "actionId": 138,
     "targetId": 2074,
@@ -4601,6 +4392,253 @@
         "values": [
           100,
           0.72
+        ]
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "actionId": 115,
+    "targetId": 30957,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          1
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.14
+        ]
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "actionId": 138,
+    "targetId": 30957,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "actionId": 420,
+    "targetId": 1748,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          10
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "actionId": 420,
+    "targetId": 10863,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          10
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "actionId": 416,
+    "targetId": 10985,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          10
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "actionId": 416,
+    "targetId": 11014,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          10
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "actionId": 414,
+    "targetId": 13603,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          10
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "actionId": 420,
+    "targetId": 19286,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          10
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "actionId": 416,
+    "targetId": 19286,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          10
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "actionId": 416,
+    "targetId": 7524,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          10
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "actionId": 420,
+    "targetId": 13000,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          10
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "actionId": 420,
+    "targetId": 15607,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          10
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "actionId": 414,
+    "targetId": 15607,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          10
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.9
         ]
       }
     ]

@@ -4238,5 +4238,21 @@
     "spellLevelId": 0,
     "scale": 1,
     "m_shortcut": "spiritite"
+  },
+  {
+    "id": 319,
+    "nameId": 1116482,
+    "shortcutId": "1116483",
+    "order": 602700,
+    "animName": "aura",
+    "persistancy": false,
+    "eightDirections": true,
+    "aura": true,
+    "cooldown": 1000,
+    "duration": 0,
+    "weight": 1005,
+    "spellLevelId": 0,
+    "scale": 1,
+    "m_shortcut": "[!] confetti"
   }
 ]

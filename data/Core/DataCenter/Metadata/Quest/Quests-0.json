@@ -23208,23 +23208,6 @@
     "isEvent": false
   },
   {
-    "id": 1652,
-    "nameId": 554196,
-    "categoryId": 19,
-    "repeatType": 0,
-    "repeatLimit": 1,
-    "isDungeonQuest": false,
-    "levelMin": 8,
-    "levelMax": 8,
-    "stepIds": [
-      2272
-    ],
-    "isPartyQuest": false,
-    "startCriterion": "Qf=1651",
-    "followable": true,
-    "isEvent": false
-  },
-  {
     "id": 1653,
     "nameId": 574441,
     "categoryId": 4,
@@ -33124,6 +33107,23 @@
     "isEvent": false
   },
   {
+    "id": 2503,
+    "nameId": 1103173,
+    "categoryId": 56,
+    "repeatType": 0,
+    "repeatLimit": 1,
+    "isDungeonQuest": false,
+    "levelMin": 200,
+    "levelMax": 200,
+    "stepIds": [
+      3174
+    ],
+    "isPartyQuest": true,
+    "startCriterion": "Sc=915",
+    "followable": true,
+    "isEvent": false
+  },
+  {
     "id": 2504,
     "nameId": 1105018,
     "categoryId": 4,
@@ -33256,6 +33256,40 @@
     ],
     "isPartyQuest": false,
     "startCriterion": "BT=1",
+    "followable": true,
+    "isEvent": false
+  },
+  {
+    "id": 2512,
+    "nameId": 1115761,
+    "categoryId": 19,
+    "repeatType": 0,
+    "repeatLimit": 1,
+    "isDungeonQuest": false,
+    "levelMin": 6,
+    "levelMax": 6,
+    "stepIds": [
+      3193
+    ],
+    "isPartyQuest": false,
+    "startCriterion": "Qf=1649",
+    "followable": true,
+    "isEvent": false
+  },
+  {
+    "id": 2513,
+    "nameId": 1115762,
+    "categoryId": 19,
+    "repeatType": 0,
+    "repeatLimit": 1,
+    "isDungeonQuest": false,
+    "levelMin": 8,
+    "levelMax": 8,
+    "stepIds": [
+      3194
+    ],
+    "isPartyQuest": false,
+    "startCriterion": "Qf=1651",
     "followable": true,
     "isEvent": false
   }

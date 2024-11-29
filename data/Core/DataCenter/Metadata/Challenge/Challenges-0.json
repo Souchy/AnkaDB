@@ -2307,7 +2307,7 @@
   {
     "id": 225,
     "nameId": 1050903,
-    "descriptionId": 1054110,
+    "descriptionId": 1116095,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 11,
@@ -3044,7 +3044,7 @@
   {
     "id": 296,
     "nameId": 1054932,
-    "descriptionId": 1054385,
+    "descriptionId": 1116093,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 11,
@@ -4122,7 +4122,7 @@
   {
     "id": 395,
     "nameId": 1054931,
-    "descriptionId": 1054386,
+    "descriptionId": 1116094,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 11,
@@ -14798,6 +14798,83 @@
     "targetMonsterId": 7210
   },
   {
+    "id": 1904,
+    "nameId": 1102292,
+    "descriptionId": 1102293,
+    "incompatibleChallenges": [],
+    "categoryId": 16,
+    "iconId": 36,
+    "completionCriterion": "TD\u003C2,hc0,e1",
+    "activationCriterion": "GM\u003E0,1087,1\u0026Gm=d",
+    "targetMonsterId": 1087
+  },
+  {
+    "id": 1905,
+    "nameId": 1102299,
+    "descriptionId": 1102306,
+    "incompatibleChallenges": [],
+    "categoryId": 16,
+    "iconId": 37,
+    "completionCriterion": "TD\u003C2,hc0,hc0",
+    "activationCriterion": "GM\u003E0,1045,1\u0026Gm=d",
+    "targetMonsterId": 1045
+  },
+  {
+    "id": 1906,
+    "nameId": 1102304,
+    "descriptionId": 1102305,
+    "incompatibleChallenges": [],
+    "categoryId": 16,
+    "iconId": 974,
+    "completionCriterion": "TK~a,e0,e1,gt",
+    "activationCriterion": "GM\u003E0,4726,1\u0026Gm=d",
+    "targetMonsterId": 4726
+  },
+  {
+    "id": 1907,
+    "nameId": 1115974,
+    "descriptionId": 1115961,
+    "incompatibleChallenges": [],
+    "categoryId": 16,
+    "iconId": 973,
+    "completionCriterion": "TD\u003C1,hc0,k1",
+    "activationCriterion": "GM\u003E0,3849,1\u0026Gm=d",
+    "targetMonsterId": 3849
+  },
+  {
+    "id": 1908,
+    "nameId": 1102325,
+    "descriptionId": 1102326,
+    "incompatibleChallenges": [],
+    "categoryId": 16,
+    "iconId": 1,
+    "completionCriterion": "TM=1,0",
+    "activationCriterion": "GM\u003E0,3849,1\u0026Gm=d",
+    "targetMonsterId": 3849
+  },
+  {
+    "id": 1909,
+    "nameId": 1102330,
+    "descriptionId": 1102331,
+    "incompatibleChallenges": [],
+    "categoryId": 16,
+    "iconId": 971,
+    "completionCriterion": "TD\u003C2,hc0,whb",
+    "activationCriterion": "GM\u003E0,5806,1\u0026Gm=d",
+    "targetMonsterId": 5806
+  },
+  {
+    "id": 1910,
+    "nameId": 1102349,
+    "descriptionId": 1102350,
+    "incompatibleChallenges": [],
+    "categoryId": 16,
+    "iconId": 1,
+    "completionCriterion": "TM=1,0",
+    "activationCriterion": "GM\u003E0,7210,1\u0026Gm=d",
+    "targetMonsterId": 7210
+  },
+  {
     "id": 1911,
     "nameId": 1115268,
     "descriptionId": 1115739,
@@ -15313,5 +15390,27 @@
     "completionCriterion": "ST\u003C80",
     "activationCriterion": "GN\u003C4,0\u0026GM\u003E0,7210,1\u0026Gm=d",
     "targetMonsterId": 7210
+  },
+  {
+    "id": 2081,
+    "nameId": 1115983,
+    "descriptionId": 1115982,
+    "incompatibleChallenges": [],
+    "categoryId": 16,
+    "iconId": 5,
+    "completionCriterion": "SAg0",
+    "activationCriterion": "GM\u003E0,4803,1\u0026Gm=d",
+    "targetMonsterId": 4803
+  },
+  {
+    "id": 2082,
+    "nameId": 1115999,
+    "descriptionId": 1116003,
+    "incompatibleChallenges": [],
+    "categoryId": 16,
+    "iconId": 36,
+    "completionCriterion": "TD\u003C2,hc0,e1",
+    "activationCriterion": "GM\u003E0,5110,1\u0026Gm=d",
+    "targetMonsterId": 5110
   }
 ]

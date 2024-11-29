@@ -10837,7 +10837,8 @@
       4139,
       4140,
       4141,
-      4142
+      17668,
+      17669
     ],
     "rewardIds": [
       2151,
@@ -29479,8 +29480,7 @@
     "rewardIds": [
       6308,
       6309,
-      6310,
-      6461
+      6310
     ],
     "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
   },
@@ -41609,6 +41609,249 @@
     "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
   },
   {
+    "id": 8491,
+    "nameId": 1102296,
+    "categoryId": 171,
+    "descriptionId": 1115694,
+    "iconId": 40,
+    "points": 0,
+    "level": 140,
+    "order": 0,
+    "accountLinked": false,
+    "objectiveIds": [
+      17347
+    ],
+    "rewardIds": [
+      13813
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8492,
+    "nameId": 1102301,
+    "categoryId": 171,
+    "descriptionId": 1115691,
+    "iconId": 48,
+    "points": 0,
+    "level": 140,
+    "order": 1,
+    "accountLinked": false,
+    "objectiveIds": [
+      17348
+    ],
+    "rewardIds": [
+      13814
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8493,
+    "nameId": 1102307,
+    "categoryId": 171,
+    "descriptionId": 1115955,
+    "iconId": 336,
+    "points": 0,
+    "level": 170,
+    "order": 6,
+    "accountLinked": false,
+    "objectiveIds": [
+      17349
+    ],
+    "rewardIds": [
+      13815
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8494,
+    "nameId": 1115959,
+    "categoryId": 171,
+    "descriptionId": 1115960,
+    "iconId": 282,
+    "points": 0,
+    "level": 170,
+    "order": 5,
+    "accountLinked": false,
+    "objectiveIds": [
+      17350
+    ],
+    "rewardIds": [
+      13816
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8495,
+    "nameId": 1102327,
+    "categoryId": 171,
+    "descriptionId": 1115953,
+    "iconId": 438,
+    "points": 0,
+    "level": 170,
+    "order": 14,
+    "accountLinked": false,
+    "objectiveIds": [
+      17351
+    ],
+    "rewardIds": [
+      13817
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8496,
+    "nameId": 1102332,
+    "categoryId": 171,
+    "descriptionId": 1115958,
+    "iconId": 376,
+    "points": 0,
+    "level": 200,
+    "order": 11,
+    "accountLinked": false,
+    "objectiveIds": [
+      17352
+    ],
+    "rewardIds": [
+      13818
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8497,
+    "nameId": 1102351,
+    "categoryId": 171,
+    "descriptionId": 1115954,
+    "iconId": 435,
+    "points": 0,
+    "level": 200,
+    "order": 13,
+    "accountLinked": false,
+    "objectiveIds": [
+      17353
+    ],
+    "rewardIds": [
+      13819
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8498,
+    "nameId": 1102356,
+    "categoryId": 171,
+    "descriptionId": 1115689,
+    "iconId": 266,
+    "points": 0,
+    "level": 200,
+    "order": 3,
+    "accountLinked": false,
+    "objectiveIds": [
+      17354
+    ],
+    "rewardIds": [
+      13820
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8499,
+    "nameId": 1102361,
+    "categoryId": 171,
+    "descriptionId": 1115692,
+    "iconId": 202,
+    "points": 0,
+    "level": 200,
+    "order": 4,
+    "accountLinked": false,
+    "objectiveIds": [
+      17355
+    ],
+    "rewardIds": [
+      13821
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8500,
+    "nameId": 1102365,
+    "categoryId": 171,
+    "descriptionId": 1115690,
+    "iconId": 233,
+    "points": 0,
+    "level": 200,
+    "order": 2,
+    "accountLinked": false,
+    "objectiveIds": [
+      17356
+    ],
+    "rewardIds": [
+      13822
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8501,
+    "nameId": 1102368,
+    "categoryId": 171,
+    "descriptionId": 1115957,
+    "iconId": 325,
+    "points": 0,
+    "level": 200,
+    "order": 7,
+    "accountLinked": false,
+    "objectiveIds": [
+      17357
+    ],
+    "rewardIds": [
+      13823
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8502,
+    "nameId": 1102371,
+    "categoryId": 171,
+    "descriptionId": 1115956,
+    "iconId": 388,
+    "points": 0,
+    "level": 200,
+    "order": 8,
+    "accountLinked": false,
+    "objectiveIds": [
+      17358
+    ],
+    "rewardIds": [
+      13824
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8503,
+    "nameId": 1115311,
+    "categoryId": 172,
+    "descriptionId": 1116258,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 0,
+    "accountLinked": false,
+    "objectiveIds": [
+      17360
+    ],
+    "rewardIds": [
+      13825,
+      13826,
+      13827,
+      13828,
+      13829,
+      13830,
+      13831,
+      13832,
+      13833,
+      13834
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
     "id": 8505,
     "nameId": 1102577,
     "categoryId": 170,
@@ -41841,6 +42084,33 @@
     ],
     "rewardIds": [
       13885
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8517,
+    "nameId": 1102881,
+    "categoryId": 173,
+    "descriptionId": 1116259,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 0,
+    "accountLinked": false,
+    "objectiveIds": [
+      17374
+    ],
+    "rewardIds": [
+      13886,
+      13887,
+      13888,
+      13889,
+      13890,
+      13891,
+      13892,
+      13893,
+      13894,
+      13895
     ],
     "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
   },
@@ -51645,6 +51915,1440 @@
     ],
     "rewardIds": [
       19436
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8779,
+    "nameId": 1116020,
+    "categoryId": 178,
+    "descriptionId": 1115565,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 0,
+    "accountLinked": false,
+    "objectiveIds": [
+      17653
+    ],
+    "rewardIds": [
+      19453,
+      19454,
+      19455,
+      19456,
+      19457,
+      19458,
+      19459,
+      19460,
+      19461,
+      19462,
+      19463,
+      19464,
+      19465,
+      19466,
+      19467,
+      19468,
+      19469,
+      19470,
+      19471,
+      19472,
+      19473,
+      19474,
+      19475,
+      19476,
+      19477,
+      19478,
+      19479,
+      19480,
+      19481,
+      19482,
+      19483,
+      19484,
+      19485,
+      19486,
+      19487,
+      19488,
+      19489,
+      19490,
+      19491,
+      19492
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8780,
+    "nameId": 1116017,
+    "categoryId": 178,
+    "descriptionId": 1115485,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 1,
+    "accountLinked": false,
+    "objectiveIds": [
+      17654
+    ],
+    "rewardIds": [
+      19493,
+      19494,
+      19495,
+      19496,
+      19497,
+      19498,
+      19499,
+      19500,
+      19501,
+      19502,
+      19503,
+      19504,
+      19505,
+      19506,
+      19507,
+      19508,
+      19509,
+      19510,
+      19511,
+      19512,
+      19513,
+      19514,
+      19515,
+      19516,
+      19517,
+      19518,
+      19519,
+      19520,
+      19521,
+      19522,
+      19523,
+      19524,
+      19525,
+      19526,
+      19527,
+      19528,
+      19529,
+      19530,
+      19531,
+      19532
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8781,
+    "nameId": 1116019,
+    "categoryId": 178,
+    "descriptionId": 1115563,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 2,
+    "accountLinked": false,
+    "objectiveIds": [
+      17655
+    ],
+    "rewardIds": [
+      19533,
+      19534,
+      19535,
+      19536,
+      19537,
+      19538,
+      19539,
+      19540,
+      19541,
+      19542,
+      19543,
+      19544,
+      19545,
+      19546,
+      19547,
+      19548,
+      19549,
+      19550,
+      19551,
+      19552,
+      19553,
+      19554,
+      19555,
+      19556,
+      19557,
+      19558,
+      19559,
+      19560,
+      19561,
+      19562,
+      19563,
+      19564,
+      19565,
+      19566,
+      19567,
+      19568,
+      19569,
+      19570,
+      19571,
+      19572
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8782,
+    "nameId": 1116023,
+    "categoryId": 178,
+    "descriptionId": 1115509,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 3,
+    "accountLinked": false,
+    "objectiveIds": [
+      17656
+    ],
+    "rewardIds": [
+      19573,
+      19574,
+      19575,
+      19576,
+      19577,
+      19578,
+      19579,
+      19580,
+      19581,
+      19582,
+      19583,
+      19584,
+      19585,
+      19586,
+      19587,
+      19588,
+      19589,
+      19590,
+      19591,
+      19592,
+      19593,
+      19594,
+      19595,
+      19596,
+      19597,
+      19598,
+      19599,
+      19600,
+      19601,
+      19602,
+      19603,
+      19604,
+      19605,
+      19606,
+      19607,
+      19608,
+      19609,
+      19610,
+      19611,
+      19612
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8783,
+    "nameId": 1116022,
+    "categoryId": 178,
+    "descriptionId": 1115521,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 4,
+    "accountLinked": false,
+    "objectiveIds": [
+      17657
+    ],
+    "rewardIds": [
+      19613,
+      19614,
+      19615,
+      19616,
+      19617,
+      19618,
+      19619,
+      19620,
+      19621,
+      19622,
+      19623,
+      19624,
+      19625,
+      19626,
+      19627,
+      19628,
+      19629,
+      19630,
+      19631,
+      19632,
+      19633,
+      19634,
+      19635,
+      19636,
+      19637,
+      19638,
+      19639,
+      19640,
+      19641,
+      19642,
+      19643,
+      19644,
+      19645,
+      19646,
+      19647,
+      19648,
+      19649,
+      19650,
+      19651,
+      19652
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8784,
+    "nameId": 1116021,
+    "categoryId": 178,
+    "descriptionId": 1115534,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 5,
+    "accountLinked": false,
+    "objectiveIds": [
+      17658
+    ],
+    "rewardIds": [
+      19653,
+      19654,
+      19655,
+      19656,
+      19657,
+      19658,
+      19659,
+      19660,
+      19661,
+      19662,
+      19663,
+      19664,
+      19665,
+      19666,
+      19667,
+      19668,
+      19669,
+      19670,
+      19671,
+      19672,
+      19673,
+      19674,
+      19675,
+      19676,
+      19677,
+      19678,
+      19679,
+      19680,
+      19681,
+      19682,
+      19683,
+      19684,
+      19685,
+      19686,
+      19687,
+      19688,
+      19689,
+      19690,
+      19691,
+      19692
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8785,
+    "nameId": 1116018,
+    "categoryId": 178,
+    "descriptionId": 1115546,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 6,
+    "accountLinked": false,
+    "objectiveIds": [
+      17659
+    ],
+    "rewardIds": [
+      19733,
+      19734,
+      19735,
+      19736,
+      19737,
+      19738,
+      19739,
+      19740,
+      19741,
+      19742,
+      19743,
+      19744,
+      19745,
+      19746,
+      19747,
+      19748,
+      19749,
+      19750,
+      19751,
+      19752,
+      19753,
+      19754,
+      19755,
+      19756,
+      19757,
+      19758,
+      19759,
+      19760,
+      19761,
+      19762,
+      19763,
+      19764,
+      19765,
+      19766,
+      19767,
+      19768,
+      19769,
+      19770,
+      19771,
+      19772
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8786,
+    "nameId": 1116016,
+    "categoryId": 178,
+    "descriptionId": 1115558,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 7,
+    "accountLinked": false,
+    "objectiveIds": [
+      17660
+    ],
+    "rewardIds": [
+      19813,
+      19814,
+      19815,
+      19816,
+      19817,
+      19818,
+      19819,
+      19820,
+      19821,
+      19822,
+      19823,
+      19824,
+      19825,
+      19826,
+      19827,
+      19828,
+      19829,
+      19830,
+      19831,
+      19832,
+      19833,
+      19834,
+      19835,
+      19836,
+      19837,
+      19838,
+      19839,
+      19840,
+      19841,
+      19842,
+      19843,
+      19844,
+      19845,
+      19846,
+      19847,
+      19848,
+      19849,
+      19850,
+      19851,
+      19852
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8787,
+    "nameId": 1116029,
+    "categoryId": 178,
+    "descriptionId": 1115574,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 8,
+    "accountLinked": false,
+    "objectiveIds": [
+      17661
+    ],
+    "rewardIds": [
+      19893,
+      19894,
+      19895,
+      19896,
+      19897,
+      19898,
+      19899,
+      19900,
+      19901,
+      19902,
+      19903,
+      19904,
+      19905,
+      19906,
+      19907,
+      19908,
+      19909,
+      19910,
+      19911,
+      19912,
+      19913,
+      19914,
+      19915,
+      19916,
+      19917,
+      19918,
+      19919,
+      19920,
+      19921,
+      19922,
+      19923,
+      19924,
+      19925,
+      19926,
+      19927,
+      19928,
+      19929,
+      19930,
+      19931,
+      19932
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8788,
+    "nameId": 1116030,
+    "categoryId": 178,
+    "descriptionId": 1115586,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 9,
+    "accountLinked": false,
+    "objectiveIds": [
+      17662
+    ],
+    "rewardIds": [
+      19933,
+      19934,
+      19935,
+      19936,
+      19937,
+      19938,
+      19939,
+      19940,
+      19941,
+      19942,
+      19943,
+      19944,
+      19945,
+      19946,
+      19947,
+      19948,
+      19949,
+      19950,
+      19951,
+      19952,
+      19953,
+      19954,
+      19955,
+      19956,
+      19957,
+      19958,
+      19959,
+      19960,
+      19961,
+      19962,
+      19963,
+      19964,
+      19965,
+      19966,
+      19967,
+      19968,
+      19969,
+      19970,
+      19971,
+      19972
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8789,
+    "nameId": 1116024,
+    "categoryId": 178,
+    "descriptionId": 1115598,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 10,
+    "accountLinked": false,
+    "objectiveIds": [
+      17663
+    ],
+    "rewardIds": [
+      20013,
+      20014,
+      20015,
+      20016,
+      20017,
+      20018,
+      20019,
+      20020,
+      20021,
+      20022,
+      20023,
+      20024,
+      20025,
+      20026,
+      20027,
+      20028,
+      20029,
+      20030,
+      20031,
+      20032,
+      20033,
+      20034,
+      20035,
+      20036,
+      20037,
+      20038,
+      20039,
+      20040,
+      20041,
+      20042,
+      20043,
+      20044,
+      20045,
+      20046,
+      20047,
+      20048,
+      20049,
+      20050,
+      20051,
+      20052
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8790,
+    "nameId": 1116028,
+    "categoryId": 178,
+    "descriptionId": 1115610,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 11,
+    "accountLinked": false,
+    "objectiveIds": [
+      17664
+    ],
+    "rewardIds": [
+      19973,
+      19974,
+      19975,
+      19976,
+      19977,
+      19978,
+      19979,
+      19980,
+      19981,
+      19982,
+      19983,
+      19984,
+      19985,
+      19986,
+      19987,
+      19988,
+      19989,
+      19990,
+      19991,
+      19992,
+      19993,
+      19994,
+      19995,
+      19996,
+      19997,
+      19998,
+      19999,
+      20000,
+      20001,
+      20002,
+      20003,
+      20004,
+      20005,
+      20006,
+      20007,
+      20008,
+      20009,
+      20010,
+      20011,
+      20012
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8791,
+    "nameId": 1116026,
+    "categoryId": 178,
+    "descriptionId": 1115622,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 12,
+    "accountLinked": false,
+    "objectiveIds": [
+      17665
+    ],
+    "rewardIds": [
+      19853,
+      19854,
+      19855,
+      19856,
+      19857,
+      19858,
+      19859,
+      19860,
+      19861,
+      19862,
+      19863,
+      19864,
+      19865,
+      19866,
+      19867,
+      19868,
+      19869,
+      19870,
+      19871,
+      19872,
+      19873,
+      19874,
+      19875,
+      19876,
+      19877,
+      19878,
+      19879,
+      19880,
+      19881,
+      19882,
+      19883,
+      19884,
+      19885,
+      19886,
+      19887,
+      19888,
+      19889,
+      19890,
+      19891,
+      19892
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8792,
+    "nameId": 1116027,
+    "categoryId": 178,
+    "descriptionId": 1115634,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 13,
+    "accountLinked": false,
+    "objectiveIds": [
+      17666
+    ],
+    "rewardIds": [
+      19773,
+      19774,
+      19775,
+      19776,
+      19777,
+      19778,
+      19779,
+      19780,
+      19781,
+      19782,
+      19783,
+      19784,
+      19785,
+      19786,
+      19787,
+      19788,
+      19789,
+      19790,
+      19791,
+      19792,
+      19793,
+      19794,
+      19795,
+      19796,
+      19797,
+      19798,
+      19799,
+      19800,
+      19801,
+      19802,
+      19803,
+      19804,
+      19805,
+      19806,
+      19807,
+      19808,
+      19809,
+      19810,
+      19811,
+      19812
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8793,
+    "nameId": 1116025,
+    "categoryId": 178,
+    "descriptionId": 1115646,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 14,
+    "accountLinked": false,
+    "objectiveIds": [
+      17667
+    ],
+    "rewardIds": [
+      19693,
+      19694,
+      19695,
+      19696,
+      19697,
+      19698,
+      19699,
+      19700,
+      19701,
+      19702,
+      19703,
+      19704,
+      19705,
+      19706,
+      19707,
+      19708,
+      19709,
+      19710,
+      19711,
+      19712,
+      19713,
+      19714,
+      19715,
+      19716,
+      19717,
+      19718,
+      19719,
+      19720,
+      19721,
+      19722,
+      19723,
+      19724,
+      19725,
+      19726,
+      19727,
+      19728,
+      19729,
+      19730,
+      19731,
+      19732
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8794,
+    "nameId": 1115965,
+    "categoryId": 171,
+    "descriptionId": 1115969,
+    "iconId": 323,
+    "points": 0,
+    "level": 200,
+    "order": 9,
+    "accountLinked": false,
+    "objectiveIds": [
+      17670
+    ],
+    "rewardIds": [
+      20053
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8795,
+    "nameId": 1115987,
+    "categoryId": 171,
+    "descriptionId": 1115991,
+    "iconId": 342,
+    "points": 0,
+    "level": 200,
+    "order": 10,
+    "accountLinked": false,
+    "objectiveIds": [
+      17671
+    ],
+    "rewardIds": [
+      20054
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8796,
+    "nameId": 1116007,
+    "categoryId": 171,
+    "descriptionId": 1116011,
+    "iconId": 358,
+    "points": 0,
+    "level": 200,
+    "order": 12,
+    "accountLinked": false,
+    "objectiveIds": [
+      17672
+    ],
+    "rewardIds": [
+      20055
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8805,
+    "nameId": 1116263,
+    "categoryId": 179,
+    "descriptionId": 1116267,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 0,
+    "accountLinked": false,
+    "objectiveIds": [
+      17681
+    ],
+    "rewardIds": [
+      20070,
+      20071,
+      20072,
+      20073
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8806,
+    "nameId": 1116275,
+    "categoryId": 179,
+    "descriptionId": 1116279,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 1,
+    "accountLinked": false,
+    "objectiveIds": [
+      17682
+    ],
+    "rewardIds": [
+      20074,
+      20075,
+      20076,
+      20077
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8807,
+    "nameId": 1116287,
+    "categoryId": 179,
+    "descriptionId": 1116291,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 2,
+    "accountLinked": false,
+    "objectiveIds": [
+      17683
+    ],
+    "rewardIds": [
+      20078,
+      20079,
+      20080,
+      20081
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8808,
+    "nameId": 1116356,
+    "categoryId": 179,
+    "descriptionId": 1116357,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 3,
+    "accountLinked": false,
+    "objectiveIds": [
+      17684
+    ],
+    "rewardIds": [
+      20082,
+      20083,
+      20084,
+      20085
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8809,
+    "nameId": 1116311,
+    "categoryId": 179,
+    "descriptionId": 1116315,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 4,
+    "accountLinked": false,
+    "objectiveIds": [
+      17685
+    ],
+    "rewardIds": [
+      20086,
+      20087,
+      20088,
+      20089
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8810,
+    "nameId": 1116323,
+    "categoryId": 179,
+    "descriptionId": 1116327,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 5,
+    "accountLinked": false,
+    "objectiveIds": [
+      17686
+    ],
+    "rewardIds": [
+      20090,
+      20091,
+      20092,
+      20093
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8811,
+    "nameId": 1116335,
+    "categoryId": 179,
+    "descriptionId": 1116339,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 6,
+    "accountLinked": false,
+    "objectiveIds": [
+      17687
+    ],
+    "rewardIds": [
+      20094,
+      20095,
+      20096,
+      20097
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8812,
+    "nameId": 1116347,
+    "categoryId": 179,
+    "descriptionId": 1116351,
+    "iconId": 82,
+    "points": 0,
+    "level": 200,
+    "order": 7,
+    "accountLinked": false,
+    "objectiveIds": [
+      17688
+    ],
+    "rewardIds": [
+      20098,
+      20099,
+      20100,
+      20101
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8813,
+    "nameId": 1116423,
+    "categoryId": 181,
+    "descriptionId": 1116420,
+    "iconId": 0,
+    "points": 0,
+    "level": 1,
+    "order": 0,
+    "accountLinked": false,
+    "objectiveIds": [
+      17689
+    ],
+    "rewardIds": [
+      20102,
+      20103,
+      20104,
+      20105
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8816,
+    "nameId": 1116431,
+    "categoryId": 181,
+    "descriptionId": 1116432,
+    "iconId": 0,
+    "points": 0,
+    "level": 1,
+    "order": 1,
+    "accountLinked": false,
+    "objectiveIds": [
+      17692
+    ],
+    "rewardIds": [
+      20106,
+      20107,
+      20108,
+      20109
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8817,
+    "nameId": 1116434,
+    "categoryId": 181,
+    "descriptionId": 1116435,
+    "iconId": 0,
+    "points": 0,
+    "level": 1,
+    "order": 2,
+    "accountLinked": false,
+    "objectiveIds": [
+      17693
+    ],
+    "rewardIds": [
+      20110,
+      20111,
+      20112,
+      20113
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8818,
+    "nameId": 1116437,
+    "categoryId": 181,
+    "descriptionId": 1116438,
+    "iconId": 0,
+    "points": 0,
+    "level": 1,
+    "order": 3,
+    "accountLinked": false,
+    "objectiveIds": [
+      17694
+    ],
+    "rewardIds": [
+      20114,
+      20115,
+      20116,
+      20117
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8819,
+    "nameId": 1116440,
+    "categoryId": 181,
+    "descriptionId": 1116441,
+    "iconId": 0,
+    "points": 0,
+    "level": 1,
+    "order": 4,
+    "accountLinked": false,
+    "objectiveIds": [
+      17695
+    ],
+    "rewardIds": [
+      20118,
+      20119,
+      20120,
+      20121
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8820,
+    "nameId": 1116443,
+    "categoryId": 181,
+    "descriptionId": 1116444,
+    "iconId": 0,
+    "points": 0,
+    "level": 1,
+    "order": 5,
+    "accountLinked": false,
+    "objectiveIds": [
+      17696
+    ],
+    "rewardIds": [
+      20122,
+      20123,
+      20124,
+      20125
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8821,
+    "nameId": 1116446,
+    "categoryId": 181,
+    "descriptionId": 1116447,
+    "iconId": 0,
+    "points": 0,
+    "level": 1,
+    "order": 6,
+    "accountLinked": false,
+    "objectiveIds": [
+      17697
+    ],
+    "rewardIds": [
+      20126,
+      20127,
+      20128,
+      20129
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8822,
+    "nameId": 1116449,
+    "categoryId": 181,
+    "descriptionId": 1116450,
+    "iconId": 0,
+    "points": 0,
+    "level": 1,
+    "order": 7,
+    "accountLinked": false,
+    "objectiveIds": [
+      17698
+    ],
+    "rewardIds": [
+      20130,
+      20131,
+      20132,
+      20133
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8823,
+    "nameId": 1116452,
+    "categoryId": 181,
+    "descriptionId": 1116453,
+    "iconId": 0,
+    "points": 0,
+    "level": 1,
+    "order": 8,
+    "accountLinked": false,
+    "objectiveIds": [
+      17699
+    ],
+    "rewardIds": [
+      20134,
+      20135,
+      20136,
+      20137
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8824,
+    "nameId": 1116455,
+    "categoryId": 181,
+    "descriptionId": 1116456,
+    "iconId": 0,
+    "points": 0,
+    "level": 1,
+    "order": 9,
+    "accountLinked": false,
+    "objectiveIds": [
+      17700
+    ],
+    "rewardIds": [
+      20138,
+      20139,
+      20140,
+      20141
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8825,
+    "nameId": 1116458,
+    "categoryId": 181,
+    "descriptionId": 1116459,
+    "iconId": 0,
+    "points": 0,
+    "level": 1,
+    "order": 10,
+    "accountLinked": false,
+    "objectiveIds": [
+      17701
+    ],
+    "rewardIds": [
+      20142,
+      20143,
+      20144,
+      20145
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8826,
+    "nameId": 1116461,
+    "categoryId": 181,
+    "descriptionId": 1116462,
+    "iconId": 0,
+    "points": 0,
+    "level": 1,
+    "order": 11,
+    "accountLinked": false,
+    "objectiveIds": [
+      17702
+    ],
+    "rewardIds": [
+      20146,
+      20147,
+      20148,
+      20149
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8827,
+    "nameId": 1116464,
+    "categoryId": 181,
+    "descriptionId": 1116465,
+    "iconId": 0,
+    "points": 0,
+    "level": 1,
+    "order": 12,
+    "accountLinked": false,
+    "objectiveIds": [
+      17703
+    ],
+    "rewardIds": [
+      20150,
+      20151,
+      20152,
+      20153
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8828,
+    "nameId": 1116467,
+    "categoryId": 181,
+    "descriptionId": 1116468,
+    "iconId": 0,
+    "points": 0,
+    "level": 1,
+    "order": 13,
+    "accountLinked": false,
+    "objectiveIds": [
+      17704
+    ],
+    "rewardIds": [
+      20154,
+      20155,
+      20156,
+      20157
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8829,
+    "nameId": 1116470,
+    "categoryId": 181,
+    "descriptionId": 1116471,
+    "iconId": 0,
+    "points": 0,
+    "level": 1,
+    "order": 14,
+    "accountLinked": false,
+    "objectiveIds": [
+      17705
+    ],
+    "rewardIds": [
+      20158,
+      20159,
+      20160,
+      20161
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8830,
+    "nameId": 1116473,
+    "categoryId": 181,
+    "descriptionId": 1116474,
+    "iconId": 0,
+    "points": 0,
+    "level": 1,
+    "order": 15,
+    "accountLinked": false,
+    "objectiveIds": [
+      17706
+    ],
+    "rewardIds": [
+      20162,
+      20163,
+      20164,
+      20165
+    ],
+    "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
+  },
+  {
+    "id": 8831,
+    "nameId": 1116476,
+    "categoryId": 181,
+    "descriptionId": 1116477,
+    "iconId": 0,
+    "points": 0,
+    "level": 1,
+    "order": 16,
+    "accountLinked": false,
+    "objectiveIds": [
+      17707
+    ],
+    "rewardIds": [
+      20166,
+      20167,
+      20168,
+      20169
     ],
     "m_challengeRegex": "\\[\\s*challenge\\s*,\\s*(\\d\u002B)\\s*\\]"
   }

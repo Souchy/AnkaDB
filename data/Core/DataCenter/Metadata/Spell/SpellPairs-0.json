@@ -3108,60 +3108,6 @@
     "iconId": 10100
   },
   {
-    "id": 626,
-    "nameId": 1046498,
-    "descriptionId": 1046681,
-    "iconId": 11803
-  },
-  {
-    "id": 627,
-    "nameId": 1046494,
-    "descriptionId": 1046692,
-    "iconId": 11796
-  },
-  {
-    "id": 628,
-    "nameId": 917480,
-    "descriptionId": 1046685,
-    "iconId": 11800
-  },
-  {
-    "id": 629,
-    "nameId": 1046492,
-    "descriptionId": 1046683,
-    "iconId": 11795
-  },
-  {
-    "id": 630,
-    "nameId": 917503,
-    "descriptionId": 1046689,
-    "iconId": 11798
-  },
-  {
-    "id": 631,
-    "nameId": 1046497,
-    "descriptionId": 1046682,
-    "iconId": 11802
-  },
-  {
-    "id": 632,
-    "nameId": 1046493,
-    "descriptionId": 1046690,
-    "iconId": 11797
-  },
-  {
-    "id": 633,
-    "nameId": 1046496,
-    "descriptionId": 1046686,
-    "iconId": 11799
-  },
-  {
-    "id": 634,
-    "nameId": 928263,
-    "descriptionId": 1046684,
-    "iconId": 11801
-  },
-  {
     "id": 635,
     "nameId": 921765,
     "descriptionId": 921766,
@@ -3178,18 +3124,6 @@
     "nameId": 921769,
     "descriptionId": 921770,
     "iconId": 10100
-  },
-  {
-    "id": 638,
-    "nameId": 1046495,
-    "descriptionId": 1046693,
-    "iconId": 11796
-  },
-  {
-    "id": 647,
-    "nameId": 927381,
-    "descriptionId": 1046691,
-    "iconId": 11800
   },
   {
     "id": 659,
@@ -4076,7 +4010,7 @@
   {
     "id": 835,
     "nameId": 1065795,
-    "descriptionId": 1068864,
+    "descriptionId": 1116492,
     "iconId": 11796
   },
   {

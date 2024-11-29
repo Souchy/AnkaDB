@@ -478,5 +478,10 @@
     "id": 99,
     "gfxId": "healDealt",
     "referenceKey": "soinDonne"
+  },
+  {
+    "id": 100,
+    "gfxId": "trapPower",
+    "referenceKey": "piegePuissance"
   }
 ]
