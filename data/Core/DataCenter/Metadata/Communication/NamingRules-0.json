@@ -1,0 +1,110 @@
+[
+  {
+    "id": 0,
+    "minLength": 2,
+    "maxLength": 20,
+    "regexp": "^[a-zA-Z]\u002B$"
+  },
+  {
+    "id": 1,
+    "minLength": 2,
+    "maxLength": 20,
+    "regexp": "^([A-Z][a-z]\u002B(\\-[a-zA-Z][a-z]*){0,2})$"
+  },
+  {
+    "id": 2,
+    "minLength": 3,
+    "maxLength": 30,
+    "regexp": "^[a-zA-Z\u0027 -]\u002B$"
+  },
+  {
+    "id": 3,
+    "minLength": 2,
+    "maxLength": 20,
+    "regexp": "^([A-Z][a-z]\u002B(\\-[a-zA-Z][a-z]*){0,2})$|^([\u0410-\u042F\u0401][\u0430-\u044F\u0451]\u002B(\\-[\u0430-\u044F\u0451\u0410-\u042F\u0401][\u0430-\u044F\u0451]*){0,2})$"
+  },
+  {
+    "id": 4,
+    "minLength": 2,
+    "maxLength": 20,
+    "regexp": "^([\u0410-\u042F\u0401][\u0430-\u044F\u0451]\u002B(\\-[\u0430-\u044F\u0451\u0410-\u042F\u0401][\u0430-\u044F\u0451]*){0,2})$"
+  },
+  {
+    "id": 5,
+    "minLength": 2,
+    "maxLength": 20,
+    "regexp": "^[u30A1-u30FEu3041-u309EA-Za-z\\-]\u002B$"
+  },
+  {
+    "id": 6,
+    "minLength": 3,
+    "maxLength": 30,
+    "regexp": "^[\u0410-\u042F\u0430-\u044F\u0401\u0451\u0027 -]\u002B$"
+  },
+  {
+    "id": 7,
+    "minLength": 3,
+    "maxLength": 30,
+    "regexp": "^[a-zA-Z\u0027 -]\u002B$|^[\u0410-\u042F\u0430-\u044F\u0401\u0451\u0027 -]\u002B$"
+  },
+  {
+    "id": 8,
+    "minLength": 3,
+    "maxLength": 5,
+    "regexp": "^[a-zA-Z]\u002B$"
+  },
+  {
+    "id": 9,
+    "minLength": 3,
+    "maxLength": 5,
+    "regexp": "^[\u0410-\u042F\u0430-\u044F\u0401\u0451]\u002B$"
+  },
+  {
+    "id": 10,
+    "minLength": 3,
+    "maxLength": 5,
+    "regexp": "^[a-zA-Z]\u002B$|^[\u0410-\u042F\u0430-\u044F\u0401\u0451]\u002B$"
+  },
+  {
+    "id": 11,
+    "minLength": 3,
+    "maxLength": 25,
+    "regexp": "^[a-zA-Z0-9\u0027 -]\u002B$"
+  },
+  {
+    "id": 12,
+    "minLength": 3,
+    "maxLength": 25,
+    "regexp": "^[\u0410-\u042F\u0430-\u044F\u0401\u04510-9\u0027 -]\u002B$"
+  },
+  {
+    "id": 13,
+    "minLength": 3,
+    "maxLength": 25,
+    "regexp": "^[a-zA-Z0-9\u0027 -]\u002B$|^[\u0410-\u042F\u0430-\u044F\u0401\u04510-9\u0027 -]\u002B$"
+  },
+  {
+    "id": 14,
+    "minLength": 3,
+    "maxLength": 20,
+    "regexp": "^[A-Za-z0-9\\[\\]-]\u002B$"
+  },
+  {
+    "id": 15,
+    "minLength": 3,
+    "maxLength": 20,
+    "regexp": "^[A-Za-z\\[\\]-]\u002B$"
+  },
+  {
+    "id": 16,
+    "minLength": 1,
+    "maxLength": 16,
+    "regexp": "^[a-zA-Z0-9\u0410-\u042F\u0430-\u044F\u0401\u0451\\*\\[\\]@-]\u002B$"
+  },
+  {
+    "id": 17,
+    "minLength": 3,
+    "maxLength": 25,
+    "regexp": "^[a-zA-Z0-9\u0027 -]\u002B$|^[\u0410-\u042F\u0430-\u044F\u0401\u04510-9\u0027 -]\u002B$"
+  }
+]

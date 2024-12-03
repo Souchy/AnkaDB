@@ -1,0 +1,487 @@
+[
+  {
+    "id": 98,
+    "gfxId": "CriticalDmg",
+    "referenceKey": "dmgCritique"
+  },
+  {
+    "id": 72,
+    "gfxId": "areaFork",
+    "referenceKey": "fourche"
+  },
+  {
+    "id": 15,
+    "gfxId": "flee",
+    "referenceKey": "fuite"
+  },
+  {
+    "id": 23,
+    "gfxId": "initiative",
+    "referenceKey": "initiative"
+  },
+  {
+    "id": 24,
+    "gfxId": "invocation",
+    "referenceKey": "invocation"
+  },
+  {
+    "id": 99,
+    "gfxId": "healDealt",
+    "referenceKey": "soinDonne"
+  },
+  {
+    "id": 44,
+    "gfxId": "HealthShield",
+    "referenceKey": "bouclier"
+  },
+  {
+    "id": 54,
+    "gfxId": "kama",
+    "referenceKey": "kama"
+  },
+  {
+    "id": 48,
+    "gfxId": "turn",
+    "referenceKey": "tour"
+  },
+  {
+    "id": 49,
+    "gfxId": "infinite",
+    "referenceKey": "infini"
+  },
+  {
+    "id": 53,
+    "gfxId": "questionMark",
+    "referenceKey": "queteValid"
+  },
+  {
+    "id": 56,
+    "gfxId": "areaStar",
+    "referenceKey": "etoile"
+  },
+  {
+    "id": 57,
+    "gfxId": "areaSquareWithoutDiagonal",
+    "referenceKey": "carreSansDiagonales"
+  },
+  {
+    "id": 58,
+    "gfxId": "areaSquare",
+    "referenceKey": "carre"
+  },
+  {
+    "id": 60,
+    "gfxId": "areaPerpendicularLine",
+    "referenceKey": "ligneOrthogonale"
+  },
+  {
+    "id": 62,
+    "gfxId": "areaLineFromCaster",
+    "referenceKey": "ligneDepuisLeCaster"
+  },
+  {
+    "id": 63,
+    "gfxId": "areaLine",
+    "referenceKey": "ligne"
+  },
+  {
+    "id": 64,
+    "gfxId": "areaHalfCircle",
+    "referenceKey": "demiCercle"
+  },
+  {
+    "id": 61,
+    "gfxId": "areaPerpendicularDiagonalLine",
+    "referenceKey": "ligneDiagonaleOrthogonale"
+  },
+  {
+    "id": 65,
+    "gfxId": "areaDiagonalLine",
+    "referenceKey": "ligneDiagonale"
+  },
+  {
+    "id": 66,
+    "gfxId": "areaDiagonalCrossWithoutCenter",
+    "referenceKey": "croixEnDiagonaleCentreVide"
+  },
+  {
+    "id": 68,
+    "gfxId": "areaCone",
+    "referenceKey": "cone"
+  },
+  {
+    "id": 69,
+    "gfxId": "areaCircle",
+    "referenceKey": "cercle"
+  },
+  {
+    "id": 70,
+    "gfxId": "areaBoomerang",
+    "referenceKey": "boomerang"
+  },
+  {
+    "id": 59,
+    "gfxId": "areaRing",
+    "referenceKey": "anneau"
+  },
+  {
+    "id": 71,
+    "gfxId": "areaCross",
+    "referenceKey": "croix"
+  },
+  {
+    "id": 73,
+    "gfxId": "areaRectangle",
+    "referenceKey": "rectangle"
+  },
+  {
+    "id": 67,
+    "gfxId": "areaCrossWithoutCenter",
+    "referenceKey": "croixCentreVide"
+  },
+  {
+    "id": 74,
+    "gfxId": "areaDiagonalCross",
+    "referenceKey": "croixEnDiagonale"
+  },
+  {
+    "id": 75,
+    "gfxId": "crossedSwords",
+    "referenceKey": "epeesCroisees"
+  },
+  {
+    "id": 76,
+    "gfxId": "lock",
+    "referenceKey": "verrouillage"
+  },
+  {
+    "id": 77,
+    "gfxId": "skull",
+    "referenceKey": "teteDeMort"
+  },
+  {
+    "id": 78,
+    "gfxId": "hourglass",
+    "referenceKey": "sablier"
+  },
+  {
+    "id": 83,
+    "gfxId": "damageblocked",
+    "referenceKey": "dmgBloqu\u00E9s"
+  },
+  {
+    "id": 90,
+    "gfxId": "link",
+    "referenceKey": "liaison"
+  },
+  {
+    "id": 91,
+    "gfxId": "huntingWeapon",
+    "referenceKey": "armeChasse"
+  },
+  {
+    "id": 25,
+    "gfxId": "neutral",
+    "referenceKey": "neutre"
+  },
+  {
+    "id": 7,
+    "gfxId": "pa",
+    "referenceKey": "pa"
+  },
+  {
+    "id": 8,
+    "gfxId": "pm",
+    "referenceKey": "pm"
+  },
+  {
+    "id": 9,
+    "gfxId": "po",
+    "referenceKey": "po"
+  },
+  {
+    "id": 84,
+    "gfxId": "zaap",
+    "referenceKey": "zaap"
+  },
+  {
+    "id": 27,
+    "gfxId": "prospection",
+    "referenceKey": "pp"
+  },
+  {
+    "id": 50,
+    "gfxId": "multiElementDamages",
+    "referenceKey": "multiElement"
+  },
+  {
+    "id": 79,
+    "gfxId": "switch",
+    "referenceKey": "echanger"
+  },
+  {
+    "id": 85,
+    "gfxId": "trapTrigger",
+    "referenceKey": "piegeDeclenche"
+  },
+  {
+    "id": 87,
+    "gfxId": "teleport",
+    "referenceKey": "teleporter"
+  },
+  {
+    "id": 86,
+    "gfxId": "trap",
+    "referenceKey": "piege"
+  },
+  {
+    "id": 26,
+    "gfxId": "power",
+    "referenceKey": "puissance"
+  },
+  {
+    "id": 88,
+    "gfxId": "stateAdd",
+    "referenceKey": "ajouterEtat"
+  },
+  {
+    "id": 80,
+    "gfxId": "pull",
+    "referenceKey": "attirer"
+  },
+  {
+    "id": 6,
+    "gfxId": "wind",
+    "referenceKey": "air"
+  },
+  {
+    "id": 93,
+    "gfxId": "gift",
+    "referenceKey": "cadeau"
+  },
+  {
+    "id": 19,
+    "gfxId": "weapons",
+    "referenceKey": "dmgArme"
+  },
+  {
+    "id": 18,
+    "gfxId": "distance",
+    "referenceKey": "dmgDistance"
+  },
+  {
+    "id": 82,
+    "gfxId": "damageDealt",
+    "referenceKey": "dmgEnvoyes"
+  },
+  {
+    "id": 100,
+    "gfxId": "trapPower",
+    "referenceKey": "piegePuissance"
+  },
+  {
+    "id": 30,
+    "gfxId": "push",
+    "referenceKey": "dmgPoussee"
+  },
+  {
+    "id": 81,
+    "gfxId": "damageReceived",
+    "referenceKey": "dmgRecus"
+  },
+  {
+    "id": 20,
+    "gfxId": "spells",
+    "referenceKey": "dmgSort"
+  },
+  {
+    "id": 3,
+    "gfxId": "water",
+    "referenceKey": "eau"
+  },
+  {
+    "id": 47,
+    "gfxId": "energy",
+    "referenceKey": "energie"
+  },
+  {
+    "id": 43,
+    "gfxId": "erosion",
+    "referenceKey": "erosion"
+  },
+  {
+    "id": 13,
+    "gfxId": "dodgePA",
+    "referenceKey": "esquivePA"
+  },
+  {
+    "id": 14,
+    "gfxId": "dodgePM",
+    "referenceKey": "esquivePM"
+  },
+  {
+    "id": 89,
+    "gfxId": "pet",
+    "referenceKey": "familier"
+  },
+  {
+    "id": 4,
+    "gfxId": "fire",
+    "referenceKey": "feu"
+  },
+  {
+    "id": 10,
+    "gfxId": "health",
+    "referenceKey": "pv"
+  },
+  {
+    "id": 52,
+    "gfxId": "quest",
+    "referenceKey": "quete"
+  },
+  {
+    "id": 46,
+    "gfxId": "return",
+    "referenceKey": "renvoi"
+  },
+  {
+    "id": 33,
+    "gfxId": "windRes",
+    "referenceKey": "resAir"
+  },
+  {
+    "id": 42,
+    "gfxId": "weaponsRes",
+    "referenceKey": "resArme"
+  },
+  {
+    "id": 38,
+    "gfxId": "criticalRes",
+    "referenceKey": "resCrit"
+  },
+  {
+    "id": 39,
+    "gfxId": "distanceRes",
+    "referenceKey": "resDistance"
+  },
+  {
+    "id": 34,
+    "gfxId": "waterRes",
+    "referenceKey": "resEau"
+  },
+  {
+    "id": 35,
+    "gfxId": "fireRes",
+    "referenceKey": "resFeu"
+  },
+  {
+    "id": 51,
+    "gfxId": "multiElementRes",
+    "referenceKey": "resMultiElement"
+  },
+  {
+    "id": 37,
+    "gfxId": "neutralRes",
+    "referenceKey": "resNeutre"
+  },
+  {
+    "id": 45,
+    "gfxId": "pushRes",
+    "referenceKey": "resPoussee"
+  },
+  {
+    "id": 41,
+    "gfxId": "spellsRes",
+    "referenceKey": "resSort"
+  },
+  {
+    "id": 36,
+    "gfxId": "earthRes",
+    "referenceKey": "resTerre"
+  },
+  {
+    "id": 11,
+    "gfxId": "attackPA",
+    "referenceKey": "retraitPA"
+  },
+  {
+    "id": 12,
+    "gfxId": "attackPM",
+    "referenceKey": "retraitPM"
+  },
+  {
+    "id": 29,
+    "gfxId": "wisdom",
+    "referenceKey": "sagesse"
+  },
+  {
+    "id": 55,
+    "gfxId": "step",
+    "referenceKey": "seuil"
+  },
+  {
+    "id": 21,
+    "gfxId": "heal",
+    "referenceKey": "soin"
+  },
+  {
+    "id": 92,
+    "gfxId": "healRecieved",
+    "referenceKey": "soinRecu"
+  },
+  {
+    "id": 16,
+    "gfxId": "tacle",
+    "referenceKey": "tacle"
+  },
+  {
+    "id": 5,
+    "gfxId": "earth",
+    "referenceKey": "terre"
+  },
+  {
+    "id": 22,
+    "gfxId": "experience",
+    "referenceKey": "xp"
+  },
+  {
+    "id": 31,
+    "gfxId": "critical",
+    "referenceKey": "critique"
+  },
+  {
+    "id": 94,
+    "gfxId": "fm",
+    "referenceKey": "fm"
+  },
+  {
+    "id": 28,
+    "gfxId": "pod",
+    "referenceKey": "pod"
+  },
+  {
+    "id": 95,
+    "gfxId": "losange",
+    "referenceKey": "losange"
+  },
+  {
+    "id": 17,
+    "gfxId": "meleeDamages",
+    "referenceKey": "dmgMelee"
+  },
+  {
+    "id": 40,
+    "gfxId": "meleeDamagesRes",
+    "referenceKey": "resMelee"
+  },
+  {
+    "id": 96,
+    "gfxId": "damage",
+    "referenceKey": "dommages"
+  },
+  {
+    "id": 97,
+    "gfxId": "multiElementDamages",
+    "referenceKey": "dmgMultiElement"
+  }
+]

@@ -1,0 +1,4646 @@
+[
+  {
+    "id": 149,
+    "actionId": 182,
+    "targetId": 12541,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          80,
+          0.025
+        ]
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "actionId": 426,
+    "targetId": 11950,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          2
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.18
+        ]
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "actionId": 422,
+    "targetId": 11955,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          2
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.18
+        ]
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "actionId": 117,
+    "targetId": 7710,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          80,
+          0.025
+        ]
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "actionId": 176,
+    "targetId": 12963,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "actionId": 182,
+    "targetId": 7713,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          80,
+          0.025
+        ]
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "actionId": 138,
+    "targetId": 30830,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "actionId": 176,
+    "targetId": 6716,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "actionId": 176,
+    "targetId": 7703,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "actionId": 123,
+    "targetId": 7708,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "actionId": 119,
+    "targetId": 7709,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "actionId": 126,
+    "targetId": 7711,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "actionId": 118,
+    "targetId": 7712,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "actionId": 123,
+    "targetId": 7891,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "actionId": 126,
+    "targetId": 11765,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "actionId": 118,
+    "targetId": 11765,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "actionId": 123,
+    "targetId": 11777,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "actionId": 123,
+    "targetId": 11950,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "actionId": 118,
+    "targetId": 11955,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "actionId": 119,
+    "targetId": 11966,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "actionId": 126,
+    "targetId": 11971,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "actionId": 126,
+    "targetId": 12988,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "actionId": 118,
+    "targetId": 29430,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "actionId": 126,
+    "targetId": 29431,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "actionId": 119,
+    "targetId": 29432,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "actionId": 123,
+    "targetId": 29433,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "actionId": 126,
+    "targetId": 7892,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "actionId": 118,
+    "targetId": 13071,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "actionId": 119,
+    "targetId": 13071,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "actionId": 118,
+    "targetId": 15133,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "actionId": 176,
+    "targetId": 15249,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "actionId": 176,
+    "targetId": 16276,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "actionId": 176,
+    "targetId": 17813,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "actionId": 115,
+    "targetId": 30957,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          1
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.14
+        ]
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "actionId": 138,
+    "targetId": 30957,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "actionId": 138,
+    "targetId": 12541,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "actionId": 138,
+    "targetId": 1728,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "actionId": 117,
+    "targetId": 10802,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          80,
+          0.025
+        ]
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "actionId": 117,
+    "targetId": 12982,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          80,
+          0.025
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "actionId": 119,
+    "targetId": 7891,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "actionId": 119,
+    "targetId": 7892,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "actionId": 176,
+    "targetId": 8155,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "actionId": 123,
+    "targetId": 8211,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "actionId": 126,
+    "targetId": 8211,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "actionId": 118,
+    "targetId": 8561,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "actionId": 123,
+    "targetId": 8561,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "actionId": 119,
+    "targetId": 10865,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "actionId": 176,
+    "targetId": 10866,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "actionId": 424,
+    "targetId": 12894,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "actionId": 138,
+    "targetId": 12894,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "actionId": 138,
+    "targetId": 19044,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "actionId": 752,
+    "targetId": 30830,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "actionId": 138,
+    "targetId": 1748,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "actionId": 138,
+    "targetId": 7522,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "actionId": 182,
+    "targetId": 15110,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          80,
+          0.025
+        ]
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "actionId": 182,
+    "targetId": 25292,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          80,
+          0.025
+        ]
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "actionId": 182,
+    "targetId": 9785,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          80,
+          0.025
+        ]
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "actionId": 117,
+    "targetId": 13230,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          80,
+          0.025
+        ]
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "actionId": 117,
+    "targetId": 15254,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          80,
+          0.025
+        ]
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "actionId": 182,
+    "targetId": 17511,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          80,
+          0.025
+        ]
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "actionId": 138,
+    "targetId": 7524,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "actionId": 138,
+    "targetId": 7704,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "actionId": 138,
+    "targetId": 7705,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "actionId": 138,
+    "targetId": 7707,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "actionId": 138,
+    "targetId": 7710,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "actionId": 138,
+    "targetId": 7713,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "actionId": 138,
+    "targetId": 7911,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "actionId": 138,
+    "targetId": 8153,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "actionId": 138,
+    "targetId": 9617,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "actionId": 138,
+    "targetId": 9624,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "actionId": 138,
+    "targetId": 10657,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "actionId": 138,
+    "targetId": 11858,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "actionId": 138,
+    "targetId": 7415,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "actionId": 138,
+    "targetId": 12994,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "actionId": 138,
+    "targetId": 13230,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "actionId": 138,
+    "targetId": 14433,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          7
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.63
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "actionId": 752,
+    "targetId": 1728,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "actionId": 410,
+    "targetId": 7519,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "actionId": 410,
+    "targetId": 7522,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "actionId": 752,
+    "targetId": 7704,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "actionId": 412,
+    "targetId": 7705,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "actionId": 753,
+    "targetId": 7707,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "actionId": 418,
+    "targetId": 7708,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "actionId": 418,
+    "targetId": 7711,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "actionId": 418,
+    "targetId": 7712,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "actionId": 410,
+    "targetId": 7911,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "actionId": 410,
+    "targetId": 8677,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "actionId": 418,
+    "targetId": 9617,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "actionId": 160,
+    "targetId": 10802,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "actionId": 160,
+    "targetId": 10863,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "actionId": 410,
+    "targetId": 11013,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "actionId": 412,
+    "targetId": 11771,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "actionId": 412,
+    "targetId": 11858,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "actionId": 418,
+    "targetId": 19044,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "actionId": 753,
+    "targetId": 25293,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "actionId": 412,
+    "targetId": 29434,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "actionId": 418,
+    "targetId": 7709,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "actionId": 161,
+    "targetId": 13000,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "actionId": 418,
+    "targetId": 13673,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "actionId": 410,
+    "targetId": 14433,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "actionId": 412,
+    "targetId": 15978,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "actionId": 410,
+    "targetId": 16122,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "actionId": 161,
+    "targetId": 17511,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "actionId": 138,
+    "targetId": 2074,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "actionId": 138,
+    "targetId": 2075,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "actionId": 138,
+    "targetId": 2076,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "actionId": 138,
+    "targetId": 2077,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "actionId": 138,
+    "targetId": 8693,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "actionId": 160,
+    "targetId": 11012,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "actionId": 752,
+    "targetId": 7519,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "actionId": 138,
+    "targetId": 7520,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "actionId": 178,
+    "targetId": 7706,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "actionId": 753,
+    "targetId": 7706,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "actionId": 178,
+    "targetId": 7714,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "actionId": 160,
+    "targetId": 7714,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "actionId": 161,
+    "targetId": 8153,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "actionId": 138,
+    "targetId": 8154,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "actionId": 178,
+    "targetId": 8677,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "actionId": 138,
+    "targetId": 9620,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "actionId": 138,
+    "targetId": 9623,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "actionId": 161,
+    "targetId": 9624,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "actionId": 752,
+    "targetId": 10864,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "actionId": 178,
+    "targetId": 10864,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "actionId": 752,
+    "targetId": 11013,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "actionId": 418,
+    "targetId": 11014,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "actionId": 178,
+    "targetId": 11771,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "actionId": 752,
+    "targetId": 12975,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "actionId": 160,
+    "targetId": 12994,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "actionId": 752,
+    "targetId": 29434,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "actionId": 161,
+    "targetId": 29435,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "actionId": 418,
+    "targetId": 13465,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "actionId": 418,
+    "targetId": 19291,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "actionId": 160,
+    "targetId": 7414,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "actionId": 138,
+    "targetId": 9619,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "actionId": 753,
+    "targetId": 11783,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "actionId": 138,
+    "targetId": 12133,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "actionId": 161,
+    "targetId": 13099,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "actionId": 178,
+    "targetId": 13099,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "actionId": 138,
+    "targetId": 13679,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "actionId": 753,
+    "targetId": 15978,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "actionId": 753,
+    "targetId": 16122,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "actionId": 161,
+    "targetId": 16269,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "actionId": 420,
+    "targetId": 17023,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "actionId": 416,
+    "targetId": 17028,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          5
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.45
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "actionId": 125,
+    "targetId": 6978,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          20
+        ]
+      },
+      {
+        "values": [
+          100,
+          3.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "actionId": 125,
+    "targetId": 7518,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          20
+        ]
+      },
+      {
+        "values": [
+          100,
+          3.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "actionId": 125,
+    "targetId": 8151,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          20
+        ]
+      },
+      {
+        "values": [
+          100,
+          3.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "actionId": 125,
+    "targetId": 9594,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          20
+        ]
+      },
+      {
+        "values": [
+          100,
+          3.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "actionId": 125,
+    "targetId": 10106,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          20
+        ]
+      },
+      {
+        "values": [
+          100,
+          3.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "actionId": 125,
+    "targetId": 10544,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          20
+        ]
+      },
+      {
+        "values": [
+          100,
+          3.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "actionId": 125,
+    "targetId": 11015,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          20
+        ]
+      },
+      {
+        "values": [
+          100,
+          3.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "actionId": 125,
+    "targetId": 12009,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          20
+        ]
+      },
+      {
+        "values": [
+          100,
+          3.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "actionId": 125,
+    "targetId": 12177,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          20
+        ]
+      },
+      {
+        "values": [
+          100,
+          3.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "actionId": 125,
+    "targetId": 15469,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          20
+        ]
+      },
+      {
+        "values": [
+          100,
+          3.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "actionId": 125,
+    "targetId": 16116,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          20
+        ]
+      },
+      {
+        "values": [
+          100,
+          3.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "actionId": 125,
+    "targetId": 16295,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          20
+        ]
+      },
+      {
+        "values": [
+          100,
+          3.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "actionId": 125,
+    "targetId": 17023,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          20
+        ]
+      },
+      {
+        "values": [
+          100,
+          3.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "actionId": 125,
+    "targetId": 17028,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          20
+        ]
+      },
+      {
+        "values": [
+          100,
+          3.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "actionId": 125,
+    "targetId": 17379,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          20
+        ]
+      },
+      {
+        "values": [
+          100,
+          3.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "actionId": 125,
+    "targetId": 17833,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          20
+        ]
+      },
+      {
+        "values": [
+          100,
+          3.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "actionId": 125,
+    "targetId": 18626,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          20
+        ]
+      },
+      {
+        "values": [
+          100,
+          3.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "actionId": 125,
+    "targetId": 19139,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          20
+        ]
+      },
+      {
+        "values": [
+          100,
+          3.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "actionId": 125,
+    "targetId": 19531,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          20
+        ]
+      },
+      {
+        "values": [
+          100,
+          3.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "actionId": 424,
+    "targetId": 11971,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          2
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.18
+        ]
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "actionId": 428,
+    "targetId": 11966,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          2
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.18
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "actionId": 212,
+    "targetId": 2076,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          2
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.23
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "actionId": 211,
+    "targetId": 2075,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          2
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.23
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "actionId": 213,
+    "targetId": 2074,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          2
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.23
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "actionId": 210,
+    "targetId": 2077,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          2
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.23
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "actionId": 214,
+    "targetId": 7520,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          2
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.23
+        ]
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "actionId": 176,
+    "targetId": 11011,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          12
+        ]
+      },
+      {
+        "values": [
+          100,
+          1.08
+        ]
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "actionId": 418,
+    "targetId": 12177,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "actionId": 161,
+    "targetId": 15469,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "actionId": 753,
+    "targetId": 12009,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "actionId": 414,
+    "targetId": 10544,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          8
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.72
+        ]
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "actionId": 752,
+    "targetId": 10106,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "actionId": 160,
+    "targetId": 9594,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "actionId": 160,
+    "targetId": 8151,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "actionId": 752,
+    "targetId": 7518,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "actionId": 414,
+    "targetId": 6978,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          8
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.72
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "actionId": 420,
+    "targetId": 1748,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          10
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "actionId": 420,
+    "targetId": 10863,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          10
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "actionId": 416,
+    "targetId": 10985,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          10
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "actionId": 416,
+    "targetId": 11014,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          10
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "actionId": 414,
+    "targetId": 13603,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          10
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "actionId": 420,
+    "targetId": 19286,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          10
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "actionId": 416,
+    "targetId": 19286,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          10
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "actionId": 416,
+    "targetId": 7524,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          10
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "actionId": 420,
+    "targetId": 13000,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          10
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "actionId": 420,
+    "targetId": 15607,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          10
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "actionId": 414,
+    "targetId": 15607,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          10
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "actionId": 158,
+    "targetId": 8000,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          100
+        ]
+      },
+      {
+        "values": [
+          100,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "actionId": 174,
+    "targetId": 9785,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          100
+        ]
+      },
+      {
+        "values": [
+          100,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "actionId": 158,
+    "targetId": 10107,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          100
+        ]
+      },
+      {
+        "values": [
+          100,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "actionId": 174,
+    "targetId": 11783,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          100
+        ]
+      },
+      {
+        "values": [
+          100,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "actionId": 174,
+    "targetId": 12975,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          100
+        ]
+      },
+      {
+        "values": [
+          100,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "actionId": 174,
+    "targetId": 12982,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          100
+        ]
+      },
+      {
+        "values": [
+          100,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "actionId": 174,
+    "targetId": 29435,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          100
+        ]
+      },
+      {
+        "values": [
+          100,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "actionId": 174,
+    "targetId": 18088,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          100
+        ]
+      },
+      {
+        "values": [
+          100,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "actionId": 158,
+    "targetId": 29456,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          100
+        ]
+      },
+      {
+        "values": [
+          100,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "actionId": 174,
+    "targetId": 7414,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          100
+        ]
+      },
+      {
+        "values": [
+          100,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "actionId": 158,
+    "targetId": 13667,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          100
+        ]
+      },
+      {
+        "values": [
+          100,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "actionId": 158,
+    "targetId": 14545,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          100
+        ]
+      },
+      {
+        "values": [
+          100,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "actionId": 174,
+    "targetId": 17700,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          100
+        ]
+      },
+      {
+        "values": [
+          100,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "actionId": 158,
+    "targetId": 17795,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          100
+        ]
+      },
+      {
+        "values": [
+          100,
+          19
+        ]
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "actionId": 213,
+    "targetId": 8154,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          100,
+          0.05
+        ]
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "actionId": 210,
+    "targetId": 8154,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          100,
+          0.05
+        ]
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "actionId": 212,
+    "targetId": 8154,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          100,
+          0.05
+        ]
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "actionId": 214,
+    "targetId": 8154,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          100,
+          0.05
+        ]
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "actionId": 211,
+    "targetId": 8154,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          100,
+          0.05
+        ]
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "actionId": 111,
+    "targetId": 8693,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          80,
+          0.0125
+        ]
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "actionId": 111,
+    "targetId": 11012,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          80,
+          0.0125
+        ]
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "actionId": 111,
+    "targetId": 13465,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          80,
+          0.0125
+        ]
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "actionId": 128,
+    "targetId": 13603,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          80,
+          0.0125
+        ]
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "actionId": 111,
+    "targetId": 18088,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          80,
+          0.0125
+        ]
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "actionId": 128,
+    "targetId": 15110,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          80,
+          0.0125
+        ]
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "actionId": 128,
+    "targetId": 15254,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          80,
+          0.0125
+        ]
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "actionId": 111,
+    "targetId": 16269,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          80,
+          0.0125
+        ]
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "actionId": 242,
+    "targetId": 9619,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          8
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.72
+        ]
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "actionId": 241,
+    "targetId": 9620,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          8
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.72
+        ]
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "actionId": 243,
+    "targetId": 9623,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          8
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.72
+        ]
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "actionId": 414,
+    "targetId": 10865,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          8
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.72
+        ]
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "actionId": 414,
+    "targetId": 11777,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          8
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.72
+        ]
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "actionId": 244,
+    "targetId": 12133,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          8
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.72
+        ]
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "actionId": 414,
+    "targetId": 12988,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          8
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.72
+        ]
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "actionId": 416,
+    "targetId": 25293,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          8
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.72
+        ]
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "actionId": 414,
+    "targetId": 7415,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          8
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.72
+        ]
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "actionId": 414,
+    "targetId": 10657,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          8
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.72
+        ]
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "actionId": 414,
+    "targetId": 13661,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          8
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.72
+        ]
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "actionId": 240,
+    "targetId": 13679,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          8
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.72
+        ]
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "actionId": 414,
+    "targetId": 15133,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          8
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.72
+        ]
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "actionId": 214,
+    "targetId": 11015,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          1
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.09
+        ]
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "actionId": 213,
+    "targetId": 16116,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          1
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.09
+        ]
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "actionId": 210,
+    "targetId": 17379,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          1
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.09
+        ]
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "actionId": 211,
+    "targetId": 18626,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          1
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.09
+        ]
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "actionId": 212,
+    "targetId": 19139,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          1
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.09
+        ]
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "actionId": 424,
+    "targetId": 25292,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          1
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.14
+        ]
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "actionId": 428,
+    "targetId": 25292,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          1
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.14
+        ]
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "actionId": 422,
+    "targetId": 25292,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          1
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.14
+        ]
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "actionId": 426,
+    "targetId": 25292,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          1
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.14
+        ]
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "actionId": 115,
+    "targetId": 29430,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          1
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.14
+        ]
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "actionId": 115,
+    "targetId": 29431,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          1
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.14
+        ]
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "actionId": 115,
+    "targetId": 29432,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          1
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.14
+        ]
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "actionId": 115,
+    "targetId": 29433,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          1
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.14
+        ]
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "actionId": 115,
+    "targetId": 10985,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          1
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.14
+        ]
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "actionId": 115,
+    "targetId": 13661,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          1
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.14
+        ]
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "actionId": 115,
+    "targetId": 13673,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          1
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.14
+        ]
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "actionId": 115,
+    "targetId": 17700,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          1
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.14
+        ]
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "actionId": 414,
+    "targetId": 19291,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          10
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.9
+        ]
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "actionId": 418,
+    "targetId": 19531,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "actionId": 161,
+    "targetId": 17833,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "actionId": 160,
+    "targetId": 16295,
+    "progressionPerLevelRange": [
+      {
+        "values": [
+          0,
+          4
+        ]
+      },
+      {
+        "values": [
+          100,
+          0.36
+        ]
+      }
+    ]
+  }
+]

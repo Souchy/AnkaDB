@@ -1,0 +1,4011 @@
+[
+  {
+    "id": 149,
+    "nameId": 1119230,
+    "categoryId": 10,
+    "areas": [],
+    "subareas": [
+      702
+    ],
+    "globalDrops": [
+      363
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 14,
+    "nameId": 1115955,
+    "categoryId": 6,
+    "areas": [],
+    "subareas": [
+      95
+    ],
+    "globalDrops": [
+      349
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 150,
+    "nameId": 1119235,
+    "categoryId": 10,
+    "areas": [],
+    "subareas": [
+      284
+    ],
+    "globalDrops": [
+      364
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 31,
+    "nameId": 1116246,
+    "categoryId": 6,
+    "areas": [],
+    "subareas": [
+      1026
+    ],
+    "globalDrops": [
+      349
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 37,
+    "nameId": 1116342,
+    "categoryId": 7,
+    "areas": [],
+    "subareas": [
+      872
+    ],
+    "globalDrops": [
+      350
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 43,
+    "nameId": 1116438,
+    "categoryId": 7,
+    "areas": [],
+    "subareas": [
+      165
+    ],
+    "globalDrops": [
+      350
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 15,
+    "nameId": 1115972,
+    "categoryId": 6,
+    "areas": [],
+    "subareas": [
+      30,
+      5
+    ],
+    "globalDrops": [
+      349
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 32,
+    "nameId": 1116262,
+    "categoryId": 6,
+    "areas": [],
+    "subareas": [
+      56
+    ],
+    "globalDrops": [
+      349
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2603,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 20,
+    "nameId": 1116031,
+    "categoryId": 6,
+    "areas": [],
+    "subareas": [
+      453
+    ],
+    "globalDrops": [
+      349
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 24,
+    "nameId": 1116108,
+    "categoryId": 6,
+    "areas": [],
+    "subareas": [
+      170
+    ],
+    "globalDrops": [
+      349
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 35,
+    "nameId": 1116310,
+    "categoryId": 6,
+    "areas": [],
+    "subareas": [
+      161
+    ],
+    "globalDrops": [
+      349
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 0,
+    "scoreMsgTiming": 0
+  },
+  {
+    "id": 25,
+    "nameId": 1116144,
+    "categoryId": 6,
+    "areas": [],
+    "subareas": [
+      3
+    ],
+    "globalDrops": [
+      349
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 38,
+    "nameId": 1116358,
+    "categoryId": 7,
+    "areas": [],
+    "subareas": [
+      168
+    ],
+    "globalDrops": [
+      350
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 26,
+    "nameId": 1116160,
+    "categoryId": 6,
+    "areas": [],
+    "subareas": [
+      54
+    ],
+    "globalDrops": [
+      349
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 16,
+    "nameId": 1115959,
+    "categoryId": 6,
+    "areas": [],
+    "subareas": [
+      335
+    ],
+    "globalDrops": [
+      349
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 39,
+    "nameId": 1116374,
+    "categoryId": 7,
+    "areas": [],
+    "subareas": [
+      33
+    ],
+    "globalDrops": [
+      350
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 33,
+    "nameId": 1116278,
+    "categoryId": 6,
+    "areas": [],
+    "subareas": [
+      12
+    ],
+    "globalDrops": [
+      349
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 17,
+    "nameId": 1115976,
+    "categoryId": 6,
+    "areas": [],
+    "subareas": [
+      98
+    ],
+    "globalDrops": [
+      349
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 27,
+    "nameId": 1116176,
+    "categoryId": 6,
+    "areas": [],
+    "subareas": [
+      103
+    ],
+    "globalDrops": [
+      349
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 44,
+    "nameId": 1116454,
+    "categoryId": 7,
+    "areas": [],
+    "subareas": [
+      522
+    ],
+    "globalDrops": [
+      350
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 18,
+    "nameId": 1115995,
+    "categoryId": 6,
+    "areas": [],
+    "subareas": [
+      96
+    ],
+    "globalDrops": [
+      349
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 28,
+    "nameId": 1116192,
+    "categoryId": 6,
+    "areas": [],
+    "subareas": [
+      277,
+      8
+    ],
+    "globalDrops": [
+      349
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 151,
+    "nameId": 1119239,
+    "categoryId": 10,
+    "areas": [],
+    "subareas": [
+      528
+    ],
+    "globalDrops": [
+      365
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 40,
+    "nameId": 1116390,
+    "categoryId": 7,
+    "areas": [],
+    "subareas": [
+      526
+    ],
+    "globalDrops": [
+      350
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 45,
+    "nameId": 1116470,
+    "categoryId": 7,
+    "areas": [],
+    "subareas": [
+      454
+    ],
+    "globalDrops": [
+      350
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 36,
+    "nameId": 1116326,
+    "categoryId": 7,
+    "areas": [],
+    "subareas": [
+      57
+    ],
+    "globalDrops": [
+      350
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 41,
+    "nameId": 1116406,
+    "categoryId": 7,
+    "areas": [],
+    "subareas": [
+      799
+    ],
+    "globalDrops": [
+      350
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 152,
+    "nameId": 1119243,
+    "categoryId": 10,
+    "areas": [],
+    "subareas": [
+      755
+    ],
+    "globalDrops": [
+      366
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 153,
+    "nameId": 1119247,
+    "categoryId": 10,
+    "areas": [],
+    "subareas": [
+      1022
+    ],
+    "globalDrops": [
+      367
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 19,
+    "nameId": 1116015,
+    "categoryId": 6,
+    "areas": [],
+    "subareas": [
+      6
+    ],
+    "globalDrops": [
+      349
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 154,
+    "nameId": 1119251,
+    "categoryId": 10,
+    "areas": [],
+    "subareas": [
+      321
+    ],
+    "globalDrops": [
+      368
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 155,
+    "nameId": 1119255,
+    "categoryId": 10,
+    "areas": [],
+    "subareas": [
+      537
+    ],
+    "globalDrops": [
+      369
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 157,
+    "nameId": 1119265,
+    "categoryId": 10,
+    "areas": [],
+    "subareas": [
+      77,
+      78
+    ],
+    "globalDrops": [
+      374
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 34,
+    "nameId": 1116294,
+    "categoryId": 6,
+    "areas": [],
+    "subareas": [
+      166
+    ],
+    "globalDrops": [
+      349
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 29,
+    "nameId": 1116214,
+    "categoryId": 6,
+    "areas": [],
+    "subareas": [
+      320
+    ],
+    "globalDrops": [
+      349
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 13,
+    "nameId": 1115860,
+    "categoryId": 6,
+    "areas": [],
+    "subareas": [
+      449
+    ],
+    "globalDrops": [
+      349
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 30,
+    "nameId": 1116230,
+    "categoryId": 6,
+    "areas": [],
+    "subareas": [
+      173
+    ],
+    "globalDrops": [
+      349
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 158,
+    "nameId": 1119269,
+    "categoryId": 10,
+    "areas": [],
+    "subareas": [
+      700
+    ],
+    "globalDrops": [
+      378
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 59,
+    "nameId": 1116700,
+    "categoryId": 8,
+    "areas": [],
+    "subareas": [
+      945
+    ],
+    "globalDrops": [
+      351
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 60,
+    "nameId": 1116716,
+    "categoryId": 8,
+    "areas": [],
+    "subareas": [
+      9
+    ],
+    "globalDrops": [
+      351
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 63,
+    "nameId": 1116764,
+    "categoryId": 8,
+    "areas": [],
+    "subareas": [
+      952
+    ],
+    "globalDrops": [
+      351
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 65,
+    "nameId": 1116833,
+    "categoryId": 8,
+    "areas": [],
+    "subareas": [
+      519,
+      809
+    ],
+    "globalDrops": [
+      351
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 68,
+    "nameId": 1116892,
+    "categoryId": 8,
+    "areas": [],
+    "subareas": [
+      837
+    ],
+    "globalDrops": [
+      351
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 69,
+    "nameId": 1116908,
+    "categoryId": 8,
+    "areas": [],
+    "subareas": [
+      878
+    ],
+    "globalDrops": [
+      351
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 71,
+    "nameId": 1116942,
+    "categoryId": 8,
+    "areas": [],
+    "subareas": [
+      889
+    ],
+    "globalDrops": [
+      351
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 74,
+    "nameId": 1117315,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      71
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 76,
+    "nameId": 1117359,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      883
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 50,
+    "nameId": 1116551,
+    "categoryId": 7,
+    "areas": [],
+    "subareas": [
+      602
+    ],
+    "globalDrops": [
+      350
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 46,
+    "nameId": 1116486,
+    "categoryId": 7,
+    "areas": [],
+    "subareas": [
+      209
+    ],
+    "globalDrops": [
+      350
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 47,
+    "nameId": 1116502,
+    "categoryId": 7,
+    "areas": [],
+    "subareas": [
+      942
+    ],
+    "globalDrops": [
+      350
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 48,
+    "nameId": 1116518,
+    "categoryId": 7,
+    "areas": [],
+    "subareas": [
+      1011,
+      985
+    ],
+    "globalDrops": [
+      350
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 49,
+    "nameId": 1116535,
+    "categoryId": 7,
+    "areas": [],
+    "subareas": [
+      757
+    ],
+    "globalDrops": [
+      350
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 51,
+    "nameId": 1116571,
+    "categoryId": 8,
+    "areas": [],
+    "subareas": [
+      873
+    ],
+    "globalDrops": [
+      351
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 52,
+    "nameId": 1116587,
+    "categoryId": 8,
+    "areas": [],
+    "subareas": [
+      941
+    ],
+    "globalDrops": [
+      351
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 54,
+    "nameId": 1116619,
+    "categoryId": 8,
+    "areas": [],
+    "subareas": [
+      944
+    ],
+    "globalDrops": [
+      351
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 56,
+    "nameId": 1116652,
+    "categoryId": 8,
+    "areas": [],
+    "subareas": [
+      943
+    ],
+    "globalDrops": [
+      351
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 57,
+    "nameId": 1116668,
+    "categoryId": 8,
+    "areas": [],
+    "subareas": [
+      455
+    ],
+    "globalDrops": [
+      351
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 73,
+    "nameId": 1116985,
+    "categoryId": 8,
+    "areas": [],
+    "subareas": [
+      758
+    ],
+    "globalDrops": [
+      351
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 85,
+    "nameId": 1117652,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      838
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 82,
+    "nameId": 1117604,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      902
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 79,
+    "nameId": 1117526,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      788
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 80,
+    "nameId": 1117560,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      786
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 81,
+    "nameId": 1117588,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      787
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 83,
+    "nameId": 1117620,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      829
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 84,
+    "nameId": 1117636,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      917
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 155,
+    "scoreMsgTiming": 0
+  },
+  {
+    "id": 87,
+    "nameId": 1117684,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      611
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 78,
+    "nameId": 1117440,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      785
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 88,
+    "nameId": 1117700,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      857
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 89,
+    "nameId": 1117716,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      834
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 90,
+    "nameId": 1117732,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      1027
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 91,
+    "nameId": 1117748,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      881
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 92,
+    "nameId": 1117764,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      804
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 93,
+    "nameId": 1117780,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      860,
+      861,
+      862
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 94,
+    "nameId": 1117796,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      860
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 95,
+    "nameId": 1117812,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      1029
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 96,
+    "nameId": 1117828,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      971
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 97,
+    "nameId": 1117844,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      868,
+      867,
+      866
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 98,
+    "nameId": 1117860,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      789
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 75,
+    "nameId": 1117337,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      608
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 53,
+    "nameId": 1116603,
+    "categoryId": 8,
+    "areas": [],
+    "subareas": [
+      615
+    ],
+    "globalDrops": [
+      351
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 55,
+    "nameId": 1116636,
+    "categoryId": 8,
+    "areas": [],
+    "subareas": [
+      523
+    ],
+    "globalDrops": [
+      351
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 61,
+    "nameId": 1116732,
+    "categoryId": 8,
+    "areas": [],
+    "subareas": [
+      472,
+      464
+    ],
+    "globalDrops": [
+      351
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 62,
+    "nameId": 1116748,
+    "categoryId": 8,
+    "areas": [],
+    "subareas": [
+      821
+    ],
+    "globalDrops": [
+      351
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 64,
+    "nameId": 1116780,
+    "categoryId": 8,
+    "areas": [],
+    "subareas": [
+      609
+    ],
+    "globalDrops": [
+      351
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 66,
+    "nameId": 1116860,
+    "categoryId": 8,
+    "areas": [],
+    "subareas": [
+      856
+    ],
+    "globalDrops": [
+      351
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 67,
+    "nameId": 1116876,
+    "categoryId": 8,
+    "areas": [],
+    "subareas": [
+      610
+    ],
+    "globalDrops": [
+      351
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 72,
+    "nameId": 1116958,
+    "categoryId": 8,
+    "areas": [],
+    "subareas": [
+      828
+    ],
+    "globalDrops": [
+      351
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 70,
+    "nameId": 1116925,
+    "categoryId": 8,
+    "areas": [],
+    "subareas": [
+      955
+    ],
+    "globalDrops": [
+      351
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 99,
+    "nameId": 1117876,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      863,
+      864,
+      865
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 77,
+    "nameId": 1117378,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      606
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 86,
+    "nameId": 1117668,
+    "categoryId": 9,
+    "areas": [],
+    "subareas": [
+      822
+    ],
+    "globalDrops": [
+      352
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 141,
+    "nameId": 1119198,
+    "categoryId": 10,
+    "areas": [],
+    "subareas": [
+      306
+    ],
+    "globalDrops": [
+      355
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 179,
+    "nameId": 1119353,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      947
+    ],
+    "globalDrops": [
+      399
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 138,
+    "nameId": 1119186,
+    "categoryId": 6,
+    "areas": [],
+    "subareas": [
+      100
+    ],
+    "globalDrops": [
+      349
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 156,
+    "nameId": 1119260,
+    "categoryId": 10,
+    "areas": [],
+    "subareas": [
+      493
+    ],
+    "globalDrops": [
+      370
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 180,
+    "nameId": 1119357,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      948
+    ],
+    "globalDrops": [
+      400
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 181,
+    "nameId": 1119361,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      781
+    ],
+    "globalDrops": [
+      401
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 201,
+    "nameId": 1119444,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      949
+    ],
+    "globalDrops": [
+      402
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 182,
+    "nameId": 1119366,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      950
+    ],
+    "globalDrops": [
+      403
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 183,
+    "nameId": 1119370,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      618
+    ],
+    "globalDrops": [
+      404
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 184,
+    "nameId": 1119374,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      463
+    ],
+    "globalDrops": [
+      405
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 185,
+    "nameId": 1119378,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      1016
+    ],
+    "globalDrops": [
+      406
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 186,
+    "nameId": 1119382,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      824
+    ],
+    "globalDrops": [
+      407
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 187,
+    "nameId": 1119386,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      339
+    ],
+    "globalDrops": [
+      408
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 192,
+    "nameId": 1119406,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      620
+    ],
+    "globalDrops": [
+      413
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 202,
+    "nameId": 1119448,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      953
+    ],
+    "globalDrops": [
+      414
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 139,
+    "nameId": 1119190,
+    "categoryId": 10,
+    "areas": [],
+    "subareas": [
+      447
+    ],
+    "globalDrops": [
+      353
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 140,
+    "nameId": 1119194,
+    "categoryId": 10,
+    "areas": [],
+    "subareas": [
+      336
+    ],
+    "globalDrops": [
+      354
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 142,
+    "nameId": 1119202,
+    "categoryId": 10,
+    "areas": [],
+    "subareas": [
+      82
+    ],
+    "globalDrops": [
+      356
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 143,
+    "nameId": 1119206,
+    "categoryId": 10,
+    "areas": [],
+    "subareas": [
+      842
+    ],
+    "globalDrops": [
+      357
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 144,
+    "nameId": 1119210,
+    "categoryId": 10,
+    "areas": [],
+    "subareas": [
+      201
+    ],
+    "globalDrops": [
+      358
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 145,
+    "nameId": 1119214,
+    "categoryId": 10,
+    "areas": [],
+    "subareas": [
+      516
+    ],
+    "globalDrops": [
+      359
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 146,
+    "nameId": 1119218,
+    "categoryId": 10,
+    "areas": [],
+    "subareas": [
+      460
+    ],
+    "globalDrops": [
+      360
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 147,
+    "nameId": 1119222,
+    "categoryId": 10,
+    "areas": [],
+    "subareas": [
+      1018
+    ],
+    "globalDrops": [
+      361
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 148,
+    "nameId": 1119226,
+    "categoryId": 10,
+    "areas": [],
+    "subareas": [
+      297
+    ],
+    "globalDrops": [
+      362
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 42,
+    "nameId": 1116422,
+    "categoryId": 7,
+    "areas": [],
+    "subareas": [
+      315
+    ],
+    "globalDrops": [
+      350
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 58,
+    "nameId": 1116684,
+    "categoryId": 8,
+    "areas": [],
+    "subareas": [
+      518
+    ],
+    "globalDrops": [
+      351
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": 5,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2605,
+    "startMsgId": 2607,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 115,
+    "nameId": 1120181,
+    "categoryId": 14,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 122,
+    "nameId": 1120188,
+    "categoryId": 15,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 188,
+    "nameId": 1119390,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      619
+    ],
+    "globalDrops": [
+      409
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 189,
+    "nameId": 1119394,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      811
+    ],
+    "globalDrops": [
+      410
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 190,
+    "nameId": 1119398,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      459
+    ],
+    "globalDrops": [
+      411
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 191,
+    "nameId": 1119402,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      621
+    ],
+    "globalDrops": [
+      412
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 109,
+    "nameId": 1120207,
+    "categoryId": 14,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 110,
+    "nameId": 1120211,
+    "categoryId": 14,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 111,
+    "nameId": 1120214,
+    "categoryId": 14,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 112,
+    "nameId": 1120220,
+    "categoryId": 14,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 113,
+    "nameId": 1120223,
+    "categoryId": 14,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 116,
+    "nameId": 1120205,
+    "categoryId": 15,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 117,
+    "nameId": 1120209,
+    "categoryId": 15,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 118,
+    "nameId": 1120213,
+    "categoryId": 15,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 119,
+    "nameId": 1120218,
+    "categoryId": 15,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 120,
+    "nameId": 1120224,
+    "categoryId": 15,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 123,
+    "nameId": 1120208,
+    "categoryId": 16,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 125,
+    "nameId": 1120210,
+    "categoryId": 16,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 126,
+    "nameId": 1120215,
+    "categoryId": 16,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 128,
+    "nameId": 1120217,
+    "categoryId": 16,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 127,
+    "nameId": 1120221,
+    "categoryId": 16,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 130,
+    "nameId": 1120195,
+    "categoryId": 16,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 131,
+    "nameId": 1120206,
+    "categoryId": 17,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 132,
+    "nameId": 1120212,
+    "categoryId": 17,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 133,
+    "nameId": 1120216,
+    "categoryId": 17,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 134,
+    "nameId": 1120219,
+    "categoryId": 17,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 135,
+    "nameId": 1120222,
+    "categoryId": 17,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 137,
+    "nameId": 1120201,
+    "categoryId": 17,
+    "areas": [],
+    "subareas": [],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": -1,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 159,
+    "nameId": 1119273,
+    "categoryId": 11,
+    "areas": [],
+    "subareas": [
+      243
+    ],
+    "globalDrops": [
+      379
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 160,
+    "nameId": 1119277,
+    "categoryId": 11,
+    "areas": [],
+    "subareas": [
+      474
+    ],
+    "globalDrops": [
+      380
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 161,
+    "nameId": 1119281,
+    "categoryId": 11,
+    "areas": [],
+    "subareas": [
+      756
+    ],
+    "globalDrops": [
+      381
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 162,
+    "nameId": 1119285,
+    "categoryId": 11,
+    "areas": [],
+    "subareas": [
+      875
+    ],
+    "globalDrops": [
+      382
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 163,
+    "nameId": 1119289,
+    "categoryId": 11,
+    "areas": [],
+    "subareas": [
+      538
+    ],
+    "globalDrops": [
+      383
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 164,
+    "nameId": 1119293,
+    "categoryId": 11,
+    "areas": [],
+    "subareas": [
+      175
+    ],
+    "globalDrops": [
+      384
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 165,
+    "nameId": 1119297,
+    "categoryId": 11,
+    "areas": [],
+    "subareas": [
+      846
+    ],
+    "globalDrops": [
+      385
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 166,
+    "nameId": 1119301,
+    "categoryId": 11,
+    "areas": [],
+    "subareas": [
+      844
+    ],
+    "globalDrops": [
+      386
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 167,
+    "nameId": 1119305,
+    "categoryId": 11,
+    "areas": [],
+    "subareas": [
+      919
+    ],
+    "globalDrops": [
+      387
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 168,
+    "nameId": 1119309,
+    "categoryId": 11,
+    "areas": [],
+    "subareas": [
+      800
+    ],
+    "globalDrops": [
+      388
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 169,
+    "nameId": 1119313,
+    "categoryId": 11,
+    "areas": [],
+    "subareas": [
+      213
+    ],
+    "globalDrops": [
+      389
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 170,
+    "nameId": 1119317,
+    "categoryId": 11,
+    "areas": [],
+    "subareas": [
+      847
+    ],
+    "globalDrops": [
+      390
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 171,
+    "nameId": 1119321,
+    "categoryId": 11,
+    "areas": [],
+    "subareas": [
+      946
+    ],
+    "globalDrops": [
+      391
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 172,
+    "nameId": 1119325,
+    "categoryId": 11,
+    "areas": [],
+    "subareas": [
+      154
+    ],
+    "globalDrops": [
+      392
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 173,
+    "nameId": 1119329,
+    "categoryId": 11,
+    "areas": [],
+    "subareas": [
+      759
+    ],
+    "globalDrops": [
+      393
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 174,
+    "nameId": 1119333,
+    "categoryId": 11,
+    "areas": [],
+    "subareas": [
+      470
+    ],
+    "globalDrops": [
+      394
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 175,
+    "nameId": 1119574,
+    "categoryId": 11,
+    "areas": [],
+    "subareas": [
+      780
+    ],
+    "globalDrops": [
+      395
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 176,
+    "nameId": 1119341,
+    "categoryId": 11,
+    "areas": [],
+    "subareas": [
+      617
+    ],
+    "globalDrops": [
+      396
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 177,
+    "nameId": 1119345,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      876
+    ],
+    "globalDrops": [
+      397
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 178,
+    "nameId": 1119349,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      818
+    ],
+    "globalDrops": [
+      398
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 193,
+    "nameId": 1119411,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      853
+    ],
+    "globalDrops": [
+      415
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 194,
+    "nameId": 1119415,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      954
+    ],
+    "globalDrops": [
+      416
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 195,
+    "nameId": 1119419,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      880
+    ],
+    "globalDrops": [
+      417
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 196,
+    "nameId": 1119423,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      840
+    ],
+    "globalDrops": [
+      418
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 197,
+    "nameId": 1119427,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      623
+    ],
+    "globalDrops": [
+      419
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 198,
+    "nameId": 1119431,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      494
+    ],
+    "globalDrops": [
+      420
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 199,
+    "nameId": 1119436,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      760
+    ],
+    "globalDrops": [
+      421
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 200,
+    "nameId": 1119440,
+    "categoryId": 12,
+    "areas": [],
+    "subareas": [
+      831
+    ],
+    "globalDrops": [
+      422
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 203,
+    "nameId": 1119452,
+    "categoryId": 13,
+    "areas": [],
+    "subareas": [
+      783
+    ],
+    "globalDrops": [],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 204,
+    "nameId": 1119456,
+    "categoryId": 13,
+    "areas": [],
+    "subareas": [
+      94
+    ],
+    "globalDrops": [
+      424
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 205,
+    "nameId": 1119460,
+    "categoryId": 13,
+    "areas": [],
+    "subareas": [
+      884
+    ],
+    "globalDrops": [
+      425
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 206,
+    "nameId": 1119464,
+    "categoryId": 13,
+    "areas": [],
+    "subareas": [
+      752
+    ],
+    "globalDrops": [
+      426
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 207,
+    "nameId": 1119468,
+    "categoryId": 13,
+    "areas": [],
+    "subareas": [
+      1030
+    ],
+    "globalDrops": [
+      427
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 208,
+    "nameId": 1119472,
+    "categoryId": 13,
+    "areas": [],
+    "subareas": [
+      854
+    ],
+    "globalDrops": [
+      428
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 209,
+    "nameId": 1119479,
+    "categoryId": 13,
+    "areas": [],
+    "subareas": [
+      794
+    ],
+    "globalDrops": [
+      429
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 210,
+    "nameId": 1119483,
+    "categoryId": 13,
+    "areas": [],
+    "subareas": [
+      870
+    ],
+    "globalDrops": [
+      430
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 211,
+    "nameId": 1119487,
+    "categoryId": 13,
+    "areas": [],
+    "subareas": [
+      903
+    ],
+    "globalDrops": [
+      431
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 212,
+    "nameId": 1119491,
+    "categoryId": 13,
+    "areas": [],
+    "subareas": [
+      792
+    ],
+    "globalDrops": [
+      432
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 213,
+    "nameId": 1119497,
+    "categoryId": 13,
+    "areas": [],
+    "subareas": [
+      871
+    ],
+    "globalDrops": [
+      433
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 214,
+    "nameId": 1119501,
+    "categoryId": 13,
+    "areas": [],
+    "subareas": [
+      972
+    ],
+    "globalDrops": [
+      434
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 215,
+    "nameId": 1119505,
+    "categoryId": 13,
+    "areas": [],
+    "subareas": [
+      869
+    ],
+    "globalDrops": [
+      435
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 216,
+    "nameId": 1119510,
+    "categoryId": 13,
+    "areas": [],
+    "subareas": [
+      807
+    ],
+    "globalDrops": [
+      436
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 217,
+    "nameId": 1119515,
+    "categoryId": 13,
+    "areas": [],
+    "subareas": [
+      793
+    ],
+    "globalDrops": [
+      437
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 218,
+    "nameId": 1119519,
+    "categoryId": 13,
+    "areas": [],
+    "subareas": [
+      790
+    ],
+    "globalDrops": [
+      438
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 219,
+    "nameId": 1119523,
+    "categoryId": 13,
+    "areas": [],
+    "subareas": [
+      835
+    ],
+    "globalDrops": [
+      439
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 220,
+    "nameId": 1119528,
+    "categoryId": 13,
+    "areas": [],
+    "subareas": [
+      832
+    ],
+    "globalDrops": [
+      440
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 221,
+    "nameId": 1119532,
+    "categoryId": 13,
+    "areas": [],
+    "subareas": [
+      825
+    ],
+    "globalDrops": [
+      441
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 222,
+    "nameId": 1119536,
+    "categoryId": 13,
+    "areas": [],
+    "subareas": [
+      791
+    ],
+    "globalDrops": [
+      442
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 223,
+    "nameId": 1119540,
+    "categoryId": 13,
+    "areas": [],
+    "subareas": [
+      882
+    ],
+    "globalDrops": [
+      443
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  },
+  {
+    "id": 224,
+    "nameId": 1119544,
+    "categoryId": 13,
+    "areas": [],
+    "subareas": [
+      841
+    ],
+    "globalDrops": [
+      444
+    ],
+    "fightScenarios": [],
+    "deletedObjects": [],
+    "monsterHunterGroupsPerMap": -1,
+    "dungeonHunterGroupsPerMap": 3,
+    "preMsgId": 2617,
+    "startMsgId": 2616,
+    "endMsgId": 2604,
+    "preMsgDelay": 15,
+    "scoreMsgTiming": 5
+  }
+]
