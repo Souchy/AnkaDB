@@ -30,11 +30,6 @@
     "referenceKey": "soinDonne"
   },
   {
-    "id": 44,
-    "gfxId": "HealthShield",
-    "referenceKey": "bouclier"
-  },
-  {
     "id": 54,
     "gfxId": "kama",
     "referenceKey": "kama"
@@ -483,5 +478,10 @@
     "id": 97,
     "gfxId": "multiElementDamages",
     "referenceKey": "dmgMultiElement"
+  },
+  {
+    "id": 44,
+    "gfxId": "healthShield",
+    "referenceKey": "bouclier"
   }
 ]

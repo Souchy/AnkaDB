@@ -62715,7 +62715,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:507,targetGfxId:9180,targetGfxShowUnder:1,targetGfxId2:9181",
+    "rawParams": "animId:505,targetGfxId:9180,targetGfxShowUnder:1,targetGfxId2:9181",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -66025,7 +66025,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1706,targetGfxId:8744",
+    "rawParams": "animId:1700,targetGfxId:8744,targetGfxDisplayType:2",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -66460,27 +66460,27 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "targetGfxId:20506,targetGfxDisplayType:2",
+    "rawParams": "animId:0,targetGfxId:20506,targetGfxDisplayType:2",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "targetGfxId:20506,targetGfxDisplayType:2",
+    "rawParams": "animId:0,targetGfxId:20506,targetGfxDisplayType:2",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "targetGfxId:20506,targetGfxDisplayType:2",
+    "rawParams": "animId:0,targetGfxId:20506,targetGfxDisplayType:2",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "targetGfxId:20506,targetGfxDisplayType:2",
+    "rawParams": "animId:0,targetGfxId:20506,targetGfxDisplayType:2",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "targetGfxId:20506,targetGfxDisplayType:2",
+    "rawParams": "animId:0,targetGfxId:20506,targetGfxDisplayType:2",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -68270,8 +68270,8 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque7\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]}]}}",
-    "type": 9,
+    "rawParams": "animId:7,targetGfxId:9176",
+    "type": 1,
     "m_lastUpdatedVersion": 0
   },
   {
@@ -71341,6 +71341,11 @@
   },
   {
     "rawParams": "",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:0",
     "type": 1,
     "m_lastUpdatedVersion": 0
   }

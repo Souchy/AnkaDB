@@ -1,32 +1,4 @@
-Data": [
-      {
-        "id": 20024,
-        "order": 1,
-        "scriptId": 17470,
-        "spellLevels": [
-          2
-        ],
-        "criterion": "",
-        "casterMask": "",
-        "targetMask": "",
-        "targetZone": "P1",
-        "activationMask": "",
-        "activationZone": "P1",
-        "random": 0,
-        "randomGroup": 0,
-        "sequenceGroup": 0,
-        "isTargetTreatedAsCaster": false,
-        "areTargetsAffectedConcurrently": false
-      },
-      {
-        "id": 20025,
-        "order": 2,
-        "scriptId": 17471,
-        "spellLevels": [
-          4
-        ],
-        "criterion": "",
-        "casterMask": "",
+    "casterMask": "",
         "targetMask": "",
         "targetZone": "P1",
         "activationMask": "",
@@ -21536,7 +21508,7 @@ Data": [
       {
         "id": 21353,
         "order": 2,
-        "scriptId": 17221,
+        "scriptId": 18263,
         "spellLevels": [],
         "criterion": "",
         "casterMask": "",
@@ -21623,7 +21595,7 @@ Data": [
       {
         "id": 21353,
         "order": 2,
-        "scriptId": 17221,
+        "scriptId": 18263,
         "spellLevels": [],
         "criterion": "",
         "casterMask": "",
@@ -22751,7 +22723,7 @@ Data": [
     "scriptParamsCritical": "",
     "scriptId": 0,
     "scriptIdCritical": 0,
-    "iconId": 13820,
+    "iconId": 13850,
     "spellLevels": [
       81472,
       81473
@@ -22908,7 +22880,7 @@ Data": [
     "scriptParamsCritical": "",
     "scriptId": 0,
     "scriptIdCritical": 0,
-    "iconId": 13822,
+    "iconId": 13852,
     "spellLevels": [
       81476,
       81477
@@ -23026,7 +22998,7 @@ Data": [
     "scriptParamsCritical": "",
     "scriptId": 0,
     "scriptIdCritical": 0,
-    "iconId": 13822,
+    "iconId": 13852,
     "spellLevels": [
       81511,
       81512
@@ -23533,7 +23505,7 @@ Data": [
     "scriptParamsCritical": "",
     "scriptId": 0,
     "scriptIdCritical": 0,
-    "iconId": 13835,
+    "iconId": 12127,
     "spellLevels": [
       81548,
       81574

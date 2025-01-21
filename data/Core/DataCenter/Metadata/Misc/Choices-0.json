@@ -637,27 +637,6 @@
     "proposalCount": 5,
     "options": [
       {
-        "id": 206,
-        "descriptionId": 1119129,
-        "rewardType": 2,
-        "rewardValue": 617,
-        "gfxId": 28
-      },
-      {
-        "id": 207,
-        "descriptionId": 1119130,
-        "rewardType": 2,
-        "rewardValue": 618,
-        "gfxId": 25
-      },
-      {
-        "id": 205,
-        "descriptionId": 1119131,
-        "rewardType": 2,
-        "rewardValue": 615,
-        "gfxId": 26
-      },
-      {
         "id": 214,
         "descriptionId": 1119132,
         "rewardType": 2,
@@ -665,8 +644,29 @@
         "gfxId": 27
       },
       {
+        "id": 206,
+        "descriptionId": 1121242,
+        "rewardType": 2,
+        "rewardValue": 617,
+        "gfxId": 28
+      },
+      {
+        "id": 207,
+        "descriptionId": 1121246,
+        "rewardType": 2,
+        "rewardValue": 618,
+        "gfxId": 25
+      },
+      {
+        "id": 205,
+        "descriptionId": 1121250,
+        "rewardType": 2,
+        "rewardValue": 615,
+        "gfxId": 26
+      },
+      {
         "id": 208,
-        "descriptionId": 1119133,
+        "descriptionId": 1121254,
         "rewardType": 2,
         "rewardValue": 616,
         "gfxId": 29

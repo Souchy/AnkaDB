@@ -14546,94 +14546,6 @@
     ]
   },
   {
-    "id": 617,
-    "nameId": 1119121,
-    "descriptionId": 1119122,
-    "categoryId": 57,
-    "iconId": 31105,
-    "isVisible": true,
-    "criteria": "",
-    "isWebDisplay": true,
-    "possibleEffects": [
-      {
-        "diceNum": 4,
-        "diceSide": 0,
-        "displayZero": false,
-        "value": 2861,
-        "m_flags": 15,
-        "effectUid": 0,
-        "baseEffectId": 92,
-        "effectId": 148,
-        "order": 0,
-        "targetId": 0,
-        "targetMask": "",
-        "duration": 0,
-        "random": 0,
-        "group": 0,
-        "modificator": 0,
-        "dispellable": 1,
-        "delay": 0,
-        "triggers": "",
-        "effectElement": -1,
-        "spellId": -1,
-        "effectTriggerDuration": 0,
-        "zoneDescr": {
-          "cellIds": [],
-          "shape": 67,
-          "param1": 1,
-          "param2": 0,
-          "damageDecreaseStepPercent": 10,
-          "maxDamageDecreaseApplyCount": 4,
-          "isStopAtTarget": false
-        }
-      }
-    ]
-  },
-  {
-    "id": 618,
-    "nameId": 1119127,
-    "descriptionId": 1119128,
-    "categoryId": 57,
-    "iconId": 31104,
-    "isVisible": true,
-    "criteria": "",
-    "isWebDisplay": true,
-    "possibleEffects": [
-      {
-        "diceNum": 4,
-        "diceSide": 0,
-        "displayZero": false,
-        "value": 2864,
-        "m_flags": 15,
-        "effectUid": 0,
-        "baseEffectId": 92,
-        "effectId": 148,
-        "order": 0,
-        "targetId": 0,
-        "targetMask": "",
-        "duration": 0,
-        "random": 0,
-        "group": 0,
-        "modificator": 0,
-        "dispellable": 1,
-        "delay": 0,
-        "triggers": "",
-        "effectElement": -1,
-        "spellId": -1,
-        "effectTriggerDuration": 0,
-        "zoneDescr": {
-          "cellIds": [],
-          "shape": 67,
-          "param1": 1,
-          "param2": 0,
-          "damageDecreaseStepPercent": 10,
-          "maxDamageDecreaseApplyCount": 4,
-          "isStopAtTarget": false
-        }
-      }
-    ]
-  },
-  {
     "id": 573,
     "nameId": 1101653,
     "descriptionId": 1101655,
@@ -16661,92 +16573,26 @@
     ]
   },
   {
-    "id": 614,
-    "nameId": 1119119,
-    "descriptionId": 1119120,
+    "id": 618,
+    "nameId": 1121266,
+    "descriptionId": 1119128,
     "categoryId": 57,
-    "iconId": 31107,
+    "iconId": 31104,
     "isVisible": true,
     "criteria": "",
     "isWebDisplay": true,
-    "possibleEffects": [
-      {
-        "diceNum": 4,
-        "diceSide": 0,
-        "displayZero": false,
-        "value": 2862,
-        "m_flags": 15,
-        "effectUid": 0,
-        "baseEffectId": 92,
-        "effectId": 148,
-        "order": 0,
-        "targetId": 0,
-        "targetMask": "",
-        "duration": 0,
-        "random": 0,
-        "group": 0,
-        "modificator": 0,
-        "dispellable": 1,
-        "delay": 0,
-        "triggers": "",
-        "effectElement": -1,
-        "spellId": -1,
-        "effectTriggerDuration": 0,
-        "zoneDescr": {
-          "cellIds": [],
-          "shape": 67,
-          "param1": 1,
-          "param2": 0,
-          "damageDecreaseStepPercent": 10,
-          "maxDamageDecreaseApplyCount": 4,
-          "isStopAtTarget": false
-        }
-      }
-    ]
+    "possibleEffects": []
   },
   {
-    "id": 615,
-    "nameId": 1119125,
-    "descriptionId": 1119126,
+    "id": 617,
+    "nameId": 1121262,
+    "descriptionId": 1119122,
     "categoryId": 57,
-    "iconId": 31106,
+    "iconId": 31105,
     "isVisible": true,
     "criteria": "",
     "isWebDisplay": true,
-    "possibleEffects": [
-      {
-        "diceNum": 4,
-        "diceSide": 0,
-        "displayZero": false,
-        "value": 2860,
-        "m_flags": 15,
-        "effectUid": 0,
-        "baseEffectId": 92,
-        "effectId": 148,
-        "order": 0,
-        "targetId": 0,
-        "targetMask": "",
-        "duration": 0,
-        "random": 0,
-        "group": 0,
-        "modificator": 0,
-        "dispellable": 1,
-        "delay": 0,
-        "triggers": "",
-        "effectElement": -1,
-        "spellId": -1,
-        "effectTriggerDuration": 0,
-        "zoneDescr": {
-          "cellIds": [],
-          "shape": 67,
-          "param1": 1,
-          "param2": 0,
-          "damageDecreaseStepPercent": 10,
-          "maxDamageDecreaseApplyCount": 4,
-          "isStopAtTarget": false
-        }
-      }
-    ]
+    "possibleEffects": []
   },
   {
     "id": 625,
@@ -16947,50 +16793,6 @@
         "diceSide": 0,
         "displayZero": false,
         "value": 2798,
-        "m_flags": 15,
-        "effectUid": 0,
-        "baseEffectId": 92,
-        "effectId": 148,
-        "order": 0,
-        "targetId": 0,
-        "targetMask": "",
-        "duration": 0,
-        "random": 0,
-        "group": 0,
-        "modificator": 0,
-        "dispellable": 1,
-        "delay": 0,
-        "triggers": "",
-        "effectElement": -1,
-        "spellId": -1,
-        "effectTriggerDuration": 0,
-        "zoneDescr": {
-          "cellIds": [],
-          "shape": 67,
-          "param1": 1,
-          "param2": 0,
-          "damageDecreaseStepPercent": 10,
-          "maxDamageDecreaseApplyCount": 4,
-          "isStopAtTarget": false
-        }
-      }
-    ]
-  },
-  {
-    "id": 616,
-    "nameId": 1119123,
-    "descriptionId": 1119124,
-    "categoryId": 57,
-    "iconId": 31108,
-    "isVisible": true,
-    "criteria": "",
-    "isWebDisplay": true,
-    "possibleEffects": [
-      {
-        "diceNum": 4,
-        "diceSide": 0,
-        "displayZero": false,
-        "value": 2863,
         "m_flags": 15,
         "effectUid": 0,
         "baseEffectId": 92,
@@ -17851,5 +17653,38 @@
         }
       }
     ]
+  },
+  {
+    "id": 616,
+    "nameId": 1121258,
+    "descriptionId": 1119124,
+    "categoryId": 57,
+    "iconId": 31108,
+    "isVisible": true,
+    "criteria": "",
+    "isWebDisplay": true,
+    "possibleEffects": []
+  },
+  {
+    "id": 615,
+    "nameId": 1121274,
+    "descriptionId": 1119126,
+    "categoryId": 57,
+    "iconId": 31106,
+    "isVisible": true,
+    "criteria": "",
+    "isWebDisplay": true,
+    "possibleEffects": []
+  },
+  {
+    "id": 614,
+    "nameId": 1121270,
+    "descriptionId": 1119120,
+    "categoryId": 57,
+    "iconId": 31107,
+    "isVisible": true,
+    "criteria": "",
+    "isWebDisplay": true,
+    "possibleEffects": []
   }
 ]
