@@ -2,7 +2,7 @@
   {
     "id": 1,
     "maxLevel": 101,
-    "experienceBoost": 7.5,
+    "experienceBoost": 10,
     "experienceByLevel": [
       0,
       1,

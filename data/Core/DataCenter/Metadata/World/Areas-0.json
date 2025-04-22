@@ -7,9 +7,9 @@
     "containPaddocks": true,
     "bounds": {
       "x": -24,
-      "y": -13,
+      "y": -10,
       "width": 40,
-      "height": 47
+      "height": 44
     },
     "worldmapId": 0,
     "hasWorldMap": false,
@@ -326,10 +326,10 @@
     "containHouses": false,
     "containPaddocks": false,
     "bounds": {
-      "x": -56,
+      "x": -57,
       "y": 0,
-      "width": 57,
-      "height": 45
+      "width": 58,
+      "height": 47
     },
     "worldmapId": 0,
     "hasWorldMap": false,

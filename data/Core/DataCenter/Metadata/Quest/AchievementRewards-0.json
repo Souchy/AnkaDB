@@ -2510,7 +2510,7 @@
     "experienceRatio": 0,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
-      13341,
+      365,
       393,
       1652
     ],
@@ -2556,16 +2556,14 @@
       13730,
       14278,
       13342,
-      13505,
-      7225
+      13505
     ],
     "itemsQuantityReward": [
       10,
       10,
       10,
       10,
-      10,
-      1
+      10
     ],
     "emotesReward": [],
     "spellsReward": [],
@@ -2873,14 +2871,12 @@
       409,
       3208,
       3001,
-      8145,
-      7224
+      8145
     ],
     "itemsQuantityReward": [
       10,
       10,
       10,
-      1,
       1
     ],
     "emotesReward": [],
@@ -3237,12 +3233,12 @@
       426
     ],
     "itemsQuantityReward": [
-      1,
-      1,
-      1,
-      1,
-      1,
-      1,
+      10,
+      10,
+      10,
+      10,
+      10,
+      10,
       1
     ],
     "emotesReward": [],
@@ -3632,15 +3628,13 @@
       415,
       414,
       1141,
-      416,
-      7223
+      416
     ],
     "itemsQuantityReward": [
       10,
       10,
       10,
-      10,
-      1
+      10
     ],
     "emotesReward": [],
     "spellsReward": [],
@@ -5097,8 +5091,7 @@
       8751,
       8752,
       9941,
-      8744,
-      7222
+      8744
     ],
     "itemsQuantityReward": [
       10,
@@ -5110,7 +5103,6 @@
       10,
       10,
       10,
-      1,
       1,
       1
     ],
@@ -9030,12 +9022,12 @@
       11333
     ],
     "itemsQuantityReward": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
     ],
     "emotesReward": [],
     "spellsReward": [],
@@ -18721,7 +18713,7 @@
       426
     ],
     "itemsQuantityReward": [
-      1,
+      10,
       5
     ],
     "emotesReward": [],
@@ -56856,11 +56848,11 @@
     "experienceRatio": 0,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
-      13936,
-      13924,
-      13948,
-      13983,
-      13995
+      13935,
+      13923,
+      13947,
+      13982,
+      13994
     ],
     "itemsQuantityReward": [
       2,
@@ -56883,18 +56875,18 @@
     "experienceRatio": 0,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
-      13994,
-      13982,
-      13923,
-      13947,
-      13935
+      13995,
+      13983,
+      13924,
+      13948,
+      13936
     ],
     "itemsQuantityReward": [
-      2,
-      2,
-      2,
-      2,
-      2
+      1,
+      1,
+      1,
+      1,
+      1
     ],
     "emotesReward": [],
     "spellsReward": [],
@@ -56917,11 +56909,11 @@
       13995
     ],
     "itemsQuantityReward": [
-      2,
-      2,
-      2,
-      2,
-      2
+      1,
+      1,
+      1,
+      1,
+      1
     ],
     "emotesReward": [],
     "spellsReward": [],
@@ -56971,15 +56963,13 @@
       13714,
       13500,
       13715,
-      10967,
-      23311
+      10967
     ],
     "itemsQuantityReward": [
       10,
       10,
       10,
       10,
-      1,
       1
     ],
     "emotesReward": [],
@@ -57081,7 +57071,7 @@
     "experienceRatio": 0,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
-      8801,
+      2468,
       887,
       486,
       2249
@@ -57491,8 +57481,8 @@
       2663,
       2662,
       2455,
-      2468,
-      8807,
+      756,
+      2466,
       882
     ],
     "itemsQuantityReward": [
@@ -124156,7 +124146,7 @@
     "emotesReward": [],
     "spellsReward": [],
     "titlesReward": [
-      455
+      477
     ],
     "ornamentsReward": [
       127
@@ -124175,7 +124165,7 @@
     "emotesReward": [],
     "spellsReward": [],
     "titlesReward": [
-      454
+      478
     ],
     "ornamentsReward": [
       128
@@ -124194,7 +124184,7 @@
     "emotesReward": [],
     "spellsReward": [],
     "titlesReward": [
-      457
+      479
     ],
     "ornamentsReward": [
       129
@@ -124213,7 +124203,7 @@
     "emotesReward": [],
     "spellsReward": [],
     "titlesReward": [
-      458
+      480
     ],
     "ornamentsReward": [
       130
@@ -124232,7 +124222,7 @@
     "emotesReward": [],
     "spellsReward": [],
     "titlesReward": [
-      456
+      482
     ],
     "ornamentsReward": [
       131
@@ -124251,7 +124241,7 @@
     "emotesReward": [],
     "spellsReward": [],
     "titlesReward": [
-      459
+      483
     ],
     "ornamentsReward": [
       132
@@ -124266,7 +124256,7 @@
     "experienceRatio": 0,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
-      30992
+      31542
     ],
     "itemsQuantityReward": [
       1
@@ -124285,7 +124275,7 @@
     "experienceRatio": 0,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
-      30991
+      31541
     ],
     "itemsQuantityReward": [
       1
@@ -124304,7 +124294,7 @@
     "experienceRatio": 0,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
-      30989
+      31539
     ],
     "itemsQuantityReward": [
       1
@@ -124323,7 +124313,7 @@
     "experienceRatio": 0,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
-      30990
+      31540
     ],
     "itemsQuantityReward": [
       1
@@ -124342,7 +124332,7 @@
     "experienceRatio": 0,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
-      30987
+      31537
     ],
     "itemsQuantityReward": [
       1
@@ -124361,7 +124351,7 @@
     "experienceRatio": 0,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
-      30985
+      31535
     ],
     "itemsQuantityReward": [
       1
@@ -124380,7 +124370,7 @@
     "experienceRatio": 0,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
-      30986
+      31536
     ],
     "itemsQuantityReward": [
       1
@@ -124399,7 +124389,7 @@
     "experienceRatio": 0,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
-      30988
+      31538
     ],
     "itemsQuantityReward": [
       1
@@ -252203,6 +252193,36 @@
     "itemsQuantityReward": [
       6
     ],
+    "emotesReward": [],
+    "spellsReward": [],
+    "titlesReward": [],
+    "ornamentsReward": [],
+    "guildPoints": 0
+  },
+  {
+    "id": 20170,
+    "achievementId": 8832,
+    "criteria": "",
+    "kamasRatio": 0,
+    "experienceRatio": 0.1,
+    "kamasScaleWithPlayerLevel": false,
+    "itemsReward": [],
+    "itemsQuantityReward": [],
+    "emotesReward": [],
+    "spellsReward": [],
+    "titlesReward": [],
+    "ornamentsReward": [],
+    "guildPoints": 0
+  },
+  {
+    "id": 20171,
+    "achievementId": 8832,
+    "criteria": "",
+    "kamasRatio": 0,
+    "experienceRatio": 0,
+    "kamasScaleWithPlayerLevel": false,
+    "itemsReward": [],
+    "itemsQuantityReward": [],
     "emotesReward": [],
     "spellsReward": [],
     "titlesReward": [],

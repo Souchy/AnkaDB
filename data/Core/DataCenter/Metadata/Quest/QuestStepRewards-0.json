@@ -27353,7 +27353,7 @@
     "stepId": 1590,
     "levelMin": 9,
     "levelMax": 29,
-    "kamasRatio": 0.654,
+    "kamasRatio": 0.624,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -27374,7 +27374,7 @@
     "stepId": 1590,
     "levelMin": 30,
     "levelMax": 49,
-    "kamasRatio": 0.654,
+    "kamasRatio": 0.624,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -27395,7 +27395,7 @@
     "stepId": 1590,
     "levelMin": 50,
     "levelMax": 69,
-    "kamasRatio": 0.654,
+    "kamasRatio": 0.624,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -27416,7 +27416,7 @@
     "stepId": 1590,
     "levelMin": 70,
     "levelMax": 89,
-    "kamasRatio": 0.654,
+    "kamasRatio": 0.624,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -27437,7 +27437,7 @@
     "stepId": 1590,
     "levelMin": 90,
     "levelMax": 109,
-    "kamasRatio": 0.654,
+    "kamasRatio": 0.624,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -27458,7 +27458,7 @@
     "stepId": 1590,
     "levelMin": 110,
     "levelMax": 129,
-    "kamasRatio": 0.654,
+    "kamasRatio": 0.624,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -27479,7 +27479,7 @@
     "stepId": 1590,
     "levelMin": 130,
     "levelMax": 149,
-    "kamasRatio": 0.654,
+    "kamasRatio": 0.624,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -27500,7 +27500,7 @@
     "stepId": 1590,
     "levelMin": 150,
     "levelMax": 169,
-    "kamasRatio": 0.654,
+    "kamasRatio": 0.624,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -27521,7 +27521,7 @@
     "stepId": 1590,
     "levelMin": 170,
     "levelMax": 189,
-    "kamasRatio": 0.654,
+    "kamasRatio": 0.624,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -27542,7 +27542,7 @@
     "stepId": 1590,
     "levelMin": 190,
     "levelMax": 200,
-    "kamasRatio": 0.654,
+    "kamasRatio": 0.624,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -27563,7 +27563,7 @@
     "stepId": 1591,
     "levelMin": 9,
     "levelMax": 29,
-    "kamasRatio": 0.393,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -27584,7 +27584,7 @@
     "stepId": 1591,
     "levelMin": 30,
     "levelMax": 49,
-    "kamasRatio": 0.393,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -27605,7 +27605,7 @@
     "stepId": 1591,
     "levelMin": 50,
     "levelMax": 69,
-    "kamasRatio": 0.393,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -27626,7 +27626,7 @@
     "stepId": 1591,
     "levelMin": 70,
     "levelMax": 89,
-    "kamasRatio": 0.393,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -27647,7 +27647,7 @@
     "stepId": 1591,
     "levelMin": 90,
     "levelMax": 109,
-    "kamasRatio": 0.393,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -27668,7 +27668,7 @@
     "stepId": 1591,
     "levelMin": 110,
     "levelMax": 129,
-    "kamasRatio": 0.393,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -27689,7 +27689,7 @@
     "stepId": 1591,
     "levelMin": 130,
     "levelMax": 149,
-    "kamasRatio": 0.393,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -27710,7 +27710,7 @@
     "stepId": 1591,
     "levelMin": 150,
     "levelMax": 169,
-    "kamasRatio": 0.393,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -27731,7 +27731,7 @@
     "stepId": 1591,
     "levelMin": 170,
     "levelMax": 189,
-    "kamasRatio": 0.393,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -27752,7 +27752,7 @@
     "stepId": 1591,
     "levelMin": 190,
     "levelMax": 200,
-    "kamasRatio": 0.393,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -30293,7 +30293,7 @@
     "stepId": 1604,
     "levelMin": 9,
     "levelMax": 29,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.702,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -30314,7 +30314,7 @@
     "stepId": 1604,
     "levelMin": 30,
     "levelMax": 49,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.702,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -30335,7 +30335,7 @@
     "stepId": 1604,
     "levelMin": 50,
     "levelMax": 69,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.702,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -30356,7 +30356,7 @@
     "stepId": 1604,
     "levelMin": 70,
     "levelMax": 89,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.702,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -30377,7 +30377,7 @@
     "stepId": 1604,
     "levelMin": 90,
     "levelMax": 109,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.702,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -30398,7 +30398,7 @@
     "stepId": 1604,
     "levelMin": 110,
     "levelMax": 129,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.702,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -30419,7 +30419,7 @@
     "stepId": 1604,
     "levelMin": 130,
     "levelMax": 149,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.702,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -30440,7 +30440,7 @@
     "stepId": 1604,
     "levelMin": 150,
     "levelMax": 169,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.702,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -30461,7 +30461,7 @@
     "stepId": 1604,
     "levelMin": 170,
     "levelMax": 189,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.702,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -30482,7 +30482,7 @@
     "stepId": 1604,
     "levelMin": 190,
     "levelMax": 200,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.702,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -36383,7 +36383,7 @@
     "stepId": 1633,
     "levelMin": 9,
     "levelMax": 29,
-    "kamasRatio": 0.579,
+    "kamasRatio": 0.551,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -36404,7 +36404,7 @@
     "stepId": 1633,
     "levelMin": 30,
     "levelMax": 49,
-    "kamasRatio": 0.579,
+    "kamasRatio": 0.551,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -36425,7 +36425,7 @@
     "stepId": 1633,
     "levelMin": 50,
     "levelMax": 69,
-    "kamasRatio": 0.579,
+    "kamasRatio": 0.551,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -36446,7 +36446,7 @@
     "stepId": 1633,
     "levelMin": 70,
     "levelMax": 89,
-    "kamasRatio": 0.579,
+    "kamasRatio": 0.551,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -36467,7 +36467,7 @@
     "stepId": 1633,
     "levelMin": 90,
     "levelMax": 109,
-    "kamasRatio": 0.579,
+    "kamasRatio": 0.551,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -36488,7 +36488,7 @@
     "stepId": 1633,
     "levelMin": 110,
     "levelMax": 129,
-    "kamasRatio": 0.579,
+    "kamasRatio": 0.551,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -36509,7 +36509,7 @@
     "stepId": 1633,
     "levelMin": 130,
     "levelMax": 149,
-    "kamasRatio": 0.579,
+    "kamasRatio": 0.551,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -36530,7 +36530,7 @@
     "stepId": 1633,
     "levelMin": 150,
     "levelMax": 169,
-    "kamasRatio": 0.579,
+    "kamasRatio": 0.551,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -36551,7 +36551,7 @@
     "stepId": 1633,
     "levelMin": 170,
     "levelMax": 189,
-    "kamasRatio": 0.579,
+    "kamasRatio": 0.551,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -36572,7 +36572,7 @@
     "stepId": 1633,
     "levelMin": 190,
     "levelMax": 200,
-    "kamasRatio": 0.579,
+    "kamasRatio": 0.551,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -37853,7 +37853,7 @@
     "stepId": 1640,
     "levelMin": 9,
     "levelMax": 29,
-    "kamasRatio": 0.382,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -37874,7 +37874,7 @@
     "stepId": 1640,
     "levelMin": 30,
     "levelMax": 49,
-    "kamasRatio": 0.382,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -37895,7 +37895,7 @@
     "stepId": 1640,
     "levelMin": 50,
     "levelMax": 69,
-    "kamasRatio": 0.382,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -37916,7 +37916,7 @@
     "stepId": 1640,
     "levelMin": 70,
     "levelMax": 89,
-    "kamasRatio": 0.382,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -37937,7 +37937,7 @@
     "stepId": 1640,
     "levelMin": 90,
     "levelMax": 109,
-    "kamasRatio": 0.382,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -37958,7 +37958,7 @@
     "stepId": 1640,
     "levelMin": 110,
     "levelMax": 129,
-    "kamasRatio": 0.382,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -37979,7 +37979,7 @@
     "stepId": 1640,
     "levelMin": 130,
     "levelMax": 149,
-    "kamasRatio": 0.382,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -38000,7 +38000,7 @@
     "stepId": 1640,
     "levelMin": 150,
     "levelMax": 169,
-    "kamasRatio": 0.382,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -38021,7 +38021,7 @@
     "stepId": 1640,
     "levelMin": 170,
     "levelMax": 189,
-    "kamasRatio": 0.382,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -38042,7 +38042,7 @@
     "stepId": 1640,
     "levelMin": 190,
     "levelMax": 200,
-    "kamasRatio": 0.382,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -38693,7 +38693,7 @@
     "stepId": 1644,
     "levelMin": 9,
     "levelMax": 29,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.702,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -38714,7 +38714,7 @@
     "stepId": 1644,
     "levelMin": 30,
     "levelMax": 49,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.702,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -38735,7 +38735,7 @@
     "stepId": 1644,
     "levelMin": 50,
     "levelMax": 69,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.702,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -38756,7 +38756,7 @@
     "stepId": 1644,
     "levelMin": 70,
     "levelMax": 89,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.702,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -38777,7 +38777,7 @@
     "stepId": 1644,
     "levelMin": 90,
     "levelMax": 109,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.702,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -38798,7 +38798,7 @@
     "stepId": 1644,
     "levelMin": 110,
     "levelMax": 129,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.702,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -38819,7 +38819,7 @@
     "stepId": 1644,
     "levelMin": 130,
     "levelMax": 149,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.702,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -38840,7 +38840,7 @@
     "stepId": 1644,
     "levelMin": 150,
     "levelMax": 169,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.702,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -38861,7 +38861,7 @@
     "stepId": 1644,
     "levelMin": 170,
     "levelMax": 189,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.702,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -38882,7 +38882,7 @@
     "stepId": 1644,
     "levelMin": 190,
     "levelMax": 200,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.702,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -42683,7 +42683,7 @@
     "stepId": 1663,
     "levelMin": 9,
     "levelMax": 29,
-    "kamasRatio": 0.37,
+    "kamasRatio": 0.358,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -42704,7 +42704,7 @@
     "stepId": 1663,
     "levelMin": 30,
     "levelMax": 49,
-    "kamasRatio": 0.37,
+    "kamasRatio": 0.358,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -42725,7 +42725,7 @@
     "stepId": 1663,
     "levelMin": 50,
     "levelMax": 69,
-    "kamasRatio": 0.37,
+    "kamasRatio": 0.358,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -42746,7 +42746,7 @@
     "stepId": 1663,
     "levelMin": 70,
     "levelMax": 89,
-    "kamasRatio": 0.37,
+    "kamasRatio": 0.358,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -42767,7 +42767,7 @@
     "stepId": 1663,
     "levelMin": 90,
     "levelMax": 109,
-    "kamasRatio": 0.37,
+    "kamasRatio": 0.358,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -42788,7 +42788,7 @@
     "stepId": 1663,
     "levelMin": 110,
     "levelMax": 129,
-    "kamasRatio": 0.37,
+    "kamasRatio": 0.358,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -42809,7 +42809,7 @@
     "stepId": 1663,
     "levelMin": 130,
     "levelMax": 149,
-    "kamasRatio": 0.37,
+    "kamasRatio": 0.358,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -42830,7 +42830,7 @@
     "stepId": 1663,
     "levelMin": 150,
     "levelMax": 169,
-    "kamasRatio": 0.37,
+    "kamasRatio": 0.358,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -42851,7 +42851,7 @@
     "stepId": 1663,
     "levelMin": 170,
     "levelMax": 189,
-    "kamasRatio": 0.37,
+    "kamasRatio": 0.358,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -42872,7 +42872,7 @@
     "stepId": 1663,
     "levelMin": 190,
     "levelMax": 200,
-    "kamasRatio": 0.37,
+    "kamasRatio": 0.358,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -46043,7 +46043,7 @@
     "stepId": 1679,
     "levelMin": 9,
     "levelMax": 29,
-    "kamasRatio": 0.449,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -46064,7 +46064,7 @@
     "stepId": 1679,
     "levelMin": 30,
     "levelMax": 49,
-    "kamasRatio": 0.449,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -46085,7 +46085,7 @@
     "stepId": 1679,
     "levelMin": 50,
     "levelMax": 69,
-    "kamasRatio": 0.449,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -46106,7 +46106,7 @@
     "stepId": 1679,
     "levelMin": 70,
     "levelMax": 89,
-    "kamasRatio": 0.449,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -46127,7 +46127,7 @@
     "stepId": 1679,
     "levelMin": 90,
     "levelMax": 109,
-    "kamasRatio": 0.449,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -46148,7 +46148,7 @@
     "stepId": 1679,
     "levelMin": 110,
     "levelMax": 129,
-    "kamasRatio": 0.449,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -46169,7 +46169,7 @@
     "stepId": 1679,
     "levelMin": 130,
     "levelMax": 149,
-    "kamasRatio": 0.449,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -46190,7 +46190,7 @@
     "stepId": 1679,
     "levelMin": 150,
     "levelMax": 169,
-    "kamasRatio": 0.449,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -46211,7 +46211,7 @@
     "stepId": 1679,
     "levelMin": 170,
     "levelMax": 189,
-    "kamasRatio": 0.449,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -46232,7 +46232,7 @@
     "stepId": 1679,
     "levelMin": 190,
     "levelMax": 200,
-    "kamasRatio": 0.449,
+    "kamasRatio": 0.482,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -47303,7 +47303,7 @@
     "stepId": 1692,
     "levelMin": 9,
     "levelMax": 29,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.624,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -47324,7 +47324,7 @@
     "stepId": 1692,
     "levelMin": 30,
     "levelMax": 49,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.624,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -47345,7 +47345,7 @@
     "stepId": 1692,
     "levelMin": 50,
     "levelMax": 69,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.624,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -47366,7 +47366,7 @@
     "stepId": 1692,
     "levelMin": 70,
     "levelMax": 89,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.624,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -47387,7 +47387,7 @@
     "stepId": 1692,
     "levelMin": 90,
     "levelMax": 109,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.624,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -47408,7 +47408,7 @@
     "stepId": 1692,
     "levelMin": 110,
     "levelMax": 129,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.624,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -47429,7 +47429,7 @@
     "stepId": 1692,
     "levelMin": 130,
     "levelMax": 149,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.624,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -47450,7 +47450,7 @@
     "stepId": 1692,
     "levelMin": 150,
     "levelMax": 169,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.624,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -47471,7 +47471,7 @@
     "stepId": 1692,
     "levelMin": 170,
     "levelMax": 189,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.624,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -47492,7 +47492,7 @@
     "stepId": 1692,
     "levelMin": 190,
     "levelMax": 200,
-    "kamasRatio": 0.734,
+    "kamasRatio": 0.624,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -53813,7 +53813,7 @@
     "stepId": 1723,
     "levelMin": 9,
     "levelMax": 29,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -53834,7 +53834,7 @@
     "stepId": 1723,
     "levelMin": 30,
     "levelMax": 49,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -53855,7 +53855,7 @@
     "stepId": 1723,
     "levelMin": 50,
     "levelMax": 69,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -53876,7 +53876,7 @@
     "stepId": 1723,
     "levelMin": 70,
     "levelMax": 89,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -53897,7 +53897,7 @@
     "stepId": 1723,
     "levelMin": 90,
     "levelMax": 109,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -53918,7 +53918,7 @@
     "stepId": 1723,
     "levelMin": 110,
     "levelMax": 129,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -53939,7 +53939,7 @@
     "stepId": 1723,
     "levelMin": 130,
     "levelMax": 149,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -53960,7 +53960,7 @@
     "stepId": 1723,
     "levelMin": 150,
     "levelMax": 169,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -53981,7 +53981,7 @@
     "stepId": 1723,
     "levelMin": 170,
     "levelMax": 189,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -54002,7 +54002,7 @@
     "stepId": 1723,
     "levelMin": 190,
     "levelMax": 200,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -60113,7 +60113,7 @@
     "stepId": 1753,
     "levelMin": 9,
     "levelMax": 29,
-    "kamasRatio": 0.818,
+    "kamasRatio": 0.784,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -60134,7 +60134,7 @@
     "stepId": 1753,
     "levelMin": 30,
     "levelMax": 49,
-    "kamasRatio": 0.818,
+    "kamasRatio": 0.784,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -60155,7 +60155,7 @@
     "stepId": 1753,
     "levelMin": 50,
     "levelMax": 69,
-    "kamasRatio": 0.818,
+    "kamasRatio": 0.784,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -60176,7 +60176,7 @@
     "stepId": 1753,
     "levelMin": 70,
     "levelMax": 89,
-    "kamasRatio": 0.818,
+    "kamasRatio": 0.784,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -60197,7 +60197,7 @@
     "stepId": 1753,
     "levelMin": 90,
     "levelMax": 109,
-    "kamasRatio": 0.818,
+    "kamasRatio": 0.784,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -60218,7 +60218,7 @@
     "stepId": 1753,
     "levelMin": 110,
     "levelMax": 129,
-    "kamasRatio": 0.818,
+    "kamasRatio": 0.784,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -60239,7 +60239,7 @@
     "stepId": 1753,
     "levelMin": 130,
     "levelMax": 149,
-    "kamasRatio": 0.818,
+    "kamasRatio": 0.784,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -60260,7 +60260,7 @@
     "stepId": 1753,
     "levelMin": 150,
     "levelMax": 169,
-    "kamasRatio": 0.818,
+    "kamasRatio": 0.784,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -60281,7 +60281,7 @@
     "stepId": 1753,
     "levelMin": 170,
     "levelMax": 189,
-    "kamasRatio": 0.818,
+    "kamasRatio": 0.784,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -60302,7 +60302,7 @@
     "stepId": 1753,
     "levelMin": 190,
     "levelMax": 200,
-    "kamasRatio": 0.818,
+    "kamasRatio": 0.784,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -64733,7 +64733,7 @@
     "stepId": 1775,
     "levelMin": 9,
     "levelMax": 29,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -64754,7 +64754,7 @@
     "stepId": 1775,
     "levelMin": 30,
     "levelMax": 49,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -64775,7 +64775,7 @@
     "stepId": 1775,
     "levelMin": 50,
     "levelMax": 69,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -64796,7 +64796,7 @@
     "stepId": 1775,
     "levelMin": 70,
     "levelMax": 89,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -64817,7 +64817,7 @@
     "stepId": 1775,
     "levelMin": 90,
     "levelMax": 109,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -64838,7 +64838,7 @@
     "stepId": 1775,
     "levelMin": 110,
     "levelMax": 129,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -64859,7 +64859,7 @@
     "stepId": 1775,
     "levelMin": 130,
     "levelMax": 149,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -64880,7 +64880,7 @@
     "stepId": 1775,
     "levelMin": 150,
     "levelMax": 169,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -64901,7 +64901,7 @@
     "stepId": 1775,
     "levelMin": 170,
     "levelMax": 189,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -64922,7 +64922,7 @@
     "stepId": 1775,
     "levelMin": 190,
     "levelMax": 200,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -79267,7 +79267,7 @@
     "stepId": 1849,
     "levelMin": 9,
     "levelMax": 29,
-    "kamasRatio": 0.818,
+    "kamasRatio": 0.784,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -79288,7 +79288,7 @@
     "stepId": 1849,
     "levelMin": 30,
     "levelMax": 49,
-    "kamasRatio": 0.818,
+    "kamasRatio": 0.784,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -79309,7 +79309,7 @@
     "stepId": 1849,
     "levelMin": 50,
     "levelMax": 69,
-    "kamasRatio": 0.818,
+    "kamasRatio": 0.784,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -79330,7 +79330,7 @@
     "stepId": 1849,
     "levelMin": 70,
     "levelMax": 89,
-    "kamasRatio": 0.818,
+    "kamasRatio": 0.784,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -79351,7 +79351,7 @@
     "stepId": 1849,
     "levelMin": 90,
     "levelMax": 109,
-    "kamasRatio": 0.818,
+    "kamasRatio": 0.784,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -79372,7 +79372,7 @@
     "stepId": 1849,
     "levelMin": 110,
     "levelMax": 129,
-    "kamasRatio": 0.818,
+    "kamasRatio": 0.784,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -79393,7 +79393,7 @@
     "stepId": 1849,
     "levelMin": 130,
     "levelMax": 149,
-    "kamasRatio": 0.818,
+    "kamasRatio": 0.784,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -79414,7 +79414,7 @@
     "stepId": 1849,
     "levelMin": 150,
     "levelMax": 169,
-    "kamasRatio": 0.818,
+    "kamasRatio": 0.784,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -79435,7 +79435,7 @@
     "stepId": 1849,
     "levelMin": 170,
     "levelMax": 189,
-    "kamasRatio": 0.818,
+    "kamasRatio": 0.784,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -79456,7 +79456,7 @@
     "stepId": 1849,
     "levelMin": 190,
     "levelMax": 200,
-    "kamasRatio": 0.818,
+    "kamasRatio": 0.784,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -81157,7 +81157,7 @@
     "stepId": 1858,
     "levelMin": 9,
     "levelMax": 29,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -81178,7 +81178,7 @@
     "stepId": 1858,
     "levelMin": 30,
     "levelMax": 49,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -81199,7 +81199,7 @@
     "stepId": 1858,
     "levelMin": 50,
     "levelMax": 69,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -81220,7 +81220,7 @@
     "stepId": 1858,
     "levelMin": 70,
     "levelMax": 89,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -81241,7 +81241,7 @@
     "stepId": 1858,
     "levelMin": 90,
     "levelMax": 109,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -81262,7 +81262,7 @@
     "stepId": 1858,
     "levelMin": 110,
     "levelMax": 129,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -81283,7 +81283,7 @@
     "stepId": 1858,
     "levelMin": 130,
     "levelMax": 149,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -81304,7 +81304,7 @@
     "stepId": 1858,
     "levelMin": 150,
     "levelMax": 169,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -81325,7 +81325,7 @@
     "stepId": 1858,
     "levelMin": 170,
     "levelMax": 189,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -81346,7 +81346,7 @@
     "stepId": 1858,
     "levelMin": 190,
     "levelMax": 200,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -81997,7 +81997,7 @@
     "stepId": 1862,
     "levelMin": 9,
     "levelMax": 29,
-    "kamasRatio": 1,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -82018,7 +82018,7 @@
     "stepId": 1862,
     "levelMin": 30,
     "levelMax": 49,
-    "kamasRatio": 1,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -82039,7 +82039,7 @@
     "stepId": 1862,
     "levelMin": 50,
     "levelMax": 69,
-    "kamasRatio": 1,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -82060,7 +82060,7 @@
     "stepId": 1862,
     "levelMin": 70,
     "levelMax": 89,
-    "kamasRatio": 1,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -82081,7 +82081,7 @@
     "stepId": 1862,
     "levelMin": 90,
     "levelMax": 109,
-    "kamasRatio": 1,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -82102,7 +82102,7 @@
     "stepId": 1862,
     "levelMin": 110,
     "levelMax": 129,
-    "kamasRatio": 1,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -82123,7 +82123,7 @@
     "stepId": 1862,
     "levelMin": 130,
     "levelMax": 149,
-    "kamasRatio": 1,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -82144,7 +82144,7 @@
     "stepId": 1862,
     "levelMin": 150,
     "levelMax": 169,
-    "kamasRatio": 1,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -82165,7 +82165,7 @@
     "stepId": 1862,
     "levelMin": 170,
     "levelMax": 189,
-    "kamasRatio": 1,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -82186,7 +82186,7 @@
     "stepId": 1862,
     "levelMin": 190,
     "levelMax": 200,
-    "kamasRatio": 1,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -86657,13 +86657,13 @@
       {
         "values": [
           11333,
-          5
+          2
         ]
       },
       {
         "values": [
           11943,
-          5
+          2
         ]
       }
     ],
@@ -95128,7 +95128,7 @@
     "stepId": 1989,
     "levelMin": 9,
     "levelMax": 29,
-    "kamasRatio": 0.862,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -95149,7 +95149,7 @@
     "stepId": 1989,
     "levelMin": 30,
     "levelMax": 49,
-    "kamasRatio": 0.862,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -95170,7 +95170,7 @@
     "stepId": 1989,
     "levelMin": 50,
     "levelMax": 69,
-    "kamasRatio": 0.862,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -95191,7 +95191,7 @@
     "stepId": 1989,
     "levelMin": 70,
     "levelMax": 89,
-    "kamasRatio": 0.862,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -95212,7 +95212,7 @@
     "stepId": 1989,
     "levelMin": 90,
     "levelMax": 109,
-    "kamasRatio": 0.862,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -95233,7 +95233,7 @@
     "stepId": 1989,
     "levelMin": 110,
     "levelMax": 129,
-    "kamasRatio": 0.862,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -95254,7 +95254,7 @@
     "stepId": 1989,
     "levelMin": 130,
     "levelMax": 149,
-    "kamasRatio": 0.862,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -95275,7 +95275,7 @@
     "stepId": 1989,
     "levelMin": 150,
     "levelMax": 169,
-    "kamasRatio": 0.862,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -95296,7 +95296,7 @@
     "stepId": 1989,
     "levelMin": 170,
     "levelMax": 189,
-    "kamasRatio": 0.862,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -95317,7 +95317,7 @@
     "stepId": 1989,
     "levelMin": 190,
     "levelMax": 200,
-    "kamasRatio": 0.862,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -102058,7 +102058,7 @@
     "stepId": 2022,
     "levelMin": 9,
     "levelMax": 29,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -102079,7 +102079,7 @@
     "stepId": 2022,
     "levelMin": 30,
     "levelMax": 49,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -102100,7 +102100,7 @@
     "stepId": 2022,
     "levelMin": 50,
     "levelMax": 69,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -102121,7 +102121,7 @@
     "stepId": 2022,
     "levelMin": 70,
     "levelMax": 89,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -102142,7 +102142,7 @@
     "stepId": 2022,
     "levelMin": 90,
     "levelMax": 109,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -102163,7 +102163,7 @@
     "stepId": 2022,
     "levelMin": 110,
     "levelMax": 129,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -102184,7 +102184,7 @@
     "stepId": 2022,
     "levelMin": 130,
     "levelMax": 149,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -102205,7 +102205,7 @@
     "stepId": 2022,
     "levelMin": 150,
     "levelMax": 169,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -102226,7 +102226,7 @@
     "stepId": 2022,
     "levelMin": 170,
     "levelMax": 189,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -102247,7 +102247,7 @@
     "stepId": 2022,
     "levelMin": 190,
     "levelMax": 200,
-    "kamasRatio": 0.907,
+    "kamasRatio": 0.871,
     "experienceRatio": 2,
     "kamasScaleWithPlayerLevel": false,
     "itemsReward": [
@@ -104651,25 +104651,7 @@
     "itemsReward": [
       {
         "values": [
-          7223,
-          5
-        ]
-      },
-      {
-        "values": [
-          7222,
-          5
-        ]
-      },
-      {
-        "values": [
-          7225,
-          5
-        ]
-      },
-      {
-        "values": [
-          7224,
+          31519,
           5
         ]
       }
@@ -105528,7 +105510,7 @@
       {
         "values": [
           15169,
-          3
+          1
         ]
       }
     ],
@@ -106002,7 +105984,7 @@
       {
         "values": [
           840,
-          5
+          2
         ]
       },
       {
@@ -106050,7 +106032,7 @@
       {
         "values": [
           9389,
-          5
+          2
         ]
       },
       {
@@ -107133,13 +107115,13 @@
       {
         "values": [
           15688,
-          5
+          2
         ]
       },
       {
         "values": [
           15689,
-          5
+          2
         ]
       },
       {
@@ -114413,7 +114395,7 @@
       {
         "values": [
           9279,
-          1
+          10
         ]
       }
     ],
@@ -114620,7 +114602,7 @@
       {
         "values": [
           9267,
-          1
+          10
         ]
       }
     ],
@@ -114641,7 +114623,7 @@
       {
         "values": [
           9263,
-          1
+          10
         ]
       }
     ],
@@ -114683,7 +114665,7 @@
       {
         "values": [
           9277,
-          1
+          10
         ]
       }
     ],
@@ -114931,7 +114913,7 @@
       {
         "values": [
           17626,
-          3
+          1
         ]
       }
     ],
@@ -114952,7 +114934,7 @@
       {
         "values": [
           15689,
-          3
+          1
         ]
       }
     ],
@@ -114973,7 +114955,7 @@
       {
         "values": [
           15176,
-          3
+          1
         ]
       }
     ],
@@ -114994,7 +114976,7 @@
       {
         "values": [
           18542,
-          3
+          1
         ]
       }
     ],
@@ -115036,7 +115018,7 @@
       {
         "values": [
           19068,
-          3
+          1
         ]
       }
     ],
@@ -129404,7 +129386,7 @@
     "itemsReward": [
       {
         "values": [
-          8801,
+          2468,
           2
         ]
       },
@@ -136746,6 +136728,97 @@
         "values": [
           16511,
           5
+        ]
+      }
+    ],
+    "emotesReward": [],
+    "jobsReward": [],
+    "spellsReward": [],
+    "titlesReward": []
+  },
+  {
+    "id": 7045,
+    "stepId": 3196,
+    "levelMin": -1,
+    "levelMax": -1,
+    "kamasRatio": 1.2,
+    "experienceRatio": 1.2,
+    "kamasScaleWithPlayerLevel": false,
+    "itemsReward": [],
+    "emotesReward": [],
+    "jobsReward": [],
+    "spellsReward": [],
+    "titlesReward": []
+  },
+  {
+    "id": 7046,
+    "stepId": 3197,
+    "levelMin": -1,
+    "levelMax": -1,
+    "kamasRatio": 1.2,
+    "experienceRatio": 1.2,
+    "kamasScaleWithPlayerLevel": false,
+    "itemsReward": [],
+    "emotesReward": [],
+    "jobsReward": [],
+    "spellsReward": [],
+    "titlesReward": []
+  },
+  {
+    "id": 7047,
+    "stepId": 3198,
+    "levelMin": -1,
+    "levelMax": -1,
+    "kamasRatio": 1.2,
+    "experienceRatio": 1.2,
+    "kamasScaleWithPlayerLevel": false,
+    "itemsReward": [],
+    "emotesReward": [],
+    "jobsReward": [],
+    "spellsReward": [],
+    "titlesReward": []
+  },
+  {
+    "id": 7048,
+    "stepId": 3199,
+    "levelMin": -1,
+    "levelMax": -1,
+    "kamasRatio": 1.2,
+    "experienceRatio": 1.2,
+    "kamasScaleWithPlayerLevel": false,
+    "itemsReward": [],
+    "emotesReward": [],
+    "jobsReward": [],
+    "spellsReward": [],
+    "titlesReward": []
+  },
+  {
+    "id": 7049,
+    "stepId": 3200,
+    "levelMin": -1,
+    "levelMax": -1,
+    "kamasRatio": 1.2,
+    "experienceRatio": 1.2,
+    "kamasScaleWithPlayerLevel": false,
+    "itemsReward": [],
+    "emotesReward": [],
+    "jobsReward": [],
+    "spellsReward": [],
+    "titlesReward": []
+  },
+  {
+    "id": 7050,
+    "stepId": 3205,
+    "levelMin": -1,
+    "levelMax": -1,
+    "kamasRatio": 0,
+    "experienceRatio": 0,
+    "kamasScaleWithPlayerLevel": false,
+    "itemsReward": [
+      {
+        "values": [
+          13052,
+          2040
         ]
       }
     ],

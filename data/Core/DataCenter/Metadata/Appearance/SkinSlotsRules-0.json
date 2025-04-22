@@ -2142,6 +2142,24 @@
       },
       {
         "slotRuleType": 3,
+        "slotRuleInfo": 2029,
+        "slotsRules": [
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 3,
+        "slotRuleInfo": 2038,
+        "slotsRules": [
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 3,
         "slotRuleInfo": 3193,
         "slotsRules": [
           {},
@@ -48908,14 +48926,6 @@
       },
       {
         "slotRuleType": 3,
-        "slotRuleInfo": 3194,
-        "slotsRules": [
-          {},
-          {}
-        ]
-      },
-      {
-        "slotRuleType": 3,
         "slotRuleInfo": 3195,
         "slotsRules": [
           {},
@@ -52172,10 +52182,6 @@
         "slotRuleInfo": 6,
         "slotsRules": [
           {},
-          {},
-          {},
-          {},
-          {},
           {}
         ]
       },
@@ -53262,6 +53268,195 @@
           {},
           {},
           {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 3,
+        "slotRuleInfo": 3193,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 3,
+        "slotRuleInfo": 5182,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 2,
+        "slotRuleInfo": 24,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 2,
+        "slotRuleInfo": 25,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 2,
+        "slotRuleInfo": 32,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 2,
+        "slotRuleInfo": 33,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "skinId": 0,
+    "slotRulesList": [
+      {
+        "slotRuleType": 0,
+        "slotRuleInfo": 0,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 3,
+        "slotRuleInfo": 3193,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 3,
+        "slotRuleInfo": 5182,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 2,
+        "slotRuleInfo": 24,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 2,
+        "slotRuleInfo": 25,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 2,
+        "slotRuleInfo": 32,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 2,
+        "slotRuleInfo": 33,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "skinId": 0,
+    "slotRulesList": [
+      {
+        "slotRuleType": 0,
+        "slotRuleInfo": 0,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
           {},
           {},
           {},
@@ -53295,6 +53490,246 @@
           {},
           {},
           {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "skinId": 0,
+    "slotRulesList": [
+      {
+        "slotRuleType": 0,
+        "slotRuleInfo": 0,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "skinId": 0,
+    "slotRulesList": [
+      {
+        "slotRuleType": 0,
+        "slotRuleInfo": 0,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "skinId": 0,
+    "slotRulesList": [
+      {
+        "slotRuleType": 0,
+        "slotRuleInfo": 0,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "skinId": 0,
+    "slotRulesList": [
+      {
+        "slotRuleType": 0,
+        "slotRuleInfo": 0,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "skinId": 0,
+    "slotRulesList": [
+      {
+        "slotRuleType": 0,
+        "slotRuleInfo": 0,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "skinId": 0,
+    "slotRulesList": [
+      {
+        "slotRuleType": 0,
+        "slotRuleInfo": 0,
+        "slotsRules": [
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 1,
+        "slotRuleInfo": 16,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 3,
+        "slotRuleInfo": 3193,
+        "slotsRules": [
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 3,
+        "slotRuleInfo": 5182,
+        "slotsRules": [
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "skinId": 0,
+    "slotRulesList": [
+      {
+        "slotRuleType": 0,
+        "slotRuleInfo": 0,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 1,
+        "slotRuleInfo": 12,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 1,
+        "slotRuleInfo": 16,
+        "slotsRules": [
           {},
           {},
           {},
@@ -55333,15 +55768,6 @@
         "slotRuleType": 3,
         "slotRuleInfo": 3193,
         "slotsRules": [
-          {},
-          {}
-        ]
-      },
-      {
-        "slotRuleType": 3,
-        "slotRuleInfo": 3194,
-        "slotsRules": [
-          {},
           {},
           {}
         ]
@@ -69545,8 +69971,6 @@
         "slotsRules": [
           {},
           {},
-          {},
-          {},
           {}
         ]
       },
@@ -72286,6 +72710,14 @@
           {},
           {},
           {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
           {}
         ]
       },
@@ -72321,6 +72753,14 @@
           {},
           {},
           {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
           {}
         ]
       },
@@ -72328,6 +72768,37 @@
         "slotRuleType": 3,
         "slotRuleInfo": 3193,
         "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 3,
+        "slotRuleInfo": 3293,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
           {},
           {},
           {}
@@ -72361,6 +72832,18 @@
         "slotRuleType": 3,
         "slotRuleInfo": 5182,
         "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
           {},
           {},
           {}
@@ -85631,6 +86114,20 @@
       },
       {
         "slotRuleType": 3,
+        "slotRuleInfo": 2079,
+        "slotsRules": [
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 3,
+        "slotRuleInfo": 2083,
+        "slotsRules": [
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 3,
         "slotRuleInfo": 2127,
         "slotsRules": [
           {}
@@ -85639,20 +86136,6 @@
       {
         "slotRuleType": 3,
         "slotRuleInfo": 2131,
-        "slotsRules": [
-          {}
-        ]
-      },
-      {
-        "slotRuleType": 3,
-        "slotRuleInfo": 2133,
-        "slotsRules": [
-          {}
-        ]
-      },
-      {
-        "slotRuleType": 3,
-        "slotRuleInfo": 2137,
         "slotsRules": [
           {}
         ]
@@ -85681,6 +86164,20 @@
       {
         "slotRuleType": 3,
         "slotRuleInfo": 2178,
+        "slotsRules": [
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 3,
+        "slotRuleInfo": 2223,
+        "slotsRules": [
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 3,
+        "slotRuleInfo": 2227,
         "slotsRules": [
           {}
         ]
@@ -85763,6 +86260,13 @@
       },
       {
         "slotRuleType": 3,
+        "slotRuleInfo": 5432,
+        "slotsRules": [
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 3,
         "slotRuleInfo": 5452,
         "slotsRules": [
           {}
@@ -85771,6 +86275,34 @@
       {
         "slotRuleType": 3,
         "slotRuleInfo": 5453,
+        "slotsRules": [
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 3,
+        "slotRuleInfo": 5456,
+        "slotsRules": [
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 3,
+        "slotRuleInfo": 5457,
+        "slotsRules": [
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 3,
+        "slotRuleInfo": 5545,
+        "slotsRules": [
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 3,
+        "slotRuleInfo": 5548,
         "slotsRules": [
           {}
         ]
@@ -107206,6 +107738,11 @@
           {},
           {},
           {},
+          {},
+          {},
+          {},
+          {},
+          {},
           {}
         ]
       }
@@ -109575,14 +110112,6 @@
         "slotRuleType": 3,
         "slotRuleInfo": 3193,
         "slotsRules": [
-          {}
-        ]
-      },
-      {
-        "slotRuleType": 3,
-        "slotRuleInfo": 3194,
-        "slotsRules": [
-          {},
           {}
         ]
       },
@@ -115792,14 +116321,6 @@
       },
       {
         "slotRuleType": 3,
-        "slotRuleInfo": 3194,
-        "slotsRules": [
-          {},
-          {}
-        ]
-      },
-      {
-        "slotRuleType": 3,
         "slotRuleInfo": 3195,
         "slotsRules": [
           {},
@@ -116710,6 +117231,8 @@
         "slotRuleType": 0,
         "slotRuleInfo": 0,
         "slotsRules": [
+          {},
+          {},
           {},
           {},
           {},
@@ -118154,14 +118677,6 @@
       },
       {
         "slotRuleType": 3,
-        "slotRuleInfo": 3194,
-        "slotsRules": [
-          {},
-          {}
-        ]
-      },
-      {
-        "slotRuleType": 3,
         "slotRuleInfo": 3195,
         "slotsRules": [
           {},
@@ -118931,8 +119446,6 @@
         "slotRuleType": 3,
         "slotRuleInfo": 5351,
         "slotsRules": [
-          {},
-          {},
           {},
           {},
           {},
@@ -131678,14 +132191,6 @@
       },
       {
         "slotRuleType": 3,
-        "slotRuleInfo": 3194,
-        "slotsRules": [
-          {},
-          {}
-        ]
-      },
-      {
-        "slotRuleType": 3,
         "slotRuleInfo": 3195,
         "slotsRules": [
           {},
@@ -133677,6 +134182,9 @@
         "slotRuleType": 0,
         "slotRuleInfo": 0,
         "slotsRules": [
+          {},
+          {},
+          {},
           {},
           {},
           {},
@@ -140196,15 +140704,6 @@
       },
       {
         "slotRuleType": 3,
-        "slotRuleInfo": 3194,
-        "slotsRules": [
-          {},
-          {},
-          {}
-        ]
-      },
-      {
-        "slotRuleType": 3,
         "slotRuleInfo": 3196,
         "slotsRules": [
           {},
@@ -141992,6 +142491,7 @@
         "slotRuleType": 0,
         "slotRuleInfo": 0,
         "slotsRules": [
+          {},
           {},
           {},
           {},
@@ -187167,41 +187667,99 @@
     "skinId": 0,
     "slotRulesList": [
       {
-        "slotRuleType": 1,
-        "slotRuleInfo": 3,
+        "slotRuleType": 0,
+        "slotRuleInfo": 0,
         "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
           {},
           {},
           {},
           {}
         ]
-      },
+      }
+    ]
+  },
+  {
+    "skinId": 0,
+    "slotRulesList": [
       {
-        "slotRuleType": 1,
-        "slotRuleInfo": 6,
+        "slotRuleType": 0,
+        "slotRuleInfo": 0,
         "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
           {},
           {},
           {},
           {},
           {}
         ]
-      },
+      }
+    ]
+  },
+  {
+    "skinId": 0,
+    "slotRulesList": [
+      {
+        "slotRuleType": 0,
+        "slotRuleInfo": 0,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "skinId": 0,
+    "slotRulesList": [
       {
         "slotRuleType": 1,
         "slotRuleInfo": 16,
         "slotsRules": [
-          {},
-          {}
-        ]
-      },
-      {
-        "slotRuleType": 3,
-        "slotRuleInfo": 2033,
-        "slotsRules": [
-          {},
-          {},
-          {},
           {},
           {}
         ]
@@ -187291,17 +187849,15 @@
       },
       {
         "slotRuleType": 2,
-        "slotRuleInfo": 7,
+        "slotRuleInfo": 9,
         "slotsRules": [
-          {},
-          {},
           {},
           {}
         ]
       },
       {
         "slotRuleType": 2,
-        "slotRuleInfo": 9,
+        "slotRuleInfo": 10,
         "slotsRules": [
           {},
           {}
@@ -187897,6 +188453,27 @@
           {},
           {}
         ]
+      },
+      {
+        "slotRuleType": 3,
+        "slotRuleInfo": 5530,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
       }
     ]
   },
@@ -188147,6 +188724,29 @@
         ]
       },
       {
+        "slotRuleType": 3,
+        "slotRuleInfo": 5530,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
         "slotRuleType": 2,
         "slotRuleInfo": 22,
         "slotsRules": [
@@ -188178,6 +188778,29 @@
         "slotRuleInfo": 0,
         "slotsRules": [
           {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 3,
+        "slotRuleInfo": 5530,
+        "slotsRules": [
           {},
           {},
           {},
@@ -188377,6 +189000,29 @@
         "slotRuleInfo": 0,
         "slotsRules": [
           {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 3,
+        "slotRuleInfo": 5530,
+        "slotsRules": [
           {},
           {},
           {},
@@ -189451,6 +190097,160 @@
         "slotRuleType": 2,
         "slotRuleInfo": 33,
         "slotsRules": [
+          {},
+          {},
+          {}
+        ]
+      }
+    ]
+  },
+  {
+    "skinId": 0,
+    "slotRulesList": [
+      {
+        "slotRuleType": 0,
+        "slotRuleInfo": 0,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 1,
+        "slotRuleInfo": 4,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 1,
+        "slotRuleInfo": 8,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 1,
+        "slotRuleInfo": 12,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 1,
+        "slotRuleInfo": 14,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 1,
+        "slotRuleInfo": 15,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 1,
+        "slotRuleInfo": 16,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 1,
+        "slotRuleInfo": 17,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {}
+        ]
+      },
+      {
+        "slotRuleType": 2,
+        "slotRuleInfo": 10,
+        "slotsRules": [
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
+          {},
           {},
           {},
           {}

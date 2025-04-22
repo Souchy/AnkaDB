@@ -33397,5 +33397,22 @@
     "startCriterion": "Qf=1651",
     "followable": true,
     "isEvent": false
+  },
+  {
+    "id": 2514,
+    "nameId": 1122066,
+    "categoryId": 28,
+    "repeatType": -1,
+    "repeatLimit": 1,
+    "isDungeonQuest": true,
+    "levelMin": 20,
+    "levelMax": 200,
+    "stepIds": [
+      3195
+    ],
+    "isPartyQuest": false,
+    "startCriterion": "PL\u003E19\u0026Pz=0\u0026Sc=887",
+    "followable": true,
+    "isEvent": true
   }
 ]

@@ -3858,8 +3858,8 @@
     "id": 520,
     "questId": 299,
     "nameId": 891250,
-    "descriptionId": 57847,
-    "dialogId": 4599,
+    "descriptionId": 1121563,
+    "dialogId": 47647,
     "optimalLevel": 157,
     "duration": 1,
     "objectiveIds": [
@@ -8182,7 +8182,7 @@
     "id": 952,
     "questId": 299,
     "nameId": 891252,
-    "descriptionId": 56318,
+    "descriptionId": 1121564,
     "dialogId": -1,
     "optimalLevel": 157,
     "duration": 1,
@@ -50712,5 +50712,19 @@
     "rewardsIds": [
       7042
     ]
+  },
+  {
+    "id": 3195,
+    "questId": 2514,
+    "nameId": 1122067,
+    "descriptionId": 1122068,
+    "dialogId": 0,
+    "optimalLevel": 200,
+    "duration": 2,
+    "objectiveIds": [
+      19272,
+      19273
+    ],
+    "rewardsIds": []
   }
 ]

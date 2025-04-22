@@ -45,23 +45,23 @@
   {
     "id": 3,
     "nameId": 460804,
-    "origineX": -117,
-    "origineY": 1827,
-    "mapWidth": 117,
-    "mapHeight": 87,
+    "origineX": 362,
+    "origineY": 3383,
+    "mapWidth": 222,
+    "mapHeight": 158,
     "viewableEverywhere": true,
-    "minScale": 0.9,
+    "minScale": 0.25,
     "maxScale": 1,
-    "startScale": 1,
-    "totalWidth": 2463,
-    "totalHeight": 2907,
+    "startScale": 0.25,
+    "totalWidth": 2980,
+    "totalHeight": 3558,
     "zoom": [
       1,
       0.75,
       0.5,
       0.25
     ],
-    "visibleOnMap": false
+    "visibleOnMap": true
   },
   {
     "id": 4,
@@ -643,6 +643,48 @@
     "startScale": 1,
     "totalWidth": 2840,
     "totalHeight": 2881,
+    "zoom": [
+      1,
+      0.75,
+      0.5,
+      0.25
+    ],
+    "visibleOnMap": true
+  },
+  {
+    "id": 32,
+    "nameId": 1129384,
+    "origineX": 4432,
+    "origineY": -5250,
+    "mapWidth": 279,
+    "mapHeight": 199,
+    "viewableEverywhere": false,
+    "minScale": 0.25,
+    "maxScale": 1,
+    "startScale": 0.25,
+    "totalWidth": 2840,
+    "totalHeight": 2162,
+    "zoom": [
+      1,
+      0.75,
+      0.5,
+      0.25
+    ],
+    "visibleOnMap": true
+  },
+  {
+    "id": 33,
+    "nameId": 1129389,
+    "origineX": -5028,
+    "origineY": -1932,
+    "mapWidth": 280,
+    "mapHeight": 198,
+    "viewableEverywhere": false,
+    "minScale": 0.25,
+    "maxScale": 1,
+    "startScale": 0.25,
+    "totalWidth": 2649,
+    "totalHeight": 5396,
     "zoom": [
       1,
       0.75,
