@@ -884,7 +884,7 @@
     "defaultPrice": 1500000,
     "nameId": 2446,
     "descriptionId": 0,
-    "gfxId": 7,
+    "gfxId": 59,
     "roomCount": 2
   },
   {
@@ -900,7 +900,7 @@
     "defaultPrice": 1500000,
     "nameId": 2365,
     "descriptionId": 0,
-    "gfxId": 7,
+    "gfxId": 59,
     "roomCount": 2
   },
   {
@@ -948,7 +948,7 @@
     "defaultPrice": 5500000,
     "nameId": 2423,
     "descriptionId": 0,
-    "gfxId": 22,
+    "gfxId": 58,
     "roomCount": 5
   },
   {
@@ -956,7 +956,7 @@
     "defaultPrice": 4500000,
     "nameId": 116477,
     "descriptionId": 0,
-    "gfxId": 21,
+    "gfxId": 57,
     "roomCount": 4
   },
   {
@@ -1068,7 +1068,7 @@
     "defaultPrice": 60000000,
     "nameId": 2445,
     "descriptionId": 0,
-    "gfxId": 22,
+    "gfxId": 60,
     "roomCount": 15
   },
   {

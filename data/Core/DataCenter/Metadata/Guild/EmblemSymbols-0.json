@@ -2509,7 +2509,7 @@
     "iconId": 324,
     "order": 324000,
     "categoryId": 13,
-    "colorizable": false
+    "colorizable": true
   },
   {
     "id": 325,

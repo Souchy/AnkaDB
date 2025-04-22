@@ -42,12 +42,6 @@
     "activated": true
   },
   {
-    "id": 35,
-    "mapId": 73400320,
-    "subAreaId": 182,
-    "activated": true
-  },
-  {
     "id": 11,
     "mapId": 68552706,
     "subAreaId": 180,
@@ -228,12 +222,6 @@
     "activated": false
   },
   {
-    "id": 63,
-    "mapId": 179306497,
-    "subAreaId": 883,
-    "activated": false
-  },
-  {
     "id": 64,
     "mapId": 152850,
     "subAreaId": 209,
@@ -351,6 +339,30 @@
     "id": 76,
     "mapId": 223349001,
     "subAreaId": 1026,
+    "activated": true
+  },
+  {
+    "id": 35,
+    "mapId": 73400320,
+    "subAreaId": 182,
+    "activated": true
+  },
+  {
+    "id": 78,
+    "mapId": 64487936,
+    "subAreaId": 230,
+    "activated": true
+  },
+  {
+    "id": 63,
+    "mapId": 179306497,
+    "subAreaId": 883,
+    "activated": true
+  },
+  {
+    "id": 79,
+    "mapId": 207095811,
+    "subAreaId": 955,
     "activated": true
   }
 ]

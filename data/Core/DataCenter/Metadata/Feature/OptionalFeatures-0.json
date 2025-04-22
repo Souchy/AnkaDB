@@ -225,15 +225,6 @@
     "activationCriterions": ""
   },
   {
-    "id": 5,
-    "keyword": "system.lagByAck",
-    "isClient": true,
-    "isServer": true,
-    "isActivationOnLaunch": false,
-    "isActivationOnServerConnection": false,
-    "activationCriterions": ""
-  },
-  {
     "id": 83,
     "keyword": "mount",
     "isClient": true,

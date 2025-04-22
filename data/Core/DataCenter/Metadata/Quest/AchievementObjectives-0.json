@@ -2466,14 +2466,14 @@
   {
     "id": 488,
     "achievementId": 172,
-    "order": 3,
+    "order": 4,
     "nameId": 274830,
     "criterion": "(Ef\u003E96,0)\u0026Wo=0"
   },
   {
     "id": 489,
     "achievementId": 172,
-    "order": 4,
+    "order": 3,
     "nameId": 274833,
     "criterion": "(Ef\u003E72,0)\u0026Wo=0"
   },
@@ -2485,30 +2485,23 @@
     "criterion": "(Ef\u003E64,0)\u0026Wo=0"
   },
   {
-    "id": 491,
-    "achievementId": 172,
-    "order": 6,
-    "nameId": 274875,
-    "criterion": "(Ef\u003E182,0)\u0026Wo=0"
-  },
-  {
     "id": 492,
     "achievementId": 172,
-    "order": 7,
+    "order": 6,
     "nameId": 274872,
     "criterion": "(Ef\u003E179,0)\u0026Wo=0"
   },
   {
     "id": 493,
     "achievementId": 172,
-    "order": 8,
+    "order": 7,
     "nameId": 274868,
     "criterion": "(Ef\u003E97,0)\u0026Wo=0"
   },
   {
     "id": 494,
     "achievementId": 172,
-    "order": 9,
+    "order": 8,
     "nameId": 291493,
     "criterion": "(Ef\u003E3469,0)\u0026Wo=0"
   },
@@ -2599,7 +2592,7 @@
   {
     "id": 516,
     "achievementId": 175,
-    "order": 1,
+    "order": 2,
     "nameId": 274340,
     "criterion": "(Ef\u003E259,0)\u0026Wo=0"
   },
@@ -3533,13 +3526,6 @@
     "order": 1,
     "nameId": 272997,
     "criterion": "(Ef\u003E343,0)\u0026Wo=0"
-  },
-  {
-    "id": 759,
-    "achievementId": 175,
-    "order": 2,
-    "nameId": 272995,
-    "criterion": "(Ef\u003E450,0)\u0026Wo=0"
   },
   {
     "id": 760,
@@ -4777,7 +4763,7 @@
     "id": 1176,
     "achievementId": 489,
     "order": 0,
-    "nameId": 274103,
+    "nameId": 1121847,
     "criterion": "(EH\u003E104,0)\u0026Wo=0"
   },
   {
@@ -6038,7 +6024,7 @@
     "achievementId": 561,
     "order": 3,
     "nameId": 1105810,
-    "criterion": "(Qf=907)\u0026Wo=0"
+    "criterion": "(Qf=906)\u0026Wo=0"
   },
   {
     "id": 1399,
@@ -6247,7 +6233,7 @@
     "id": 1433,
     "achievementId": 578,
     "order": 0,
-    "nameId": 272482,
+    "nameId": 1121841,
     "criterion": "(EH\u003E119,0)\u0026Wo=0"
   },
   {
@@ -7388,7 +7374,7 @@
     "id": 1725,
     "achievementId": 657,
     "order": 0,
-    "nameId": 273190,
+    "nameId": 1121844,
     "criterion": "(EH\u003E120,0)\u0026Wo=0"
   },
   {
@@ -8704,8 +8690,8 @@
     "id": 1951,
     "achievementId": 175,
     "order": 3,
-    "nameId": 275035,
-    "criterion": "PL\u003E99"
+    "nameId": 1125957,
+    "criterion": "PL\u003E39"
   },
   {
     "id": 1952,
@@ -8717,7 +8703,7 @@
   {
     "id": 1953,
     "achievementId": 172,
-    "order": 10,
+    "order": 9,
     "nameId": 275033,
     "criterion": "PL\u003E59"
   },
@@ -9439,21 +9425,21 @@
     "id": 2063,
     "achievementId": 773,
     "order": 0,
-    "nameId": 1025099,
+    "nameId": 1121848,
     "criterion": "(OA=578)\u0026Wo=0"
   },
   {
     "id": 2064,
     "achievementId": 773,
     "order": 1,
-    "nameId": 273471,
+    "nameId": 1121849,
     "criterion": "(OA=657)\u0026Wo=0"
   },
   {
     "id": 2065,
     "achievementId": 773,
     "order": 2,
-    "nameId": 273473,
+    "nameId": 1121850,
     "criterion": "(OA=489)\u0026Wo=0"
   },
   {
@@ -9565,21 +9551,21 @@
     "id": 2082,
     "achievementId": 778,
     "order": 0,
-    "nameId": 273445,
+    "nameId": 1121836,
     "criterion": "(OA=666)\u0026Wo=0"
   },
   {
     "id": 2083,
     "achievementId": 778,
     "order": 1,
-    "nameId": 273444,
+    "nameId": 1121837,
     "criterion": "(OA=667)\u0026Wo=0"
   },
   {
     "id": 2084,
     "achievementId": 778,
     "order": 2,
-    "nameId": 273447,
+    "nameId": 1121838,
     "criterion": "(OA=494)\u0026Wo=0"
   },
   {
@@ -11587,7 +11573,7 @@
   {
     "id": 2438,
     "achievementId": 854,
-    "order": 12,
+    "order": 13,
     "nameId": 659364,
     "criterion": "(OA=317)\u0026Wo=0"
   },
@@ -16802,28 +16788,21 @@
   {
     "id": 3272,
     "achievementId": 1068,
-    "order": 9,
+    "order": 10,
     "nameId": 414235,
     "criterion": "(Ef\u003E392,0)\u0026Wo=0"
   },
   {
     "id": 3273,
     "achievementId": 1068,
-    "order": 10,
+    "order": 9,
     "nameId": 414238,
     "criterion": "(Ef\u003E393,0)\u0026Wo=0"
   },
   {
-    "id": 3274,
-    "achievementId": 1068,
-    "order": 11,
-    "nameId": 414237,
-    "criterion": "(Ef\u003E422,0)\u0026Wo=0"
-  },
-  {
     "id": 3275,
     "achievementId": 1068,
-    "order": 12,
+    "order": 11,
     "nameId": 414251,
     "criterion": "PL\u003E39"
   },
@@ -24801,37 +24780,30 @@
     "criterion": "(OA=1601)\u0026Wo=0"
   },
   {
-    "id": 5066,
-    "achievementId": 1602,
-    "order": 0,
-    "nameId": 724246,
-    "criterion": "(Ef\u003E52,0)\u0026Wo=0"
-  },
-  {
     "id": 5067,
     "achievementId": 1602,
-    "order": 1,
+    "order": 0,
     "nameId": 724247,
     "criterion": "(Ef\u003E4819,0)\u0026Wo=0"
   },
   {
     "id": 5068,
     "achievementId": 1602,
-    "order": 2,
+    "order": 1,
     "nameId": 724248,
     "criterion": "(Ef\u003E59,0)\u0026Wo=0"
   },
   {
     "id": 5069,
     "achievementId": 1602,
-    "order": 3,
+    "order": 2,
     "nameId": 724249,
     "criterion": "(Ef\u003E61,0)\u0026Wo=0"
   },
   {
     "id": 5070,
     "achievementId": 1602,
-    "order": 4,
+    "order": 3,
     "nameId": 724250,
     "criterion": "PL\u003E19"
   },
@@ -25805,7 +25777,7 @@
     "id": 5233,
     "achievementId": 1651,
     "order": 2,
-    "nameId": 745223,
+    "nameId": 1121854,
     "criterion": "(Qf=1954)\u0026Wo=0"
   },
   {
@@ -63689,7 +63661,7 @@
     "id": 13244,
     "achievementId": 5964,
     "order": 0,
-    "nameId": 1000349,
+    "nameId": 1127110,
     "criterion": "(EH\u003E899,0)\u0026Wo=0"
   },
   {
@@ -63738,7 +63710,7 @@
     "id": 13251,
     "achievementId": 5965,
     "order": 5,
-    "nameId": 1000358,
+    "nameId": 1127111,
     "criterion": "OA=5964"
   },
   {
@@ -68792,7 +68764,7 @@
     "id": 13977,
     "achievementId": 6244,
     "order": 0,
-    "nameId": 1010575,
+    "nameId": 1121853,
     "criterion": "(EH\u003E1079,0)\u0026Wo=0"
   },
   {
@@ -75093,63 +75065,63 @@
     "achievementId": 7794,
     "order": 0,
     "nameId": 1053319,
-    "criterion": "PO\u003E30466,2"
+    "criterion": "PO\u003E31534,2"
   },
   {
     "id": 16107,
     "achievementId": 7795,
     "order": 0,
     "nameId": 1053321,
-    "criterion": "PO\u003E30466,14"
+    "criterion": "PO\u003E31534,14"
   },
   {
     "id": 16108,
     "achievementId": 7796,
     "order": 0,
     "nameId": 1053323,
-    "criterion": "PO\u003E30466,29"
+    "criterion": "PO\u003E31534,29"
   },
   {
     "id": 16109,
     "achievementId": 7797,
     "order": 0,
     "nameId": 1053325,
-    "criterion": "PO\u003E30466,59"
+    "criterion": "PO\u003E31534,59"
   },
   {
     "id": 16110,
     "achievementId": 7798,
     "order": 0,
     "nameId": 1054208,
-    "criterion": "PO\u003E30466,99"
+    "criterion": "PO\u003E31534,99"
   },
   {
     "id": 16112,
     "achievementId": 7800,
     "order": 0,
     "nameId": 1054210,
-    "criterion": "PO\u003E30466,139"
+    "criterion": "PO\u003E31534,139"
   },
   {
     "id": 16113,
     "achievementId": 7801,
     "order": 0,
     "nameId": 1054212,
-    "criterion": "PO\u003E30466,189"
+    "criterion": "PO\u003E31534,189"
   },
   {
     "id": 16114,
     "achievementId": 7802,
     "order": 0,
     "nameId": 1053335,
-    "criterion": "PO\u003E30466,239"
+    "criterion": "PO\u003E31534,239"
   },
   {
     "id": 16115,
     "achievementId": 7803,
     "order": 0,
     "nameId": 1053337,
-    "criterion": "PO\u003E30466,299"
+    "criterion": "PO\u003E31534,299"
   },
   {
     "id": 16116,
@@ -83153,265 +83125,6 @@
     "criterion": "(Qf=2511)\u0026Wo=0"
   },
   {
-    "id": 17616,
-    "achievementId": 8737,
-    "order": 0,
-    "nameId": 1114231,
-    "criterion": "(EH\u003E2044,0)\u0026Wo=0"
-  },
-  {
-    "id": 17617,
-    "achievementId": 8738,
-    "order": 0,
-    "nameId": 1114238,
-    "criterion": "(EH\u003E2045,0)\u0026Wo=0"
-  },
-  {
-    "id": 17618,
-    "achievementId": 8739,
-    "order": 0,
-    "nameId": 1114244,
-    "criterion": "(EH\u003E2046,0)\u0026Wo=0"
-  },
-  {
-    "id": 17619,
-    "achievementId": 8740,
-    "order": 0,
-    "nameId": 1114250,
-    "criterion": "(EH\u003E2047,0)\u0026Wo=0"
-  },
-  {
-    "id": 17620,
-    "achievementId": 8741,
-    "order": 0,
-    "nameId": 1114256,
-    "criterion": "(EH\u003E2048,0)\u0026Wo=0"
-  },
-  {
-    "id": 17621,
-    "achievementId": 8742,
-    "order": 0,
-    "nameId": 1114262,
-    "criterion": "(EH\u003E2049,0)\u0026Wo=0"
-  },
-  {
-    "id": 17622,
-    "achievementId": 8748,
-    "order": 0,
-    "nameId": 1114268,
-    "criterion": "(EH\u003E2050,0)\u0026Wo=0"
-  },
-  {
-    "id": 17623,
-    "achievementId": 8749,
-    "order": 0,
-    "nameId": 1114276,
-    "criterion": "(EH\u003E2051,0)\u0026Wo=0"
-  },
-  {
-    "id": 17624,
-    "achievementId": 8750,
-    "order": 0,
-    "nameId": 1114282,
-    "criterion": "(EH\u003E2052,0)\u0026Wo=0"
-  },
-  {
-    "id": 17625,
-    "achievementId": 8751,
-    "order": 0,
-    "nameId": 1114288,
-    "criterion": "(EH\u003E2053,0)\u0026Wo=0"
-  },
-  {
-    "id": 17626,
-    "achievementId": 8752,
-    "order": 0,
-    "nameId": 1114294,
-    "criterion": "(EH\u003E2054,0)\u0026Wo=0"
-  },
-  {
-    "id": 17627,
-    "achievementId": 8753,
-    "order": 0,
-    "nameId": 1114300,
-    "criterion": "(EH\u003E2055,0)\u0026Wo=0"
-  },
-  {
-    "id": 17628,
-    "achievementId": 8754,
-    "order": 0,
-    "nameId": 1114306,
-    "criterion": "(EH\u003E2056,0)\u0026Wo=0"
-  },
-  {
-    "id": 17629,
-    "achievementId": 8755,
-    "order": 0,
-    "nameId": 1114619,
-    "criterion": "(EH\u003E2057,0)\u0026Wo=0"
-  },
-  {
-    "id": 17630,
-    "achievementId": 8756,
-    "order": 0,
-    "nameId": 1114637,
-    "criterion": "(EH\u003E2058,0)\u0026Wo=0"
-  },
-  {
-    "id": 17631,
-    "achievementId": 8757,
-    "order": 0,
-    "nameId": 1114655,
-    "criterion": "(EH\u003E2059,0)\u0026Wo=0"
-  },
-  {
-    "id": 17632,
-    "achievementId": 8758,
-    "order": 0,
-    "nameId": 1114675,
-    "criterion": "(EH\u003E2060,0)\u0026Wo=0"
-  },
-  {
-    "id": 17633,
-    "achievementId": 8759,
-    "order": 0,
-    "nameId": 1114693,
-    "criterion": "(EH\u003E2061,0)\u0026Wo=0"
-  },
-  {
-    "id": 17634,
-    "achievementId": 8760,
-    "order": 0,
-    "nameId": 1114711,
-    "criterion": "(EH\u003E2062,0)\u0026Wo=0"
-  },
-  {
-    "id": 17635,
-    "achievementId": 8761,
-    "order": 0,
-    "nameId": 1114729,
-    "criterion": "(EH\u003E2063,0)\u0026Wo=0"
-  },
-  {
-    "id": 17636,
-    "achievementId": 8762,
-    "order": 0,
-    "nameId": 1114748,
-    "criterion": "(EH\u003E2064,0)\u0026Wo=0"
-  },
-  {
-    "id": 17637,
-    "achievementId": 8763,
-    "order": 0,
-    "nameId": 1114766,
-    "criterion": "(EH\u003E2065,0)\u0026Wo=0"
-  },
-  {
-    "id": 17638,
-    "achievementId": 8764,
-    "order": 0,
-    "nameId": 1114784,
-    "criterion": "(EH\u003E2066,0)\u0026Wo=0"
-  },
-  {
-    "id": 17639,
-    "achievementId": 8765,
-    "order": 0,
-    "nameId": 1114802,
-    "criterion": "(EH\u003E2067,0)\u0026Wo=0"
-  },
-  {
-    "id": 17640,
-    "achievementId": 8766,
-    "order": 0,
-    "nameId": 1114822,
-    "criterion": "(EH\u003E2068,0)\u0026Wo=0"
-  },
-  {
-    "id": 17641,
-    "achievementId": 8767,
-    "order": 0,
-    "nameId": 1114840,
-    "criterion": "(EH\u003E2069,0)\u0026Wo=0"
-  },
-  {
-    "id": 17642,
-    "achievementId": 8768,
-    "order": 0,
-    "nameId": 1114858,
-    "criterion": "(EH\u003E2070,0)\u0026Wo=0"
-  },
-  {
-    "id": 17643,
-    "achievementId": 8769,
-    "order": 0,
-    "nameId": 1114876,
-    "criterion": "(EH\u003E2071,0)\u0026Wo=0"
-  },
-  {
-    "id": 17644,
-    "achievementId": 8770,
-    "order": 0,
-    "nameId": 1114894,
-    "criterion": "(EH\u003E2072,0)\u0026Wo=0"
-  },
-  {
-    "id": 17645,
-    "achievementId": 8771,
-    "order": 0,
-    "nameId": 1114912,
-    "criterion": "(EH\u003E2073,0)\u0026Wo=0"
-  },
-  {
-    "id": 17646,
-    "achievementId": 8772,
-    "order": 0,
-    "nameId": 1114930,
-    "criterion": "(EH\u003E2074,0)\u0026Wo=0"
-  },
-  {
-    "id": 17647,
-    "achievementId": 8773,
-    "order": 0,
-    "nameId": 1114948,
-    "criterion": "(EH\u003E2075,0)\u0026Wo=0"
-  },
-  {
-    "id": 17648,
-    "achievementId": 8774,
-    "order": 0,
-    "nameId": 1114966,
-    "criterion": "(EH\u003E2076,0)\u0026Wo=0"
-  },
-  {
-    "id": 17649,
-    "achievementId": 8775,
-    "order": 0,
-    "nameId": 1114984,
-    "criterion": "(EH\u003E2077,0)\u0026Wo=0"
-  },
-  {
-    "id": 17650,
-    "achievementId": 8776,
-    "order": 0,
-    "nameId": 1115002,
-    "criterion": "(EH\u003E2078,0)\u0026Wo=0"
-  },
-  {
-    "id": 17651,
-    "achievementId": 8777,
-    "order": 0,
-    "nameId": 1115029,
-    "criterion": "(EH\u003E2079,0)\u0026Wo=0"
-  },
-  {
-    "id": 17652,
-    "achievementId": 8778,
-    "order": 0,
-    "nameId": 1115047,
-    "criterion": "(EH\u003E2080,0)\u0026Wo=0"
-  },
-  {
     "id": 17653,
     "achievementId": 8779,
     "order": 0,
@@ -83513,217 +83226,287 @@
     "id": 17667,
     "achievementId": 8793,
     "order": 0,
-    "nameId": 1115951,
+    "nameId": 1118001,
     "criterion": "EM\u003E4803,0\u0026Wo=0\u0026Sv\u003E914,0"
   },
   {
     "id": 17668,
     "achievementId": 649,
     "order": 1,
-    "nameId": 1115763,
+    "nameId": 1115855,
     "criterion": "(Qf=2512)\u0026Wo=0"
   },
   {
     "id": 17669,
     "achievementId": 649,
     "order": 4,
-    "nameId": 1115764,
+    "nameId": 1115856,
     "criterion": "(Qf=2513)\u0026Wo=0"
   },
   {
     "id": 17670,
     "achievementId": 8794,
     "order": 0,
-    "nameId": 1115973,
+    "nameId": 1118159,
     "criterion": "(EH\u003E359,0)\u0026Wo=0\u0026Sv\u003E913,0"
   },
   {
     "id": 17671,
     "achievementId": 8795,
     "order": 0,
-    "nameId": 1115995,
+    "nameId": 1118181,
     "criterion": "(EH\u003E2081,0)\u0026Wo=0\u0026Sv\u003E913,0"
   },
   {
     "id": 17672,
     "achievementId": 8796,
     "order": 0,
-    "nameId": 1116015,
+    "nameId": 1118244,
     "criterion": "(EH\u003E2082,0)\u0026Wo=0\u0026Sv\u003E913,0"
+  },
+  {
+    "id": 17673,
+    "achievementId": 8797,
+    "order": 0,
+    "nameId": 1118375,
+    "criterion": "PO\u003E30952,2\u0026(HA=614|HA=615|HA=616|HA=617|HA=618)"
+  },
+  {
+    "id": 17674,
+    "achievementId": 8798,
+    "order": 0,
+    "nameId": 1118418,
+    "criterion": "PO\u003E30952,9\u0026(HA=614|HA=615|HA=616|HA=617|HA=618)"
+  },
+  {
+    "id": 17675,
+    "achievementId": 8799,
+    "order": 0,
+    "nameId": 1118421,
+    "criterion": "PO\u003E30953,2\u0026(HA=614|HA=615|HA=616|HA=617|HA=618)"
+  },
+  {
+    "id": 17676,
+    "achievementId": 8800,
+    "order": 0,
+    "nameId": 1118438,
+    "criterion": "PO\u003E30953,9\u0026(HA=614|HA=615|HA=616|HA=617|HA=618)"
+  },
+  {
+    "id": 17677,
+    "achievementId": 8801,
+    "order": 0,
+    "nameId": 1118441,
+    "criterion": "PO\u003E30954,2\u0026(HA=614|HA=615|HA=616|HA=617|HA=618)"
+  },
+  {
+    "id": 17678,
+    "achievementId": 8802,
+    "order": 0,
+    "nameId": 1118444,
+    "criterion": "PO\u003E30954,9\u0026(HA=614|HA=615|HA=616|HA=617|HA=618)"
+  },
+  {
+    "id": 17679,
+    "achievementId": 8803,
+    "order": 0,
+    "nameId": 1118447,
+    "criterion": "PO\u003E30955,2\u0026(HA=614|HA=615|HA=616|HA=617|HA=618)"
+  },
+  {
+    "id": 17680,
+    "achievementId": 8804,
+    "order": 0,
+    "nameId": 1118450,
+    "criterion": "PO\u003E30955,9\u0026(HA=614|HA=615|HA=616|HA=617|HA=618)"
   },
   {
     "id": 17681,
     "achievementId": 8805,
     "order": 0,
-    "nameId": 1116271,
+    "nameId": 1118603,
     "criterion": "EM\u003E1045,0\u0026Wo=0\u0026Sv\u003E919,0"
   },
   {
     "id": 17682,
     "achievementId": 8806,
     "order": 0,
-    "nameId": 1116283,
+    "nameId": 1118615,
     "criterion": "EM\u003E1072,0\u0026Wo=0\u0026Sv\u003E919,0"
   },
   {
     "id": 17683,
     "achievementId": 8807,
     "order": 0,
-    "nameId": 1116295,
+    "nameId": 1118628,
     "criterion": "EM\u003E3460,0\u0026Wo=0\u0026Sv\u003E919,0"
   },
   {
     "id": 17684,
     "achievementId": 8808,
     "order": 0,
-    "nameId": 1116358,
+    "nameId": 1118696,
     "criterion": "EM\u003E6218,0\u0026Wo=0\u0026Sv\u003E919,0"
   },
   {
     "id": 17685,
     "achievementId": 8809,
     "order": 0,
-    "nameId": 1116319,
+    "nameId": 1118656,
     "criterion": "EM\u003E2968,0\u0026Wo=0\u0026Sv\u003E919,0"
   },
   {
     "id": 17686,
     "achievementId": 8810,
     "order": 0,
-    "nameId": 1116331,
+    "nameId": 1118668,
     "criterion": "EM\u003E3618,0\u0026Wo=0\u0026Sv\u003E919,0"
   },
   {
     "id": 17687,
     "achievementId": 8811,
     "order": 0,
-    "nameId": 1116343,
+    "nameId": 1118681,
     "criterion": "EM\u003E6474,0\u0026Wo=0\u0026Sv\u003E919,0"
   },
   {
     "id": 17688,
     "achievementId": 8812,
     "order": 0,
-    "nameId": 1116355,
+    "nameId": 1118693,
     "criterion": "EM\u003E101,0\u0026Wo=0\u0026Sv\u003E919,0"
   },
   {
     "id": 17689,
     "achievementId": 8813,
     "order": 0,
-    "nameId": 1116424,
+    "nameId": 1118975,
     "criterion": "BI="
   },
   {
     "id": 17692,
     "achievementId": 8816,
     "order": 0,
-    "nameId": 1116433,
+    "nameId": 1119048,
     "criterion": "BI="
   },
   {
     "id": 17693,
     "achievementId": 8817,
     "order": 0,
-    "nameId": 1116436,
+    "nameId": 1119051,
     "criterion": "BI="
   },
   {
     "id": 17694,
     "achievementId": 8818,
     "order": 0,
-    "nameId": 1116439,
+    "nameId": 1119054,
     "criterion": "BI="
   },
   {
     "id": 17695,
     "achievementId": 8819,
     "order": 0,
-    "nameId": 1116442,
+    "nameId": 1119057,
     "criterion": "BI="
   },
   {
     "id": 17696,
     "achievementId": 8820,
     "order": 0,
-    "nameId": 1116445,
+    "nameId": 1119060,
     "criterion": "BI="
   },
   {
     "id": 17697,
     "achievementId": 8821,
     "order": 0,
-    "nameId": 1116448,
+    "nameId": 1119063,
     "criterion": "BI="
   },
   {
     "id": 17698,
     "achievementId": 8822,
     "order": 0,
-    "nameId": 1116451,
+    "nameId": 1119066,
     "criterion": "BI="
   },
   {
     "id": 17699,
     "achievementId": 8823,
     "order": 0,
-    "nameId": 1116454,
+    "nameId": 1119069,
     "criterion": "BI="
   },
   {
     "id": 17700,
     "achievementId": 8824,
     "order": 0,
-    "nameId": 1116457,
+    "nameId": 1119072,
     "criterion": "BI="
   },
   {
     "id": 17701,
     "achievementId": 8825,
     "order": 0,
-    "nameId": 1116460,
+    "nameId": 1119075,
     "criterion": "BI="
   },
   {
     "id": 17702,
     "achievementId": 8826,
     "order": 0,
-    "nameId": 1116463,
+    "nameId": 1119078,
     "criterion": "BI="
   },
   {
     "id": 17703,
     "achievementId": 8827,
     "order": 0,
-    "nameId": 1116466,
+    "nameId": 1119081,
     "criterion": "BI="
   },
   {
     "id": 17704,
     "achievementId": 8828,
     "order": 0,
-    "nameId": 1116469,
+    "nameId": 1119084,
     "criterion": "BI="
   },
   {
     "id": 17705,
     "achievementId": 8829,
     "order": 0,
-    "nameId": 1116472,
+    "nameId": 1119087,
     "criterion": "BI="
   },
   {
     "id": 17706,
     "achievementId": 8830,
     "order": 0,
-    "nameId": 1116475,
+    "nameId": 1119090,
     "criterion": "BI="
   },
   {
     "id": 17707,
     "achievementId": 8831,
     "order": 0,
-    "nameId": 1116478,
+    "nameId": 1119093,
     "criterion": "BI="
+  },
+  {
+    "id": 17709,
+    "achievementId": 854,
+    "order": 12,
+    "nameId": 1122004,
+    "criterion": "(OA=8832)\u0026Wo=0"
+  },
+  {
+    "id": 17710,
+    "achievementId": 175,
+    "order": 1,
+    "nameId": 1125956,
+    "criterion": "(Ef\u003E52,0)\u0026Wo=0"
   }
 ]

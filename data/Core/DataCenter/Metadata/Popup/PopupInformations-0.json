@@ -471,5 +471,25 @@
     "criterion": "PL\u003E4",
     "cacheType": 2,
     "autoTrigger": true
+  },
+  {
+    "id": 44,
+    "parentId": 5,
+    "titleId": "1124520",
+    "descriptionId": 1124521,
+    "illuName": "fr_feature_voyage_automatique.jpg",
+    "buttons": [
+      {
+        "id": 43,
+        "popupId": 44,
+        "type": 0,
+        "textId": "1120758",
+        "actionType": 1,
+        "actionValue": "OpenGuideBookAction:gameGuide|123|popup"
+      }
+    ],
+    "criterion": "PL\u003E9\u0026PZ=1",
+    "cacheType": 2,
+    "autoTrigger": true
   }
 ]

@@ -9,7 +9,8 @@
     "gameTypeId": 4,
     "communityId": 12,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "ombre"
   },
   {
     "id": 99,
@@ -21,7 +22,8 @@
     "gameTypeId": 3,
     "communityId": 2,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "default"
   },
   {
     "id": 290,
@@ -33,7 +35,8 @@
     "gameTypeId": 0,
     "communityId": 2,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "talkasha"
   },
   {
     "id": 291,
@@ -45,7 +48,8 @@
     "gameTypeId": 0,
     "communityId": 0,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "imagiro"
   },
   {
     "id": 292,
@@ -57,7 +61,8 @@
     "gameTypeId": 0,
     "communityId": 0,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "orukam"
   },
   {
     "id": 293,
@@ -69,7 +74,8 @@
     "gameTypeId": 0,
     "communityId": 0,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "tylezia"
   },
   {
     "id": 294,
@@ -81,7 +87,8 @@
     "gameTypeId": 0,
     "communityId": 0,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "hellmina"
   },
   {
     "id": 295,
@@ -93,7 +100,8 @@
     "gameTypeId": 0,
     "communityId": 12,
     "restrictedToLanguages": [],
-    "monoAccount": true
+    "monoAccount": true,
+    "illus": "draconiros"
   },
   {
     "id": 309,
@@ -101,11 +109,12 @@
     "commentId": "1111182",
     "openingDate": 1730764800000,
     "language": "fr",
-    "populationId": 1,
+    "populationId": 2,
     "gameTypeId": 0,
     "communityId": 12,
     "restrictedToLanguages": [],
-    "monoAccount": true
+    "monoAccount": true,
+    "illus": "dakal"
   },
   {
     "id": 310,
@@ -113,11 +122,12 @@
     "commentId": "1111194",
     "openingDate": 1730764800000,
     "language": "fr",
-    "populationId": 0,
+    "populationId": 2,
     "gameTypeId": 0,
     "communityId": 0,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "rafal"
   },
   {
     "id": 311,
@@ -125,11 +135,12 @@
     "commentId": "1111206",
     "openingDate": 1730764800000,
     "language": "fr",
-    "populationId": 0,
+    "populationId": 2,
     "gameTypeId": 0,
     "communityId": 0,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "salar"
   },
   {
     "id": 312,
@@ -137,11 +148,12 @@
     "commentId": "1111218",
     "openingDate": 1730764800000,
     "language": "fr",
-    "populationId": 0,
+    "populationId": 2,
     "gameTypeId": 0,
     "communityId": 0,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "brial"
   },
   {
     "id": 313,
@@ -153,7 +165,8 @@
     "gameTypeId": 0,
     "communityId": 2,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "mikhal"
   },
   {
     "id": 314,
@@ -161,11 +174,12 @@
     "commentId": "1111242",
     "openingDate": 1730764800000,
     "language": "fr",
-    "populationId": 0,
+    "populationId": 2,
     "gameTypeId": 0,
     "communityId": 0,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "kourial"
   },
   {
     "id": 315,
@@ -177,7 +191,8 @@
     "gameTypeId": 0,
     "communityId": 0,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "rafal"
   },
   {
     "id": 316,
@@ -185,11 +200,12 @@
     "commentId": "1111254",
     "openingDate": 1730764800000,
     "language": "fr",
-    "populationId": 0,
+    "populationId": 2,
     "gameTypeId": 0,
     "communityId": 0,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "salar"
   },
   {
     "id": 317,
@@ -201,7 +217,8 @@
     "gameTypeId": 0,
     "communityId": 0,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "brial"
   },
   {
     "id": 318,
@@ -213,7 +230,8 @@
     "gameTypeId": 0,
     "communityId": 2,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "mikhal"
   },
   {
     "id": 319,
@@ -221,11 +239,12 @@
     "commentId": "1111302",
     "openingDate": 1730764800000,
     "language": "fr",
-    "populationId": 0,
+    "populationId": 2,
     "gameTypeId": 0,
     "communityId": 0,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "kourial"
   },
   {
     "id": 320,
@@ -233,11 +252,12 @@
     "commentId": "1111314",
     "openingDate": 1730764800000,
     "language": "fr",
-    "populationId": 1,
+    "populationId": 2,
     "gameTypeId": 0,
     "communityId": 12,
     "restrictedToLanguages": [],
-    "monoAccount": true
+    "monoAccount": true,
+    "illus": "dakal"
   },
   {
     "id": 321,
@@ -245,11 +265,12 @@
     "commentId": "1111326",
     "openingDate": 1730764800000,
     "language": "fr",
-    "populationId": 1,
+    "populationId": 2,
     "gameTypeId": 0,
     "communityId": 12,
     "restrictedToLanguages": [],
-    "monoAccount": true
+    "monoAccount": true,
+    "illus": "dakal"
   },
   {
     "id": 322,
@@ -257,107 +278,441 @@
     "commentId": "1112288",
     "openingDate": 1730764800000,
     "language": "fr",
-    "populationId": 1,
+    "populationId": 2,
     "gameTypeId": 0,
     "communityId": 12,
     "restrictedToLanguages": [],
-    "monoAccount": true
+    "monoAccount": true,
+    "illus": "dakal"
   },
   {
     "id": 323,
-    "nameId": 1116175,
-    "commentId": "1116147",
+    "nameId": 1115822,
+    "commentId": "1115794",
     "openingDate": 1730764800000,
     "language": "fr",
-    "populationId": 1,
+    "populationId": 2,
     "gameTypeId": 0,
     "communityId": 12,
     "restrictedToLanguages": [],
-    "monoAccount": true
+    "monoAccount": true,
+    "illus": "dakal"
   },
   {
     "id": 324,
-    "nameId": 1116179,
-    "commentId": "1116159",
+    "nameId": 1115826,
+    "commentId": "1115806",
     "openingDate": 1730764800000,
     "language": "fr",
-    "populationId": 1,
+    "populationId": 0,
     "gameTypeId": 0,
     "communityId": 12,
     "restrictedToLanguages": [],
-    "monoAccount": true
+    "monoAccount": true,
+    "illus": "dakal"
   },
   {
     "id": 325,
-    "nameId": 1116183,
-    "commentId": "1116171",
+    "nameId": 1115830,
+    "commentId": "1115818",
     "openingDate": 1730764800000,
     "language": "fr",
-    "populationId": 1,
+    "populationId": 0,
     "gameTypeId": 0,
     "communityId": 12,
     "restrictedToLanguages": [],
-    "monoAccount": true
+    "monoAccount": true,
+    "illus": "dakal"
   },
   {
     "id": 326,
-    "nameId": 1116189,
-    "commentId": "1116195",
+    "nameId": 1115836,
+    "commentId": "1115842",
     "openingDate": 1730764800000,
     "language": "fr",
-    "populationId": 1,
+    "populationId": 2,
     "gameTypeId": 0,
     "communityId": 12,
     "restrictedToLanguages": [],
-    "monoAccount": true
+    "monoAccount": true,
+    "illus": "dakal"
   },
   {
     "id": 327,
-    "nameId": 1116201,
-    "commentId": "1116207",
+    "nameId": 1118464,
+    "commentId": "1118470",
     "openingDate": 1730764800000,
     "language": "fr",
-    "populationId": 1,
+    "populationId": 0,
     "gameTypeId": 0,
     "communityId": 12,
     "restrictedToLanguages": [],
-    "monoAccount": true
+    "monoAccount": true,
+    "illus": "dakal"
   },
   {
     "id": 328,
-    "nameId": 1116223,
-    "commentId": "1116219",
+    "nameId": 1118486,
+    "commentId": "1118482",
     "openingDate": 1730764800000,
     "language": "fr",
-    "populationId": 1,
+    "populationId": 0,
     "gameTypeId": 0,
     "communityId": 12,
     "restrictedToLanguages": [],
-    "monoAccount": true
+    "monoAccount": true,
+    "illus": "dakal"
   },
   {
     "id": 329,
-    "nameId": 1116229,
-    "commentId": "1116235",
+    "nameId": 1118492,
+    "commentId": "1118498",
     "openingDate": 1730764800000,
     "language": "fr",
-    "populationId": 1,
+    "populationId": 2,
     "gameTypeId": 0,
     "communityId": 12,
     "restrictedToLanguages": [],
-    "monoAccount": true
+    "monoAccount": true,
+    "illus": "dakal"
   },
   {
     "id": 330,
-    "nameId": 1116241,
-    "commentId": "1116247",
+    "nameId": 1118504,
+    "commentId": "1118510",
     "openingDate": 1730764800000,
     "language": "fr",
-    "populationId": 1,
+    "populationId": 2,
     "gameTypeId": 0,
     "communityId": 12,
     "restrictedToLanguages": [],
-    "monoAccount": true
+    "monoAccount": true,
+    "illus": "dakal"
+  },
+  {
+    "id": 331,
+    "nameId": 1120234,
+    "commentId": "1120240",
+    "openingDate": 1730764800000,
+    "language": "fr",
+    "populationId": 0,
+    "gameTypeId": 0,
+    "communityId": 12,
+    "restrictedToLanguages": [],
+    "monoAccount": true,
+    "illus": "dakal"
+  },
+  {
+    "id": 332,
+    "nameId": 1120246,
+    "commentId": "1120252",
+    "openingDate": 1730764800000,
+    "language": "fr",
+    "populationId": 0,
+    "gameTypeId": 0,
+    "communityId": 12,
+    "restrictedToLanguages": [],
+    "monoAccount": true,
+    "illus": "dakal"
+  },
+  {
+    "id": 333,
+    "nameId": 1120258,
+    "commentId": "1120264",
+    "openingDate": 1730764800000,
+    "language": "fr",
+    "populationId": 0,
+    "gameTypeId": 0,
+    "communityId": 12,
+    "restrictedToLanguages": [],
+    "monoAccount": true,
+    "illus": "dakal"
+  },
+  {
+    "id": 334,
+    "nameId": 1120270,
+    "commentId": "1120276",
+    "openingDate": 1730764800000,
+    "language": "fr",
+    "populationId": 0,
+    "gameTypeId": 0,
+    "communityId": 0,
+    "restrictedToLanguages": [],
+    "monoAccount": false,
+    "illus": "salar"
+  },
+  {
+    "id": 335,
+    "nameId": 1121074,
+    "commentId": "1121034",
+    "openingDate": 1730764800000,
+    "language": "fr",
+    "populationId": 0,
+    "gameTypeId": 0,
+    "communityId": 0,
+    "restrictedToLanguages": [],
+    "monoAccount": false,
+    "illus": "default"
+  },
+  {
+    "id": 336,
+    "nameId": 1121078,
+    "commentId": "1121046",
+    "openingDate": 1730764800000,
+    "language": "fr",
+    "populationId": 0,
+    "gameTypeId": 0,
+    "communityId": 0,
+    "restrictedToLanguages": [],
+    "monoAccount": false,
+    "illus": "default"
+  },
+  {
+    "id": 337,
+    "nameId": 1121082,
+    "commentId": "1121058",
+    "openingDate": 1730764800000,
+    "language": "en",
+    "populationId": 0,
+    "gameTypeId": 0,
+    "communityId": 2,
+    "restrictedToLanguages": [],
+    "monoAccount": false,
+    "illus": "default"
+  },
+  {
+    "id": 338,
+    "nameId": 1121086,
+    "commentId": "1121070",
+    "openingDate": 1730764800000,
+    "language": "fr",
+    "populationId": 0,
+    "gameTypeId": 0,
+    "communityId": 0,
+    "restrictedToLanguages": [],
+    "monoAccount": false,
+    "illus": "default"
+  },
+  {
+    "id": 339,
+    "nameId": 1121090,
+    "commentId": "1120902",
+    "openingDate": 1730764800000,
+    "language": "fr",
+    "populationId": 0,
+    "gameTypeId": 0,
+    "communityId": 12,
+    "restrictedToLanguages": [],
+    "monoAccount": true,
+    "illus": "default"
+  },
+  {
+    "id": 340,
+    "nameId": 1121094,
+    "commentId": "1120914",
+    "openingDate": 1730764800000,
+    "language": "fr",
+    "populationId": 0,
+    "gameTypeId": 0,
+    "communityId": 12,
+    "restrictedToLanguages": [],
+    "monoAccount": true,
+    "illus": "default"
+  },
+  {
+    "id": 341,
+    "nameId": 1121098,
+    "commentId": "1120926",
+    "openingDate": 1730764800000,
+    "language": "fr",
+    "populationId": 0,
+    "gameTypeId": 0,
+    "communityId": 12,
+    "restrictedToLanguages": [],
+    "monoAccount": true,
+    "illus": "default"
+  },
+  {
+    "id": 342,
+    "nameId": 1121102,
+    "commentId": "1120938",
+    "openingDate": 1730764800000,
+    "language": "fr",
+    "populationId": 0,
+    "gameTypeId": 0,
+    "communityId": 12,
+    "restrictedToLanguages": [],
+    "monoAccount": true,
+    "illus": "default"
+  },
+  {
+    "id": 343,
+    "nameId": 1121106,
+    "commentId": "1120950",
+    "openingDate": 1730764800000,
+    "language": "fr",
+    "populationId": 0,
+    "gameTypeId": 0,
+    "communityId": 12,
+    "restrictedToLanguages": [],
+    "monoAccount": true,
+    "illus": "default"
+  },
+  {
+    "id": 344,
+    "nameId": 1121110,
+    "commentId": "1120962",
+    "openingDate": 1730764800000,
+    "language": "fr",
+    "populationId": 0,
+    "gameTypeId": 0,
+    "communityId": 12,
+    "restrictedToLanguages": [],
+    "monoAccount": true,
+    "illus": "default"
+  },
+  {
+    "id": 345,
+    "nameId": 1121114,
+    "commentId": "1120974",
+    "openingDate": 1730764800000,
+    "language": "fr",
+    "populationId": 0,
+    "gameTypeId": 0,
+    "communityId": 12,
+    "restrictedToLanguages": [],
+    "monoAccount": true,
+    "illus": "default"
+  },
+  {
+    "id": 346,
+    "nameId": 1121118,
+    "commentId": "1120986",
+    "openingDate": 1730764800000,
+    "language": "fr",
+    "populationId": 0,
+    "gameTypeId": 0,
+    "communityId": 12,
+    "restrictedToLanguages": [],
+    "monoAccount": true,
+    "illus": "default"
+  },
+  {
+    "id": 347,
+    "nameId": 1121122,
+    "commentId": "1120998",
+    "openingDate": 1730764800000,
+    "language": "fr",
+    "populationId": 0,
+    "gameTypeId": 0,
+    "communityId": 12,
+    "restrictedToLanguages": [],
+    "monoAccount": true,
+    "illus": "default"
+  },
+  {
+    "id": 348,
+    "nameId": 1121126,
+    "commentId": "1121010",
+    "openingDate": 1730764800000,
+    "language": "fr",
+    "populationId": 0,
+    "gameTypeId": 0,
+    "communityId": 12,
+    "restrictedToLanguages": [],
+    "monoAccount": true,
+    "illus": "default"
+  },
+  {
+    "id": 349,
+    "nameId": 1121130,
+    "commentId": "1121022",
+    "openingDate": 1730764800000,
+    "language": "fr",
+    "populationId": 0,
+    "gameTypeId": 0,
+    "communityId": 12,
+    "restrictedToLanguages": [],
+    "monoAccount": true,
+    "illus": "default"
+  },
+  {
+    "id": 350,
+    "nameId": 1127190,
+    "commentId": "1127196",
+    "openingDate": 1740700800000,
+    "language": "en",
+    "populationId": 2,
+    "gameTypeId": 0,
+    "communityId": 12,
+    "restrictedToLanguages": [],
+    "monoAccount": false,
+    "illus": "rafal"
+  },
+  {
+    "id": 351,
+    "nameId": 1127202,
+    "commentId": "1127208",
+    "openingDate": 1740700800000,
+    "language": "fr",
+    "populationId": 2,
+    "gameTypeId": 0,
+    "communityId": 12,
+    "restrictedToLanguages": [],
+    "monoAccount": false,
+    "illus": "brial"
+  },
+  {
+    "id": 352,
+    "nameId": 1127214,
+    "commentId": "1127220",
+    "openingDate": 1740700800000,
+    "language": "fr",
+    "populationId": 2,
+    "gameTypeId": 0,
+    "communityId": 12,
+    "restrictedToLanguages": [],
+    "monoAccount": false,
+    "illus": "salar"
+  },
+  {
+    "id": 353,
+    "nameId": 1127226,
+    "commentId": "1127232",
+    "openingDate": 1740700800000,
+    "language": "fr",
+    "populationId": 0,
+    "gameTypeId": 0,
+    "communityId": 12,
+    "restrictedToLanguages": [],
+    "monoAccount": true,
+    "illus": "dakal"
+  },
+  {
+    "id": 354,
+    "nameId": 1127238,
+    "commentId": "1127244",
+    "openingDate": 1740700800000,
+    "language": "fr",
+    "populationId": 0,
+    "gameTypeId": 0,
+    "communityId": 12,
+    "restrictedToLanguages": [],
+    "monoAccount": true,
+    "illus": "mikhal"
+  },
+  {
+    "id": 355,
+    "nameId": 1127250,
+    "commentId": "1127256",
+    "openingDate": 1740700800000,
+    "language": "fr",
+    "populationId": 0,
+    "gameTypeId": 0,
+    "communityId": 12,
+    "restrictedToLanguages": [],
+    "monoAccount": true,
+    "illus": "kourial"
   },
   {
     "id": 501,
@@ -369,7 +724,8 @@
     "gameTypeId": 2,
     "communityId": 12,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "default"
   },
   {
     "id": 502,
@@ -381,7 +737,8 @@
     "gameTypeId": 2,
     "communityId": 12,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "default"
   },
   {
     "id": 800,
@@ -393,7 +750,8 @@
     "gameTypeId": 0,
     "communityId": 8,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "brial"
   },
   {
     "id": 900,
@@ -405,7 +763,8 @@
     "gameTypeId": 0,
     "communityId": 100,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "brial"
   },
   {
     "id": 901,
@@ -417,7 +776,8 @@
     "gameTypeId": 0,
     "communityId": 100,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "brial"
   },
   {
     "id": 902,
@@ -429,7 +789,8 @@
     "gameTypeId": 2,
     "communityId": 100,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "brial"
   },
   {
     "id": 906,
@@ -441,7 +802,8 @@
     "gameTypeId": 0,
     "communityId": 100,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "brial"
   },
   {
     "id": 907,
@@ -453,7 +815,8 @@
     "gameTypeId": 0,
     "communityId": 100,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "brial"
   },
   {
     "id": 908,
@@ -465,6 +828,7 @@
     "gameTypeId": 3,
     "communityId": 100,
     "restrictedToLanguages": [],
-    "monoAccount": false
+    "monoAccount": false,
+    "illus": "brial"
   }
 ]

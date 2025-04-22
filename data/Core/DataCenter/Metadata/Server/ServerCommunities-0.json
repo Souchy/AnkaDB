@@ -38,7 +38,7 @@
       "IE",
       "GB"
     ],
-    "shortId": "uk",
+    "shortId": "en",
     "supportedLangIds": [
       1
     ],
@@ -59,7 +59,7 @@
     "defaultCountries": [
       "XX"
     ],
-    "shortId": "en",
+    "shortId": "no_fr",
     "supportedLangIds": [
       0,
       1,
@@ -199,7 +199,7 @@
     "defaultCountries": [
       "XX"
     ],
-    "shortId": "en",
+    "shortId": "world",
     "supportedLangIds": [
       1
     ],
@@ -242,7 +242,7 @@
       "US",
       "CA"
     ],
-    "shortId": "na",
+    "shortId": "en",
     "supportedLangIds": [
       1
     ],
@@ -263,7 +263,7 @@
     "defaultCountries": [
       "XX"
     ],
-    "shortId": "en",
+    "shortId": "world",
     "supportedLangIds": [
       0,
       1,
@@ -310,7 +310,7 @@
     "defaultCountries": [
       "XX"
     ],
-    "shortId": "fr",
+    "shortId": "beta",
     "supportedLangIds": [
       0,
       1,

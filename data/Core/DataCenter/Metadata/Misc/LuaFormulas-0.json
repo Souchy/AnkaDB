@@ -177,7 +177,7 @@
   {
     "id": 109,
     "formulaName": "minimum_rank_by_player_level",
-    "luaFormula": "function params()\r\n    return {\u0022player_level\u0022}\r\nend\r\n\r\nfunction main()\r\n    local minimum_rating_by_player_level = 0.058*(player_level^2)\u002B5*player_level\r\n\r\nreturn minimum_rating_by_player_level\r\nend"
+    "luaFormula": "function params()\r\n    return {\u0022player_level\u0022}\r\nend\r\n\r\nfunction main()\r\n    local minimum_rating_by_player_level = math.max(1,0.57*(player_level^1.5)\u002B9*player_level - 500)\r\n\r\nreturn minimum_rating_by_player_level\r\nend"
   },
   {
     "id": 110,

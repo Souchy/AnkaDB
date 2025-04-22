@@ -127,7 +127,7 @@
   {
     "id": 8,
     "nameId": 782,
-    "descriptionId": 1030721,
+    "descriptionId": 1127113,
     "incompatibleChallenges": [
       1,
       2,
@@ -1339,7 +1339,7 @@
   {
     "id": 129,
     "nameId": 851186,
-    "descriptionId": 1042138,
+    "descriptionId": 1127118,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 8,
@@ -1383,7 +1383,7 @@
   {
     "id": 133,
     "nameId": 851213,
-    "descriptionId": 1042139,
+    "descriptionId": 1127117,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 8,
@@ -1779,7 +1779,7 @@
   {
     "id": 171,
     "nameId": 851415,
-    "descriptionId": 1042140,
+    "descriptionId": 1127123,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 8,
@@ -2307,7 +2307,7 @@
   {
     "id": 225,
     "nameId": 1050903,
-    "descriptionId": 1116095,
+    "descriptionId": 1118361,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 11,
@@ -2329,7 +2329,7 @@
   {
     "id": 227,
     "nameId": 851725,
-    "descriptionId": 1042141,
+    "descriptionId": 1127122,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 8,
@@ -2549,7 +2549,7 @@
   {
     "id": 247,
     "nameId": 852140,
-    "descriptionId": 1042142,
+    "descriptionId": 1127116,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 8,
@@ -2692,7 +2692,7 @@
   {
     "id": 260,
     "nameId": 851799,
-    "descriptionId": 1042143,
+    "descriptionId": 1127115,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 8,
@@ -2703,7 +2703,7 @@
   {
     "id": 261,
     "nameId": 851815,
-    "descriptionId": 1042144,
+    "descriptionId": 1127114,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 8,
@@ -2879,7 +2879,7 @@
   {
     "id": 281,
     "nameId": 852216,
-    "descriptionId": 1042145,
+    "descriptionId": 1127112,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 8,
@@ -3044,7 +3044,7 @@
   {
     "id": 296,
     "nameId": 1054932,
-    "descriptionId": 1116093,
+    "descriptionId": 1118359,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 11,
@@ -3616,7 +3616,7 @@
   {
     "id": 349,
     "nameId": 851424,
-    "descriptionId": 1042146,
+    "descriptionId": 1127121,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 8,
@@ -4122,7 +4122,7 @@
   {
     "id": 395,
     "nameId": 1054931,
-    "descriptionId": 1116094,
+    "descriptionId": 1118360,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 11,
@@ -4661,7 +4661,7 @@
   {
     "id": 449,
     "nameId": 852143,
-    "descriptionId": 1042147,
+    "descriptionId": 1127120,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 8,
@@ -5422,7 +5422,7 @@
   {
     "id": 514,
     "nameId": 857438,
-    "descriptionId": 1036012,
+    "descriptionId": 1121714,
     "incompatibleChallenges": [],
     "categoryId": 4,
     "iconId": 503,
@@ -5753,7 +5753,7 @@
   {
     "id": 593,
     "nameId": 937230,
-    "descriptionId": 1042148,
+    "descriptionId": 1127119,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 8,
@@ -6411,7 +6411,7 @@
   {
     "id": 967,
     "nameId": 1008060,
-    "descriptionId": 1068475,
+    "descriptionId": 1121444,
     "incompatibleChallenges": [
       3,
       4,
@@ -6506,7 +6506,7 @@
   {
     "id": 977,
     "nameId": 1009895,
-    "descriptionId": 1009639,
+    "descriptionId": 1121929,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -6594,7 +6594,7 @@
   {
     "id": 985,
     "nameId": 1011558,
-    "descriptionId": 1022903,
+    "descriptionId": 1122086,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -6627,7 +6627,7 @@
   {
     "id": 988,
     "nameId": 1011548,
-    "descriptionId": 1009669,
+    "descriptionId": 1121865,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -6638,7 +6638,7 @@
   {
     "id": 989,
     "nameId": 1009670,
-    "descriptionId": 1030788,
+    "descriptionId": 1121892,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -6660,7 +6660,7 @@
   {
     "id": 991,
     "nameId": 1012364,
-    "descriptionId": 1009675,
+    "descriptionId": 1121950,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -6792,7 +6792,7 @@
   {
     "id": 1003,
     "nameId": 1011567,
-    "descriptionId": 1026540,
+    "descriptionId": 1121918,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -6803,7 +6803,7 @@
   {
     "id": 1004,
     "nameId": 1011563,
-    "descriptionId": 1011564,
+    "descriptionId": 1121924,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -6814,7 +6814,7 @@
   {
     "id": 1005,
     "nameId": 1011831,
-    "descriptionId": 1012029,
+    "descriptionId": 1121944,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -6836,7 +6836,7 @@
   {
     "id": 1007,
     "nameId": 1011565,
-    "descriptionId": 1026562,
+    "descriptionId": 1121937,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -6869,7 +6869,7 @@
   {
     "id": 1010,
     "nameId": 1012209,
-    "descriptionId": 1030331,
+    "descriptionId": 1121857,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -6913,7 +6913,7 @@
   {
     "id": 1014,
     "nameId": 1011570,
-    "descriptionId": 1009721,
+    "descriptionId": 1121935,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -6957,7 +6957,7 @@
   {
     "id": 1018,
     "nameId": 1009728,
-    "descriptionId": 1014567,
+    "descriptionId": 1121942,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -6979,7 +6979,7 @@
   {
     "id": 1020,
     "nameId": 1009732,
-    "descriptionId": 1009733,
+    "descriptionId": 1121951,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7012,7 +7012,7 @@
   {
     "id": 1023,
     "nameId": 1012259,
-    "descriptionId": 1024740,
+    "descriptionId": 1121941,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7056,7 +7056,7 @@
   {
     "id": 1027,
     "nameId": 1012365,
-    "descriptionId": 1039492,
+    "descriptionId": 1121960,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7111,7 +7111,7 @@
   {
     "id": 1032,
     "nameId": 1012220,
-    "descriptionId": 1015656,
+    "descriptionId": 1121948,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7122,7 +7122,7 @@
   {
     "id": 1033,
     "nameId": 1011814,
-    "descriptionId": 1012384,
+    "descriptionId": 1121863,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7133,7 +7133,7 @@
   {
     "id": 1034,
     "nameId": 1011815,
-    "descriptionId": 1009761,
+    "descriptionId": 1121920,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7166,7 +7166,7 @@
   {
     "id": 1037,
     "nameId": 1011817,
-    "descriptionId": 1009767,
+    "descriptionId": 1122085,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7188,7 +7188,7 @@
   {
     "id": 1039,
     "nameId": 1011818,
-    "descriptionId": 1015668,
+    "descriptionId": 1121964,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7199,7 +7199,7 @@
   {
     "id": 1040,
     "nameId": 1011819,
-    "descriptionId": 1014560,
+    "descriptionId": 1121936,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7254,7 +7254,7 @@
   {
     "id": 1045,
     "nameId": 1011545,
-    "descriptionId": 1014565,
+    "descriptionId": 1122087,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7265,7 +7265,7 @@
   {
     "id": 1046,
     "nameId": 1011821,
-    "descriptionId": 1025894,
+    "descriptionId": 1121928,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7276,7 +7276,7 @@
   {
     "id": 1047,
     "nameId": 1010999,
-    "descriptionId": 1010998,
+    "descriptionId": 1125736,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7342,7 +7342,7 @@
   {
     "id": 1053,
     "nameId": 1012231,
-    "descriptionId": 1009799,
+    "descriptionId": 1122088,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7353,7 +7353,7 @@
   {
     "id": 1054,
     "nameId": 1012232,
-    "descriptionId": 1009801,
+    "descriptionId": 1121922,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7408,7 +7408,7 @@
   {
     "id": 1059,
     "nameId": 1011824,
-    "descriptionId": 1012326,
+    "descriptionId": 1121945,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7430,7 +7430,7 @@
   {
     "id": 1061,
     "nameId": 1012233,
-    "descriptionId": 1029334,
+    "descriptionId": 1121934,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7463,7 +7463,7 @@
   {
     "id": 1064,
     "nameId": 1012235,
-    "descriptionId": 1015672,
+    "descriptionId": 1121923,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7474,7 +7474,7 @@
   {
     "id": 1065,
     "nameId": 1009822,
-    "descriptionId": 1012376,
+    "descriptionId": 1121927,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7518,7 +7518,7 @@
   {
     "id": 1069,
     "nameId": 1012236,
-    "descriptionId": 1012045,
+    "descriptionId": 1124483,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7584,7 +7584,7 @@
   {
     "id": 1075,
     "nameId": 1011826,
-    "descriptionId": 1012261,
+    "descriptionId": 1121947,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7628,7 +7628,7 @@
   {
     "id": 1079,
     "nameId": 1026618,
-    "descriptionId": 1012408,
+    "descriptionId": 1121864,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7661,7 +7661,7 @@
   {
     "id": 1082,
     "nameId": 1009856,
-    "descriptionId": 1064510,
+    "descriptionId": 1121919,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7738,7 +7738,7 @@
   {
     "id": 1089,
     "nameId": 1009870,
-    "descriptionId": 1014613,
+    "descriptionId": 1121962,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7749,7 +7749,7 @@
   {
     "id": 1090,
     "nameId": 1012071,
-    "descriptionId": 1012072,
+    "descriptionId": 1126015,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -7837,7 +7837,7 @@
   {
     "id": 1098,
     "nameId": 1009888,
-    "descriptionId": 1014207,
+    "descriptionId": 1121862,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -8024,7 +8024,7 @@
   {
     "id": 1279,
     "nameId": 1051585,
-    "descriptionId": 1056956,
+    "descriptionId": 1121946,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -9410,7 +9410,7 @@
   {
     "id": 1405,
     "nameId": 1066281,
-    "descriptionId": 1066282,
+    "descriptionId": 1121940,
     "incompatibleChallenges": [],
     "categoryId": 3,
     "iconId": 977,
@@ -14832,8 +14832,8 @@
   },
   {
     "id": 1907,
-    "nameId": 1115974,
-    "descriptionId": 1115961,
+    "nameId": 1118160,
+    "descriptionId": 1118144,
     "incompatibleChallenges": [],
     "categoryId": 16,
     "iconId": 973,
@@ -14899,7 +14899,7 @@
   {
     "id": 1913,
     "nameId": 1115270,
-    "descriptionId": 1115741,
+    "descriptionId": 1115745,
     "incompatibleChallenges": [],
     "categoryId": 16,
     "iconId": 10004,
@@ -14910,7 +14910,7 @@
   {
     "id": 1914,
     "nameId": 1115266,
-    "descriptionId": 1115742,
+    "descriptionId": 1115744,
     "incompatibleChallenges": [],
     "categoryId": 16,
     "iconId": 10004,
@@ -14921,7 +14921,7 @@
   {
     "id": 1915,
     "nameId": 1115272,
-    "descriptionId": 1115740,
+    "descriptionId": 1115746,
     "incompatibleChallenges": [],
     "categoryId": 16,
     "iconId": 10004,
@@ -14932,7 +14932,7 @@
   {
     "id": 1916,
     "nameId": 1115456,
-    "descriptionId": 1115747,
+    "descriptionId": 1115760,
     "incompatibleChallenges": [],
     "categoryId": 16,
     "iconId": 10004,
@@ -14943,7 +14943,7 @@
   {
     "id": 1917,
     "nameId": 1105701,
-    "descriptionId": 1115748,
+    "descriptionId": 1115759,
     "incompatibleChallenges": [],
     "categoryId": 16,
     "iconId": 10004,
@@ -14954,7 +14954,7 @@
   {
     "id": 1918,
     "nameId": 1115446,
-    "descriptionId": 1115745,
+    "descriptionId": 1115762,
     "incompatibleChallenges": [],
     "categoryId": 16,
     "iconId": 10004,
@@ -14965,7 +14965,7 @@
   {
     "id": 1919,
     "nameId": 1115454,
-    "descriptionId": 1115746,
+    "descriptionId": 1115761,
     "incompatibleChallenges": [],
     "categoryId": 16,
     "iconId": 10004,
@@ -14976,7 +14976,7 @@
   {
     "id": 1920,
     "nameId": 1115448,
-    "descriptionId": 1115744,
+    "descriptionId": 1115763,
     "incompatibleChallenges": [],
     "categoryId": 16,
     "iconId": 10004,
@@ -15393,8 +15393,8 @@
   },
   {
     "id": 2081,
-    "nameId": 1115983,
-    "descriptionId": 1115982,
+    "nameId": 1118169,
+    "descriptionId": 1118168,
     "incompatibleChallenges": [],
     "categoryId": 16,
     "iconId": 5,
@@ -15404,8 +15404,8 @@
   },
   {
     "id": 2082,
-    "nameId": 1115999,
-    "descriptionId": 1116003,
+    "nameId": 1118196,
+    "descriptionId": 1118200,
     "incompatibleChallenges": [],
     "categoryId": 16,
     "iconId": 36,

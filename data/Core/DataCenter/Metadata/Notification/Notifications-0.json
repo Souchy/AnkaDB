@@ -457,5 +457,14 @@
     "typeId": 10,
     "trigger": "",
     "cantBeClosed": false
+  },
+  {
+    "id": 67,
+    "titleId": "1126242",
+    "messageId": "1126247",
+    "iconId": 0,
+    "typeId": 4,
+    "trigger": "",
+    "cantBeClosed": false
   }
 ]
