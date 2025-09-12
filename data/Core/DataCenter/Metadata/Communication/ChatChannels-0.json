@@ -108,8 +108,17 @@
     "allowObjects": true
   },
   {
+    "id": 14,
+    "nameId": 721410,
+    "descriptionId": 721419,
+    "shortcut": "/co",
+    "shortcutKey": "toggleChannelCommunity",
+    "isPrivate": false,
+    "allowObjects": false
+  },
+  {
     "id": 15,
-    "nameId": 1129479,
+    "nameId": 1131484,
     "descriptionId": 1059623,
     "shortcut": "",
     "shortcutKey": "",
@@ -118,8 +127,8 @@
   },
   {
     "id": 16,
-    "nameId": 1129484,
-    "descriptionId": 1129485,
+    "nameId": 1131512,
+    "descriptionId": 1131513,
     "shortcut": "/c",
     "shortcutKey": "toggleChannelCraft",
     "isPrivate": false,

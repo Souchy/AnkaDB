@@ -1,0 +1,36 @@
+[
+  {
+    "monsterList": [
+      8069
+    ],
+    "criterion": "",
+    "mapList": [
+      237241344
+    ],
+    "subareaList": [],
+    "areaList": [],
+    "scoreGroupShared": true,
+    "scorePerDamage": true,
+    "scoreTotal": -1,
+    "scoreRatio": 5,
+    "scoreDayCount": 7,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "monsterList": [
+      4154
+    ],
+    "criterion": "",
+    "mapList": [],
+    "subareaList": [],
+    "areaList": [],
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scoreTotal": 5000,
+    "scoreRatio": 100,
+    "scoreDayCount": 0,
+    "id": 0,
+    "worldEventId": 0
+  }
+]

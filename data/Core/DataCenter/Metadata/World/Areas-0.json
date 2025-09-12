@@ -1022,5 +1022,21 @@
     "worldmapId": 0,
     "hasWorldMap": false,
     "hasSuggestion": true
+  },
+  {
+    "id": 96,
+    "nameId": 1137763,
+    "superAreaId": 5,
+    "containHouses": false,
+    "containPaddocks": false,
+    "bounds": {
+      "x": 0,
+      "y": 0,
+      "width": 26,
+      "height": 31
+    },
+    "worldmapId": 34,
+    "hasWorldMap": true,
+    "hasSuggestion": true
   }
 ]

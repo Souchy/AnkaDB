@@ -261,7 +261,7 @@
     "id": 60,
     "nameId": 2635,
     "actionId": 7,
-    "displayTooltip": false
+    "displayTooltip": true
   },
   {
     "id": 61,
@@ -2348,6 +2348,156 @@
   {
     "id": 421,
     "nameId": 1102663,
+    "actionId": 0,
+    "displayTooltip": true
+  },
+  {
+    "id": 422,
+    "nameId": 1131121,
+    "actionId": 0,
+    "displayTooltip": true
+  },
+  {
+    "id": 423,
+    "nameId": 1131510,
+    "actionId": 0,
+    "displayTooltip": false
+  },
+  {
+    "id": 424,
+    "nameId": 1131516,
+    "actionId": 0,
+    "displayTooltip": true
+  },
+  {
+    "id": 425,
+    "nameId": 1131436,
+    "actionId": 0,
+    "displayTooltip": true
+  },
+  {
+    "id": 426,
+    "nameId": 1136958,
+    "actionId": 0,
+    "displayTooltip": false
+  },
+  {
+    "id": 427,
+    "nameId": 1138743,
+    "actionId": 0,
+    "displayTooltip": true
+  },
+  {
+    "id": 428,
+    "nameId": 1139025,
+    "actionId": 0,
+    "displayTooltip": false
+  },
+  {
+    "id": 429,
+    "nameId": 1139644,
+    "actionId": 0,
+    "displayTooltip": false
+  },
+  {
+    "id": 430,
+    "nameId": 1139648,
+    "actionId": 0,
+    "displayTooltip": false
+  },
+  {
+    "id": 431,
+    "nameId": 1139649,
+    "actionId": 0,
+    "displayTooltip": false
+  },
+  {
+    "id": 432,
+    "nameId": 1139650,
+    "actionId": 0,
+    "displayTooltip": false
+  },
+  {
+    "id": 433,
+    "nameId": 1139651,
+    "actionId": 0,
+    "displayTooltip": false
+  },
+  {
+    "id": 434,
+    "nameId": 1140757,
+    "actionId": 0,
+    "displayTooltip": false
+  },
+  {
+    "id": 435,
+    "nameId": 1140758,
+    "actionId": 0,
+    "displayTooltip": false
+  },
+  {
+    "id": 436,
+    "nameId": 1140759,
+    "actionId": 0,
+    "displayTooltip": false
+  },
+  {
+    "id": 437,
+    "nameId": 1140760,
+    "actionId": 0,
+    "displayTooltip": false
+  },
+  {
+    "id": 438,
+    "nameId": 1140761,
+    "actionId": 0,
+    "displayTooltip": false
+  },
+  {
+    "id": 439,
+    "nameId": 1140777,
+    "actionId": 0,
+    "displayTooltip": false
+  },
+  {
+    "id": 440,
+    "nameId": 1141301,
+    "actionId": 0,
+    "displayTooltip": true
+  },
+  {
+    "id": 441,
+    "nameId": 1142473,
+    "actionId": 0,
+    "displayTooltip": true
+  },
+  {
+    "id": 442,
+    "nameId": 1142474,
+    "actionId": 0,
+    "displayTooltip": true
+  },
+  {
+    "id": 443,
+    "nameId": 1142475,
+    "actionId": 0,
+    "displayTooltip": true
+  },
+  {
+    "id": 444,
+    "nameId": 1142476,
+    "actionId": 0,
+    "displayTooltip": true
+  },
+  {
+    "id": 445,
+    "nameId": 1142477,
+    "actionId": 0,
+    "displayTooltip": true
+  },
+  {
+    "id": 446,
+    "nameId": 1144202,
     "actionId": 0,
     "displayTooltip": true
   }

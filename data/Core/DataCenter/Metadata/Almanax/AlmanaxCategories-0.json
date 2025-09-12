@@ -1,0 +1,100 @@
+[
+  {
+    "id": 2,
+    "nameId": 0,
+    "protectorNameId": 0,
+    "protectorDescriptionId": 0,
+    "protectorIllustrationId": -1
+  },
+  {
+    "id": 3,
+    "nameId": 0,
+    "protectorNameId": 0,
+    "protectorDescriptionId": 0,
+    "protectorIllustrationId": -1
+  },
+  {
+    "id": 4,
+    "nameId": 7427,
+    "protectorNameId": 1133760,
+    "protectorDescriptionId": 1133757,
+    "protectorIllustrationId": 1
+  },
+  {
+    "id": 5,
+    "nameId": 7423,
+    "protectorNameId": 1133762,
+    "protectorDescriptionId": 1133764,
+    "protectorIllustrationId": 2
+  },
+  {
+    "id": 6,
+    "nameId": 7431,
+    "protectorNameId": 1133766,
+    "protectorDescriptionId": 1133768,
+    "protectorIllustrationId": 3
+  },
+  {
+    "id": 7,
+    "nameId": 7425,
+    "protectorNameId": 1133770,
+    "protectorDescriptionId": 1133772,
+    "protectorIllustrationId": 4
+  },
+  {
+    "id": 8,
+    "nameId": 7430,
+    "protectorNameId": 1133774,
+    "protectorDescriptionId": 1133776,
+    "protectorIllustrationId": 5
+  },
+  {
+    "id": 9,
+    "nameId": 7429,
+    "protectorNameId": 1133778,
+    "protectorDescriptionId": 1133780,
+    "protectorIllustrationId": 6
+  },
+  {
+    "id": 10,
+    "nameId": 296533,
+    "protectorNameId": 1133782,
+    "protectorDescriptionId": 1133784,
+    "protectorIllustrationId": 7
+  },
+  {
+    "id": 11,
+    "nameId": 7424,
+    "protectorNameId": 1133786,
+    "protectorDescriptionId": 1133788,
+    "protectorIllustrationId": 8
+  },
+  {
+    "id": 12,
+    "nameId": 7434,
+    "protectorNameId": 1133790,
+    "protectorDescriptionId": 1133792,
+    "protectorIllustrationId": 9
+  },
+  {
+    "id": 13,
+    "nameId": 7433,
+    "protectorNameId": 1133794,
+    "protectorDescriptionId": 1133796,
+    "protectorIllustrationId": 10
+  },
+  {
+    "id": 14,
+    "nameId": 7432,
+    "protectorNameId": 1133798,
+    "protectorDescriptionId": 1133800,
+    "protectorIllustrationId": 11
+  },
+  {
+    "id": 15,
+    "nameId": 7426,
+    "protectorNameId": 1133802,
+    "protectorDescriptionId": 1133804,
+    "protectorIllustrationId": 12
+  }
+]

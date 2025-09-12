@@ -364,5 +364,11 @@
     "mapId": 207095811,
     "subAreaId": 955,
     "activated": true
+  },
+  {
+    "id": 80,
+    "mapId": 234621702,
+    "subAreaId": 1040,
+    "activated": false
   }
 ]

@@ -177,11 +177,16 @@
   {
     "id": 109,
     "formulaName": "minimum_rank_by_player_level",
-    "luaFormula": "function params()\r\n    return {\u0022player_level\u0022}\r\nend\r\n\r\nfunction main()\r\n    local minimum_rating_by_player_level = math.max(1,0.57*(player_level^1.5)\u002B9*player_level - 500)\r\n\r\nreturn minimum_rating_by_player_level\r\nend"
+    "luaFormula": "function params()\r\n    return {\u0022player_level\u0022}\r\nend\r\n\r\nfunction main()\r\n    local minimum_rating_by_player_level = math.max(1,0.57*(player_level^1.5)\u002B9*player_level - 600)\r\n\r\nreturn minimum_rating_by_player_level\r\nend"
   },
   {
     "id": 110,
     "formulaName": "starting_rank_by_player_level",
     "luaFormula": "function params()\r\n    return {\u0022player_level\u0022}\r\nend\r\n\r\nfunction main()\r\n    local starting_rating_by_player_level = 0.57*(player_level^1.5)\u002B9*player_level\r\n\r\nreturn starting_rating_by_player_level\r\nend"
+  },
+  {
+    "id": 111,
+    "formulaName": "ride_level",
+    "luaFormula": "function roundToNearest(n, decimalCount)\r\n   decimalCount = decimalCount or 0\r\n   local offset = math.pow(10, decimalCount)\r\n   local res = n * offset\r\n   if res % 1 \u003E= 0.5 then\r\n       res = math.ceil(res)\r\n   else\r\n      res = math.floor(res)\r\n   end\r\n   return res / offset;\r\nend\r\n\r\nfunction main()\r\n   return roundToNearest(3.795 * math.pow(lvl, 2.329))\r\nend\nmath = math or {}\nfunction math.pow(a, b)\nreturn a ^ b\nend"
   }
 ]

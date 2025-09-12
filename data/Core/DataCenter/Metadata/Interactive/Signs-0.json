@@ -1946,13 +1946,6 @@
     "m_hintOrSubAreaId": 0
   },
   {
-    "id": 538777,
-    "paramsString": "62",
-    "skillId": 360,
-    "textKey": "1125660",
-    "m_hintOrSubAreaId": 0
-  },
-  {
     "id": 538778,
     "paramsString": "62",
     "skillId": 360,
@@ -1967,24 +1960,136 @@
     "m_hintOrSubAreaId": 0
   },
   {
-    "id": 538783,
-    "paramsString": "62",
-    "skillId": 360,
-    "textKey": "1125660",
-    "m_hintOrSubAreaId": 0
-  },
-  {
-    "id": 538784,
-    "paramsString": "62",
-    "skillId": 360,
-    "textKey": "1125660",
-    "m_hintOrSubAreaId": 0
-  },
-  {
     "id": 538785,
     "paramsString": "62",
     "skillId": 360,
     "textKey": "1125660",
+    "m_hintOrSubAreaId": 0
+  },
+  {
+    "id": 538850,
+    "paramsString": "87",
+    "skillId": 360,
+    "textKey": "1131435",
+    "m_hintOrSubAreaId": 0
+  },
+  {
+    "id": 538851,
+    "paramsString": "84",
+    "skillId": 360,
+    "textKey": "1131424",
+    "m_hintOrSubAreaId": 0
+  },
+  {
+    "id": 538852,
+    "paramsString": "85",
+    "skillId": 360,
+    "textKey": "1131425",
+    "m_hintOrSubAreaId": 0
+  },
+  {
+    "id": 538853,
+    "paramsString": "86",
+    "skillId": 360,
+    "textKey": "1131426",
+    "m_hintOrSubAreaId": 0
+  },
+  {
+    "id": 538854,
+    "paramsString": "83",
+    "skillId": 360,
+    "textKey": "1131423",
+    "m_hintOrSubAreaId": 0
+  },
+  {
+    "id": 538870,
+    "paramsString": "77",
+    "skillId": 360,
+    "textKey": "1131171",
+    "m_hintOrSubAreaId": 0
+  },
+  {
+    "id": 538874,
+    "paramsString": "78",
+    "skillId": 360,
+    "textKey": "1131172",
+    "m_hintOrSubAreaId": 0
+  },
+  {
+    "id": 538875,
+    "paramsString": "79",
+    "skillId": 360,
+    "textKey": "1131173",
+    "m_hintOrSubAreaId": 0
+  },
+  {
+    "id": 539028,
+    "paramsString": "3691",
+    "skillId": 361,
+    "textKey": "",
+    "m_hintOrSubAreaId": 0
+  },
+  {
+    "id": 539030,
+    "paramsString": "3692",
+    "skillId": 361,
+    "textKey": "",
+    "m_hintOrSubAreaId": 0
+  },
+  {
+    "id": 539031,
+    "paramsString": "3690",
+    "skillId": 361,
+    "textKey": "",
+    "m_hintOrSubAreaId": 0
+  },
+  {
+    "id": 539040,
+    "paramsString": "3694",
+    "skillId": 361,
+    "textKey": "",
+    "m_hintOrSubAreaId": 0
+  },
+  {
+    "id": 539041,
+    "paramsString": "3695",
+    "skillId": 361,
+    "textKey": "",
+    "m_hintOrSubAreaId": 0
+  },
+  {
+    "id": 539084,
+    "paramsString": "62",
+    "skillId": 360,
+    "textKey": "1125660",
+    "m_hintOrSubAreaId": 0
+  },
+  {
+    "id": 539085,
+    "paramsString": "62",
+    "skillId": 360,
+    "textKey": "1125660",
+    "m_hintOrSubAreaId": 0
+  },
+  {
+    "id": 539086,
+    "paramsString": "62",
+    "skillId": 360,
+    "textKey": "1125660",
+    "m_hintOrSubAreaId": 0
+  },
+  {
+    "id": 539122,
+    "paramsString": "93",
+    "skillId": 360,
+    "textKey": "1144676",
+    "m_hintOrSubAreaId": 0
+  },
+  {
+    "id": 539268,
+    "paramsString": "92",
+    "skillId": 360,
+    "textKey": "1144674",
     "m_hintOrSubAreaId": 0
   }
 ]

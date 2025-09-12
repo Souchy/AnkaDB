@@ -653,7 +653,7 @@
   },
   {
     "id": 32,
-    "nameId": 1129384,
+    "nameId": 1129816,
     "origineX": 4432,
     "origineY": -5250,
     "mapWidth": 279,
@@ -674,7 +674,7 @@
   },
   {
     "id": 33,
-    "nameId": 1129389,
+    "nameId": 1129821,
     "origineX": -5028,
     "origineY": -1932,
     "mapWidth": 280,
@@ -685,6 +685,27 @@
     "startScale": 0.25,
     "totalWidth": 2649,
     "totalHeight": 5396,
+    "zoom": [
+      1,
+      0.75,
+      0.5,
+      0.25
+    ],
+    "visibleOnMap": true
+  },
+  {
+    "id": 34,
+    "nameId": 1141028,
+    "origineX": 1284,
+    "origineY": 1532,
+    "mapWidth": 148,
+    "mapHeight": 106,
+    "viewableEverywhere": false,
+    "minScale": 0.25,
+    "maxScale": 1,
+    "startScale": 0.5,
+    "totalWidth": 6350,
+    "totalHeight": 5898,
     "zoom": [
       1,
       0.75,

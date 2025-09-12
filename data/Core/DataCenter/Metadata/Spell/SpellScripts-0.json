@@ -60910,6 +60910,11 @@
     "m_lastUpdatedVersion": 0
   },
   {
+    "rawParams": "targetGfxId:1017,targetGfxId2:5504",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
     "rawParams": "targetGfxId:7960",
     "type": 1,
     "m_lastUpdatedVersion": 0
@@ -63400,7 +63405,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque918\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022trail\u0022,\u0022gfxId\u0022:8202,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isFromCaster\u0022:true,\u0022isToTarget\u0022:true}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8170,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8169,\u0022directionType\u0022:\u0022oriented\u0022,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque918\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022trail\u0022,\u0022gfxId\u0022:8202,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isFromCaster\u0022:true,\u0022isToTarget\u0022:true}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8170,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8169,\u0022directionType\u0022:\u0022oriented\u0022,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
     "type": 9,
     "m_lastUpdatedVersion": 0
   },
@@ -63580,7 +63585,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque910\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022projectile\u0022,\u0022gfxId\u0022:8196,\u0022curvature\u0022:6,\u0022offsetY\u0022:5,\u0022speed\u0022:30}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8166,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8165,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque910\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022projectile\u0022,\u0022gfxId\u0022:8196,\u0022curvature\u0022:6,\u0022offsetY\u0022:5,\u0022speed\u0022:30}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8166,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8165,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
     "type": 9,
     "m_lastUpdatedVersion": 0
   },
@@ -65195,7 +65200,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022mark\u0022,\u0022gfxId\u0022:8553,\u0022isOriented\u0022:false}]}]}}",
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022mark\u0022,\u0022gfxId\u0022:8553,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
     "type": 9,
     "m_lastUpdatedVersion": 0
   },
@@ -66670,8 +66675,8 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:209,targetGfxId:8675,targetGfxId2:8674,targetGfxShowUnder2:1",
-    "type": 1,
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque209\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8675,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8674,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.3,\u0022scaleY\u0022:1.3}]}]}}",
+    "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
@@ -68075,7 +68080,7 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1000,targetGfxId:9021",
+    "rawParams": "animId:1000",
     "type": 1,
     "m_lastUpdatedVersion": 0
   },
@@ -68965,13 +68970,13 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1815",
-    "type": 1,
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1815\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9537,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9637,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "animId:1818",
-    "type": 1,
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1818\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9638,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9639,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
@@ -71200,8 +71205,8 @@
     "m_lastUpdatedVersion": 0
   },
   {
-    "rawParams": "targetGfxId:9194,targetGfxShowUnder:1,targetGfxId2:9196",
-    "type": 1,
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9194,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.3,\u0022scaleY\u0022:1.3}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9196,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.3,\u0022scaleY\u0022:1.3}]}]}}",
+    "type": 9,
     "m_lastUpdatedVersion": 0
   },
   {
@@ -71375,8 +71380,1868 @@
     "m_lastUpdatedVersion": 0
   },
   {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9261,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9260,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1,targetGfxId:9296,targetGfxId2:9297,targetGfxShowUnder2:1",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9259,\u0022isOriented\u0022:false,\u0022scaleX\u0022:2,\u0022scaleY\u0022:2}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9261,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.5,\u0022scaleY\u0022:1.5},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9260,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.5,\u0022scaleY\u0022:1.5}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9261,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.5,\u0022scaleY\u0022:1.5},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9260,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false,\u0022scaleX\u0022:2,\u0022scaleY\u0022:2}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9261,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.5,\u0022scaleY\u0022:1.5},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9260,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false,\u0022scaleX\u0022:2.5,\u0022scaleY\u0022:2.5}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:0,targetGfxId:9288",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1,targetGfxId:9289",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:2,targetGfxId:9290",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque3\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9291,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque3\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9385,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.3,\u0022scaleY\u0022:1.3},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9402,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.3,\u0022scaleY\u0022:1.3}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022}]},{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9292,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque3\u0022}]},{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9304,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:0,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1,targetGfxId:9320",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:2,targetGfxId:9321",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:3,targetGfxId:9322",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:3",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:0,targetGfxId:9361",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1,targetGfxId:9363,casterGfxId:9363,cibleGfxBeforePlayerChange:1",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:2,targetGfxId:9365,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:3,targetGfxId:9367,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:0,targetGfxId:9292",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:2,targetGfxId:9295",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque3\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9097,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:0,targetGfxId:9305",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1,targetGfxId:9302",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:2,targetGfxId:9303",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:0,targetGfxId:9328,targetGfxId2:9329,targetGfxShowUnder2:1",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:4,targetGfxId:9332,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque3\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "targetGfxId:9330,targetGfxId2:9331,targetGfxShowUnder2:1",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
     "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8886,\u0022isOriented\u0022:false}]}]}}",
     "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:0,targetGfxId:9344,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1,targetGfxId:9345,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:2,targetGfxId:9346,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:3,targetGfxId:9347,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:0,targetGfxId:9352,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1,targetGfxId:9353,targetGfxId2:9354,targetGfxShowUnder2:1,casterGfxId:9356,cibleGfxBeforePlayerChange:1",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:2,targetGfxId:9355,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:3,targetGfxId:9352,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:4,targetGfxId:9352,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9401,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9383,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1,targetGfxId:9384,targetGfxOriented:1",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9402,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9385,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque4\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:0,targetGfxId:9424,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1,targetGfxId:9426",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:2,targetGfxId:9428,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:3,targetGfxId:9430",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "targetGfxId:9395",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "targetGfxId:9393",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "targetGfxId:9391",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "targetGfxId:9389",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1,targetGfxId:9385,targetGfxId2:9402,targetGfxShowUnder2:1",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1,targetGfxId:9292",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1,targetGfxId:9304",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9599,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9613,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9600,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9601,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9602,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9615,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9603,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9633,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9617,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9604,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9618,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9605,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8843,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:9606,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9606,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8658,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque203\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8659,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.3,\u0022scaleY\u0022:1.3}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8659,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque204\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8703,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8702,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque213\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9417,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9418,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9419,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9420,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque3\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9421,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque9\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "glyphGfxId:9558",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9557,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9556,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque6\u0022,\u0022gfxAnimationEndPolicy\u0022:\u0022beginning\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022staging\u0022,\u0022stagingId\u0022:6,\u0022stagingIsBlocking\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9545,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9569,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque10\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9548,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9422,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9423,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9405,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:9405,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9406,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:9406,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9407,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9408,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9437,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9438,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9439,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9440,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque3\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9441,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque7\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9409,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9410,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9630,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9631,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9629,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9627,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9629,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9625,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9624,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9625,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9620,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9621,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9622,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:9612,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9612,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9610,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9608,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9607,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque202\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9672,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque216\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9684,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque204\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9666,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9667,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque221\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9688,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9689,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque213\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9662,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque214\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8679,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8680,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque214\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9691,\u0022directionType\u0022:\u0022oriented\u0022,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9690,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque201\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9671,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque200\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8658,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque217\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque219\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque211\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8708,\u0022directionType\u0022:\u0022oriented\u0022,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8709,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque213\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque202\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9664,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9665,\u0022directionType\u0022:\u0022oriented\u0022,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque206\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9673,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9674,\u0022directionType\u0022:\u0022oriented\u0022,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque205\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8695,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8694,\u0022directionType\u0022:\u0022oriented\u0022,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque202\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9670,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque213\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8710,\u0022directionType\u0022:\u0022oriented\u0022,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false,\u0022offsetY\u0022:-1,\u0022scaleX\u0022:1.4,\u0022scaleY\u0022:1.4}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8711,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false,\u0022offsetY\u0022:-1,\u0022scaleX\u0022:1.4,\u0022scaleY\u0022:1.4}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque221\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9669,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque204\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9685,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9686,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque204\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque221\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9687,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque214\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9691,\u0022directionType\u0022:\u0022oriented\u0022,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9690,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque208\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9661,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque221\u0022}]},{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9676,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]},{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9678,\u0022directionType\u0022:\u0022oriented\u0022,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque207\u0022}]},{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8663,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8662,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque213\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9663,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8690,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8697,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8696,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque19\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8691,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8692,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8673,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8672,\u0022directionType\u0022:\u0022oriented\u0022,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8670,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8671,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque14\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9470,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022staging\u0022,\u0022stagingId\u0022:51,\u0022stagingIsBlocking\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque3\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022staging\u0022,\u0022stagingId\u0022:53,\u0022stagingIsBlocking\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque5\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022staging\u0022,\u0022stagingId\u0022:55,\u0022stagingIsBlocking\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8646,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8647,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8644,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8645,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8642,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8643,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8640,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8641,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9458,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9459,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9460,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque3\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9461,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9462,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque5\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9463,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque6\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9464,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque7\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9465,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque8\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9466,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque9\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9467,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque215\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9693,\u0022directionType\u0022:\u0022oriented\u0022,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9692,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque215\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9693,\u0022directionType\u0022:\u0022oriented\u0022,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9692,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:0,targetGfxId:9483,targetGfxId2:9484,targetGfxShowUnder2:1",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1,targetGfxId:9485,targetGfxId2:9486,targetGfxShowUnder2:1",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:2,targetGfxId:9487,targetGfxId2:9488,targetGfxShowUnder2:1",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:3,targetGfxId:9489,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:4,targetGfxId:9490,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:5,targetGfxId:9491",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9514,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9510,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque3\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9512,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9513,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9442,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9515,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9517,\u0022directionType\u0022:\u0022oriented\u0022,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9518,\u0022directionType\u0022:\u0022oriented\u0022,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque5\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque6\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9516,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:7,targetGfxId:9483,targetGfxId2:9484",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9511,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimMort\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9525,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1,\u0022scaleY\u0022:1}]},{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022staging\u0022,\u0022stagingId\u0022:60,\u0022stagingIsBlocking\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9525,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.1,\u0022scaleY\u0022:1.1}]},{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022staging\u0022,\u0022stagingId\u0022:60,\u0022stagingIsBlocking\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9525,\u0022isOriented\u0022:false,\u0022scaleX\u0022:0.9,\u0022scaleY\u0022:0.9}]},{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022staging\u0022,\u0022stagingId\u0022:60,\u0022stagingIsBlocking\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque3\u0022}]},{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9312,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022}]},{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9318,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque3\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9317,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque3\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9388,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.3,\u0022scaleY\u0022:1.3},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9404,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.3,\u0022scaleY\u0022:1.3}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8692,\u0022isOriented\u0022:false}]},{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:8691,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8692,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:0,targetGfxId:9314",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:2,targetGfxId:9316",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1,targetGfxId:9315",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1,targetGfxId:9310",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:0,targetGfxId:9309",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:2,targetGfxId:9311",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:0,targetGfxId:9318",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:2,targetGfxId:9319",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9403,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9386,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1,targetGfxId:9387,targetGfxOriented:1",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9404,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9388,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque7\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque6\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:0,targetGfxShowUnder2:1",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:2,targetGfxShowUnder2:1",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque5\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9333,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9334,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque6\u0022,\u0022gfxAnimationEndPolicy\u0022:\u0022beginning\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022staging\u0022,\u0022stagingId\u0022:6,\u0022stagingIsBlocking\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9543,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9544,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022endPolicy\u0022:\u0022waitForFirstOne\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque6\u0022,\u0022gfxAnimationEndPolicy\u0022:\u0022beginning\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022staging\u0022,\u0022stagingId\u0022:6,\u0022stagingIsBlocking\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9546,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "glyphGfxId:9559",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "glyphGfxId:9560",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9678,\u0022directionType\u0022:\u0022oriented\u0022,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9694,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9566,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9684,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9668,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8639,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:9611,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9611,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:9623,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9623,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:9609,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8691,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque6\u0022,\u0022gfxAnimationEndPolicy\u0022:\u0022end\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022staging\u0022,\u0022stagingId\u0022:6,\u0022stagingIsBlocking\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9571,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9572,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque6\u0022,\u0022gfxAnimationEndPolicy\u0022:\u0022end\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022staging\u0022,\u0022stagingId\u0022:6,\u0022stagingIsBlocking\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9573,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9577,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022endPolicy\u0022:\u0022waitForFirstOne\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque6\u0022,\u0022gfxAnimationEndPolicy\u0022:\u0022end\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022staging\u0022,\u0022stagingId\u0022:6,\u0022stagingIsBlocking\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9570,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque10\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9567,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9568,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque12\u0022,\u0022gfxAnimationEndPolicy\u0022:\u0022beginning\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022staging\u0022,\u0022stagingId\u0022:12,\u0022stagingIsBlocking\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque13\u0022,\u0022gfxAnimationEndPolicy\u0022:\u0022beginning\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022staging\u0022,\u0022stagingId\u0022:13,\u0022stagingIsBlocking\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque8\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque11\u0022}]},{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022staging\u0022,\u0022stagingId\u0022:11,\u0022stagingIsBlocking\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8686,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8685,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8690,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:6,targetGfxId:21005,targetGfxId2:9148",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1,targetGfxId:9016",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque502\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8105,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8105,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque509\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9199,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8112,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8092,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8091,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8110,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8111,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8078,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9181,\u0022isOriented\u0022:false}]},{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:8854,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8089,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8090,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8113,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8085,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8086,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque504\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022projectile\u0022,\u0022gfxId\u0022:8114,\u0022curvature\u0022:0,\u0022offsetY\u0022:2,\u0022speed\u0022:40}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9194,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9195,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9198,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque8\u0022},{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:8125,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:8126,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8127,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8128,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque3\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8108,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8109,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8118,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8116,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8854,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:4610,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque8\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8131,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8132,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque8\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9198,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8136,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7951,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8854,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8104,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8103,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "glyphGfxId:9197",
+    "type": 5,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9194,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9196,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.3,\u0022scaleY\u0022:1.3}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque8\u0022},{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:8137,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:8138,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8137,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8138,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8136,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7950,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8100,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8099,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8088,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8087,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque506\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8120,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8119,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque503\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8123,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8124,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque503\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8856,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8855,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8092,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.3,\u0022scaleY\u0022:1.3}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8091,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.3,\u0022scaleY\u0022:1.3}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque501\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8136,\u0022isOriented\u0022:false,\u0022scaleX\u0022:1.3,\u0022scaleY\u0022:1.3}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8074,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8074,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8093,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8094,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque500\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8108,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false,\u0022offsetY\u0022:5}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8109,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false,\u0022offsetY\u0022:5}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:515,glyphGfxId:8147",
+    "type": 5,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:8136,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8135,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque509\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:8854,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque513\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8079,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:8934,\u0022isOriented\u0022:false,\u0022offsetY\u0022:-27,\u0022scaleX\u0022:1.7,\u0022scaleY\u0022:1.7}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque502\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8098,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8097,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9199,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false,\u0022scaleX\u0022:0.7,\u0022scaleY\u0022:0.7}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque501\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9180,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque501\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9180,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque501\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9180,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque501\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9180,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8095,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8096,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8089,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8090,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "glyphGfxId:9194",
+    "type": 5,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "glyphGfxId:9197",
+    "type": 5,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimEmoteSwishswish\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9614,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9616,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "targetGfxId:9021",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:168,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7518,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:3903,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:0,targetGfxId:9492,targetGfxId2:9484,targetGfxShowUnder2:1",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:2,targetGfxId:9487,targetGfxId2:9497,targetGfxShowUnder2:1",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:3,targetGfxId:9498,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:4,targetGfxId:9499,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:5,targetGfxId:9500",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:3,targetGfxId:9431",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:2,targetGfxId:9429,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1,targetGfxId:9427",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:0,targetGfxId:9425,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1,targetGfxId:9348,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:2,targetGfxId:9349,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:3,targetGfxId:9350,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1,targetGfxId:9373,targetGfxId2:9374,targetGfxShowUnder2:1,casterGfxId:9376,cibleGfxBeforePlayerChange:1",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:2,targetGfxId:9375,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:0,targetGfxId:9372,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:2,targetGfxId:9414",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:3,targetGfxId:9415",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque10\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9547,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:0,targetGfxId:9362",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1,targetGfxId:9364,casterGfxId:9364,cibleGfxBeforePlayerChange:1",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:2,targetGfxId:9366,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:3,targetGfxId:9368,targetGfxDisplayType:2",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9519,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9523,\u0022directionType\u0022:\u0022oriented\u0022,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9524,\u0022directionType\u0022:\u0022oriented\u0022,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque6\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9522,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9520,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9521,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9450,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9448,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:9448,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9449,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:9449,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque3\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9444,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9442,\u0022strata\u0022:\u0022highest\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9443,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque10\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9547,\u0022isOriented\u0022:false,\u0022scaleX\u0022:0.8,\u0022scaleY\u0022:0.8}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque10\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9547,\u0022isOriented\u0022:false,\u0022scaleX\u0022:0.4,\u0022scaleY\u0022:0.4}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7320,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7991,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7514,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7469,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:4755,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7035,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:3672,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:5506,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8913,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8329,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8299,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7961,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:5900,\u0022isOriented\u0022:false,\u0022frameOffset\u0022:20}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:5010,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:1109,targetGfxId:8416,targetGfxId2:8415,targetGfxShowUnder2:1",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque218\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9675,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque220\u0022}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9677,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque19\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8664,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8665,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8666,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8667,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque11\u0022},{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:9424,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022endPolicy\u0022:\u0022dontWait\u0022,\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8668,\u0022strata\u0022:\u0022background\u0022,\u0022isOriented\u0022:false},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8669,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque922\u0022},{\u0022type\u0022:\u0022caster\u0022,\u0022gfxId\u0022:8209,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9259,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9297,\u0022isOriented\u0022:false}]},{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9296,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque3\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9697,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque2\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9501,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9516,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9461,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9332,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9629,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7087,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:5733,\u0022directionType\u0022:\u0022oriented\u0022,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:4723,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9545,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9548,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:9521,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8604,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque0\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:8027,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "{\u0022main\u0022:{\u0022sequences\u0022:[{\u0022gfxs\u0022:[{\u0022type\u0022:\u0022cast\u0022,\u0022casterAnimation\u0022:\u0022AnimAttaque1\u0022},{\u0022type\u0022:\u0022target\u0022,\u0022gfxId\u0022:7926,\u0022isOriented\u0022:false}]}]}}",
+    "type": 9,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "targetGfxId:9402,targetGfxShowUnder:1",
+    "type": 1,
+    "m_lastUpdatedVersion": 0
+  },
+  {
+    "rawParams": "animId:6,targetGfxId:9395",
+    "type": 1,
     "m_lastUpdatedVersion": 0
   }
 ]

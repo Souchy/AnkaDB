@@ -30519,7 +30519,7 @@
     "id": 2105,
     "questId": 1485,
     "nameId": 509025,
-    "descriptionId": 509026,
+    "descriptionId": 1140655,
     "dialogId": 0,
     "optimalLevel": 200,
     "duration": 1,
@@ -50726,5 +50726,543 @@
       19273
     ],
     "rewardsIds": []
+  },
+  {
+    "id": 3196,
+    "questId": 2515,
+    "nameId": 1138946,
+    "descriptionId": 1138947,
+    "dialogId": 0,
+    "optimalLevel": 200,
+    "duration": 0.5,
+    "objectiveIds": [
+      19274,
+      19275,
+      19276,
+      19277,
+      19278,
+      19279,
+      19280
+    ],
+    "rewardsIds": [
+      7045
+    ]
+  },
+  {
+    "id": 3197,
+    "questId": 2516,
+    "nameId": 1142885,
+    "descriptionId": 1142941,
+    "dialogId": 57885,
+    "optimalLevel": 170,
+    "duration": 2,
+    "objectiveIds": [
+      19281,
+      19298,
+      19299,
+      19300,
+      19301,
+      19302,
+      19303,
+      19339,
+      19304,
+      19305,
+      19306,
+      19311,
+      19312,
+      19313,
+      19325,
+      19326
+    ],
+    "rewardsIds": [
+      7046
+    ]
+  },
+  {
+    "id": 3198,
+    "questId": 2517,
+    "nameId": 1142887,
+    "descriptionId": 1142944,
+    "dialogId": 57915,
+    "optimalLevel": 200,
+    "duration": 2,
+    "objectiveIds": [
+      19282,
+      19350,
+      19366,
+      19367,
+      19368,
+      19369,
+      19370,
+      19391,
+      19371,
+      19372,
+      19373,
+      19374,
+      19375,
+      19376,
+      19377,
+      19378
+    ],
+    "rewardsIds": [
+      7047
+    ]
+  },
+  {
+    "id": 3199,
+    "questId": 2518,
+    "nameId": 1142890,
+    "descriptionId": 1142945,
+    "dialogId": 58605,
+    "optimalLevel": 200,
+    "duration": 2,
+    "objectiveIds": [
+      19392,
+      19283,
+      19393,
+      19394,
+      19395,
+      19402,
+      19403,
+      19404,
+      19448,
+      19405,
+      19406,
+      19407,
+      19408,
+      19409
+    ],
+    "rewardsIds": [
+      7048
+    ]
+  },
+  {
+    "id": 3200,
+    "questId": 2519,
+    "nameId": 1142892,
+    "descriptionId": 1142948,
+    "dialogId": 59060,
+    "optimalLevel": 200,
+    "duration": 2,
+    "objectiveIds": [
+      19284,
+      19460,
+      19454,
+      19455,
+      19456,
+      19457,
+      19458,
+      19459
+    ],
+    "rewardsIds": [
+      7049
+    ]
+  },
+  {
+    "id": 3201,
+    "questId": 2520,
+    "nameId": 1138821,
+    "descriptionId": 1138939,
+    "dialogId": 57974,
+    "optimalLevel": 170,
+    "duration": 1,
+    "objectiveIds": [
+      19285,
+      19286,
+      19287,
+      19288,
+      19289,
+      19290,
+      19291,
+      19292,
+      19293,
+      19294,
+      19297,
+      19295,
+      19296
+    ],
+    "rewardsIds": [
+      7052
+    ]
+  },
+  {
+    "id": 3202,
+    "questId": 2521,
+    "nameId": 1142898,
+    "descriptionId": 1142950,
+    "dialogId": 58180,
+    "optimalLevel": 170,
+    "duration": 1,
+    "objectiveIds": [
+      19327,
+      19328,
+      19329,
+      19330,
+      19331,
+      19332,
+      19333,
+      19334,
+      19338,
+      19335
+    ],
+    "rewardsIds": [
+      7061
+    ]
+  },
+  {
+    "id": 3203,
+    "questId": 2522,
+    "nameId": 1142900,
+    "descriptionId": 1143186,
+    "dialogId": 58193,
+    "optimalLevel": 170,
+    "duration": 2,
+    "objectiveIds": [
+      19307,
+      19308,
+      19309,
+      19310
+    ],
+    "rewardsIds": [
+      7058
+    ]
+  },
+  {
+    "id": 3204,
+    "questId": 2523,
+    "nameId": 1142902,
+    "descriptionId": 1143228,
+    "dialogId": 58307,
+    "optimalLevel": 170,
+    "duration": 1,
+    "objectiveIds": [
+      19314,
+      19315,
+      19316,
+      19317,
+      19318,
+      19319,
+      19320,
+      19321,
+      19322,
+      19323,
+      19324
+    ],
+    "rewardsIds": [
+      7059
+    ]
+  },
+  {
+    "id": 3205,
+    "questId": 2524,
+    "nameId": 1129052,
+    "descriptionId": 1129053,
+    "dialogId": 0,
+    "optimalLevel": 200,
+    "duration": 1,
+    "objectiveIds": [
+      19336,
+      19337
+    ],
+    "rewardsIds": [
+      7050
+    ]
+  },
+  {
+    "id": 3206,
+    "questId": 2528,
+    "nameId": 1130175,
+    "descriptionId": 1141860,
+    "dialogId": 0,
+    "optimalLevel": 200,
+    "duration": 0.5,
+    "objectiveIds": [
+      19428,
+      19429,
+      19430,
+      19431,
+      19432,
+      19433,
+      19434,
+      19435,
+      19436,
+      19437,
+      19438,
+      19439,
+      19440,
+      19441,
+      19442,
+      19443,
+      19444,
+      19445,
+      19449,
+      19450,
+      19451,
+      19452,
+      19453
+    ],
+    "rewardsIds": [
+      7056
+    ]
+  },
+  {
+    "id": 3207,
+    "questId": 2526,
+    "nameId": 1130177,
+    "descriptionId": 1134587,
+    "dialogId": 0,
+    "optimalLevel": 200,
+    "duration": 0.5,
+    "objectiveIds": [
+      19385,
+      19386,
+      19387,
+      19388,
+      19389,
+      19390
+    ],
+    "rewardsIds": [
+      7053
+    ]
+  },
+  {
+    "id": 3208,
+    "questId": 2525,
+    "nameId": 1130179,
+    "descriptionId": 1133241,
+    "dialogId": 0,
+    "optimalLevel": 200,
+    "duration": 0.5,
+    "objectiveIds": [
+      19340,
+      19341,
+      19342,
+      19343,
+      19344,
+      19379,
+      19380,
+      19381,
+      19382,
+      19416,
+      19384,
+      19418,
+      19383,
+      19417,
+      19419,
+      19348,
+      19349
+    ],
+    "rewardsIds": [
+      7054
+    ]
+  },
+  {
+    "id": 3209,
+    "questId": 2527,
+    "nameId": 1130181,
+    "descriptionId": 1144807,
+    "dialogId": 0,
+    "optimalLevel": 200,
+    "duration": 0.5,
+    "objectiveIds": [
+      19478,
+      19479,
+      19487,
+      19488,
+      19480,
+      19481,
+      19482,
+      19483,
+      19484,
+      19485,
+      19486
+    ],
+    "rewardsIds": [
+      7057
+    ]
+  },
+  {
+    "id": 3210,
+    "questId": 2529,
+    "nameId": 1130183,
+    "descriptionId": 1140368,
+    "dialogId": 0,
+    "optimalLevel": 200,
+    "duration": 0.5,
+    "objectiveIds": [
+      19420,
+      19421,
+      19422,
+      19423,
+      19424,
+      19425,
+      19426,
+      19427
+    ],
+    "rewardsIds": [
+      7055
+    ]
+  },
+  {
+    "id": 3211,
+    "questId": 2530,
+    "nameId": 1143180,
+    "descriptionId": 1143181,
+    "dialogId": 57915,
+    "optimalLevel": 200,
+    "duration": 1,
+    "objectiveIds": [
+      19351,
+      19352,
+      19353,
+      19354,
+      19355,
+      19356,
+      19357,
+      19358,
+      19359,
+      19360
+    ],
+    "rewardsIds": [
+      7063
+    ]
+  },
+  {
+    "id": 3212,
+    "questId": 2531,
+    "nameId": 1142906,
+    "descriptionId": 1143237,
+    "dialogId": 58479,
+    "optimalLevel": 200,
+    "duration": 2,
+    "objectiveIds": [
+      19361,
+      19362,
+      19363,
+      19364,
+      19365
+    ],
+    "rewardsIds": [
+      7064
+    ]
+  },
+  {
+    "id": 3213,
+    "questId": 2532,
+    "nameId": 1142911,
+    "descriptionId": 1143238,
+    "dialogId": 58631,
+    "optimalLevel": 200,
+    "duration": 2,
+    "objectiveIds": [
+      19396,
+      19397,
+      19398,
+      19399,
+      19400,
+      19401
+    ],
+    "rewardsIds": [
+      7062
+    ]
+  },
+  {
+    "id": 3214,
+    "questId": 2533,
+    "nameId": 1142914,
+    "descriptionId": 1143239,
+    "dialogId": 58935,
+    "optimalLevel": 200,
+    "duration": 1,
+    "objectiveIds": [
+      19410,
+      19411,
+      19412,
+      19413,
+      19414
+    ],
+    "rewardsIds": [
+      7060
+    ]
+  },
+  {
+    "id": 3215,
+    "questId": 2534,
+    "nameId": 1140145,
+    "descriptionId": 1141780,
+    "dialogId": 58978,
+    "optimalLevel": 200,
+    "duration": 1,
+    "objectiveIds": [
+      19446,
+      19447
+    ],
+    "rewardsIds": [
+      7065
+    ]
+  },
+  {
+    "id": 3216,
+    "questId": 2535,
+    "nameId": 1141266,
+    "descriptionId": 1144037,
+    "dialogId": 0,
+    "optimalLevel": 200,
+    "duration": 1,
+    "objectiveIds": [
+      19461,
+      19462,
+      19463,
+      19464,
+      19465,
+      19466,
+      19467,
+      19468,
+      19469,
+      19470,
+      19471,
+      19472,
+      19473,
+      19474,
+      19475,
+      19476
+    ],
+    "rewardsIds": [
+      7066
+    ]
+  },
+  {
+    "id": 3217,
+    "questId": 2536,
+    "nameId": 1143710,
+    "descriptionId": 1144716,
+    "dialogId": 0,
+    "optimalLevel": 200,
+    "duration": 1,
+    "objectiveIds": [
+      19477,
+      19489,
+      19490,
+      19491,
+      19492,
+      19493,
+      19494,
+      19495,
+      19496,
+      19497,
+      19498,
+      19499,
+      19500,
+      19501,
+      19502,
+      19503,
+      19504,
+      19505,
+      19506,
+      19507
+    ],
+    "rewardsIds": [
+      7067
+    ]
   }
 ]

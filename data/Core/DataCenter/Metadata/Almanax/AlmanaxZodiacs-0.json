@@ -1,0 +1,98 @@
+[
+  {
+    "id": 10,
+    "nameId": 1133979,
+    "descriptionId": 1133978,
+    "dateStart": "08-24",
+    "dateEnd": "09-22",
+    "picture": "calendar/zodiac/10"
+  },
+  {
+    "id": 11,
+    "nameId": 1133981,
+    "descriptionId": 1133980,
+    "dateStart": "09-23",
+    "dateEnd": "10-22",
+    "picture": "calendar/zodiac/11"
+  },
+  {
+    "id": 12,
+    "nameId": 1133983,
+    "descriptionId": 1133982,
+    "dateStart": "10-23",
+    "dateEnd": "11-21",
+    "picture": "calendar/zodiac/12"
+  },
+  {
+    "id": 14,
+    "nameId": 1133985,
+    "descriptionId": 1133984,
+    "dateStart": "11-22",
+    "dateEnd": "12-21",
+    "picture": "calendar/zodiac/14"
+  },
+  {
+    "id": 15,
+    "nameId": 1133987,
+    "descriptionId": 1133986,
+    "dateStart": "12-22",
+    "dateEnd": "01-20",
+    "picture": "calendar/zodiac/15"
+  },
+  {
+    "id": 16,
+    "nameId": 1133989,
+    "descriptionId": 1133988,
+    "dateStart": "01-21",
+    "dateEnd": "02-18",
+    "picture": "calendar/zodiac/16"
+  },
+  {
+    "id": 17,
+    "nameId": 1133991,
+    "descriptionId": 1133990,
+    "dateStart": "02-19",
+    "dateEnd": "03-20",
+    "picture": "calendar/zodiac/17"
+  },
+  {
+    "id": 18,
+    "nameId": 1133993,
+    "descriptionId": 1133992,
+    "dateStart": "03-21",
+    "dateEnd": "04-20",
+    "picture": "calendar/zodiac/18"
+  },
+  {
+    "id": 19,
+    "nameId": 1133995,
+    "descriptionId": 1133994,
+    "dateStart": "04-21",
+    "dateEnd": "05-19",
+    "picture": "calendar/zodiac/19"
+  },
+  {
+    "id": 20,
+    "nameId": 1133997,
+    "descriptionId": 1133996,
+    "dateStart": "05-20",
+    "dateEnd": "06-21",
+    "picture": "calendar/zodiac/20"
+  },
+  {
+    "id": 21,
+    "nameId": 1133999,
+    "descriptionId": 1133998,
+    "dateStart": "06-22",
+    "dateEnd": "07-21",
+    "picture": "calendar/zodiac/21"
+  },
+  {
+    "id": 22,
+    "nameId": 1134001,
+    "descriptionId": 1134000,
+    "dateStart": "07-22",
+    "dateEnd": "08-23",
+    "picture": "calendar/zodiac/22"
+  }
+]

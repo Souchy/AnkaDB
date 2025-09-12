@@ -15,7 +15,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 10,
@@ -33,7 +34,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 60
+    "levelMin": 60,
+    "allowMarking": false
   },
   {
     "id": 12,
@@ -778,7 +780,12 @@
       28034,
       28035,
       30863,
-      30943
+      30943,
+      31753,
+      31761,
+      31770,
+      31789,
+      31799
     ],
     "interactiveId": 12,
     "range": 1,
@@ -788,7 +795,8 @@
     "elementActionId": 2,
     "availableInHouse": true,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": true
   },
   {
     "id": 13,
@@ -1524,7 +1532,12 @@
       28205,
       30856,
       30857,
-      30862
+      30862,
+      31765,
+      31766,
+      31771,
+      31772,
+      31792
     ],
     "interactiveId": 11,
     "range": 1,
@@ -1534,7 +1547,8 @@
     "elementActionId": 2,
     "availableInHouse": true,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": true
   },
   {
     "id": 15,
@@ -1858,7 +1872,11 @@
       28114,
       28115,
       28116,
-      28117
+      28117,
+      31764,
+      31773,
+      31785,
+      31800
     ],
     "interactiveId": 13,
     "range": 1,
@@ -1868,7 +1886,8 @@
     "elementActionId": 2,
     "availableInHouse": true,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": true
   },
   {
     "id": 20,
@@ -2362,7 +2381,17 @@
       30855,
       30859,
       30861,
-      30949
+      30949,
+      31752,
+      31758,
+      31759,
+      31760,
+      31763,
+      31786,
+      31787,
+      31790,
+      31791,
+      31860
     ],
     "interactiveId": 57,
     "range": 1,
@@ -2372,7 +2401,8 @@
     "elementActionId": 2,
     "availableInHouse": true,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": true
   },
   {
     "id": 22,
@@ -2392,7 +2422,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 23,
@@ -2710,7 +2741,8 @@
     "elementActionId": 2,
     "availableInHouse": true,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 24,
@@ -2728,7 +2760,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 25,
@@ -2746,7 +2779,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 20
+    "levelMin": 20,
+    "allowMarking": false
   },
   {
     "id": 26,
@@ -2764,7 +2798,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 40
+    "levelMin": 40,
+    "allowMarking": false
   },
   {
     "id": 27,
@@ -2883,7 +2918,8 @@
     "elementActionId": 2,
     "availableInHouse": true,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 28,
@@ -2901,7 +2937,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 60
+    "levelMin": 60,
+    "allowMarking": false
   },
   {
     "id": 29,
@@ -2919,7 +2956,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 120
+    "levelMin": 120,
+    "allowMarking": false
   },
   {
     "id": 30,
@@ -2937,7 +2975,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 160
+    "levelMin": 160,
+    "allowMarking": false
   },
   {
     "id": 31,
@@ -2955,7 +2994,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 140
+    "levelMin": 140,
+    "allowMarking": false
   },
   {
     "id": 32,
@@ -3020,7 +3060,8 @@
     "elementActionId": 2,
     "availableInHouse": true,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 33,
@@ -3038,7 +3079,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 100
+    "levelMin": 100,
+    "allowMarking": false
   },
   {
     "id": 34,
@@ -3056,7 +3098,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 140
+    "levelMin": 140,
+    "allowMarking": false
   },
   {
     "id": 35,
@@ -3074,7 +3117,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 180
+    "levelMin": 180,
+    "allowMarking": false
   },
   {
     "id": 37,
@@ -3092,7 +3136,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 80
+    "levelMin": 80,
+    "allowMarking": false
   },
   {
     "id": 38,
@@ -3110,7 +3155,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 160
+    "levelMin": 160,
+    "allowMarking": false
   },
   {
     "id": 39,
@@ -3128,7 +3174,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 20
+    "levelMin": 20,
+    "allowMarking": false
   },
   {
     "id": 40,
@@ -3146,7 +3193,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 40
+    "levelMin": 40,
+    "allowMarking": false
   },
   {
     "id": 41,
@@ -3164,7 +3212,8 @@
     "elementActionId": 1,
     "availableInHouse": true,
     "clientDisplay": true,
-    "levelMin": 120
+    "levelMin": 120,
+    "allowMarking": false
   },
   {
     "id": 42,
@@ -3182,7 +3231,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 44,
@@ -3200,7 +3250,8 @@
     "elementActionId": 3,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 45,
@@ -3218,7 +3269,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 46,
@@ -3236,7 +3288,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 60
+    "levelMin": 60,
+    "allowMarking": false
   },
   {
     "id": 47,
@@ -3267,7 +3320,8 @@
     "elementActionId": 2,
     "availableInHouse": true,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 48,
@@ -3317,7 +3371,8 @@
     "elementActionId": 2,
     "availableInHouse": true,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 50,
@@ -3335,7 +3390,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 80
+    "levelMin": 80,
+    "allowMarking": false
   },
   {
     "id": 52,
@@ -3353,7 +3409,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 100
+    "levelMin": 100,
+    "allowMarking": false
   },
   {
     "id": 53,
@@ -3371,7 +3428,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 20
+    "levelMin": 20,
+    "allowMarking": false
   },
   {
     "id": 54,
@@ -3389,7 +3447,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 140
+    "levelMin": 140,
+    "allowMarking": false
   },
   {
     "id": 55,
@@ -3407,7 +3466,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 100
+    "levelMin": 100,
+    "allowMarking": false
   },
   {
     "id": 56,
@@ -3425,7 +3485,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 80
+    "levelMin": 80,
+    "allowMarking": false
   },
   {
     "id": 57,
@@ -3443,7 +3504,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 40
+    "levelMin": 40,
+    "allowMarking": false
   },
   {
     "id": 58,
@@ -3461,7 +3523,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 120
+    "levelMin": 120,
+    "allowMarking": false
   },
   {
     "id": 62,
@@ -3479,7 +3542,8 @@
     "elementActionId": 4,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 63,
@@ -4199,7 +4263,17 @@
       28076,
       29393,
       30233,
-      30860
+      30860,
+      31749,
+      31750,
+      31756,
+      31762,
+      31768,
+      31769,
+      31774,
+      31793,
+      31797,
+      31798
     ],
     "interactiveId": 58,
     "range": 1,
@@ -4209,7 +4283,8 @@
     "elementActionId": 2,
     "availableInHouse": true,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": true
   },
   {
     "id": 68,
@@ -4227,7 +4302,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 69,
@@ -4245,7 +4321,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 20
+    "levelMin": 20,
+    "allowMarking": false
   },
   {
     "id": 71,
@@ -4263,7 +4340,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 40
+    "levelMin": 40,
+    "allowMarking": false
   },
   {
     "id": 72,
@@ -4281,7 +4359,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 60
+    "levelMin": 60,
+    "allowMarking": false
   },
   {
     "id": 73,
@@ -4299,7 +4378,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 80
+    "levelMin": 80,
+    "allowMarking": false
   },
   {
     "id": 74,
@@ -4317,7 +4397,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 100
+    "levelMin": 100,
+    "allowMarking": false
   },
   {
     "id": 81,
@@ -4335,7 +4416,8 @@
     "elementActionId": 5,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 84,
@@ -4353,7 +4435,8 @@
     "elementActionId": 5,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 97,
@@ -4371,7 +4454,8 @@
     "elementActionId": 5,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 98,
@@ -4389,7 +4473,8 @@
     "elementActionId": 5,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 100,
@@ -4407,7 +4492,8 @@
     "elementActionId": 5,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 101,
@@ -4492,7 +4578,8 @@
     "elementActionId": 2,
     "availableInHouse": true,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 102,
@@ -4510,7 +4597,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 104,
@@ -4528,7 +4616,8 @@
     "elementActionId": 6,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 105,
@@ -4546,7 +4635,8 @@
     "elementActionId": 6,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 106,
@@ -4564,7 +4654,8 @@
     "elementActionId": 6,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 108,
@@ -4582,7 +4673,8 @@
     "elementActionId": 5,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 109,
@@ -4600,7 +4692,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 110,
@@ -4621,7 +4714,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 111,
@@ -4639,7 +4733,8 @@
     "elementActionId": 7,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 113,
@@ -4647,13 +4742,13 @@
     "parentJobId": 44,
     "isForgemagus": true,
     "modifiableItemTypeIds": [
-      271,
-      7,
       19,
-      6,
+      7,
       5,
+      6,
+      8,
       22,
-      8
+      271
     ],
     "gatheredRessourceItem": -1,
     "craftableItemIds": [],
@@ -4665,7 +4760,8 @@
     "elementActionId": 2,
     "availableInHouse": true,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": true
   },
   {
     "id": 114,
@@ -4683,7 +4779,8 @@
     "elementActionId": 3,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 118,
@@ -4692,8 +4789,8 @@
     "isForgemagus": true,
     "modifiableItemTypeIds": [
       2,
-      3,
-      4
+      4,
+      3
     ],
     "gatheredRessourceItem": -1,
     "craftableItemIds": [],
@@ -4705,7 +4802,8 @@
     "elementActionId": 2,
     "availableInHouse": true,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": true
   },
   {
     "id": 121,
@@ -4922,7 +5020,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 122,
@@ -4940,7 +5039,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 124,
@@ -4958,7 +5058,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 125,
@@ -4976,7 +5077,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 20
+    "levelMin": 20,
+    "allowMarking": false
   },
   {
     "id": 126,
@@ -4994,7 +5096,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 40
+    "levelMin": 40,
+    "allowMarking": false
   },
   {
     "id": 127,
@@ -5012,7 +5115,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 60
+    "levelMin": 60,
+    "allowMarking": false
   },
   {
     "id": 128,
@@ -5030,7 +5134,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 10
+    "levelMin": 10,
+    "allowMarking": false
   },
   {
     "id": 129,
@@ -5048,7 +5153,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 30
+    "levelMin": 30,
+    "allowMarking": false
   },
   {
     "id": 130,
@@ -5066,7 +5172,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 50
+    "levelMin": 50,
+    "allowMarking": false
   },
   {
     "id": 131,
@@ -5084,7 +5191,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 70
+    "levelMin": 70,
+    "allowMarking": false
   },
   {
     "id": 134,
@@ -5181,7 +5289,8 @@
     "elementActionId": 2,
     "availableInHouse": true,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 135,
@@ -5278,7 +5387,8 @@
       26662,
       26663,
       29378,
-      31620
+      31620,
+      31955
     ],
     "interactiveId": 94,
     "range": 1,
@@ -5288,7 +5398,8 @@
     "elementActionId": 2,
     "availableInHouse": true,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 136,
@@ -5306,7 +5417,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 139,
@@ -5324,7 +5436,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 70
+    "levelMin": 70,
+    "allowMarking": false
   },
   {
     "id": 141,
@@ -5342,7 +5455,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 90
+    "levelMin": 90,
+    "allowMarking": false
   },
   {
     "id": 150,
@@ -5360,7 +5474,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 151,
@@ -5447,7 +5562,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 152,
@@ -5465,7 +5581,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 153,
@@ -5483,7 +5600,8 @@
     "elementActionId": 6,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 154,
@@ -5501,7 +5619,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 110
+    "levelMin": 110,
+    "allowMarking": false
   },
   {
     "id": 155,
@@ -5519,7 +5638,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 170
+    "levelMin": 170,
+    "allowMarking": false
   },
   {
     "id": 156,
@@ -5620,7 +5740,12 @@
       30692,
       30693,
       30701,
-      30858
+      30858,
+      31751,
+      31757,
+      31767,
+      31788,
+      31796
     ],
     "interactiveId": 107,
     "range": 1,
@@ -5630,7 +5755,8 @@
     "elementActionId": 2,
     "availableInHouse": true,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": true
   },
   {
     "id": 157,
@@ -5648,7 +5774,8 @@
     "elementActionId": 10,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 158,
@@ -5666,7 +5793,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 190
+    "levelMin": 190,
+    "allowMarking": false
   },
   {
     "id": 159,
@@ -5684,7 +5812,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 100
+    "levelMin": 100,
+    "allowMarking": false
   },
   {
     "id": 160,
@@ -5702,7 +5831,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 120
+    "levelMin": 120,
+    "allowMarking": false
   },
   {
     "id": 161,
@@ -5720,7 +5850,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 180
+    "levelMin": 180,
+    "allowMarking": false
   },
   {
     "id": 162,
@@ -5738,7 +5869,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 100
+    "levelMin": 100,
+    "allowMarking": false
   },
   {
     "id": 164,
@@ -5759,7 +5891,8 @@
     "elementActionId": 2,
     "availableInHouse": true,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": true
   },
   {
     "id": 166,
@@ -5767,8 +5900,8 @@
     "parentJobId": 64,
     "isForgemagus": true,
     "modifiableItemTypeIds": [
-      17,
-      16
+      16,
+      17
     ],
     "gatheredRessourceItem": -1,
     "craftableItemIds": [],
@@ -5780,7 +5913,8 @@
     "elementActionId": 2,
     "availableInHouse": true,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": true
   },
   {
     "id": 168,
@@ -5788,8 +5922,8 @@
     "parentJobId": 63,
     "isForgemagus": true,
     "modifiableItemTypeIds": [
-      9,
-      1
+      1,
+      9
     ],
     "gatheredRessourceItem": -1,
     "craftableItemIds": [],
@@ -5801,7 +5935,8 @@
     "elementActionId": 2,
     "availableInHouse": true,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": true
   },
   {
     "id": 170,
@@ -5819,7 +5954,8 @@
     "elementActionId": 12,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 171,
@@ -6197,7 +6333,14 @@
       28200,
       28201,
       28202,
-      29372
+      29372,
+      31519,
+      31520,
+      31521,
+      31522,
+      31649,
+      31650,
+      31651
     ],
     "interactiveId": 122,
     "range": 1,
@@ -6207,7 +6350,8 @@
     "elementActionId": 2,
     "availableInHouse": true,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 174,
@@ -6225,7 +6369,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 150
+    "levelMin": 150,
+    "allowMarking": false
   },
   {
     "id": 175,
@@ -6243,7 +6388,8 @@
     "elementActionId": 13,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 176,
@@ -6263,7 +6409,8 @@
     "elementActionId": 13,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 177,
@@ -6281,7 +6428,8 @@
     "elementActionId": 13,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 178,
@@ -6299,7 +6447,8 @@
     "elementActionId": 13,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 179,
@@ -6317,7 +6466,8 @@
     "elementActionId": 14,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 181,
@@ -6335,7 +6485,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 183,
@@ -6353,7 +6504,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 184,
@@ -6371,7 +6523,8 @@
     "elementActionId": 16,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 185,
@@ -6389,7 +6542,8 @@
     "elementActionId": 6,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 0
+    "levelMin": 0,
+    "allowMarking": false
   },
   {
     "id": 186,
@@ -6407,7 +6561,8 @@
     "elementActionId": 5,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 0
+    "levelMin": 0,
+    "allowMarking": false
   },
   {
     "id": 187,
@@ -6425,7 +6580,8 @@
     "elementActionId": 5,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 0
+    "levelMin": 0,
+    "allowMarking": false
   },
   {
     "id": 188,
@@ -6443,7 +6599,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 200
+    "levelMin": 200,
+    "allowMarking": false
   },
   {
     "id": 189,
@@ -6461,7 +6618,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 200
+    "levelMin": 200,
+    "allowMarking": false
   },
   {
     "id": 190,
@@ -6479,7 +6637,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 200
+    "levelMin": 200,
+    "allowMarking": false
   },
   {
     "id": 191,
@@ -6497,7 +6656,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 200
+    "levelMin": 200,
+    "allowMarking": false
   },
   {
     "id": 192,
@@ -6515,7 +6675,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 200
+    "levelMin": 200,
+    "allowMarking": false
   },
   {
     "id": 193,
@@ -6533,7 +6694,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 195,
@@ -6551,7 +6713,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 196,
@@ -6569,7 +6732,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 198,
@@ -6587,7 +6751,8 @@
     "elementActionId": 5,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 0
+    "levelMin": 0,
+    "allowMarking": false
   },
   {
     "id": 199,
@@ -6607,7 +6772,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 200,
@@ -6625,7 +6791,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 201,
@@ -6977,7 +7144,8 @@
     "elementActionId": 2,
     "availableInHouse": true,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 202,
@@ -7000,7 +7168,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 203,
@@ -7020,7 +7189,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 204,
@@ -7040,7 +7210,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 205,
@@ -7060,7 +7231,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 206,
@@ -7080,7 +7252,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 207,
@@ -7100,7 +7273,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 209,
@@ -7118,7 +7292,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 210,
@@ -7136,7 +7311,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 211,
@@ -7154,7 +7330,8 @@
     "elementActionId": 16,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 212,
@@ -7172,7 +7349,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 213,
@@ -7190,7 +7368,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 214,
@@ -7208,7 +7387,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 215,
@@ -7226,7 +7406,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 217,
@@ -7246,7 +7427,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 218,
@@ -7266,7 +7448,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 219,
@@ -7286,7 +7469,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 220,
@@ -7306,7 +7490,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 221,
@@ -7326,7 +7511,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 222,
@@ -7346,7 +7532,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 223,
@@ -7366,7 +7553,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 224,
@@ -7386,7 +7574,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 225,
@@ -7406,7 +7595,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 226,
@@ -7426,7 +7616,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 227,
@@ -7446,7 +7637,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 228,
@@ -7466,7 +7658,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 229,
@@ -7486,7 +7679,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 230,
@@ -7506,7 +7700,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 231,
@@ -7526,7 +7721,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 232,
@@ -7546,7 +7742,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 233,
@@ -7567,7 +7764,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 234,
@@ -7587,7 +7785,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 235,
@@ -7605,7 +7804,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 236,
@@ -7625,7 +7825,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 237,
@@ -7643,7 +7844,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 238,
@@ -7661,7 +7863,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 239,
@@ -7679,7 +7882,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 240,
@@ -7697,7 +7901,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 241,
@@ -7715,7 +7920,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 242,
@@ -7733,7 +7939,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 243,
@@ -7751,7 +7958,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 244,
@@ -7769,7 +7977,8 @@
     "elementActionId": 16,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 245,
@@ -7787,7 +7996,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 246,
@@ -7807,7 +8017,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 247,
@@ -7825,7 +8036,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 248,
@@ -7843,7 +8055,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 249,
@@ -7861,7 +8074,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 250,
@@ -7879,7 +8093,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 251,
@@ -7897,7 +8112,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 252,
@@ -7915,7 +8131,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 253,
@@ -7933,7 +8150,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 254,
@@ -7951,7 +8169,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 255,
@@ -7969,7 +8188,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 256,
@@ -7987,7 +8207,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 257,
@@ -8005,7 +8226,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 258,
@@ -8023,7 +8245,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 259,
@@ -8041,7 +8264,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 260,
@@ -8059,7 +8283,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 261,
@@ -8077,7 +8302,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 262,
@@ -8095,7 +8321,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 263,
@@ -8113,7 +8340,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 264,
@@ -8131,7 +8359,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 265,
@@ -8149,7 +8378,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 266,
@@ -8167,7 +8397,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 267,
@@ -8185,7 +8416,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 268,
@@ -8203,7 +8435,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 269,
@@ -8221,7 +8454,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 270,
@@ -8239,7 +8473,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 271,
@@ -8257,7 +8492,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 272,
@@ -8275,7 +8511,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 273,
@@ -8293,7 +8530,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 275,
@@ -8329,7 +8567,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 276,
@@ -8347,7 +8586,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 277,
@@ -8365,7 +8605,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 278,
@@ -8386,7 +8627,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 279,
@@ -8406,7 +8648,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 280,
@@ -8426,7 +8669,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 281,
@@ -8444,7 +8688,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 282,
@@ -8464,7 +8709,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 283,
@@ -8484,7 +8730,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 284,
@@ -8504,7 +8751,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 285,
@@ -8522,7 +8770,8 @@
     "elementActionId": 16,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 286,
@@ -8540,7 +8789,8 @@
     "elementActionId": 16,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 287,
@@ -8558,7 +8808,8 @@
     "elementActionId": 16,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 288,
@@ -8576,7 +8827,8 @@
     "elementActionId": 16,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 289,
@@ -8594,7 +8846,8 @@
     "elementActionId": 16,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 290,
@@ -8614,7 +8867,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 291,
@@ -8632,7 +8886,8 @@
     "elementActionId": 16,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 292,
@@ -8650,7 +8905,8 @@
     "elementActionId": 16,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 293,
@@ -8668,7 +8924,8 @@
     "elementActionId": 17,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 295,
@@ -8688,7 +8945,8 @@
     "elementActionId": 16,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 296,
@@ -8706,7 +8964,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": false,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 298,
@@ -8724,7 +8983,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": false,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 299,
@@ -8742,7 +9002,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": false,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 300,
@@ -8760,7 +9021,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": false,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 301,
@@ -8778,7 +9040,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": false,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 302,
@@ -8796,7 +9059,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 303,
@@ -8814,7 +9078,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 140
+    "levelMin": 140,
+    "allowMarking": false
   },
   {
     "id": 304,
@@ -8832,7 +9097,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 160
+    "levelMin": 160,
+    "allowMarking": false
   },
   {
     "id": 305,
@@ -8850,7 +9116,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 180
+    "levelMin": 180,
+    "allowMarking": false
   },
   {
     "id": 306,
@@ -8868,7 +9135,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 130
+    "levelMin": 130,
+    "allowMarking": false
   },
   {
     "id": 307,
@@ -8886,7 +9154,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 160
+    "levelMin": 160,
+    "allowMarking": false
   },
   {
     "id": 308,
@@ -8904,7 +9173,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 180
+    "levelMin": 180,
+    "allowMarking": false
   },
   {
     "id": 309,
@@ -8922,7 +9192,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 310,
@@ -8940,7 +9211,8 @@
     "elementActionId": 16,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 311,
@@ -8958,7 +9230,8 @@
     "elementActionId": 16,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 312,
@@ -8976,7 +9249,8 @@
     "elementActionId": 16,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 313,
@@ -8994,7 +9268,8 @@
     "elementActionId": 16,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 314,
@@ -9012,7 +9287,8 @@
     "elementActionId": 16,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 315,
@@ -9030,7 +9306,8 @@
     "elementActionId": 16,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 316,
@@ -9048,7 +9325,8 @@
     "elementActionId": 16,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 317,
@@ -9066,7 +9344,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 80
+    "levelMin": 80,
+    "allowMarking": false
   },
   {
     "id": 318,
@@ -9084,7 +9363,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 90
+    "levelMin": 90,
+    "allowMarking": false
   },
   {
     "id": 319,
@@ -9102,7 +9382,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 100
+    "levelMin": 100,
+    "allowMarking": false
   },
   {
     "id": 320,
@@ -9120,7 +9401,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 110
+    "levelMin": 110,
+    "allowMarking": false
   },
   {
     "id": 321,
@@ -9138,7 +9420,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 120
+    "levelMin": 120,
+    "allowMarking": false
   },
   {
     "id": 322,
@@ -9156,7 +9439,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 130
+    "levelMin": 130,
+    "allowMarking": false
   },
   {
     "id": 323,
@@ -9174,7 +9458,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 140
+    "levelMin": 140,
+    "allowMarking": false
   },
   {
     "id": 324,
@@ -9192,7 +9477,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 150
+    "levelMin": 150,
+    "allowMarking": false
   },
   {
     "id": 325,
@@ -9210,7 +9496,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 160
+    "levelMin": 160,
+    "allowMarking": false
   },
   {
     "id": 326,
@@ -9228,7 +9515,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 170
+    "levelMin": 170,
+    "allowMarking": false
   },
   {
     "id": 327,
@@ -9246,7 +9534,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 180
+    "levelMin": 180,
+    "allowMarking": false
   },
   {
     "id": 328,
@@ -9264,7 +9553,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 190
+    "levelMin": 190,
+    "allowMarking": false
   },
   {
     "id": 329,
@@ -9284,7 +9574,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 330,
@@ -9304,7 +9595,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 331,
@@ -9324,7 +9616,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 332,
@@ -9344,7 +9637,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 333,
@@ -9364,7 +9658,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 334,
@@ -9384,7 +9679,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 335,
@@ -9404,7 +9700,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 336,
@@ -9424,7 +9721,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 337,
@@ -9444,7 +9742,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 338,
@@ -9462,7 +9761,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 339,
@@ -9480,7 +9780,8 @@
     "elementActionId": 16,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 340,
@@ -9498,7 +9799,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 341,
@@ -9516,7 +9818,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 200
+    "levelMin": 200,
+    "allowMarking": false
   },
   {
     "id": 342,
@@ -9534,7 +9837,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 200
+    "levelMin": 200,
+    "allowMarking": false
   },
   {
     "id": 343,
@@ -9552,7 +9856,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 200
+    "levelMin": 200,
+    "allowMarking": false
   },
   {
     "id": 344,
@@ -9570,7 +9875,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 200
+    "levelMin": 200,
+    "allowMarking": false
   },
   {
     "id": 345,
@@ -9588,7 +9894,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 346,
@@ -9609,7 +9916,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 347,
@@ -9627,7 +9935,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 200
+    "levelMin": 200,
+    "allowMarking": false
   },
   {
     "id": 348,
@@ -9663,7 +9972,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 349,
@@ -9683,7 +9993,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 350,
@@ -9703,7 +10014,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 351,
@@ -9723,7 +10035,8 @@
     "elementActionId": 2,
     "availableInHouse": true,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": true
   },
   {
     "id": 352,
@@ -9741,7 +10054,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 353,
@@ -9759,7 +10073,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 354,
@@ -9777,7 +10092,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 355,
@@ -9795,7 +10111,8 @@
     "elementActionId": 16,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 356,
@@ -9813,7 +10130,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 357,
@@ -9831,7 +10149,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 358,
@@ -9851,7 +10170,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 359,
@@ -9869,7 +10189,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 360,
@@ -9887,7 +10208,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 361,
@@ -9905,7 +10227,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 362,
@@ -9923,7 +10246,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 370,
@@ -9941,7 +10265,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 371,
@@ -9959,7 +10284,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 372,
@@ -9987,7 +10313,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 373,
@@ -10007,7 +10334,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 374,
@@ -10025,7 +10353,8 @@
     "elementActionId": 15,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 375,
@@ -10043,7 +10372,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 376,
@@ -10061,7 +10391,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 377,
@@ -10081,7 +10412,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 378,
@@ -10105,7 +10437,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 380,
@@ -10161,7 +10494,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 381,
@@ -10181,7 +10515,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 382,
@@ -10201,7 +10536,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 383,
@@ -10283,7 +10619,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": true
   },
   {
     "id": 384,
@@ -10310,7 +10647,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 385,
@@ -10330,7 +10668,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 386,
@@ -10348,7 +10687,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 387,
@@ -10368,7 +10708,8 @@
     "elementActionId": 0,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 388,
@@ -10389,7 +10730,8 @@
     "elementActionId": 0,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 389,
@@ -10407,7 +10749,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 200
+    "levelMin": 200,
+    "allowMarking": false
   },
   {
     "id": 390,
@@ -10427,7 +10770,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 391,
@@ -10445,7 +10789,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 200
+    "levelMin": 200,
+    "allowMarking": false
   },
   {
     "id": 392,
@@ -10463,7 +10808,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 200
+    "levelMin": 200,
+    "allowMarking": false
   },
   {
     "id": 393,
@@ -10481,7 +10827,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 200
+    "levelMin": 200,
+    "allowMarking": false
   },
   {
     "id": 394,
@@ -10501,7 +10848,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 397,
@@ -10519,7 +10867,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 398,
@@ -10537,7 +10886,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 399,
@@ -10557,7 +10907,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 400,
@@ -10575,7 +10926,8 @@
     "elementActionId": 16,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 401,
@@ -10595,7 +10947,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 402,
@@ -10648,7 +11001,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 403,
@@ -10763,7 +11117,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 404,
@@ -10781,7 +11136,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 405,
@@ -10799,7 +11155,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 406,
@@ -10817,7 +11174,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 407,
@@ -10835,7 +11193,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 408,
@@ -10853,7 +11212,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 410,
@@ -10871,7 +11231,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 180
+    "levelMin": 180,
+    "allowMarking": false
   },
   {
     "id": 411,
@@ -10889,7 +11250,8 @@
     "elementActionId": 1,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 90
+    "levelMin": 90,
+    "allowMarking": false
   },
   {
     "id": 412,
@@ -10909,7 +11271,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 413,
@@ -10929,7 +11292,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 0
+    "levelMin": 0,
+    "allowMarking": false
   },
   {
     "id": 415,
@@ -10961,7 +11325,8 @@
     "elementActionId": 0,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 417,
@@ -10981,7 +11346,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 419,
@@ -11001,7 +11367,8 @@
     "elementActionId": 2,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 420,
@@ -11019,7 +11386,8 @@
     "elementActionId": 16,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
   },
   {
     "id": 421,
@@ -11163,6 +11531,551 @@
     "elementActionId": 6,
     "availableInHouse": false,
     "clientDisplay": true,
-    "levelMin": 1
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 429,
+    "nameId": 1136960,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [
+      31499
+    ],
+    "interactiveId": 122,
+    "range": 1,
+    "useRangeInClient": false,
+    "useAnimation": "AnimCueillir0",
+    "cursor": 0,
+    "elementActionId": 2,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 430,
+    "nameId": 1138456,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [
+      31706
+    ],
+    "interactiveId": 97,
+    "range": 1,
+    "useRangeInClient": false,
+    "useAnimation": "AnimCueillir0",
+    "cursor": 0,
+    "elementActionId": 2,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 431,
+    "nameId": 1138540,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [
+      31609,
+      31610,
+      31611
+    ],
+    "interactiveId": 13,
+    "range": 1,
+    "useRangeInClient": false,
+    "useAnimation": "AnimCueillir0",
+    "cursor": 0,
+    "elementActionId": 2,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 432,
+    "nameId": 1140790,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [
+      31870,
+      31871,
+      31872
+    ],
+    "interactiveId": 13,
+    "range": 1,
+    "useRangeInClient": false,
+    "useAnimation": "AnimCueillir0",
+    "cursor": 0,
+    "elementActionId": 2,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 433,
+    "nameId": 1144886,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 434,
+    "nameId": 1144888,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 435,
+    "nameId": 1144890,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 436,
+    "nameId": 1144892,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 437,
+    "nameId": 1144893,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 438,
+    "nameId": 1144894,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 439,
+    "nameId": 1144898,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 440,
+    "nameId": 1144902,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 441,
+    "nameId": 1144903,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 442,
+    "nameId": 1144905,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 443,
+    "nameId": 1144907,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 444,
+    "nameId": 1144909,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 445,
+    "nameId": 1144911,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 446,
+    "nameId": 1144913,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 447,
+    "nameId": 1144915,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 448,
+    "nameId": 1144917,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 449,
+    "nameId": 1145345,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 450,
+    "nameId": 1145348,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 451,
+    "nameId": 1145350,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 452,
+    "nameId": 1145352,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 453,
+    "nameId": 1145354,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 454,
+    "nameId": 1145356,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 455,
+    "nameId": 1145358,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
+  },
+  {
+    "id": 456,
+    "nameId": 1145360,
+    "parentJobId": 1,
+    "isForgemagus": false,
+    "modifiableItemTypeIds": [],
+    "gatheredRessourceItem": -1,
+    "craftableItemIds": [],
+    "interactiveId": 129,
+    "range": 1,
+    "useRangeInClient": true,
+    "useAnimation": "AnimStatique",
+    "cursor": 0,
+    "elementActionId": 16,
+    "availableInHouse": false,
+    "clientDisplay": true,
+    "levelMin": 1,
+    "allowMarking": false
   }
 ]

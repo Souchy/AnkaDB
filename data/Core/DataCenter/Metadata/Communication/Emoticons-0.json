@@ -6,14 +6,14 @@
     "order": 50,
     "animName": "AnimEmoteDegaine",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteDegaine_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 50,
     "duration": 0,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "unsheathe"
+    "scale": 1
   },
   {
     "id": 1,
@@ -22,14 +22,14 @@
     "order": 10000,
     "animName": "AnimEmoteSit",
     "persistancy": false,
+    "persistantAnimName": "AnimEmoteSit_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1200,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "sit"
+    "scale": 1
   },
   {
     "id": 19,
@@ -38,14 +38,14 @@
     "order": 10100,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "rest"
+    "scale": 1
   },
   {
     "id": 14,
@@ -54,14 +54,14 @@
     "order": 10200,
     "animName": "AnimEmoteCross",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteCross_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1200,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "cross"
+    "scale": 1
   },
   {
     "id": 34,
@@ -70,14 +70,14 @@
     "order": 10300,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "hips"
+    "scale": 1
   },
   {
     "id": 80,
@@ -86,14 +86,14 @@
     "order": 10305,
     "animName": "AnimEmoteBehind",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteBehind_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "back"
+    "scale": 1
   },
   {
     "id": 58,
@@ -102,14 +102,14 @@
     "order": 10400,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "kneel"
+    "scale": 1
   },
   {
     "id": 66,
@@ -118,14 +118,14 @@
     "order": 10600,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "kowtow"
+    "scale": 1
   },
   {
     "id": 15,
@@ -134,14 +134,14 @@
     "order": 15000,
     "animName": "AnimEmotePoint",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1400,
     "duration": 1700,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "point"
+    "scale": 1
   },
   {
     "id": 9,
@@ -150,14 +150,14 @@
     "order": 20000,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1700,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "hi"
+    "scale": 1
   },
   {
     "id": 2,
@@ -166,14 +166,14 @@
     "order": 20100,
     "animName": "AnimEmoteBye",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2400,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "bye"
+    "scale": 1
   },
   {
     "id": 10,
@@ -182,14 +182,14 @@
     "order": 20200,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1800,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "kiss"
+    "scale": 1
   },
   {
     "id": 49,
@@ -198,14 +198,14 @@
     "order": 20300,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2600,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "hey"
+    "scale": 1
   },
   {
     "id": 73,
@@ -214,14 +214,14 @@
     "order": 20310,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "attention"
+    "scale": 1
   },
   {
     "id": 65,
@@ -230,14 +230,14 @@
     "order": 20400,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "vulkan"
+    "scale": 1
   },
   {
     "id": 77,
@@ -246,14 +246,14 @@
     "order": 23305,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "atten"
+    "scale": 1
   },
   {
     "id": 139,
@@ -262,14 +262,14 @@
     "order": 23306,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 20000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "wingsbo"
+    "scale": 1
   },
   {
     "id": 140,
@@ -278,14 +278,14 @@
     "order": 23307,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 20000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "wingsba"
+    "scale": 1
   },
   {
     "id": 105,
@@ -294,14 +294,14 @@
     "order": 23325,
     "animName": "AnimEmoteBoxing",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2600,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "box"
+    "scale": 1
   },
   {
     "id": 68,
@@ -310,14 +310,14 @@
     "order": 25300,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "muscles"
+    "scale": 1
   },
   {
     "id": 97,
@@ -326,14 +326,14 @@
     "order": 25350,
     "animName": "AnimEmoteGuild",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteGuild_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "guild"
+    "scale": 1
   },
   {
     "id": 155,
@@ -342,14 +342,14 @@
     "order": 25351,
     "animName": "AnimEmoteGuildwinner",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "guildwinner"
+    "scale": 1
   },
   {
     "id": 98,
@@ -358,14 +358,14 @@
     "order": 25375,
     "animName": "AnimEmoteAlliance",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteAlliance_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "alliance"
+    "scale": 1
   },
   {
     "id": 176,
@@ -374,14 +374,14 @@
     "order": 25376,
     "animName": "AnimEmoteEtendarddws1",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteEtendarddws1_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "m2"
+    "scale": 1
   },
   {
     "id": 177,
@@ -390,14 +390,14 @@
     "order": 25377,
     "animName": "AnimEmoteEtendarddws2",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteEtendarddws2_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "go2"
+    "scale": 1
   },
   {
     "id": 178,
@@ -406,14 +406,14 @@
     "order": 25378,
     "animName": "AnimEmoteEtendarddws3",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteEtendarddws3_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "bg2"
+    "scale": 1
   },
   {
     "id": 179,
@@ -422,14 +422,14 @@
     "order": 25379,
     "animName": "AnimEmoteEtendarddws4",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteEtendarddws4_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "fb2"
+    "scale": 1
   },
   {
     "id": 180,
@@ -438,14 +438,14 @@
     "order": 25380,
     "animName": "AnimEmoteEtendarddws5",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteEtendarddws5_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "ooc2"
+    "scale": 1
   },
   {
     "id": 106,
@@ -454,14 +454,14 @@
     "order": 25381,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2600,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "surr"
+    "scale": 1
   },
   {
     "id": 190,
@@ -470,14 +470,14 @@
     "order": 25382,
     "animName": "AnimEmoteEtendarddws6",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteEtendarddws6_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "ooc3"
+    "scale": 1
   },
   {
     "id": 127,
@@ -486,14 +486,14 @@
     "order": 25383,
     "animName": "AnimEmoteAuthenticator",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 60000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "protection"
+    "scale": 1
   },
   {
     "id": 191,
@@ -502,14 +502,14 @@
     "order": 25384,
     "animName": "AnimEmoteEtendarddws7",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteEtendarddws7_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "go3"
+    "scale": 1
   },
   {
     "id": 96,
@@ -518,14 +518,14 @@
     "order": 25385,
     "animName": "AnimEmoteShield",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteShield_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1200,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "shield"
+    "scale": 1
   },
   {
     "id": 192,
@@ -534,14 +534,14 @@
     "order": 25386,
     "animName": "AnimEmoteEtendarddws8",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteEtendarddws8_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "m3"
+    "scale": 1
   },
   {
     "id": 193,
@@ -550,14 +550,14 @@
     "order": 25387,
     "animName": "AnimEmoteEtendarddws9",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteEtendarddws9_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "bg3"
+    "scale": 1
   },
   {
     "id": 194,
@@ -566,14 +566,14 @@
     "order": 25388,
     "animName": "AnimEmoteEtendarddws10",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteEtendarddws10_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "ov3"
+    "scale": 1
   },
   {
     "id": 6,
@@ -582,14 +582,14 @@
     "order": 25400,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1400,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "weap"
+    "scale": 1
   },
   {
     "id": 93,
@@ -598,14 +598,14 @@
     "order": 25450,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "unsheathe"
+    "scale": 1
   },
   {
     "id": 4,
@@ -614,14 +614,14 @@
     "order": 25500,
     "animName": "random(AnimEmoteMad,AnimEmoteMad_1)",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1500,
     "duration": 1400,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "mad"
+    "scale": 1
   },
   {
     "id": 71,
@@ -630,14 +630,14 @@
     "order": 25510,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "fist"
+    "scale": 1
   },
   {
     "id": 5,
@@ -646,14 +646,14 @@
     "order": 25600,
     "animName": "AnimEmoteFear",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteFear_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "fear"
+    "scale": 1
   },
   {
     "id": 102,
@@ -662,14 +662,14 @@
     "order": 25625,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "scare"
+    "scale": 1
   },
   {
     "id": 76,
@@ -678,14 +678,14 @@
     "order": 25650,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "facepalm"
+    "scale": 1
   },
   {
     "id": 79,
@@ -694,14 +694,14 @@
     "order": 25660,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "forehead"
+    "scale": 1
   },
   {
     "id": 3,
@@ -710,14 +710,14 @@
     "order": 25750,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1300,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "appl"
+    "scale": 1
   },
   {
     "id": 88,
@@ -726,14 +726,14 @@
     "order": 25760,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "w00t"
+    "scale": 1
   },
   {
     "id": 78,
@@ -742,14 +742,14 @@
     "order": 25770,
     "animName": "AnimEmoteWave",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "wave"
+    "scale": 1
   },
   {
     "id": 87,
@@ -758,14 +758,14 @@
     "order": 25780,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "boo"
+    "scale": 1
   },
   {
     "id": 24,
@@ -774,14 +774,14 @@
     "order": 25800,
     "animName": "AnimEmoteLaugh",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 4200,
     "duration": 6500,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "laugh"
+    "scale": 1
   },
   {
     "id": 26,
@@ -790,14 +790,14 @@
     "order": 25900,
     "animName": "AnimEmoteCry",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2500,
     "duration": 4800,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "cry"
+    "scale": 1
   },
   {
     "id": 25,
@@ -806,14 +806,14 @@
     "order": 26000,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2200,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "no"
+    "scale": 1
   },
   {
     "id": 52,
@@ -822,14 +822,14 @@
     "order": 26200,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "plz"
+    "scale": 1
   },
   {
     "id": 16,
@@ -838,14 +838,14 @@
     "order": 26300,
     "animName": "AnimEmoteCrow",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2600,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "crow"
+    "scale": 1
   },
   {
     "id": 90,
@@ -854,14 +854,14 @@
     "order": 26350,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "alhowin"
+    "scale": 1
   },
   {
     "id": 32,
@@ -870,14 +870,14 @@
     "order": 26400,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "joy"
+    "scale": 1
   },
   {
     "id": 35,
@@ -886,14 +886,14 @@
     "order": 26500,
     "animName": "AnimEmoteFlower",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteFlower_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "flower"
+    "scale": 1
   },
   {
     "id": 38,
@@ -902,14 +902,14 @@
     "order": 26600,
     "animName": "AnimEmoteFlower2",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteFlower2_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "manolias"
+    "scale": 1
   },
   {
     "id": 56,
@@ -918,14 +918,14 @@
     "order": 26700,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "gift"
+    "scale": 1
   },
   {
     "id": 103,
@@ -934,14 +934,14 @@
     "order": 26750,
     "animName": "AnimEmoteCake",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteCake_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "cake"
+    "scale": 1
   },
   {
     "id": 104,
@@ -950,14 +950,14 @@
     "order": 26775,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "rocul"
+    "scale": 1
   },
   {
     "id": 50,
@@ -966,14 +966,14 @@
     "order": 26800,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3600,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "cards"
+    "scale": 1
   },
   {
     "id": 43,
@@ -982,14 +982,14 @@
     "order": 30000,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "thumbsup"
+    "scale": 1
   },
   {
     "id": 44,
@@ -998,14 +998,14 @@
     "order": 30100,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1200,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "thumbsdown"
+    "scale": 1
   },
   {
     "id": 72,
@@ -1014,14 +1014,14 @@
     "order": 30150,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "nose"
+    "scale": 1
   },
   {
     "id": 51,
@@ -1030,14 +1030,14 @@
     "order": 30200,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1600,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "superhero"
+    "scale": 1
   },
   {
     "id": 48,
@@ -1046,14 +1046,14 @@
     "order": 30300,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "piwi"
+    "scale": 1
   },
   {
     "id": 46,
@@ -1062,14 +1062,14 @@
     "order": 30400,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1400,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "famished"
+    "scale": 1
   },
   {
     "id": 101,
@@ -1078,14 +1078,14 @@
     "order": 30450,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "cawwot"
+    "scale": 1
   },
   {
     "id": 41,
@@ -1094,14 +1094,14 @@
     "order": 30600,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "yawn"
+    "scale": 1
   },
   {
     "id": 42,
@@ -1110,14 +1110,14 @@
     "order": 30700,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1800,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "hop"
+    "scale": 1
   },
   {
     "id": 75,
@@ -1126,14 +1126,14 @@
     "order": 30750,
     "animName": "AnimEmoteHandrub",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "handrub"
+    "scale": 1
   },
   {
     "id": 36,
@@ -1142,14 +1142,14 @@
     "order": 30800,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2600,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "freeze"
+    "scale": 1
   },
   {
     "id": 37,
@@ -1158,14 +1158,14 @@
     "order": 30900,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "sneeze"
+    "scale": 1
   },
   {
     "id": 39,
@@ -1174,14 +1174,14 @@
     "order": 31000,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1600,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "cold"
+    "scale": 1
   },
   {
     "id": 67,
@@ -1190,14 +1190,14 @@
     "order": 31100,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "hot"
+    "scale": 1
   },
   {
     "id": 133,
@@ -1206,14 +1206,14 @@
     "order": 31200,
     "animName": "AnimEmoteUmbrella",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteUmbrella_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "parasol"
+    "scale": 1
   },
   {
     "id": 74,
@@ -1222,14 +1222,14 @@
     "order": 31500,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "shhh"
+    "scale": 1
   },
   {
     "id": 29,
@@ -1238,14 +1238,14 @@
     "order": 32000,
     "animName": "AnimEmoteJuggle",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteJuggle_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2000,
     "duration": 3000,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "juggle"
+    "scale": 1
   },
   {
     "id": 107,
@@ -1254,14 +1254,14 @@
     "order": 32500,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1600,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "sfire"
+    "scale": 1
   },
   {
     "id": 8,
@@ -1270,14 +1270,14 @@
     "order": 33000,
     "animName": "AnimEmoteOups",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "oups"
+    "scale": 1
   },
   {
     "id": 33,
@@ -1286,14 +1286,14 @@
     "order": 34000,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2200,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "skidmark"
+    "scale": 1
   },
   {
     "id": 7,
@@ -1302,14 +1302,14 @@
     "order": 40000,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2600,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "pipo"
+    "scale": 1
   },
   {
     "id": 28,
@@ -1318,14 +1318,14 @@
     "order": 40100,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1800,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "guitar"
+    "scale": 1
   },
   {
     "id": 53,
@@ -1334,14 +1334,14 @@
     "order": 40200,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "trumpet"
+    "scale": 1
   },
   {
     "id": 45,
@@ -1350,14 +1350,14 @@
     "order": 40400,
     "animName": "AnimEmoteDrum",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteDrum_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1800,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "drum"
+    "scale": 1
   },
   {
     "id": 82,
@@ -1366,14 +1366,14 @@
     "order": 40450,
     "animName": "AnimEmoteWhistle",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "whistle"
+    "scale": 1
   },
   {
     "id": 27,
@@ -1382,14 +1382,14 @@
     "order": 40500,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1800,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "dance"
+    "scale": 1
   },
   {
     "id": 81,
@@ -1398,14 +1398,14 @@
     "order": 40550,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 4000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "kamarena"
+    "scale": 1
   },
   {
     "id": 92,
@@ -1414,14 +1414,14 @@
     "order": 44000,
     "animName": "AnimEmoteWrite",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "write"
+    "scale": 1
   },
   {
     "id": 128,
@@ -1430,14 +1430,14 @@
     "order": 44500,
     "animName": "AnimEmotePaint",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3000,
     "duration": 3100,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "paint"
+    "scale": 1
   },
   {
     "id": 30,
@@ -1446,14 +1446,14 @@
     "order": 45000,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1800,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "book"
+    "scale": 1
   },
   {
     "id": 69,
@@ -1462,14 +1462,14 @@
     "order": 45100,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 4000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "map"
+    "scale": 1
   },
   {
     "id": 112,
@@ -1478,14 +1478,14 @@
     "order": 45150,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "treasure"
+    "scale": 1
   },
   {
     "id": 84,
@@ -1494,14 +1494,14 @@
     "order": 45200,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 4500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "spyglass"
+    "scale": 1
   },
   {
     "id": 85,
@@ -1510,14 +1510,14 @@
     "order": 45300,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "detective"
+    "scale": 1
   },
   {
     "id": 99,
@@ -1526,14 +1526,14 @@
     "order": 45400,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "waterclock"
+    "scale": 1
   },
   {
     "id": 113,
@@ -1542,14 +1542,14 @@
     "order": 45500,
     "animName": "AnimEmoteCompass",
     "persistancy": false,
+    "persistantAnimName": "AnimEmoteCompass_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 600,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "compass"
+    "scale": 1
   },
   {
     "id": 114,
@@ -1558,14 +1558,14 @@
     "order": 45600,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "portal"
+    "scale": 1
   },
   {
     "id": 141,
@@ -1574,14 +1574,14 @@
     "order": 46000,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3100,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "tails"
+    "scale": 1
   },
   {
     "id": 158,
@@ -1590,14 +1590,14 @@
     "order": 46100,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "vomit"
+    "scale": 1
   },
   {
     "id": 159,
@@ -1606,14 +1606,14 @@
     "order": 46200,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "quest"
+    "scale": 1
   },
   {
     "id": 181,
@@ -1622,14 +1622,14 @@
     "order": 46300,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2100,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "ivory"
+    "scale": 1
   },
   {
     "id": 182,
@@ -1638,14 +1638,14 @@
     "order": 46400,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2100,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "ebony"
+    "scale": 1
   },
   {
     "id": 183,
@@ -1654,14 +1654,14 @@
     "order": 46500,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2100,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "emerald"
+    "scale": 1
   },
   {
     "id": 184,
@@ -1670,14 +1670,14 @@
     "order": 46600,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2100,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "turquoise"
+    "scale": 1
   },
   {
     "id": 185,
@@ -1686,14 +1686,14 @@
     "order": 46700,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2100,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "ochre"
+    "scale": 1
   },
   {
     "id": 186,
@@ -1702,14 +1702,14 @@
     "order": 46800,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2100,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "crimson"
+    "scale": 1
   },
   {
     "id": 21,
@@ -1718,14 +1718,14 @@
     "order": 50000,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 60000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "champ"
+    "scale": 1
   },
   {
     "id": 156,
@@ -1734,14 +1734,14 @@
     "order": 50001,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 60000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "cup"
+    "scale": 1
   },
   {
     "id": 57,
@@ -1750,14 +1750,14 @@
     "order": 50100,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "iop"
+    "scale": 1
   },
   {
     "id": 117,
@@ -1766,14 +1766,14 @@
     "order": 50200,
     "animName": "AnimEmoteEnu",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "enu"
+    "scale": 1
   },
   {
     "id": 119,
@@ -1782,14 +1782,14 @@
     "order": 50300,
     "animName": "AnimEmoteSram",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "sram"
+    "scale": 1
   },
   {
     "id": 120,
@@ -1798,14 +1798,14 @@
     "order": 50400,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "rogue"
+    "scale": 1
   },
   {
     "id": 121,
@@ -1814,14 +1814,14 @@
     "order": 50500,
     "animName": "AnimEmoteXelor",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "xelor"
+    "scale": 1
   },
   {
     "id": 122,
@@ -1830,14 +1830,14 @@
     "order": 50600,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "eliotrope"
+    "scale": 1
   },
   {
     "id": 129,
@@ -1846,14 +1846,14 @@
     "order": 50700,
     "animName": "AnimEmoteSadida",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "sadida"
+    "scale": 1
   },
   {
     "id": 132,
@@ -1862,14 +1862,14 @@
     "order": 50800,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "foggernaut"
+    "scale": 1
   },
   {
     "id": 135,
@@ -1878,14 +1878,14 @@
     "order": 50900,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "cra"
+    "scale": 1
   },
   {
     "id": 136,
@@ -1894,14 +1894,14 @@
     "order": 51000,
     "animName": "AnimEmotePandawa",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "panda"
+    "scale": 1
   },
   {
     "id": 137,
@@ -1910,14 +1910,14 @@
     "order": 51100,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "huppermage"
+    "scale": 1
   },
   {
     "id": 142,
@@ -1926,14 +1926,14 @@
     "order": 51200,
     "animName": "AnimEmoteEcaflip",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "ecaflip"
+    "scale": 1
   },
   {
     "id": 143,
@@ -1942,14 +1942,14 @@
     "order": 51300,
     "animName": "AnimEmoteSacrieur",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "sacrier"
+    "scale": 1
   },
   {
     "id": 144,
@@ -1958,14 +1958,14 @@
     "order": 51400,
     "animName": "AnimEmoteEni",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "eniripsa"
+    "scale": 1
   },
   {
     "id": 146,
@@ -1974,14 +1974,14 @@
     "order": 51500,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "masqueraider"
+    "scale": 1
   },
   {
     "id": 147,
@@ -1990,14 +1990,14 @@
     "order": 51600,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "osamodas"
+    "scale": 1
   },
   {
     "id": 148,
@@ -2006,14 +2006,14 @@
     "order": 51700,
     "animName": "AnimEmoteFeca",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "feca"
+    "scale": 1
   },
   {
     "id": 152,
@@ -2022,14 +2022,14 @@
     "order": 51800,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "ouginak"
+    "scale": 1
   },
   {
     "id": 130,
@@ -2038,14 +2038,14 @@
     "order": 55000,
     "animName": "AnimEmoteDragon",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 4200,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "dragon"
+    "scale": 1
   },
   {
     "id": 134,
@@ -2054,14 +2054,14 @@
     "order": 57000,
     "animName": "AnimEmoteFishing",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3600,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "fisherman"
+    "scale": 1
   },
   {
     "id": 138,
@@ -2070,14 +2070,14 @@
     "order": 59000,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "duelist"
+    "scale": 1
   },
   {
     "id": 149,
@@ -2086,14 +2086,14 @@
     "order": 59100,
     "animName": "AnimEmoteBallon",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5000,
     "duration": 3800,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "balloon"
+    "scale": 1
   },
   {
     "id": 150,
@@ -2102,14 +2102,14 @@
     "order": 59200,
     "animName": "AnimEmoteVials",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 10000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "flask"
+    "scale": 1
   },
   {
     "id": 160,
@@ -2118,14 +2118,14 @@
     "order": 59300,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "magma"
+    "scale": 1
   },
   {
     "id": 163,
@@ -2134,14 +2134,14 @@
     "order": 59400,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 60000,
     "duration": 0,
     "weight": 0,
     "spellLevelId": 33875,
-    "scale": 1,
-    "m_shortcut": "gladiator"
+    "scale": 1
   },
   {
     "id": 166,
@@ -2150,14 +2150,14 @@
     "order": 59500,
     "animName": "AnimEmoteZombie",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "zombie"
+    "scale": 1
   },
   {
     "id": 189,
@@ -2166,14 +2166,14 @@
     "order": 59600,
     "animName": "AnimEmoteDino",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "draeggosaure"
+    "scale": 1
   },
   {
     "id": 195,
@@ -2182,14 +2182,14 @@
     "order": 59700,
     "animName": "AnimEmoteDinofear",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 30000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": ""
+    "scale": 1
   },
   {
     "id": 196,
@@ -2198,14 +2198,14 @@
     "order": 59800,
     "animName": "AnimEmoteOla",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2600,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "bigwave"
+    "scale": 1
   },
   {
     "id": 198,
@@ -2214,14 +2214,14 @@
     "order": 59900,
     "animName": "AnimEmoteOlatrigger",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 0,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": ""
+    "scale": 1
   },
   {
     "id": 22,
@@ -2230,14 +2230,14 @@
     "order": 60000,
     "animName": "",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": true,
     "aura": true,
     "cooldown": 1000,
     "duration": 0,
     "weight": 100,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "aura"
+    "scale": 1
   },
   {
     "id": 23,
@@ -2246,14 +2246,14 @@
     "order": 60100,
     "animName": "",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": true,
     "aura": true,
     "cooldown": 1000,
     "duration": 0,
     "weight": 1000,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "bat"
+    "scale": 1
   },
   {
     "id": 40,
@@ -2262,14 +2262,14 @@
     "order": 60200,
     "animName": "",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": true,
     "aura": true,
     "cooldown": 1000,
     "duration": 0,
     "weight": 1001,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "platypus"
+    "scale": 1
   },
   {
     "id": 55,
@@ -2278,14 +2278,14 @@
     "order": 60300,
     "animName": "",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": true,
     "aura": true,
     "cooldown": 1000,
     "duration": 0,
     "weight": 1002,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "nelween"
+    "scale": 1
   },
   {
     "id": 171,
@@ -2294,14 +2294,14 @@
     "order": 60400,
     "animName": "",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": true,
     "aura": true,
     "cooldown": 1000,
     "duration": 0,
     "weight": 100,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "omega100"
+    "scale": 1
   },
   {
     "id": 172,
@@ -2310,14 +2310,14 @@
     "order": 60500,
     "animName": "",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": true,
     "aura": true,
     "cooldown": 1000,
     "duration": 0,
     "weight": 100,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "omega200"
+    "scale": 1
   },
   {
     "id": 173,
@@ -2326,14 +2326,14 @@
     "order": 60600,
     "animName": "",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": true,
     "aura": true,
     "cooldown": 1000,
     "duration": 0,
     "weight": 100,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "omega300"
+    "scale": 1
   },
   {
     "id": 174,
@@ -2342,14 +2342,14 @@
     "order": 60700,
     "animName": "",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": true,
     "aura": true,
     "cooldown": 1000,
     "duration": 0,
     "weight": 100,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "omega400"
+    "scale": 1
   },
   {
     "id": 175,
@@ -2358,14 +2358,14 @@
     "order": 60800,
     "animName": "",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": true,
     "aura": true,
     "cooldown": 1000,
     "duration": 0,
     "weight": 100,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "omega500"
+    "scale": 1
   },
   {
     "id": 221,
@@ -2374,14 +2374,14 @@
     "order": 60900,
     "animName": "",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": true,
     "aura": true,
     "cooldown": 1800,
     "duration": 0,
     "weight": 100,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "music"
+    "scale": 1
   },
   {
     "id": 61,
@@ -2390,14 +2390,14 @@
     "order": 100000,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "drink"
+    "scale": 1
   },
   {
     "id": 18,
@@ -2406,14 +2406,14 @@
     "order": 100100,
     "animName": "AnimEmoteBeer",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1800,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "beer"
+    "scale": 1
   },
   {
     "id": 17,
@@ -2422,14 +2422,14 @@
     "order": 100200,
     "animName": "AnimEmoteCrunchbread",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": ""
+    "scale": 1
   },
   {
     "id": 187,
@@ -2438,14 +2438,14 @@
     "order": 100201,
     "animName": "AnimEmoteCrunchfish",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": ""
+    "scale": 1
   },
   {
     "id": 188,
@@ -2454,62 +2454,126 @@
     "order": 100202,
     "animName": "AnimEmoteCrunchmeat",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": ""
+    "scale": 1
   },
   {
     "id": 328,
     "nameId": 1125778,
-    "shortcutId": "1125796",
+    "shortcutId": "1142952",
     "order": 100205,
     "animName": "AnimEmoteEatfish",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteEatfish_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": ""
+    "scale": 1
   },
   {
     "id": 329,
     "nameId": 1125811,
-    "shortcutId": "1125816",
+    "shortcutId": "1142953",
     "order": 100206,
     "animName": "AnimEmoteEatmeat",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteEatmeat_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": ""
+    "scale": 1
   },
   {
     "id": 330,
     "nameId": 1125829,
-    "shortcutId": "1125834",
+    "shortcutId": "1142954",
     "order": 100207,
     "animName": "AnimEmoteEatbread",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteEatbread_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": ""
+    "scale": 1
+  },
+  {
+    "id": 334,
+    "nameId": 1142955,
+    "shortcutId": "1142956",
+    "order": 100208,
+    "animName": "AnimEmoteBroom",
+    "persistancy": true,
+    "persistantAnimName": "AnimEmoteBroom_Statique",
+    "eightDirections": false,
+    "aura": false,
+    "cooldown": 2000,
+    "duration": 1250,
+    "weight": 0,
+    "spellLevelId": 0,
+    "scale": 1
+  },
+  {
+    "id": 335,
+    "nameId": 1142957,
+    "shortcutId": "1142958",
+    "order": 100209,
+    "animName": "AnimEmoteColor",
+    "persistancy": false,
+    "persistantAnimName": "",
+    "eightDirections": false,
+    "aura": false,
+    "cooldown": 2000,
+    "duration": 1250,
+    "weight": 0,
+    "spellLevelId": 0,
+    "scale": 1
+  },
+  {
+    "id": 336,
+    "nameId": 1142959,
+    "shortcutId": "1142960",
+    "order": 100210,
+    "animName": "AnimEmoteChichala",
+    "persistancy": false,
+    "persistantAnimName": "",
+    "eightDirections": false,
+    "aura": false,
+    "cooldown": 2000,
+    "duration": 1250,
+    "weight": 0,
+    "spellLevelId": 0,
+    "scale": 1
+  },
+  {
+    "id": 337,
+    "nameId": 1144075,
+    "shortcutId": "1144076",
+    "order": 100211,
+    "animName": "AnimEmoteBouclier",
+    "persistancy": false,
+    "persistantAnimName": "",
+    "eightDirections": false,
+    "aura": false,
+    "cooldown": 2000,
+    "duration": 1250,
+    "weight": 0,
+    "spellLevelId": 0,
+    "scale": 1
   },
   {
     "id": 91,
@@ -2518,14 +2582,14 @@
     "order": 100400,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 4400,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "chichala"
+    "scale": 1
   },
   {
     "id": 100,
@@ -2534,14 +2598,14 @@
     "order": 100500,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2800,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "retsej"
+    "scale": 1
   },
   {
     "id": 115,
@@ -2550,14 +2614,14 @@
     "order": 100600,
     "animName": "AnimEmotePriest",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2600,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": ""
+    "scale": 1
   },
   {
     "id": 116,
@@ -2566,14 +2630,14 @@
     "order": 100700,
     "animName": "AnimEmoteGravedigger",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": ""
+    "scale": 1
   },
   {
     "id": 131,
@@ -2582,14 +2646,14 @@
     "order": 100800,
     "animName": "AnimEmoteColor",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1800,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": ""
+    "scale": 1
   },
   {
     "id": 167,
@@ -2598,14 +2662,14 @@
     "order": 100900,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3200,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "bontastandard"
+    "scale": 1
   },
   {
     "id": 168,
@@ -2614,14 +2678,14 @@
     "order": 101000,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3200,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "brakmarstandard"
+    "scale": 1
   },
   {
     "id": 70,
@@ -2630,14 +2694,14 @@
     "order": 300050,
     "animName": "AnimEmoteOgrine_0",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3000,
     "duration": 0,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "ogrine"
+    "scale": 1
   },
   {
     "id": 94,
@@ -2646,14 +2710,14 @@
     "order": 300100,
     "animName": "AnimEmoteTongue_0",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 0,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "tongue"
+    "scale": 1
   },
   {
     "id": 95,
@@ -2662,14 +2726,14 @@
     "order": 300200,
     "animName": "AnimEmoteOpacity_0",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 0,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "karmouflaged"
+    "scale": 1
   },
   {
     "id": 108,
@@ -2678,14 +2742,14 @@
     "order": 300300,
     "animName": "AnimEmoteFly_0",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3000,
     "duration": 0,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "flyaway"
+    "scale": 1
   },
   {
     "id": 109,
@@ -2694,14 +2758,14 @@
     "order": 300400,
     "animName": "AnimEmoteWorm_0",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3500,
     "duration": 0,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "worm"
+    "scale": 1
   },
   {
     "id": 110,
@@ -2710,14 +2774,14 @@
     "order": 300600,
     "animName": "AnimEmoteDrill_0",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3000,
     "duration": 0,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "drhell"
+    "scale": 1
   },
   {
     "id": 111,
@@ -2726,14 +2790,14 @@
     "order": 300700,
     "animName": "AnimEmoteSniff_0",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3000,
     "duration": 0,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "sniff"
+    "scale": 1
   },
   {
     "id": 118,
@@ -2742,14 +2806,14 @@
     "order": 300800,
     "animName": "AnimEmoteRoar_0",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2000,
     "duration": 0,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "roar"
+    "scale": 1
   },
   {
     "id": 123,
@@ -2758,14 +2822,14 @@
     "order": 300900,
     "animName": "AnimEmoteHaunt_0",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 0,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "haunt"
+    "scale": 1
   },
   {
     "id": 124,
@@ -2774,14 +2838,14 @@
     "order": 301000,
     "animName": "AnimEmoteWaddle_0",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2700,
     "duration": 0,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "waddle"
+    "scale": 1
   },
   {
     "id": 125,
@@ -2790,14 +2854,14 @@
     "order": 301100,
     "animName": "AnimEmoteStomp_0",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3300,
     "duration": 0,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "stomp"
+    "scale": 1
   },
   {
     "id": 126,
@@ -2806,14 +2870,14 @@
     "order": 301200,
     "animName": "AnimEmoteInflame_0",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 0,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "inflame"
+    "scale": 1
   },
   {
     "id": 153,
@@ -2822,14 +2886,14 @@
     "order": 301300,
     "animName": "AnimEmoteWow_0",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 4760,
     "duration": 0,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "wow"
+    "scale": 1
   },
   {
     "id": 154,
@@ -2838,14 +2902,14 @@
     "order": 301400,
     "animName": "AnimEmotePipi_0",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 4040,
     "duration": 0,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "mark"
+    "scale": 1
   },
   {
     "id": 169,
@@ -2854,14 +2918,14 @@
     "order": 301500,
     "animName": "AnimEmoteFlammesbo_0",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2100,
     "duration": 0,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "flamesbo"
+    "scale": 1
   },
   {
     "id": 170,
@@ -2870,14 +2934,14 @@
     "order": 301600,
     "animName": "AnimEmoteFlammesbr_0",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2100,
     "duration": 0,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "flamesbr"
+    "scale": 1
   },
   {
     "id": 89,
@@ -2886,14 +2950,14 @@
     "order": 400015,
     "animName": "AnimEmoteDeaf",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteDeaf_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "deaf"
+    "scale": 1
   },
   {
     "id": 11,
@@ -2902,14 +2966,14 @@
     "order": 500100,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2100,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "rps1"
+    "scale": 1
   },
   {
     "id": 12,
@@ -2918,14 +2982,14 @@
     "order": 500200,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2100,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "rps2"
+    "scale": 1
   },
   {
     "id": 13,
@@ -2934,14 +2998,14 @@
     "order": 500300,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2100,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "rps3"
+    "scale": 1
   },
   {
     "id": 63,
@@ -2950,14 +3014,14 @@
     "order": 500400,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2100,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "rps4"
+    "scale": 1
   },
   {
     "id": 64,
@@ -2966,14 +3030,14 @@
     "order": 500500,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2100,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "rps5"
+    "scale": 1
   },
   {
     "id": 197,
@@ -2982,14 +3046,14 @@
     "order": 500600,
     "animName": "AnimEmoteCarnival",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteCarnival_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2600,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "carnival"
+    "scale": 1
   },
   {
     "id": 199,
@@ -2998,14 +3062,14 @@
     "order": 500700,
     "animName": "AnimEmoteBlackdragon",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3900,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "shadragon"
+    "scale": 1
   },
   {
     "id": 200,
@@ -3014,14 +3078,14 @@
     "order": 500800,
     "animName": "AnimEmoteSwishswish",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1800,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "jusdance"
+    "scale": 1
   },
   {
     "id": 201,
@@ -3030,14 +3094,14 @@
     "order": 500900,
     "animName": "AnimEmoteSwishswishtrigger",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1800,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": ""
+    "scale": 1
   },
   {
     "id": 202,
@@ -3046,14 +3110,14 @@
     "order": 501000,
     "animName": "",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": true,
     "aura": true,
     "cooldown": 1800,
     "duration": 0,
     "weight": 1003,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "norrai"
+    "scale": 1
   },
   {
     "id": 203,
@@ -3062,14 +3126,14 @@
     "order": 501100,
     "animName": "",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": true,
     "aura": true,
     "cooldown": 1800,
     "duration": 0,
     "weight": 1003,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "meriana"
+    "scale": 1
   },
   {
     "id": 204,
@@ -3078,14 +3142,14 @@
     "order": 501200,
     "animName": "",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": true,
     "aura": true,
     "cooldown": 1800,
     "duration": 0,
     "weight": 1003,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "ratathrosk"
+    "scale": 1
   },
   {
     "id": 205,
@@ -3094,14 +3158,14 @@
     "order": 501300,
     "animName": "",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": true,
     "aura": true,
     "cooldown": 1800,
     "duration": 0,
     "weight": 1003,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "djaul"
+    "scale": 1
   },
   {
     "id": 206,
@@ -3110,14 +3174,14 @@
     "order": 501400,
     "animName": "",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": true,
     "aura": true,
     "cooldown": 1800,
     "duration": 0,
     "weight": 1003,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "septangel"
+    "scale": 1
   },
   {
     "id": 207,
@@ -3126,14 +3190,14 @@
     "order": 501500,
     "animName": "",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": true,
     "aura": true,
     "cooldown": 1800,
     "duration": 0,
     "weight": 1003,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "rimanda"
+    "scale": 1
   },
   {
     "id": 208,
@@ -3142,14 +3206,14 @@
     "order": 501600,
     "animName": "AnimEmoteReunificationdofus",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3400,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "reunification"
+    "scale": 1
   },
   {
     "id": 209,
@@ -3158,14 +3222,14 @@
     "order": 501700,
     "animName": "AnimEmoteInsecte",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 6000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "insect"
+    "scale": 1
   },
   {
     "id": 210,
@@ -3174,14 +3238,14 @@
     "order": 501800,
     "animName": "AnimEmoteTimeanomaly",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3400,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "anomaly"
+    "scale": 1
   },
   {
     "id": 211,
@@ -3190,14 +3254,14 @@
     "order": 501900,
     "animName": "AnimEmoteHungry",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "hungry"
+    "scale": 1
   },
   {
     "id": 212,
@@ -3206,14 +3270,14 @@
     "order": 502000,
     "animName": "AnimEmoteStuffed",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "overate"
+    "scale": 1
   },
   {
     "id": 213,
@@ -3222,14 +3286,14 @@
     "order": 502100,
     "animName": "AnimEmoteBunnyhop",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3400,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "wodent"
+    "scale": 1
   },
   {
     "id": 214,
@@ -3238,14 +3302,14 @@
     "order": 502200,
     "animName": "AnimEmoteHeartbreak",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 200,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "heartbroken"
+    "scale": 1
   },
   {
     "id": 215,
@@ -3254,14 +3318,14 @@
     "order": 502300,
     "animName": "AnimEmoteNoxine",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 200,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "selfie"
+    "scale": 1
   },
   {
     "id": 218,
@@ -3270,14 +3334,14 @@
     "order": 502400,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "shushu"
+    "scale": 1
   },
   {
     "id": 216,
@@ -3286,14 +3350,14 @@
     "order": 502500,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 4500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "trool"
+    "scale": 1
   },
   {
     "id": 217,
@@ -3302,14 +3366,14 @@
     "order": 502600,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 4000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "hair"
+    "scale": 1
   },
   {
     "id": 219,
@@ -3318,14 +3382,14 @@
     "order": 502700,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2600,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "electro"
+    "scale": 1
   },
   {
     "id": 220,
@@ -3334,14 +3398,14 @@
     "order": 502800,
     "animName": "AnimEmoteMicro",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5200,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "sing"
+    "scale": 1
   },
   {
     "id": 222,
@@ -3350,14 +3414,14 @@
     "order": 502900,
     "animName": "AnimEmoteCrocabulia",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 4000,
     "duration": 3900,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "crocabulia"
+    "scale": 1
   },
   {
     "id": 223,
@@ -3366,14 +3430,14 @@
     "order": 503000,
     "animName": "random(AnimEmoteDream,AnimEmoteDreamdofus,AnimEmoteDreamfly,AnimEmoteDreamkamas,AnimEmoteDreamsaw,AnimEmoteDreamslip)",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "dream"
+    "scale": 1
   },
   {
     "id": 230,
@@ -3382,14 +3446,14 @@
     "order": 503500,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "ankarton"
+    "scale": 1
   },
   {
     "id": 231,
@@ -3398,14 +3462,14 @@
     "order": 503600,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "anniversary"
+    "scale": 1
   },
   {
     "id": 232,
@@ -3414,14 +3478,14 @@
     "order": 503700,
     "animName": "AnimEmotePandora",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "lasthope"
+    "scale": 1
   },
   {
     "id": 233,
@@ -3430,14 +3494,14 @@
     "order": 503800,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "hat"
+    "scale": 1
   },
   {
     "id": 234,
@@ -3446,14 +3510,14 @@
     "order": 503900,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "broom"
+    "scale": 1
   },
   {
     "id": 235,
@@ -3462,14 +3526,14 @@
     "order": 503998,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 2000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "disappearance"
+    "scale": 1
   },
   {
     "id": 236,
@@ -3478,14 +3542,14 @@
     "order": 503999,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 900,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": ""
+    "scale": 1
   },
   {
     "id": 224,
@@ -3494,14 +3558,14 @@
     "order": 504000,
     "animName": "AnimEmoteSavage",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 6000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "wild"
+    "scale": 1
   },
   {
     "id": 237,
@@ -3510,14 +3574,14 @@
     "order": 504100,
     "animName": "AnimEmoteSamourai",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "samurai"
+    "scale": 1
   },
   {
     "id": 238,
@@ -3526,14 +3590,14 @@
     "order": 504200,
     "animName": "AnimEmoteDragonkta",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 4600,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "virizeon"
+    "scale": 1
   },
   {
     "id": 239,
@@ -3542,14 +3606,14 @@
     "order": 504300,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 17200,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "pandawushu"
+    "scale": 1
   },
   {
     "id": 240,
@@ -3558,14 +3622,14 @@
     "order": 504400,
     "animName": "AnimEmoteOrigami",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 10800,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "origami"
+    "scale": 1
   },
   {
     "id": 241,
@@ -3574,14 +3638,14 @@
     "order": 504500,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 6400,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "warrior"
+    "scale": 1
   },
   {
     "id": 242,
@@ -3590,14 +3654,14 @@
     "order": 504600,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3750,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "die"
+    "scale": 1
   },
   {
     "id": 243,
@@ -3606,14 +3670,14 @@
     "order": 504700,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 7300,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "jackpot"
+    "scale": 1
   },
   {
     "id": 244,
@@ -3622,14 +3686,14 @@
     "order": 504800,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5700,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "roulette"
+    "scale": 1
   },
   {
     "id": 245,
@@ -3638,14 +3702,14 @@
     "order": 504900,
     "animName": "AnimEmoteKrosmose",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 13000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "krosmic"
+    "scale": 1
   },
   {
     "id": 246,
@@ -3654,14 +3718,14 @@
     "order": 505000,
     "animName": "AnimEmoteCharmeurdeserpent",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 18100,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "grasssnake"
+    "scale": 1
   },
   {
     "id": 247,
@@ -3670,14 +3734,14 @@
     "order": 505100,
     "animName": "AnimEmoteSlip20ans",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 32000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "panty"
+    "scale": 1
   },
   {
     "id": 248,
@@ -3686,14 +3750,14 @@
     "order": 505200,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 4800,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "crash"
+    "scale": 1
   },
   {
     "id": 249,
@@ -3702,14 +3766,14 @@
     "order": 505300,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3200,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "snap"
+    "scale": 1
   },
   {
     "id": 250,
@@ -3718,14 +3782,14 @@
     "order": 505400,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3900,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": ""
+    "scale": 1
   },
   {
     "id": 251,
@@ -3734,14 +3798,14 @@
     "order": 505500,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5400,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "cutting"
+    "scale": 1
   },
   {
     "id": 252,
@@ -3750,14 +3814,14 @@
     "order": 505600,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "animorphosis"
+    "scale": 1
   },
   {
     "id": 253,
@@ -3766,14 +3830,14 @@
     "order": 505700,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1900,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": ""
+    "scale": 1
   },
   {
     "id": 254,
@@ -3782,14 +3846,14 @@
     "order": 505800,
     "animName": "AnimEmotePluie",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 13900,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "rain"
+    "scale": 1
   },
   {
     "id": 255,
@@ -3798,14 +3862,14 @@
     "order": 505900,
     "animName": "AnimEmoteEtendardkta",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteEtendardkta_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "kta"
+    "scale": 1
   },
   {
     "id": 256,
@@ -3814,14 +3878,14 @@
     "order": 506000,
     "animName": "AnimEmoteEtendardemperor",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteEtendardemperor_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "emperor"
+    "scale": 1
   },
   {
     "id": 257,
@@ -3830,14 +3894,14 @@
     "order": 506100,
     "animName": "AnimEmoteEtendardSolary",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteEtendardSolary_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "solary"
+    "scale": 1
   },
   {
     "id": 258,
@@ -3846,14 +3910,14 @@
     "order": 506200,
     "animName": "AnimEmote1500",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 15000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "avalanche"
+    "scale": 1
   },
   {
     "id": 259,
@@ -3862,14 +3926,14 @@
     "order": 506300,
     "animName": "AnimEmoteCassenoisette",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 6500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "nutcracker"
+    "scale": 1
   },
   {
     "id": 260,
@@ -3878,14 +3942,14 @@
     "order": 506400,
     "animName": "AnimEmoteSporthiver",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 20000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "ski"
+    "scale": 1
   },
   {
     "id": 261,
@@ -3894,14 +3958,14 @@
     "order": 506500,
     "animName": "",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": true,
     "aura": true,
     "cooldown": 1000,
     "duration": 0,
     "weight": 1005,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "destroyer"
+    "scale": 1
   },
   {
     "id": 262,
@@ -3910,14 +3974,14 @@
     "order": 506600,
     "animName": "AnimEmoteJiva",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 10080,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "jiva"
+    "scale": 1
   },
   {
     "id": 263,
@@ -3926,14 +3990,14 @@
     "order": 506700,
     "animName": "AnimEmoteSilvosse",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 16280,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "silvosse"
+    "scale": 1
   },
   {
     "id": 264,
@@ -3942,14 +4006,14 @@
     "order": 506800,
     "animName": "AnimEmoteUlgrude",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 7300,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "ulgrude"
+    "scale": 1
   },
   {
     "id": 265,
@@ -3958,14 +4022,14 @@
     "order": 506900,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 600,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "shariva"
+    "scale": 1
   },
   {
     "id": 266,
@@ -3974,14 +4038,14 @@
     "order": 507000,
     "animName": "AnimEmoteOcreDragon",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 9040,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "ochredragon"
+    "scale": 1
   },
   {
     "id": 267,
@@ -3990,14 +4054,14 @@
     "order": 507100,
     "animName": "AnimEmoteSilouate",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1628,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "silouate"
+    "scale": 1
   },
   {
     "id": 268,
@@ -4006,14 +4070,14 @@
     "order": 507200,
     "animName": "AnimEmoteTsmd",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 8000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "pull"
+    "scale": 1
   },
   {
     "id": 269,
@@ -4022,14 +4086,14 @@
     "order": 507300,
     "animName": "AnimEmoteTsmdreaction",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 8000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": ""
+    "scale": 1
   },
   {
     "id": 270,
@@ -4038,14 +4102,14 @@
     "order": 507400,
     "animName": "AnimEmoteRosal",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 14200,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "rosal"
+    "scale": 1
   },
   {
     "id": 271,
@@ -4054,14 +4118,14 @@
     "order": 507500,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 8680,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "croquetteteam"
+    "scale": 1
   },
   {
     "id": 272,
@@ -4070,14 +4134,14 @@
     "order": 507600,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 16680,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "capture"
+    "scale": 1
   },
   {
     "id": 273,
@@ -4086,14 +4150,14 @@
     "order": 507700,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 8500,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "megalteration"
+    "scale": 1
   },
   {
     "id": 274,
@@ -4102,14 +4166,14 @@
     "order": 507800,
     "animName": "AnimEmoteRabbi",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 20000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "barbicajob"
+    "scale": 1
   },
   {
     "id": 275,
@@ -4118,14 +4182,14 @@
     "order": 507900,
     "animName": "AnimEmoteSumens",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 8600,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "sumens"
+    "scale": 1
   },
   {
     "id": 277,
@@ -4134,30 +4198,30 @@
     "order": 508100,
     "animName": "",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": true,
     "aura": true,
     "cooldown": 1000,
     "duration": 0,
     "weight": 1005,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "tweecher"
+    "scale": 1
   },
   {
     "id": 278,
     "nameId": 962491,
     "shortcutId": "961970",
     "order": 508200,
-    "animName": "AnimEmoteDefaut",
+    "animName": "AnimEmoteHecate",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 28400,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "hecate"
+    "scale": 1
   },
   {
     "id": 279,
@@ -4166,14 +4230,14 @@
     "order": 508300,
     "animName": "AnimEmotePouchecot",
     "persistancy": true,
+    "persistantAnimName": "AnimEmotePouchecot_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "pouchecot"
+    "scale": 1
   },
   {
     "id": 280,
@@ -4182,14 +4246,14 @@
     "order": 508400,
     "animName": "AnimEmoteRaval",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 10000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "raval"
+    "scale": 1
   },
   {
     "id": 281,
@@ -4198,14 +4262,14 @@
     "order": 508500,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "mercenary"
+    "scale": 1
   },
   {
     "id": 282,
@@ -4214,14 +4278,14 @@
     "order": 508600,
     "animName": "AnimEmoteMaimane",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "maimane"
+    "scale": 1
   },
   {
     "id": 283,
@@ -4230,14 +4294,14 @@
     "order": 508700,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 10000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "brumaire"
+    "scale": 1
   },
   {
     "id": 284,
@@ -4246,14 +4310,14 @@
     "order": 508800,
     "animName": "AnimEmoteKnight",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteKnight_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 3000,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "lance"
+    "scale": 1
   },
   {
     "id": 285,
@@ -4262,14 +4326,14 @@
     "order": 508900,
     "animName": "AnimEmoteDjaul",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 10720,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "fury"
+    "scale": 1
   },
   {
     "id": 286,
@@ -4278,14 +4342,14 @@
     "order": 509000,
     "animName": "AnimEmoteForgelances",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 16900,
     "duration": 1250,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "forgelance"
+    "scale": 1
   },
   {
     "id": 287,
@@ -4294,14 +4358,14 @@
     "order": 509100,
     "animName": "",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": true,
     "aura": true,
     "cooldown": 1000,
     "duration": 0,
     "weight": 1005,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "spiritite"
+    "scale": 1
   },
   {
     "id": 291,
@@ -4310,14 +4374,14 @@
     "order": 600100,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5000,
     "duration": 5000,
     "weight": 0,
     "spellLevelId": 29063,
-    "scale": 1,
-    "m_shortcut": "fbiop"
+    "scale": 1
   },
   {
     "id": 293,
@@ -4326,14 +4390,14 @@
     "order": 600300,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5000,
     "duration": 5000,
     "weight": 0,
     "spellLevelId": 29218,
-    "scale": 1,
-    "m_shortcut": "fbecaflip"
+    "scale": 1
   },
   {
     "id": 294,
@@ -4342,14 +4406,14 @@
     "order": 600400,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5100,
     "duration": 5100,
     "weight": 0,
     "spellLevelId": 29219,
-    "scale": 1,
-    "m_shortcut": "fbgrou"
+    "scale": 1
   },
   {
     "id": 296,
@@ -4358,14 +4422,14 @@
     "order": 600600,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 7200,
     "duration": 7200,
     "weight": 0,
     "spellLevelId": 35914,
-    "scale": 1,
-    "m_shortcut": "fbgoultard"
+    "scale": 1
   },
   {
     "id": 297,
@@ -4374,14 +4438,14 @@
     "order": 600700,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 7500,
     "duration": 7500,
     "weight": 0,
     "spellLevelId": 35916,
-    "scale": 1,
-    "m_shortcut": "fbotomai"
+    "scale": 1
   },
   {
     "id": 298,
@@ -4390,14 +4454,14 @@
     "order": 600800,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5000,
     "duration": 5000,
     "weight": 0,
     "spellLevelId": 35917,
-    "scale": 1,
-    "m_shortcut": "fbeniripsa"
+    "scale": 1
   },
   {
     "id": 299,
@@ -4406,110 +4470,110 @@
     "order": 600900,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5000,
     "duration": 5000,
     "weight": 0,
     "spellLevelId": 35918,
-    "scale": 1,
-    "m_shortcut": "fbcra"
+    "scale": 1
   },
   {
     "id": 300,
-    "nameId": 1090835,
-    "shortcutId": "1090823",
+    "nameId": 1135992,
+    "shortcutId": "1135997",
     "order": 601000,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5000,
     "duration": 5000,
     "weight": 0,
     "spellLevelId": 35919,
-    "scale": 1,
-    "m_shortcut": "fbfeca"
+    "scale": 1
   },
   {
     "id": 301,
-    "nameId": 1090834,
-    "shortcutId": "1090825",
+    "nameId": 1136002,
+    "shortcutId": "1136007",
     "order": 601100,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5000,
     "duration": 5000,
     "weight": 0,
     "spellLevelId": 35920,
-    "scale": 1,
-    "m_shortcut": "fbsacrier"
+    "scale": 1
   },
   {
     "id": 302,
-    "nameId": 1090833,
-    "shortcutId": "1090827",
+    "nameId": 1136012,
+    "shortcutId": "1136017",
     "order": 601200,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5000,
     "duration": 5000,
     "weight": 0,
     "spellLevelId": 35921,
-    "scale": 1,
-    "m_shortcut": "fbsadida"
+    "scale": 1
   },
   {
     "id": 303,
-    "nameId": 1090832,
-    "shortcutId": "1090829",
+    "nameId": 1136022,
+    "shortcutId": "1136027",
     "order": 601300,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5000,
     "duration": 5000,
     "weight": 0,
     "spellLevelId": 35922,
-    "scale": 1,
-    "m_shortcut": "fbosamodas"
+    "scale": 1
   },
   {
     "id": 304,
-    "nameId": 1090830,
-    "shortcutId": "1090831",
+    "nameId": 1136042,
+    "shortcutId": "1136047",
     "order": 601400,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5000,
     "duration": 5000,
     "weight": 0,
     "spellLevelId": 35923,
-    "scale": 1,
-    "m_shortcut": "fbenutrof"
+    "scale": 1
   },
   {
     "id": 305,
-    "nameId": 1090840,
-    "shortcutId": "1090841",
+    "nameId": 1136032,
+    "shortcutId": "1136037",
     "order": 601500,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5000,
     "duration": 5000,
     "weight": 0,
     "spellLevelId": 35924,
-    "scale": 1,
-    "m_shortcut": "fbsram"
+    "scale": 1
   },
   {
     "id": 306,
@@ -4518,30 +4582,30 @@
     "order": 601600,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5000,
     "duration": 5000,
     "weight": 0,
     "spellLevelId": 35925,
-    "scale": 1,
-    "m_shortcut": "fbxelor"
+    "scale": 1
   },
   {
     "id": 307,
-    "nameId": 1090844,
-    "shortcutId": "1090845",
+    "nameId": 1136052,
+    "shortcutId": "1136057",
     "order": 601700,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5000,
     "duration": 5000,
     "weight": 0,
     "spellLevelId": 35926,
-    "scale": 1,
-    "m_shortcut": "fbpandawa"
+    "scale": 1
   },
   {
     "id": 308,
@@ -4550,14 +4614,14 @@
     "order": 601800,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 7200,
     "duration": 7200,
     "weight": 0,
     "spellLevelId": 44862,
-    "scale": 1,
-    "m_shortcut": "fbmoon"
+    "scale": 1
   },
   {
     "id": 309,
@@ -4566,14 +4630,14 @@
     "order": 601900,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 7200,
     "duration": 7200,
     "weight": 0,
     "spellLevelId": 48252,
-    "scale": 1,
-    "m_shortcut": "fbfleaster"
+    "scale": 1
   },
   {
     "id": 310,
@@ -4582,14 +4646,14 @@
     "order": 602000,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5000,
     "duration": 5000,
     "weight": 0,
     "spellLevelId": 49778,
-    "scale": 1,
-    "m_shortcut": "fbyugo"
+    "scale": 1
   },
   {
     "id": 311,
@@ -4598,14 +4662,14 @@
     "order": 602100,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 7200,
     "duration": 7200,
     "weight": 0,
     "spellLevelId": 52097,
-    "scale": 1,
-    "m_shortcut": "fbneko"
+    "scale": 1
   },
   {
     "id": 312,
@@ -4614,14 +4678,14 @@
     "order": 602200,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 7200,
     "duration": 7200,
     "weight": 0,
     "spellLevelId": 52095,
-    "scale": 1,
-    "m_shortcut": "fbfoltarin"
+    "scale": 1
   },
   {
     "id": 313,
@@ -4630,14 +4694,14 @@
     "order": 602300,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 7200,
     "duration": 7200,
     "weight": 0,
     "spellLevelId": 52098,
-    "scale": 1,
-    "m_shortcut": "fbmusina"
+    "scale": 1
   },
   {
     "id": 314,
@@ -4646,14 +4710,14 @@
     "order": 602400,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 7200,
     "duration": 7200,
     "weight": 0,
     "spellLevelId": 52096,
-    "scale": 1,
-    "m_shortcut": "fbritzi"
+    "scale": 1
   },
   {
     "id": 315,
@@ -4662,14 +4726,14 @@
     "order": 602500,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 7200,
     "duration": 7200,
     "weight": 0,
     "spellLevelId": 52099,
-    "scale": 1,
-    "m_shortcut": "fbrikin"
+    "scale": 1
   },
   {
     "id": 316,
@@ -4678,14 +4742,14 @@
     "order": 602600,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5000,
     "duration": 5000,
     "weight": 0,
     "spellLevelId": 53645,
-    "scale": 1,
-    "m_shortcut": "fbpossessed"
+    "scale": 1
   },
   {
     "id": 319,
@@ -4694,14 +4758,14 @@
     "order": 602700,
     "animName": "",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": true,
     "aura": true,
     "cooldown": 1000,
     "duration": 0,
     "weight": 1005,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "confetti"
+    "scale": 1
   },
   {
     "id": 320,
@@ -4710,14 +4774,14 @@
     "order": 602800,
     "animName": "AnimEmoteEtendardKCorp",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteEtendardKCorp_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1800,
     "duration": 1700,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "kc"
+    "scale": 1
   },
   {
     "id": 321,
@@ -4726,14 +4790,14 @@
     "order": 602900,
     "animName": "AnimEmoteEtendardGentlemate",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteEtendardGentlemate_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1800,
     "duration": 1700,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "m8"
+    "scale": 1
   },
   {
     "id": 322,
@@ -4742,14 +4806,14 @@
     "order": 603000,
     "animName": "AnimEmoteEtendardAgis",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteEtendardAgis_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1800,
     "duration": 1700,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "aegis"
+    "scale": 1
   },
   {
     "id": 292,
@@ -4758,14 +4822,14 @@
     "order": 603100,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 5000,
     "duration": 5000,
     "weight": 0,
     "spellLevelId": 29217,
-    "scale": 1,
-    "m_shortcut": "fbrushu"
+    "scale": 1
   },
   {
     "id": 295,
@@ -4774,14 +4838,14 @@
     "order": 603200,
     "animName": "AnimEmoteDefaut",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 6100,
     "duration": 6100,
     "weight": 0,
     "spellLevelId": 29220,
-    "scale": 1,
-    "m_shortcut": "fbjoris"
+    "scale": 1
   },
   {
     "id": 323,
@@ -4790,14 +4854,14 @@
     "order": 604000,
     "animName": "AnimEmoteBackToRush",
     "persistancy": true,
+    "persistantAnimName": "AnimEmoteBackToRush_Statique",
     "eightDirections": false,
     "aura": false,
     "cooldown": 1800,
     "duration": 1700,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "b2r"
+    "scale": 1
   },
   {
     "id": 324,
@@ -4806,14 +4870,14 @@
     "order": 605000,
     "animName": "aura",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": true,
     "cooldown": 30,
     "duration": 0,
     "weight": 1006,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": ""
+    "scale": 1
   },
   {
     "id": 325,
@@ -4822,14 +4886,14 @@
     "order": 606000,
     "animName": "aura",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": true,
     "cooldown": 30,
     "duration": 0,
     "weight": 1007,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": ""
+    "scale": 1
   },
   {
     "id": 326,
@@ -4838,14 +4902,30 @@
     "order": 607000,
     "animName": "AnimEmoteEliacube",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 4900,
     "duration": 1480,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "Eliacube"
+    "scale": 1
+  },
+  {
+    "id": 332,
+    "nameId": 1139812,
+    "shortcutId": "1140852",
+    "order": 608000,
+    "animName": "inventeur",
+    "persistancy": false,
+    "persistantAnimName": "",
+    "eightDirections": true,
+    "aura": true,
+    "cooldown": 30,
+    "duration": 0,
+    "weight": 1008,
+    "spellLevelId": 0,
+    "scale": 1
   },
   {
     "id": 327,
@@ -4854,14 +4934,14 @@
     "order": 609000,
     "animName": "AnimEmoteGrougalorasalar",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": false,
     "cooldown": 7100,
     "duration": 2130,
     "weight": 0,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": "Grougalorasalar"
+    "scale": 1
   },
   {
     "id": 331,
@@ -4870,13 +4950,29 @@
     "order": 610000,
     "animName": "aura",
     "persistancy": false,
+    "persistantAnimName": "",
     "eightDirections": false,
     "aura": true,
     "cooldown": 30,
     "duration": 0,
     "weight": 1007,
     "spellLevelId": 0,
-    "scale": 1,
-    "m_shortcut": ""
+    "scale": 1
+  },
+  {
+    "id": 333,
+    "nameId": 1141655,
+    "shortcutId": "1141656",
+    "order": 612000,
+    "animName": "agentvoyage",
+    "persistancy": false,
+    "persistantAnimName": "",
+    "eightDirections": true,
+    "aura": true,
+    "cooldown": 30,
+    "duration": 0,
+    "weight": 1008,
+    "spellLevelId": 0,
+    "scale": 1
   }
 ]

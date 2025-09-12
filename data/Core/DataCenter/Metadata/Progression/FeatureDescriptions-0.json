@@ -109,7 +109,7 @@
         "id": 111,
         "order": 0,
         "category": 5,
-        "imageId": "livre_alliance_1-200x200162x200",
+        "imageId": "livre_alliance_1-200x200",
         "verticalAlign": 0,
         "horizontalAlign": 2
       }
@@ -119,7 +119,7 @@
   {
     "id": 10,
     "nameId": 862808,
-    "descriptionId": 1119511,
+    "descriptionId": 1141827,
     "priority": 1,
     "parentId": 7,
     "children": [
@@ -221,7 +221,7 @@
   {
     "id": 17,
     "nameId": 860343,
-    "descriptionId": 1119572,
+    "descriptionId": 1144181,
     "priority": 1,
     "parentId": 0,
     "children": [],
@@ -565,7 +565,7 @@
       {
         "id": 120,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "wind",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -585,7 +585,7 @@
       {
         "id": 123,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "damage",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -605,7 +605,7 @@
       {
         "id": 121,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "water",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -625,7 +625,7 @@
       {
         "id": 122,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "CriticalDmg",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -645,7 +645,7 @@
       {
         "id": 148,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "erosion",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -665,7 +665,7 @@
       {
         "id": 124,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "dodgePA",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -685,7 +685,7 @@
       {
         "id": 125,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "dodgePM",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -705,7 +705,7 @@
       {
         "id": 126,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "earth",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -725,7 +725,7 @@
       {
         "id": 127,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "flee",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -745,7 +745,7 @@
       {
         "id": 128,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "initiative",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -765,7 +765,7 @@
       {
         "id": 129,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "fire",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -785,7 +785,7 @@
       {
         "id": 130,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "invocation",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -805,8 +805,8 @@
       {
         "id": 131,
         "order": 0,
-        "category": 20,
-        "imageId": "76040",
+        "category": 0,
+        "imageId": "76043",
         "verticalAlign": 0,
         "horizontalAlign": 2
       }
@@ -825,7 +825,7 @@
       {
         "id": 132,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "pod",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -845,7 +845,7 @@
       {
         "id": 135,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "health",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -865,7 +865,7 @@
       {
         "id": 133,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "pa",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -885,7 +885,7 @@
       {
         "id": 134,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "pm",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -905,7 +905,7 @@
       {
         "id": 137,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "push",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -925,7 +925,7 @@
       {
         "id": 138,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "pushRes",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -945,7 +945,7 @@
       {
         "id": 139,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "prospection",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -965,7 +965,7 @@
       {
         "id": 136,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "po",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -985,7 +985,7 @@
       {
         "id": 140,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "power",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -1005,7 +1005,7 @@
       {
         "id": 143,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "neutral",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -1025,7 +1025,7 @@
       {
         "id": 141,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "attackPA",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -1045,7 +1045,7 @@
       {
         "id": 142,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "attackPM",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -1065,7 +1065,7 @@
       {
         "id": 144,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "wisdom",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -1085,7 +1085,7 @@
       {
         "id": 145,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "heal",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -1105,7 +1105,7 @@
       {
         "id": 146,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "tacle",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -1125,7 +1125,7 @@
       {
         "id": 147,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "health",
         "verticalAlign": 0,
         "horizontalAlign": 1
@@ -1895,7 +1895,9 @@
       222,
       223,
       224,
-      225
+      225,
+      445,
+      446
     ],
     "criterion": "",
     "images": [],
@@ -1928,7 +1930,7 @@
         "id": 207,
         "order": 0,
         "category": 24,
-        "imageId": "commerce_hoteldevente-200x200",
+        "imageId": "commerce_hoteldevente-200x239",
         "verticalAlign": 0,
         "horizontalAlign": 2
       }
@@ -2111,7 +2113,7 @@
   {
     "id": 120,
     "nameId": 865642,
-    "descriptionId": 1119988,
+    "descriptionId": 1144178,
     "priority": 1,
     "parentId": 0,
     "children": [],
@@ -2734,7 +2736,7 @@
         "id": 228,
         "order": 0,
         "category": 21,
-        "imageId": "2591",
+        "imageId": "699",
         "verticalAlign": 0,
         "horizontalAlign": 2
       }
@@ -2754,7 +2756,7 @@
         "id": 229,
         "order": 0,
         "category": 21,
-        "imageId": "463",
+        "imageId": "206",
         "verticalAlign": 0,
         "horizontalAlign": 2
       }
@@ -2774,7 +2776,7 @@
         "id": 230,
         "order": 0,
         "category": 21,
-        "imageId": "166",
+        "imageId": "90",
         "verticalAlign": 0,
         "horizontalAlign": 2
       }
@@ -2794,7 +2796,7 @@
         "id": 231,
         "order": 0,
         "category": 21,
-        "imageId": "5673",
+        "imageId": "1853",
         "verticalAlign": 0,
         "horizontalAlign": 2
       }
@@ -3352,8 +3354,8 @@
       {
         "id": 153,
         "order": 0,
-        "category": 0,
-        "imageId": "5798",
+        "category": 21,
+        "imageId": "5",
         "verticalAlign": 0,
         "horizontalAlign": 2
       }
@@ -3392,7 +3394,7 @@
       {
         "id": 190,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "areaRing",
         "verticalAlign": 0,
         "horizontalAlign": 2
@@ -3412,7 +3414,7 @@
       {
         "id": 191,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "areaSquare",
         "verticalAlign": 0,
         "horizontalAlign": 2
@@ -3432,7 +3434,7 @@
       {
         "id": 192,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "areaSquareWithoutDiagonal",
         "verticalAlign": 0,
         "horizontalAlign": 2
@@ -3452,7 +3454,7 @@
       {
         "id": 193,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "areaCircle",
         "verticalAlign": 0,
         "horizontalAlign": 0
@@ -3472,7 +3474,7 @@
       {
         "id": 198,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "areaCone",
         "verticalAlign": 0,
         "horizontalAlign": 2
@@ -3492,7 +3494,7 @@
       {
         "id": 194,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "areaCross",
         "verticalAlign": 0,
         "horizontalAlign": 2
@@ -3512,7 +3514,7 @@
       {
         "id": 195,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "areaDiagonalCrossWithoutCenter",
         "verticalAlign": 0,
         "horizontalAlign": 2
@@ -3532,7 +3534,7 @@
       {
         "id": 196,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "areaDiagonalCross",
         "verticalAlign": 0,
         "horizontalAlign": 2
@@ -3552,7 +3554,7 @@
       {
         "id": 197,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "areaDiagonalCrossWithoutCenter",
         "verticalAlign": 0,
         "horizontalAlign": 2
@@ -3572,7 +3574,7 @@
       {
         "id": 199,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "areaHalfCircle",
         "verticalAlign": 0,
         "horizontalAlign": 2
@@ -3582,7 +3584,7 @@
   },
   {
     "id": 218,
-    "nameId": 883918,
+    "nameId": 1143387,
     "descriptionId": 1119958,
     "priority": 1,
     "parentId": 105,
@@ -3592,8 +3594,8 @@
       {
         "id": 200,
         "order": 0,
-        "category": 20,
-        "imageId": "areaDiagonalLine",
+        "category": 24,
+        "imageId": "areaPerpendicularDiagonalLine",
         "verticalAlign": 0,
         "horizontalAlign": 2
       }
@@ -3612,7 +3614,7 @@
       {
         "id": 206,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "areaStar",
         "verticalAlign": 0,
         "horizontalAlign": 2
@@ -3632,7 +3634,7 @@
       {
         "id": 201,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "areaLine",
         "verticalAlign": 0,
         "horizontalAlign": 2
@@ -3652,7 +3654,7 @@
       {
         "id": 202,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "areaLineFromCaster",
         "verticalAlign": 0,
         "horizontalAlign": 2
@@ -3672,7 +3674,7 @@
       {
         "id": 203,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "areaPerpendicularLine",
         "verticalAlign": 0,
         "horizontalAlign": 2
@@ -3692,7 +3694,7 @@
       {
         "id": 204,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "losange",
         "verticalAlign": 0,
         "horizontalAlign": 2
@@ -3712,7 +3714,7 @@
       {
         "id": 205,
         "order": 0,
-        "category": 20,
+        "category": 24,
         "imageId": "infinite",
         "verticalAlign": 0,
         "horizontalAlign": 2
@@ -3760,7 +3762,7 @@
   {
     "id": 229,
     "nameId": 918222,
-    "descriptionId": 1120356,
+    "descriptionId": 1144184,
     "priority": 5,
     "parentId": 140,
     "children": [],
@@ -3960,10 +3962,7 @@
     "priority": 13,
     "parentId": 241,
     "children": [
-      272,
-      273,
-      274,
-      275
+      447
     ],
     "criterion": "",
     "images": [],
@@ -4396,110 +4395,6 @@
         "order": 0,
         "category": 11,
         "imageId": "12156",
-        "verticalAlign": 0,
-        "horizontalAlign": 0
-      }
-    ],
-    "m_canBeDisplayed": false
-  },
-  {
-    "id": 272,
-    "nameId": 972424,
-    "descriptionId": 1104817,
-    "priority": 1,
-    "parentId": 245,
-    "children": [],
-    "criterion": "",
-    "images": [
-      {
-        "id": 66,
-        "order": 0,
-        "category": 11,
-        "imageId": "12994",
-        "verticalAlign": 0,
-        "horizontalAlign": 0
-      },
-      {
-        "id": 67,
-        "order": 1,
-        "category": 11,
-        "imageId": "12987",
-        "verticalAlign": 0,
-        "horizontalAlign": 0
-      },
-      {
-        "id": 68,
-        "order": 2,
-        "category": 11,
-        "imageId": "12985",
-        "verticalAlign": 0,
-        "horizontalAlign": 0
-      },
-      {
-        "id": 69,
-        "order": 3,
-        "category": 11,
-        "imageId": "12992",
-        "verticalAlign": 0,
-        "horizontalAlign": 0
-      }
-    ],
-    "m_canBeDisplayed": false
-  },
-  {
-    "id": 273,
-    "nameId": 972428,
-    "descriptionId": 1104816,
-    "priority": 2,
-    "parentId": 245,
-    "children": [],
-    "criterion": "",
-    "images": [
-      {
-        "id": 65,
-        "order": 0,
-        "category": 11,
-        "imageId": "13067",
-        "verticalAlign": 0,
-        "horizontalAlign": 0
-      }
-    ],
-    "m_canBeDisplayed": false
-  },
-  {
-    "id": 274,
-    "nameId": 972430,
-    "descriptionId": 1104814,
-    "priority": 3,
-    "parentId": 245,
-    "children": [],
-    "criterion": "",
-    "images": [
-      {
-        "id": 63,
-        "order": 0,
-        "category": 11,
-        "imageId": "12762",
-        "verticalAlign": 0,
-        "horizontalAlign": 0
-      }
-    ],
-    "m_canBeDisplayed": false
-  },
-  {
-    "id": 275,
-    "nameId": 972434,
-    "descriptionId": 1104815,
-    "priority": 4,
-    "parentId": 245,
-    "children": [],
-    "criterion": "",
-    "images": [
-      {
-        "id": 64,
-        "order": 0,
-        "category": 11,
-        "imageId": "12776",
         "verticalAlign": 0,
         "horizontalAlign": 0
       }
@@ -5144,7 +5039,7 @@
         "id": 263,
         "order": 0,
         "category": 24,
-        "imageId": "kolizeum-627x90",
+        "imageId": "kolizeum-628x92",
         "verticalAlign": 0,
         "horizontalAlign": 1
       }
@@ -5967,6 +5862,101 @@
     "descriptionId": 1117235,
     "priority": 1,
     "parentId": 112,
+    "children": [],
+    "criterion": "",
+    "images": [],
+    "m_canBeDisplayed": false
+  },
+  {
+    "id": 445,
+    "nameId": 1143388,
+    "descriptionId": 1143389,
+    "priority": 1,
+    "parentId": 105,
+    "children": [],
+    "criterion": "",
+    "images": [
+      {
+        "id": 264,
+        "order": 0,
+        "category": 24,
+        "imageId": "areaDiagonalLine",
+        "verticalAlign": 0,
+        "horizontalAlign": 2
+      }
+    ],
+    "m_canBeDisplayed": false
+  },
+  {
+    "id": 446,
+    "nameId": 1143390,
+    "descriptionId": 1143391,
+    "priority": 1,
+    "parentId": 105,
+    "children": [],
+    "criterion": "",
+    "images": [
+      {
+        "id": 265,
+        "order": 0,
+        "category": 24,
+        "imageId": "areaBoomerang",
+        "verticalAlign": 0,
+        "horizontalAlign": 2
+      }
+    ],
+    "m_canBeDisplayed": false
+  },
+  {
+    "id": 447,
+    "nameId": 1143445,
+    "descriptionId": 1145773,
+    "priority": 1,
+    "parentId": 245,
+    "children": [],
+    "criterion": "",
+    "images": [
+      {
+        "id": 266,
+        "order": 0,
+        "category": 21,
+        "imageId": "2521",
+        "verticalAlign": 0,
+        "horizontalAlign": 2
+      },
+      {
+        "id": 267,
+        "order": 1,
+        "category": 21,
+        "imageId": "2528",
+        "verticalAlign": 0,
+        "horizontalAlign": 2
+      },
+      {
+        "id": 268,
+        "order": 2,
+        "category": 21,
+        "imageId": "2529",
+        "verticalAlign": 0,
+        "horizontalAlign": 2
+      },
+      {
+        "id": 269,
+        "order": 3,
+        "category": 21,
+        "imageId": "2520",
+        "verticalAlign": 0,
+        "horizontalAlign": 2
+      }
+    ],
+    "m_canBeDisplayed": false
+  },
+  {
+    "id": 448,
+    "nameId": 1144179,
+    "descriptionId": 1144875,
+    "priority": 1,
+    "parentId": 0,
     "children": [],
     "criterion": "",
     "images": [],

@@ -262,7 +262,7 @@
     "dialogId": 0,
     "parameters": {
       "numParams": 2,
-      "parameter0": 1129469,
+      "parameter0": 1131360,
       "parameter1": 0,
       "parameter2": 0,
       "parameter3": 0,
@@ -8742,7 +8742,7 @@
     "dialogId": 0,
     "parameters": {
       "numParams": 1,
-      "parameter0": 888154,
+      "parameter0": 1134915,
       "parameter1": 0,
       "parameter2": 0,
       "parameter3": 0,
@@ -11994,7 +11994,7 @@
       "parameter1": 1,
       "parameter2": 149165056,
       "parameter3": 0,
-      "parameter4": 715506,
+      "parameter4": 1137420,
       "dungeonOnly": true
     },
     "mapId": 149165056
@@ -28166,7 +28166,7 @@
     "dialogId": 0,
     "parameters": {
       "numParams": 1,
-      "parameter0": 888155,
+      "parameter0": 1134916,
       "parameter1": 0,
       "parameter2": 0,
       "parameter3": 0,
@@ -28182,7 +28182,7 @@
     "dialogId": 0,
     "parameters": {
       "numParams": 1,
-      "parameter0": 888156,
+      "parameter0": 1134920,
       "parameter1": 0,
       "parameter2": 0,
       "parameter3": 0,
@@ -56234,7 +56234,7 @@
       "parameter1": 1,
       "parameter2": 193729536,
       "parameter3": 0,
-      "parameter4": 752815,
+      "parameter4": 1137423,
       "dungeonOnly": true
     },
     "mapId": 193729536
@@ -58168,7 +58168,7 @@
       "numParams": 3,
       "parameter0": 1607,
       "parameter1": 13239,
-      "parameter2": 30,
+      "parameter2": 20,
       "parameter3": 0,
       "parameter4": 0,
       "dungeonOnly": false
@@ -58184,7 +58184,7 @@
       "numParams": 3,
       "parameter0": 1606,
       "parameter1": 13239,
-      "parameter2": 30,
+      "parameter2": 20,
       "parameter3": 0,
       "parameter4": 0,
       "dungeonOnly": false
@@ -100246,7 +100246,7 @@
     "dialogId": 0,
     "parameters": {
       "numParams": 0,
-      "parameter0": 475831,
+      "parameter0": 1132307,
       "parameter1": 0,
       "parameter2": 0,
       "parameter3": 0,
@@ -100358,7 +100358,7 @@
     "dialogId": 0,
     "parameters": {
       "numParams": 1,
-      "parameter0": 452736,
+      "parameter0": 1144872,
       "parameter1": 0,
       "parameter2": 0,
       "parameter3": 0,
@@ -106230,7 +106230,7 @@
     "dialogId": 0,
     "parameters": {
       "numParams": 0,
-      "parameter0": 475830,
+      "parameter0": 1132308,
       "parameter1": 0,
       "parameter2": 0,
       "parameter3": 0,
@@ -110550,7 +110550,7 @@
     "dialogId": 0,
     "parameters": {
       "numParams": 0,
-      "parameter0": 452918,
+      "parameter0": 1137751,
       "parameter1": 0,
       "parameter2": 0,
       "parameter3": 0,
@@ -114406,7 +114406,7 @@
     "dialogId": 0,
     "parameters": {
       "numParams": 0,
-      "parameter0": 481329,
+      "parameter0": 1132309,
       "parameter1": 0,
       "parameter2": 0,
       "parameter3": 0,
@@ -119258,7 +119258,7 @@
       "parameter1": 1,
       "parameter2": 149165056,
       "parameter3": 0,
-      "parameter4": 515762,
+      "parameter4": 1137424,
       "dungeonOnly": true
     },
     "mapId": 149165056
@@ -119402,7 +119402,7 @@
       "parameter1": 1,
       "parameter2": 149688320,
       "parameter3": 0,
-      "parameter4": 515760,
+      "parameter4": 1137425,
       "dungeonOnly": true
     },
     "mapId": 149688320
@@ -119626,7 +119626,7 @@
       "parameter1": 1,
       "parameter2": 149427200,
       "parameter3": 0,
-      "parameter4": 515751,
+      "parameter4": 1137426,
       "dungeonOnly": true
     },
     "mapId": 149427200
@@ -124506,7 +124506,7 @@
       "parameter1": 8,
       "parameter2": 217317376,
       "parameter3": 0,
-      "parameter4": 550668,
+      "parameter4": 1137421,
       "dungeonOnly": false
     },
     "mapId": 217317376
@@ -124570,7 +124570,7 @@
       "parameter1": 1,
       "parameter2": 155718656,
       "parameter3": 0,
-      "parameter4": 754966,
+      "parameter4": 1137422,
       "dungeonOnly": true
     },
     "mapId": 155718656
@@ -124634,7 +124634,7 @@
       "parameter1": 8,
       "parameter2": 216531204,
       "parameter3": 0,
-      "parameter4": 550651,
+      "parameter4": 1137417,
       "dungeonOnly": false
     },
     "mapId": 216531204
@@ -127530,7 +127530,7 @@
       "parameter1": 1,
       "parameter2": 218632192,
       "parameter3": 0,
-      "parameter4": 561781,
+      "parameter4": 1137419,
       "dungeonOnly": true
     },
     "mapId": 218632192
@@ -127946,7 +127946,7 @@
       "parameter1": 1,
       "parameter2": 218894336,
       "parameter3": 0,
-      "parameter4": 564799,
+      "parameter4": 1137418,
       "dungeonOnly": true
     },
     "mapId": 218894336
@@ -134518,7 +134518,7 @@
     "dialogId": 0,
     "parameters": {
       "numParams": 0,
-      "parameter0": 608371,
+      "parameter0": 1132310,
       "parameter1": 0,
       "parameter2": 0,
       "parameter3": 0,
@@ -136058,7 +136058,7 @@
       "parameter1": 1,
       "parameter2": 162004992,
       "parameter3": 0,
-      "parameter4": 616128,
+      "parameter4": 1137427,
       "dungeonOnly": true
     },
     "mapId": 162004992
@@ -138554,7 +138554,7 @@
       "parameter1": 1,
       "parameter2": 62919680,
       "parameter3": 0,
-      "parameter4": 739456,
+      "parameter4": 1137428,
       "dungeonOnly": true
     },
     "mapId": 62919680
@@ -147418,7 +147418,7 @@
       "parameter1": 1,
       "parameter2": 159125512,
       "parameter3": 0,
-      "parameter4": 666888,
+      "parameter4": 1137429,
       "dungeonOnly": true
     },
     "mapId": 159125512
@@ -148935,8 +148935,8 @@
     "parameters": {
       "numParams": 3,
       "parameter0": 914,
-      "parameter1": 29444,
-      "parameter2": 1,
+      "parameter1": 31521,
+      "parameter2": 25,
       "parameter3": 0,
       "parameter4": 0,
       "dungeonOnly": false
@@ -153242,7 +153242,7 @@
       "parameter1": 1,
       "parameter2": 174330368,
       "parameter3": 0,
-      "parameter4": 699263,
+      "parameter4": 1137430,
       "dungeonOnly": true
     },
     "mapId": 174330368
@@ -156138,7 +156138,7 @@
       "parameter1": 1,
       "parameter2": 174070272,
       "parameter3": 0,
-      "parameter4": 714118,
+      "parameter4": 1137431,
       "dungeonOnly": true
     },
     "mapId": 174070272
@@ -161162,7 +161162,7 @@
       "parameter1": 1,
       "parameter2": 179572736,
       "parameter3": 0,
-      "parameter4": 722879,
+      "parameter4": 1137432,
       "dungeonOnly": true
     },
     "mapId": 179572736
@@ -166154,7 +166154,7 @@
       "parameter1": 1,
       "parameter2": 182192129,
       "parameter3": 0,
-      "parameter4": 726608,
+      "parameter4": 1137433,
       "dungeonOnly": true
     },
     "mapId": 182192129
@@ -167082,7 +167082,7 @@
       "parameter1": 1,
       "parameter2": 181669888,
       "parameter3": 0,
-      "parameter4": 727799,
+      "parameter4": 1137434,
       "dungeonOnly": true
     },
     "mapId": 181669888
@@ -171642,7 +171642,7 @@
       "parameter1": 1,
       "parameter2": 109840899,
       "parameter3": 0,
-      "parameter4": 733519,
+      "parameter4": 1137435,
       "dungeonOnly": true
     },
     "mapId": 109840899
@@ -171754,7 +171754,7 @@
       "parameter1": 1,
       "parameter2": 109840899,
       "parameter3": 0,
-      "parameter4": 733520,
+      "parameter4": 1137436,
       "dungeonOnly": true
     },
     "mapId": 109840899
@@ -172298,7 +172298,7 @@
       "parameter1": 1,
       "parameter2": 184686337,
       "parameter3": 0,
-      "parameter4": 734596,
+      "parameter4": 1137437,
       "dungeonOnly": true
     },
     "mapId": 184686337
@@ -172458,7 +172458,7 @@
       "parameter1": 1,
       "parameter2": 184686337,
       "parameter3": 0,
-      "parameter4": 734599,
+      "parameter4": 1137438,
       "dungeonOnly": true
     },
     "mapId": 184686337
@@ -176074,7 +176074,7 @@
       "parameter1": 1,
       "parameter2": 119277059,
       "parameter3": 0,
-      "parameter4": 734228,
+      "parameter4": 1137439,
       "dungeonOnly": true
     },
     "mapId": 119277059
@@ -176490,7 +176490,7 @@
       "parameter1": 1,
       "parameter2": 119277059,
       "parameter3": 0,
-      "parameter4": 734270,
+      "parameter4": 1137440,
       "dungeonOnly": true
     },
     "mapId": 119277059
@@ -176906,7 +176906,7 @@
       "parameter1": 1,
       "parameter2": 119277059,
       "parameter3": 0,
-      "parameter4": 734289,
+      "parameter4": 1137441,
       "dungeonOnly": true
     },
     "mapId": 119277059
@@ -177322,7 +177322,7 @@
       "parameter1": 1,
       "parameter2": 119277059,
       "parameter3": 0,
-      "parameter4": 734332,
+      "parameter4": 1137442,
       "dungeonOnly": true
     },
     "mapId": 119277059
@@ -177738,7 +177738,7 @@
       "parameter1": 1,
       "parameter2": 119277059,
       "parameter3": 0,
-      "parameter4": 734362,
+      "parameter4": 1137443,
       "dungeonOnly": true
     },
     "mapId": 119277059
@@ -178154,7 +178154,7 @@
       "parameter1": 1,
       "parameter2": 119277059,
       "parameter3": 0,
-      "parameter4": 734378,
+      "parameter4": 1137444,
       "dungeonOnly": true
     },
     "mapId": 119277059
@@ -184906,7 +184906,7 @@
       "parameter1": 1,
       "parameter2": 190318592,
       "parameter3": 0,
-      "parameter4": 752804,
+      "parameter4": 1137446,
       "dungeonOnly": true
     },
     "mapId": 190318592
@@ -184954,7 +184954,7 @@
       "parameter1": 1,
       "parameter2": 121374211,
       "parameter3": 0,
-      "parameter4": 752813,
+      "parameter4": 1137447,
       "dungeonOnly": true
     },
     "mapId": 121374211
@@ -185002,7 +185002,7 @@
       "parameter1": 1,
       "parameter2": 146670592,
       "parameter3": 0,
-      "parameter4": 752816,
+      "parameter4": 1137445,
       "dungeonOnly": true
     },
     "mapId": 146670592
@@ -194986,7 +194986,7 @@
       "parameter1": 1,
       "parameter2": 101193728,
       "parameter3": 0,
-      "parameter4": 767945,
+      "parameter4": 1137448,
       "dungeonOnly": true
     },
     "mapId": 0
@@ -200600,7 +200600,7 @@
       "numParams": 3,
       "parameter0": 4816,
       "parameter1": 20821,
-      "parameter2": 20,
+      "parameter2": 10,
       "parameter3": 0,
       "parameter4": 0,
       "dungeonOnly": false
@@ -201674,7 +201674,7 @@
       "parameter1": 1,
       "parameter2": 106434560,
       "parameter3": 0,
-      "parameter4": 796510,
+      "parameter4": 1137449,
       "dungeonOnly": false
     },
     "mapId": 106434560
@@ -201690,7 +201690,7 @@
       "parameter1": 1,
       "parameter2": 197398528,
       "parameter3": 0,
-      "parameter4": 796511,
+      "parameter4": 1137450,
       "dungeonOnly": false
     },
     "mapId": 197398528
@@ -201706,7 +201706,7 @@
       "parameter1": 1,
       "parameter2": 197660672,
       "parameter3": 0,
-      "parameter4": 796512,
+      "parameter4": 1137451,
       "dungeonOnly": false
     },
     "mapId": 197660672
@@ -202072,7 +202072,7 @@
       "numParams": 3,
       "parameter0": 4803,
       "parameter1": 20984,
-      "parameter2": 15,
+      "parameter2": 5,
       "parameter3": 0,
       "parameter4": 0,
       "dungeonOnly": false
@@ -242554,7 +242554,7 @@
       "parameter1": 1,
       "parameter2": 225185792,
       "parameter3": 0,
-      "parameter4": 1004195,
+      "parameter4": 1137452,
       "dungeonOnly": true
     },
     "mapId": 225185792
@@ -244554,8 +244554,8 @@
       "parameter1": 1,
       "parameter2": 223875072,
       "parameter3": 0,
-      "parameter4": 985797,
-      "dungeonOnly": false
+      "parameter4": 1137453,
+      "dungeonOnly": true
     },
     "mapId": 223875072
   },
@@ -249966,5 +249966,3685 @@
       "dungeonOnly": false
     },
     "mapId": 81789952
+  },
+  {
+    "id": 19274,
+    "stepId": 3196,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1138948,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234751491
+  },
+  {
+    "id": 19275,
+    "stepId": 3196,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7641,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234750978
+  },
+  {
+    "id": 19276,
+    "stepId": 3196,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1125727,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234750978
+  },
+  {
+    "id": 19277,
+    "stepId": 3196,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1125728,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234750978
+  },
+  {
+    "id": 19278,
+    "stepId": 3196,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1126120,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234750978
+  },
+  {
+    "id": 19279,
+    "stepId": 3196,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1125739,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234750978
+  },
+  {
+    "id": 19280,
+    "stepId": 3196,
+    "typeId": 9,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7641,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234750978
+  },
+  {
+    "id": 19281,
+    "stepId": 3197,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1128190,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19282,
+    "stepId": 3198,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7657,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234752517
+  },
+  {
+    "id": 19283,
+    "stepId": 3199,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1135695,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235536897
+  },
+  {
+    "id": 19284,
+    "stepId": 3200,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7641,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234750978
+  },
+  {
+    "id": 19285,
+    "stepId": 3201,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1127133,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234752517
+  },
+  {
+    "id": 19286,
+    "stepId": 3201,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1127181,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234752517
+  },
+  {
+    "id": 19287,
+    "stepId": 3201,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1136732,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234620929
+  },
+  {
+    "id": 19288,
+    "stepId": 3201,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1136733,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235146498
+  },
+  {
+    "id": 19289,
+    "stepId": 3201,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1136734,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235405313
+  },
+  {
+    "id": 19290,
+    "stepId": 3201,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1144878,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234752517
+  },
+  {
+    "id": 19291,
+    "stepId": 3201,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1144879,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234752517
+  },
+  {
+    "id": 19292,
+    "stepId": 3201,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1144880,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234752517
+  },
+  {
+    "id": 19293,
+    "stepId": 3201,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1144881,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234752517
+  },
+  {
+    "id": 19294,
+    "stepId": 3201,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7659,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234752517
+  },
+  {
+    "id": 19295,
+    "stepId": 3201,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1127380,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234752517
+  },
+  {
+    "id": 19296,
+    "stepId": 3201,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7659,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234752517
+  },
+  {
+    "id": 19297,
+    "stepId": 3201,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1128298,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234752517
+  },
+  {
+    "id": 19298,
+    "stepId": 3197,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1128649,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19299,
+    "stepId": 3197,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1128650,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235799811
+  },
+  {
+    "id": 19300,
+    "stepId": 3197,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1128729,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19301,
+    "stepId": 3197,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1128677,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235799811
+  },
+  {
+    "id": 19302,
+    "stepId": 3197,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1128684,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234752517
+  },
+  {
+    "id": 19303,
+    "stepId": 3197,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1129523,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235799811
+  },
+  {
+    "id": 19304,
+    "stepId": 3197,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1129555,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235799552
+  },
+  {
+    "id": 19305,
+    "stepId": 3197,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7666,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235799811
+  },
+  {
+    "id": 19306,
+    "stepId": 3197,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1129822,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 236980224
+  },
+  {
+    "id": 19307,
+    "stepId": 3203,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1129589,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235668239
+  },
+  {
+    "id": 19308,
+    "stepId": 3203,
+    "typeId": 6,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 4,
+      "parameter0": 8052,
+      "parameter1": 1,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": true
+    },
+    "mapId": 236978176
+  },
+  {
+    "id": 19309,
+    "stepId": 3203,
+    "typeId": 9,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7669,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 236979200
+  },
+  {
+    "id": 19310,
+    "stepId": 3203,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1128744,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 236980224
+  },
+  {
+    "id": 19311,
+    "stepId": 3197,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1128745,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235799552
+  },
+  {
+    "id": 19312,
+    "stepId": 3197,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1145037,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235799552
+  },
+  {
+    "id": 19313,
+    "stepId": 3197,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1129525,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19314,
+    "stepId": 3204,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1128752,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235799552
+  },
+  {
+    "id": 19315,
+    "stepId": 3204,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1128753,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235799552
+  },
+  {
+    "id": 19316,
+    "stepId": 3204,
+    "typeId": 6,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 4,
+      "parameter0": 8068,
+      "parameter1": 1,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235799552
+  },
+  {
+    "id": 19317,
+    "stepId": 3204,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1128784,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234750978
+  },
+  {
+    "id": 19318,
+    "stepId": 3204,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7675,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234750978
+  },
+  {
+    "id": 19319,
+    "stepId": 3204,
+    "typeId": 9,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7659,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234752517
+  },
+  {
+    "id": 19320,
+    "stepId": 3204,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1130429,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235799557
+  },
+  {
+    "id": 19321,
+    "stepId": 3204,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1128901,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19322,
+    "stepId": 3204,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1128903,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234621187
+  },
+  {
+    "id": 19323,
+    "stepId": 3204,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1128906,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234621187
+  },
+  {
+    "id": 19324,
+    "stepId": 3204,
+    "typeId": 0,
+    "dialogId": 58208,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1128905,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234623754
+  },
+  {
+    "id": 19325,
+    "stepId": 3197,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1128907,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19326,
+    "stepId": 3197,
+    "typeId": 9,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7641,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234750978
+  },
+  {
+    "id": 19327,
+    "stepId": 3202,
+    "typeId": 4,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 1128945,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19328,
+    "stepId": 3202,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1129131,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235669504
+  },
+  {
+    "id": 19329,
+    "stepId": 3202,
+    "typeId": 4,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 1128947,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19330,
+    "stepId": 3202,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1129059,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235667971
+  },
+  {
+    "id": 19331,
+    "stepId": 3202,
+    "typeId": 4,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 1128949,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19332,
+    "stepId": 3202,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1129132,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235668230
+  },
+  {
+    "id": 19333,
+    "stepId": 3202,
+    "typeId": 4,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 1128951,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19334,
+    "stepId": 3202,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1139925,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235669769
+  },
+  {
+    "id": 19335,
+    "stepId": 3202,
+    "typeId": 9,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7666,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235799811
+  },
+  {
+    "id": 19336,
+    "stepId": 3205,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1129054,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19337,
+    "stepId": 3205,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1129055,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 130023937
+  },
+  {
+    "id": 19338,
+    "stepId": 3202,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1129427,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235669769
+  },
+  {
+    "id": 19339,
+    "stepId": 3197,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1129524,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235799552
+  },
+  {
+    "id": 19340,
+    "stepId": 3208,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1130311,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234621190
+  },
+  {
+    "id": 19341,
+    "stepId": 3208,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1145717,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234621190
+  },
+  {
+    "id": 19342,
+    "stepId": 3208,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7705,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234621190
+  },
+  {
+    "id": 19343,
+    "stepId": 3208,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1138928,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19344,
+    "stepId": 3208,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1130314,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19348,
+    "stepId": 3208,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1130318,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19349,
+    "stepId": 3208,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7705,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19350,
+    "stepId": 3198,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1131088,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19351,
+    "stepId": 3211,
+    "typeId": 14,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 2,
+      "parameter0": 8042,
+      "parameter1": 3,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19352,
+    "stepId": 3211,
+    "typeId": 14,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 2,
+      "parameter0": 8043,
+      "parameter1": 3,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19353,
+    "stepId": 3211,
+    "typeId": 14,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 2,
+      "parameter0": 8044,
+      "parameter1": 3,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19354,
+    "stepId": 3211,
+    "typeId": 14,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 2,
+      "parameter0": 8045,
+      "parameter1": 3,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19355,
+    "stepId": 3211,
+    "typeId": 14,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 2,
+      "parameter0": 8046,
+      "parameter1": 3,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19356,
+    "stepId": 3211,
+    "typeId": 9,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7657,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234752517
+  },
+  {
+    "id": 19357,
+    "stepId": 3211,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1130986,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19358,
+    "stepId": 3211,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1139957,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234752517
+  },
+  {
+    "id": 19359,
+    "stepId": 3211,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1131055,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19360,
+    "stepId": 3211,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1131062,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234752517
+  },
+  {
+    "id": 19361,
+    "stepId": 3212,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7699,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235147011
+  },
+  {
+    "id": 19362,
+    "stepId": 3212,
+    "typeId": 6,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 4,
+      "parameter0": 8047,
+      "parameter1": 1,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": true
+    },
+    "mapId": 236454912
+  },
+  {
+    "id": 19363,
+    "stepId": 3212,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7700,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 236453888
+  },
+  {
+    "id": 19364,
+    "stepId": 3212,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1137949,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 236453888
+  },
+  {
+    "id": 19365,
+    "stepId": 3212,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7699,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 236453888
+  },
+  {
+    "id": 19366,
+    "stepId": 3198,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1131140,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19367,
+    "stepId": 3198,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1131141,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19368,
+    "stepId": 3198,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1131154,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234753031
+  },
+  {
+    "id": 19369,
+    "stepId": 3198,
+    "typeId": 0,
+    "dialogId": 58268,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1133465,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19370,
+    "stepId": 3198,
+    "typeId": 0,
+    "dialogId": 58469,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1134503,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19371,
+    "stepId": 3198,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1134640,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 236453888
+  },
+  {
+    "id": 19372,
+    "stepId": 3198,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 6743,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 236453888
+  },
+  {
+    "id": 19373,
+    "stepId": 3198,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1131162,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 236453888
+  },
+  {
+    "id": 19374,
+    "stepId": 3198,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7718,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 236453888
+  },
+  {
+    "id": 19375,
+    "stepId": 3198,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1134911,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 236453888
+  },
+  {
+    "id": 19376,
+    "stepId": 3198,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 6743,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 236453888
+  },
+  {
+    "id": 19377,
+    "stepId": 3198,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7657,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234752517
+  },
+  {
+    "id": 19378,
+    "stepId": 3198,
+    "typeId": 9,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7641,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234750978
+  },
+  {
+    "id": 19379,
+    "stepId": 3208,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7704,
+      "parameter1": 31624,
+      "parameter2": 1,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19380,
+    "stepId": 3208,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7704,
+      "parameter1": 31630,
+      "parameter2": 1,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19381,
+    "stepId": 3208,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7704,
+      "parameter1": 31629,
+      "parameter2": 1,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19382,
+    "stepId": 3208,
+    "typeId": 17,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 2,
+      "parameter0": 31609,
+      "parameter1": 1,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235537153
+  },
+  {
+    "id": 19383,
+    "stepId": 3208,
+    "typeId": 17,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 2,
+      "parameter0": 31610,
+      "parameter1": 1,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235537153
+  },
+  {
+    "id": 19384,
+    "stepId": 3208,
+    "typeId": 17,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 2,
+      "parameter0": 31611,
+      "parameter1": 1,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235537153
+  },
+  {
+    "id": 19385,
+    "stepId": 3207,
+    "typeId": 0,
+    "dialogId": 58264,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1138458,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19386,
+    "stepId": 3207,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1138011,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19387,
+    "stepId": 3207,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1133565,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19388,
+    "stepId": 3207,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1133564,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19389,
+    "stepId": 3207,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1134586,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19390,
+    "stepId": 3207,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1133562,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234752517
+  },
+  {
+    "id": 19391,
+    "stepId": 3198,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1134511,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235146497
+  },
+  {
+    "id": 19392,
+    "stepId": 3199,
+    "typeId": 4,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 1135694,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235405317
+  },
+  {
+    "id": 19393,
+    "stepId": 3199,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1135717,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235536897
+  },
+  {
+    "id": 19394,
+    "stepId": 3199,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1135718,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235536897
+  },
+  {
+    "id": 19395,
+    "stepId": 3199,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1135720,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235406083
+  },
+  {
+    "id": 19396,
+    "stepId": 3213,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1135722,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19397,
+    "stepId": 3213,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1135723,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19398,
+    "stepId": 3213,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1139999,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19399,
+    "stepId": 3213,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1135725,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19400,
+    "stepId": 3213,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1135726,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19401,
+    "stepId": 3213,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1135727,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19402,
+    "stepId": 3199,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1135868,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235930624
+  },
+  {
+    "id": 19403,
+    "stepId": 3199,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1135914,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235929600
+  },
+  {
+    "id": 19404,
+    "stepId": 3199,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1140767,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19405,
+    "stepId": 3199,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1141882,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235930624
+  },
+  {
+    "id": 19406,
+    "stepId": 3199,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1135918,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235538177
+  },
+  {
+    "id": 19407,
+    "stepId": 3199,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1135919,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235538177
+  },
+  {
+    "id": 19408,
+    "stepId": 3199,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1135920,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235930624
+  },
+  {
+    "id": 19409,
+    "stepId": 3199,
+    "typeId": 9,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7641,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234750978
+  },
+  {
+    "id": 19410,
+    "stepId": 3214,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1135924,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19411,
+    "stepId": 3214,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1135925,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19412,
+    "stepId": 3214,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1135926,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19413,
+    "stepId": 3214,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1135930,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19414,
+    "stepId": 3214,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1135931,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19416,
+    "stepId": 3208,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7704,
+      "parameter1": 31609,
+      "parameter2": 1,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19417,
+    "stepId": 3208,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7704,
+      "parameter1": 31610,
+      "parameter2": 1,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19418,
+    "stepId": 3208,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7704,
+      "parameter1": 31611,
+      "parameter2": 1,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19419,
+    "stepId": 3208,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1139043,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19420,
+    "stepId": 3210,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1139353,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234751496
+  },
+  {
+    "id": 19421,
+    "stepId": 3210,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1139354,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234751496
+  },
+  {
+    "id": 19422,
+    "stepId": 3210,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1139355,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234751496
+  },
+  {
+    "id": 19423,
+    "stepId": 3210,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1139356,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234751491
+  },
+  {
+    "id": 19424,
+    "stepId": 3210,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1145581,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19425,
+    "stepId": 3210,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1139360,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234752517
+  },
+  {
+    "id": 19426,
+    "stepId": 3210,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1139652,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234623750
+  },
+  {
+    "id": 19427,
+    "stepId": 3210,
+    "typeId": 9,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7640,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234751491
+  },
+  {
+    "id": 19428,
+    "stepId": 3206,
+    "typeId": 2,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7768,
+      "parameter1": 31822,
+      "parameter2": 1,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234619137
+  },
+  {
+    "id": 19429,
+    "stepId": 3206,
+    "typeId": 2,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7768,
+      "parameter1": 31829,
+      "parameter2": 1,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234619137
+  },
+  {
+    "id": 19430,
+    "stepId": 3206,
+    "typeId": 2,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7768,
+      "parameter1": 31869,
+      "parameter2": 1,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234619137
+  },
+  {
+    "id": 19431,
+    "stepId": 3206,
+    "typeId": 2,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7768,
+      "parameter1": 31830,
+      "parameter2": 5,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234619137
+  },
+  {
+    "id": 19432,
+    "stepId": 3206,
+    "typeId": 2,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7768,
+      "parameter1": 31828,
+      "parameter2": 2,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234619137
+  },
+  {
+    "id": 19433,
+    "stepId": 3206,
+    "typeId": 2,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7768,
+      "parameter1": 1730,
+      "parameter2": 10,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234619137
+  },
+  {
+    "id": 19434,
+    "stepId": 3206,
+    "typeId": 2,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7768,
+      "parameter1": 31825,
+      "parameter2": 1,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234619137
+  },
+  {
+    "id": 19435,
+    "stepId": 3206,
+    "typeId": 2,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7768,
+      "parameter1": 31823,
+      "parameter2": 1,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234619137
+  },
+  {
+    "id": 19436,
+    "stepId": 3206,
+    "typeId": 2,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7768,
+      "parameter1": 31820,
+      "parameter2": 1,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234619137
+  },
+  {
+    "id": 19437,
+    "stepId": 3206,
+    "typeId": 2,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7768,
+      "parameter1": 31826,
+      "parameter2": 5,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234619137
+  },
+  {
+    "id": 19438,
+    "stepId": 3206,
+    "typeId": 2,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7768,
+      "parameter1": 31827,
+      "parameter2": 2,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234619137
+  },
+  {
+    "id": 19439,
+    "stepId": 3206,
+    "typeId": 2,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7768,
+      "parameter1": 1977,
+      "parameter2": 10,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234619137
+  },
+  {
+    "id": 19440,
+    "stepId": 3206,
+    "typeId": 2,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7768,
+      "parameter1": 31831,
+      "parameter2": 1,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234619137
+  },
+  {
+    "id": 19441,
+    "stepId": 3206,
+    "typeId": 2,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7768,
+      "parameter1": 31834,
+      "parameter2": 1,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234619137
+  },
+  {
+    "id": 19442,
+    "stepId": 3206,
+    "typeId": 2,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7768,
+      "parameter1": 31821,
+      "parameter2": 1,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234619137
+  },
+  {
+    "id": 19443,
+    "stepId": 3206,
+    "typeId": 2,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7768,
+      "parameter1": 31832,
+      "parameter2": 5,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234619137
+  },
+  {
+    "id": 19444,
+    "stepId": 3206,
+    "typeId": 2,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7768,
+      "parameter1": 31819,
+      "parameter2": 1,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234619137
+  },
+  {
+    "id": 19445,
+    "stepId": 3206,
+    "typeId": 2,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7768,
+      "parameter1": 1974,
+      "parameter2": 10,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234619137
+  },
+  {
+    "id": 19446,
+    "stepId": 3215,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1140147,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234751491
+  },
+  {
+    "id": 19447,
+    "stepId": 3215,
+    "typeId": 9,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7640,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234751491
+  },
+  {
+    "id": 19448,
+    "stepId": 3199,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1140839,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235930624
+  },
+  {
+    "id": 19449,
+    "stepId": 3206,
+    "typeId": 17,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 2,
+      "parameter0": 31870,
+      "parameter1": 1,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234619137
+  },
+  {
+    "id": 19450,
+    "stepId": 3206,
+    "typeId": 17,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 2,
+      "parameter0": 31871,
+      "parameter1": 1,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234619137
+  },
+  {
+    "id": 19451,
+    "stepId": 3206,
+    "typeId": 17,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 2,
+      "parameter0": 31872,
+      "parameter1": 1,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234619137
+  },
+  {
+    "id": 19452,
+    "stepId": 3206,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1140913,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234619137
+  },
+  {
+    "id": 19453,
+    "stepId": 3206,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7768,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234619137
+  },
+  {
+    "id": 19454,
+    "stepId": 3200,
+    "typeId": 4,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 1142051,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 237240320
+  },
+  {
+    "id": 19455,
+    "stepId": 3200,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7701,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 237240320
+  },
+  {
+    "id": 19456,
+    "stepId": 3200,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1142727,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 237241344
+  },
+  {
+    "id": 19457,
+    "stepId": 3200,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1142054,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 237242368
+  },
+  {
+    "id": 19458,
+    "stepId": 3200,
+    "typeId": 9,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7641,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234750978
+  },
+  {
+    "id": 19459,
+    "stepId": 3200,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1142055,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234750978
+  },
+  {
+    "id": 19460,
+    "stepId": 3200,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1142567,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234750978
+  },
+  {
+    "id": 19461,
+    "stepId": 3216,
+    "typeId": 0,
+    "dialogId": 59121,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1145595,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 0
+  },
+  {
+    "id": 19462,
+    "stepId": 3216,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1145596,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235405573
+  },
+  {
+    "id": 19463,
+    "stepId": 3216,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1143714,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235405573
+  },
+  {
+    "id": 19464,
+    "stepId": 3216,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7817,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235405573
+  },
+  {
+    "id": 19465,
+    "stepId": 3216,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1145594,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235405313
+  },
+  {
+    "id": 19466,
+    "stepId": 3216,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1143725,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234623758
+  },
+  {
+    "id": 19467,
+    "stepId": 3216,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7799,
+      "parameter1": 32075,
+      "parameter2": 1,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234623758
+  },
+  {
+    "id": 19468,
+    "stepId": 3216,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7799,
+      "parameter1": 31988,
+      "parameter2": 1,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234623758
+  },
+  {
+    "id": 19469,
+    "stepId": 3216,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7799,
+      "parameter1": 31989,
+      "parameter2": 1,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234623758
+  },
+  {
+    "id": 19470,
+    "stepId": 3216,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1143726,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234623758
+  },
+  {
+    "id": 19471,
+    "stepId": 3216,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7771,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235405573
+  },
+  {
+    "id": 19472,
+    "stepId": 3216,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1143727,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235405573
+  },
+  {
+    "id": 19473,
+    "stepId": 3216,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7804,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235405573
+  },
+  {
+    "id": 19474,
+    "stepId": 3216,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1143728,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235405573
+  },
+  {
+    "id": 19475,
+    "stepId": 3216,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1143920,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235405573
+  },
+  {
+    "id": 19476,
+    "stepId": 3216,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7699,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235405573
+  },
+  {
+    "id": 19477,
+    "stepId": 3217,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7716,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234753031
+  },
+  {
+    "id": 19478,
+    "stepId": 3209,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1144206,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234620929
+  },
+  {
+    "id": 19479,
+    "stepId": 3209,
+    "typeId": 0,
+    "dialogId": 59451,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1144208,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235799552
+  },
+  {
+    "id": 19480,
+    "stepId": 3209,
+    "typeId": 0,
+    "dialogId": 59515,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1144141,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235799814
+  },
+  {
+    "id": 19481,
+    "stepId": 3209,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1144142,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235799814
+  },
+  {
+    "id": 19482,
+    "stepId": 3209,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1144162,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235799814
+  },
+  {
+    "id": 19483,
+    "stepId": 3209,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1144163,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235669769
+  },
+  {
+    "id": 19484,
+    "stepId": 3209,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1144164,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235669504
+  },
+  {
+    "id": 19485,
+    "stepId": 3209,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1144205,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234623762
+  },
+  {
+    "id": 19486,
+    "stepId": 3209,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1144167,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234752517
+  },
+  {
+    "id": 19487,
+    "stepId": 3209,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1144192,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235799552
+  },
+  {
+    "id": 19488,
+    "stepId": 3209,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1144199,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 235799811
+  },
+  {
+    "id": 19489,
+    "stepId": 3217,
+    "typeId": 9,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7717,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234753031
+  },
+  {
+    "id": 19490,
+    "stepId": 3217,
+    "typeId": 1,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7738,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234751491
+  },
+  {
+    "id": 19491,
+    "stepId": 3217,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7716,
+      "parameter1": 16467,
+      "parameter2": 3,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234753031
+  },
+  {
+    "id": 19492,
+    "stepId": 3217,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7716,
+      "parameter1": 16465,
+      "parameter2": 3,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234753031
+  },
+  {
+    "id": 19493,
+    "stepId": 3217,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7716,
+      "parameter1": 16469,
+      "parameter2": 3,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234753031
+  },
+  {
+    "id": 19494,
+    "stepId": 3217,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7716,
+      "parameter1": 281,
+      "parameter2": 5,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234753031
+  },
+  {
+    "id": 19495,
+    "stepId": 3217,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7716,
+      "parameter1": 381,
+      "parameter2": 5,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234753031
+  },
+  {
+    "id": 19496,
+    "stepId": 3217,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7716,
+      "parameter1": 1734,
+      "parameter2": 5,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234753031
+  },
+  {
+    "id": 19497,
+    "stepId": 3217,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7716,
+      "parameter1": 32055,
+      "parameter2": 10,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234753031
+  },
+  {
+    "id": 19498,
+    "stepId": 3217,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7716,
+      "parameter1": 15455,
+      "parameter2": 3,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234753031
+  },
+  {
+    "id": 19499,
+    "stepId": 3217,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7716,
+      "parameter1": 32057,
+      "parameter2": 1,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234753031
+  },
+  {
+    "id": 19500,
+    "stepId": 3217,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7716,
+      "parameter1": 32058,
+      "parameter2": 1,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234753031
+  },
+  {
+    "id": 19501,
+    "stepId": 3217,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7716,
+      "parameter1": 14479,
+      "parameter2": 3,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234753031
+  },
+  {
+    "id": 19502,
+    "stepId": 3217,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7716,
+      "parameter1": 32056,
+      "parameter2": 1,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234753031
+  },
+  {
+    "id": 19503,
+    "stepId": 3217,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7716,
+      "parameter1": 19406,
+      "parameter2": 2,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234753031
+  },
+  {
+    "id": 19504,
+    "stepId": 3217,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7716,
+      "parameter1": 9267,
+      "parameter2": 3,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234753031
+  },
+  {
+    "id": 19505,
+    "stepId": 3217,
+    "typeId": 3,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 3,
+      "parameter0": 7716,
+      "parameter1": 32059,
+      "parameter2": 1,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234753031
+  },
+  {
+    "id": 19506,
+    "stepId": 3217,
+    "typeId": 0,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 0,
+      "parameter0": 1144648,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234753031
+  },
+  {
+    "id": 19507,
+    "stepId": 3217,
+    "typeId": 9,
+    "dialogId": 0,
+    "parameters": {
+      "numParams": 1,
+      "parameter0": 7717,
+      "parameter1": 0,
+      "parameter2": 0,
+      "parameter3": 0,
+      "parameter4": 0,
+      "dungeonOnly": false
+    },
+    "mapId": 234753031
   }
 ]

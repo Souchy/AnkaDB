@@ -10,8 +10,7 @@
     "defaultMultiAccount": true,
     "defaultNotify": false,
     "name": "GROUP_INVITATION",
-    "messageId": "306614",
-    "m_message": "{0} has invited you to join their group."
+    "messageId": "306614"
   },
   {
     "id": 4,
@@ -24,8 +23,7 @@
     "defaultMultiAccount": true,
     "defaultNotify": false,
     "name": "PRIVATE_MSG",
-    "messageId": "275236",
-    "m_message": "{0}: {1}"
+    "messageId": "275236"
   },
   {
     "id": 5,
@@ -38,8 +36,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "FIGHT_START",
-    "messageId": "275238",
-    "m_message": "Let the battle begin!"
+    "messageId": "275238"
   },
   {
     "id": 6,
@@ -52,8 +49,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "FRIEND_CONNECTION",
-    "messageId": "275228",
-    "m_message": "{0} ({{player,{1}}}) is online."
+    "messageId": "275228"
   },
   {
     "id": 7,
@@ -66,8 +62,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "MEMBER_CONNECTION",
-    "messageId": "275232",
-    "m_message": "{{player,{0}}} (Guild) is online."
+    "messageId": "275232"
   },
   {
     "id": 8,
@@ -80,8 +75,7 @@
     "defaultMultiAccount": true,
     "defaultNotify": false,
     "name": "KOLO_INVITATION",
-    "messageId": "306613",
-    "m_message": "{0} has invited you to join their Kolossium group."
+    "messageId": "306613"
   },
   {
     "id": 9,
@@ -94,8 +88,7 @@
     "defaultMultiAccount": true,
     "defaultNotify": false,
     "name": "EXCHANGE_INVITATION",
-    "messageId": "275242",
-    "m_message": "{0} wishes to trade with you."
+    "messageId": "275242"
   },
   {
     "id": 10,
@@ -108,8 +101,7 @@
     "defaultMultiAccount": true,
     "defaultNotify": false,
     "name": "CHALLENGE_INVITATION",
-    "messageId": "275234",
-    "m_message": "\u003Cb\u003E{0}\u003C/b\u003E challenges you."
+    "messageId": "275234"
   },
   {
     "id": 11,
@@ -122,8 +114,7 @@
     "defaultMultiAccount": true,
     "defaultNotify": false,
     "name": "CRAFT_INVITATION",
-    "messageId": "306612",
-    "m_message": "{0} has invited you to the workshop."
+    "messageId": "306612"
   },
   {
     "id": 12,
@@ -136,8 +127,7 @@
     "defaultMultiAccount": true,
     "defaultNotify": false,
     "name": "MULTI_CRAFT_END",
-    "messageId": "275272",
-    "m_message": "All items have been crafted."
+    "messageId": "275272"
   },
   {
     "id": 13,
@@ -150,8 +140,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "KOLO_SEARCH",
-    "messageId": "275266",
-    "m_message": "Searching for fighters... You can carry on doing other things whilst the search is in progress."
+    "messageId": "275266"
   },
   {
     "id": 14,
@@ -164,8 +153,7 @@
     "defaultMultiAccount": true,
     "defaultNotify": false,
     "name": "KOLO_FIGHT",
-    "messageId": "275268",
-    "m_message": "Kolossium fight found!"
+    "messageId": "275268"
   },
   {
     "id": 15,
@@ -178,8 +166,7 @@
     "defaultMultiAccount": true,
     "defaultNotify": false,
     "name": "KOLO_SEARCH_END",
-    "messageId": "275282",
-    "m_message": "You have been deregistered from the Kolossium."
+    "messageId": "275282"
   },
   {
     "id": 16,
@@ -192,8 +179,7 @@
     "defaultMultiAccount": true,
     "defaultNotify": true,
     "name": "ATTACK",
-    "messageId": "275286",
-    "m_message": "\u003Cb\u003E{0}\u003C/b\u003E attacks you!"
+    "messageId": "275286"
   },
   {
     "id": 17,
@@ -206,8 +192,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": true,
     "name": "FIGHT_TURN_START",
-    "messageId": "275276",
-    "m_message": "Your turn."
+    "messageId": "275276"
   },
   {
     "id": 18,
@@ -220,8 +205,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "FIGHT_DEATH",
-    "messageId": "275280",
-    "m_message": "\u003Cb\u003E{0}\u003C/b\u003E is dead!"
+    "messageId": "275280"
   },
   {
     "id": 19,
@@ -234,8 +218,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "FIGHT_END",
-    "messageId": "275264",
-    "m_message": "End of fight."
+    "messageId": "275264"
   },
   {
     "id": 20,
@@ -248,8 +231,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "CHAT_MSG_GENERAL",
-    "messageId": "275258",
-    "m_message": "{0}: {1}"
+    "messageId": "275258"
   },
   {
     "id": 22,
@@ -262,8 +244,7 @@
     "defaultMultiAccount": true,
     "defaultNotify": false,
     "name": "INACTIVITY_WARNING",
-    "messageId": "275250",
-    "m_message": "You will soon be disconnected due to inactivity."
+    "messageId": "275250"
   },
   {
     "id": 23,
@@ -276,8 +257,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "CHAT_MSG_TEAM",
-    "messageId": "275248",
-    "m_message": "{0}: {1}"
+    "messageId": "275248"
   },
   {
     "id": 24,
@@ -290,8 +270,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "CHAT_MSG_GUILD",
-    "messageId": "275246",
-    "m_message": "{0}: {1}"
+    "messageId": "275246"
   },
   {
     "id": 25,
@@ -304,8 +283,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "CHAT_MSG_ALIGNMENT",
-    "messageId": "275244",
-    "m_message": "{0}: {1}"
+    "messageId": "275244"
   },
   {
     "id": 26,
@@ -318,8 +296,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "CHAT_MSG_GROUP",
-    "messageId": "275262",
-    "m_message": "{0}: {1}"
+    "messageId": "275262"
   },
   {
     "id": 27,
@@ -332,8 +309,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "CHAT_MSG_TRADE",
-    "messageId": "275260",
-    "m_message": "{0}: {1}"
+    "messageId": "275260"
   },
   {
     "id": 28,
@@ -346,8 +322,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "CHAT_MSG_RECRUIT",
-    "messageId": "275256",
-    "m_message": "{0}: {1}"
+    "messageId": "275256"
   },
   {
     "id": 29,
@@ -360,8 +335,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "CHAT_MSG_ADMIN",
-    "messageId": "275252",
-    "m_message": "{0}: {1}"
+    "messageId": "275252"
   },
   {
     "id": 30,
@@ -374,8 +348,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "CHAT_MSG_INFO",
-    "messageId": "275284",
-    "m_message": "{0}: {1}"
+    "messageId": "275284"
   },
   {
     "id": 31,
@@ -388,8 +361,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "CHAT_MSG_PROMO",
-    "messageId": "275274",
-    "m_message": "{0}: {1}"
+    "messageId": "275274"
   },
   {
     "id": 32,
@@ -402,8 +374,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "CHAT_MSG_KOLO",
-    "messageId": "275278",
-    "m_message": "{0}: {1}"
+    "messageId": "275278"
   },
   {
     "id": 33,
@@ -416,8 +387,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "TAXCOLLECTOR_ATTACK",
-    "messageId": "275220",
-    "m_message": "The Perceptor {0} ({1}, {2}) is under attack."
+    "messageId": "275220"
   },
   {
     "id": 34,
@@ -430,8 +400,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "DUNGEON_TELEPORT",
-    "messageId": "289388",
-    "m_message": "{0} is offering to teleport you to: {1}."
+    "messageId": "289388"
   },
   {
     "id": 35,
@@ -444,8 +413,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "PARTY_FIGHT_START",
-    "messageId": "275226",
-    "m_message": "{0} has entered a fight at $map{1}."
+    "messageId": "275226"
   },
   {
     "id": 36,
@@ -458,8 +426,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "GUILD_INVITATION",
-    "messageId": "275224",
-    "m_message": "\u003Cb\u003E{0}\u003C/b\u003E has invited you to join their guild ({1})."
+    "messageId": "275224"
   },
   {
     "id": 37,
@@ -472,8 +439,7 @@
     "defaultMultiAccount": true,
     "defaultNotify": false,
     "name": "FIGHT_JOIN",
-    "messageId": "275230",
-    "m_message": "You have just entered a fight."
+    "messageId": "275230"
   },
   {
     "id": 38,
@@ -486,8 +452,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "PRISM_ATTACK",
-    "messageId": "283534",
-    "m_message": "The prism in the area \u0027{0}\u0027 is being attacked in {1}."
+    "messageId": "283534"
   },
   {
     "id": 39,
@@ -500,8 +465,7 @@
     "defaultMultiAccount": true,
     "defaultNotify": false,
     "name": "CRAFT_REQUEST",
-    "messageId": "556029",
-    "m_message": "{0} asks you to use your workshop."
+    "messageId": "556029"
   },
   {
     "id": 40,
@@ -514,8 +478,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "HAVENBAG_INVITATION",
-    "messageId": "718474",
-    "m_message": "{0} has invited you to enter their Haven Bag."
+    "messageId": "718474"
   },
   {
     "id": 45,
@@ -528,8 +491,7 @@
     "defaultMultiAccount": true,
     "defaultNotify": false,
     "name": "RIDE_TRAVEL_END",
-    "messageId": "748802",
-    "m_message": "Your mount has reached its destination!"
+    "messageId": "748802"
   },
   {
     "id": 46,
@@ -542,8 +504,7 @@
     "defaultMultiAccount": true,
     "defaultNotify": false,
     "name": "BREACH_INVITATION",
-    "messageId": "774367",
-    "m_message": "{0} has invited you to join their Infinite Dream group."
+    "messageId": "774367"
   },
   {
     "id": 47,
@@ -556,8 +517,7 @@
     "defaultMultiAccount": true,
     "defaultNotify": false,
     "name": "FRIEND_INVITE",
-    "messageId": "825389",
-    "m_message": "{0} has sent you an Ankama friend invite."
+    "messageId": "825389"
   },
   {
     "id": 51,
@@ -570,8 +530,7 @@
     "defaultMultiAccount": true,
     "defaultNotify": false,
     "name": "KOLO_START",
-    "messageId": "904777",
-    "m_message": "The Kolossium fight is starting"
+    "messageId": "904777"
   },
   {
     "id": 52,
@@ -584,8 +543,7 @@
     "defaultMultiAccount": true,
     "defaultNotify": false,
     "name": "KOLO_JOIN",
-    "messageId": "904779",
-    "m_message": "You are entering a Kolossium fight"
+    "messageId": "904779"
   },
   {
     "id": 53,
@@ -598,8 +556,7 @@
     "defaultMultiAccount": true,
     "defaultNotify": false,
     "name": "KOLO_TURN_START",
-    "messageId": "904783",
-    "m_message": "Start of a Kolossium turn"
+    "messageId": "904783"
   },
   {
     "id": 54,
@@ -612,8 +569,7 @@
     "defaultMultiAccount": false,
     "defaultNotify": false,
     "name": "KOLO_FIGHT_END",
-    "messageId": "904807",
-    "m_message": "End of the Kolossium fight."
+    "messageId": "904807"
   },
   {
     "id": 55,
@@ -626,8 +582,7 @@
     "defaultMultiAccount": true,
     "defaultNotify": false,
     "name": "PETSMOUNT_TRAVEL_END",
-    "messageId": "909296",
-    "m_message": "Your petsmount has reached its destination!"
+    "messageId": "909296"
   },
   {
     "id": 56,
