@@ -1983,5 +1983,35 @@
     ],
     "entranceMapId": 72221696,
     "exitMapId": 72221696
+  },
+  {
+    "id": 163,
+    "nameId": 1134051,
+    "optimalPlayerLevel": 170,
+    "mapIds": [
+      236978176
+    ],
+    "entranceMapId": 235668239,
+    "exitMapId": 235668239
+  },
+  {
+    "id": 164,
+    "nameId": 1134060,
+    "optimalPlayerLevel": 200,
+    "mapIds": [
+      236454912
+    ],
+    "entranceMapId": 235147011,
+    "exitMapId": 235147011
+  },
+  {
+    "id": 165,
+    "nameId": 1134061,
+    "optimalPlayerLevel": 200,
+    "mapIds": [
+      236717056
+    ],
+    "entranceMapId": 235405571,
+    "exitMapId": 235405571
   }
 ]

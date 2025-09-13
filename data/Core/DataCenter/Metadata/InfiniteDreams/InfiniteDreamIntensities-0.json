@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "intensity": 1,
+    "droplegend": false,
+    "dropBonus": 0.5,
+    "xpBonus": 0.5,
+    "money": 5,
+    "additionalLife": 1,
+    "nameId": 1144250
+  },
+  {
+    "id": 4,
+    "intensity": 2,
+    "droplegend": false,
+    "dropBonus": 0.75,
+    "xpBonus": 0.75,
+    "money": 5,
+    "additionalLife": 1,
+    "nameId": 1144251
+  },
+  {
+    "id": 5,
+    "intensity": 3,
+    "droplegend": false,
+    "dropBonus": 1,
+    "xpBonus": 1,
+    "money": 5,
+    "additionalLife": 1,
+    "nameId": 1144252
+  },
+  {
+    "id": 6,
+    "intensity": 4,
+    "droplegend": true,
+    "dropBonus": 1.4,
+    "xpBonus": 1.4,
+    "money": 0,
+    "additionalLife": 0,
+    "nameId": 1144253
+  },
+  {
+    "id": 7,
+    "intensity": 5,
+    "droplegend": true,
+    "dropBonus": 1.7,
+    "xpBonus": 1.7,
+    "money": 0,
+    "additionalLife": 0,
+    "nameId": 1144254
+  },
+  {
+    "id": 8,
+    "intensity": 6,
+    "droplegend": true,
+    "dropBonus": 1.9,
+    "xpBonus": 1.9,
+    "money": 0,
+    "additionalLife": 0,
+    "nameId": 1144710
+  },
+  {
+    "id": 10,
+    "intensity": 7,
+    "droplegend": true,
+    "dropBonus": 2,
+    "xpBonus": 2,
+    "money": 0,
+    "additionalLife": 0,
+    "nameId": 1144726
+  },
+  {
+    "id": 11,
+    "intensity": 8,
+    "droplegend": true,
+    "dropBonus": 2.05,
+    "xpBonus": 2.05,
+    "money": 0,
+    "additionalLife": 0,
+    "nameId": 1144732
+  },
+  {
+    "id": 12,
+    "intensity": 9,
+    "droplegend": true,
+    "dropBonus": 2.1,
+    "xpBonus": 2.1,
+    "money": 0,
+    "additionalLife": 0,
+    "nameId": 1144733
+  },
+  {
+    "id": 13,
+    "intensity": 10,
+    "droplegend": true,
+    "dropBonus": 2.15,
+    "xpBonus": 2.15,
+    "money": 0,
+    "additionalLife": 0,
+    "nameId": 1144734
+  }
+]

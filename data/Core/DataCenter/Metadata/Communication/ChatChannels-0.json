@@ -4,125 +4,111 @@
     "nameId": 809,
     "descriptionId": 810,
     "shortcut": "/s",
-    "shortcutKey": "toggleChannelGlobal",
-    "isPrivate": false,
-    "allowObjects": false
+    "isPrivate": false
   },
   {
     "id": 1,
     "nameId": 811,
     "descriptionId": 392559,
     "shortcut": "/t",
-    "shortcutKey": "toggleChannelTeam",
-    "isPrivate": false,
-    "allowObjects": true
+    "isPrivate": false
   },
   {
     "id": 2,
     "nameId": 821,
     "descriptionId": 822,
     "shortcut": "/g",
-    "shortcutKey": "toggleChannelGuild",
-    "isPrivate": false,
-    "allowObjects": true
+    "isPrivate": false
   },
   {
     "id": 3,
     "nameId": 261952,
     "descriptionId": 261953,
     "shortcut": "/a",
-    "shortcutKey": "toggleChannelAlliance",
-    "isPrivate": false,
-    "allowObjects": false
+    "isPrivate": false
   },
   {
     "id": 4,
     "nameId": 808,
     "descriptionId": 392567,
     "shortcut": "/p",
-    "shortcutKey": "toggleChannelParty",
-    "isPrivate": false,
-    "allowObjects": true
+    "isPrivate": false
   },
   {
     "id": 5,
     "nameId": 802,
     "descriptionId": 803,
     "shortcut": "/b",
-    "shortcutKey": "toggleChannelSales",
-    "isPrivate": false,
-    "allowObjects": true
+    "isPrivate": false
   },
   {
     "id": 6,
     "nameId": 819,
     "descriptionId": 820,
     "shortcut": "/r",
-    "shortcutKey": "toggleChannelSeek",
-    "isPrivate": false,
-    "allowObjects": false
+    "isPrivate": false
   },
   {
     "id": 8,
     "nameId": 804,
     "descriptionId": 392569,
     "shortcut": "/q",
-    "shortcutKey": "",
-    "isPrivate": false,
-    "allowObjects": true
+    "isPrivate": false
   },
   {
     "id": 9,
     "nameId": 806,
     "descriptionId": 392571,
     "shortcut": "/w",
-    "shortcutKey": "",
-    "isPrivate": true,
-    "allowObjects": true
+    "isPrivate": true
   },
   {
     "id": 10,
     "nameId": 807,
     "descriptionId": 392563,
     "shortcut": "",
-    "shortcutKey": "",
-    "isPrivate": true,
-    "allowObjects": true
+    "isPrivate": true
   },
   {
     "id": 11,
     "nameId": 805,
     "descriptionId": 392561,
     "shortcut": "",
-    "shortcutKey": "toggleChannelFight",
-    "isPrivate": true,
-    "allowObjects": true
+    "isPrivate": true
   },
   {
     "id": 13,
     "nameId": 816,
     "descriptionId": 392565,
     "shortcut": "/k",
-    "shortcutKey": "toggleChannelArena",
-    "isPrivate": false,
-    "allowObjects": true
+    "isPrivate": false
+  },
+  {
+    "id": 14,
+    "nameId": 721410,
+    "descriptionId": 721419,
+    "shortcut": "/co",
+    "isPrivate": false
   },
   {
     "id": 15,
-    "nameId": 1129479,
+    "nameId": 1131484,
     "descriptionId": 1059623,
     "shortcut": "",
-    "shortcutKey": "",
-    "isPrivate": false,
-    "allowObjects": false
+    "isPrivate": false
   },
   {
     "id": 16,
-    "nameId": 1129484,
-    "descriptionId": 1129485,
+    "nameId": 1131512,
+    "descriptionId": 1131513,
     "shortcut": "/c",
-    "shortcutKey": "toggleChannelCraft",
-    "isPrivate": false,
-    "allowObjects": true
+    "isPrivate": false
+  },
+  {
+    "id": 17,
+    "nameId": 1148369,
+    "descriptionId": 1148370,
+    "shortcut": "/e",
+    "isPrivate": false
   }
 ]

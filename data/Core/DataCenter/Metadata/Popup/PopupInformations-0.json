@@ -295,8 +295,8 @@
   {
     "id": 30,
     "parentId": 5,
-    "titleId": "900259",
-    "descriptionId": 900265,
+    "titleId": "1149856",
+    "descriptionId": 1149857,
     "illuName": "fr_feature_breach.jpg",
     "buttons": [
       {
@@ -308,7 +308,7 @@
         "actionValue": "OpenGuideBookAction:gameGuide|180|popup"
       }
     ],
-    "criterion": "PL\u003E49",
+    "criterion": "PL\u003E179",
     "cacheType": 2,
     "autoTrigger": true
   },
@@ -489,6 +489,26 @@
       }
     ],
     "criterion": "PL\u003E9\u0026PZ=1",
+    "cacheType": 2,
+    "autoTrigger": true
+  },
+  {
+    "id": 45,
+    "parentId": 5,
+    "titleId": "1149858",
+    "descriptionId": 1149859,
+    "illuName": "fr_feature_breach.jpg",
+    "buttons": [
+      {
+        "id": 44,
+        "popupId": 45,
+        "type": 0,
+        "textId": "1149861",
+        "actionType": 1,
+        "actionValue": "OpenGuideBookAction:gameGuide|180|popup"
+      }
+    ],
+    "criterion": "Pm=238551040",
     "cacheType": 2,
     "autoTrigger": true
   }

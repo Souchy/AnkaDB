@@ -1,0 +1,19 @@
+{
+  "AllianceTagsTypes": "AllianceTagTypes",
+  "AlignmentGift": "AlignmentGifts",
+  "AlignmentRank": "AlignmentRanks",
+  "AlignmentRankJntGift": "AlignmentRanksGifts",
+  "AlignmentOrder": "AlignmentOrders",
+  "GuildTagsTypes": "GuildTagTypes",
+  "HintCategory": "HintCategories",
+  "LivingObjectSkinJntMood": "LivingObjectSkinsMoods",
+  "MapCoordinates": "MapsCoordinates",
+  "MonsterMiniBoss": "MonsterMiniBosses",
+  "MountFamily": "MountFamilies",
+  "NpcDialogSkin": "NpcDialogSkins",
+  "PointOfInterest": "PointsOfInterest",
+  "PopupInformations": "PopupsInformation",
+  "QuestCategory": "QuestCategories",
+  "RideFood": "RideFoods",
+  "SpeakingItemsText": "SpeakingItemsTexts"
+}

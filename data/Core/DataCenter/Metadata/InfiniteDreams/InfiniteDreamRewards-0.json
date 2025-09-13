@@ -1,0 +1,663 @@
+[
+  {
+    "id": 4,
+    "nameId": 1135600,
+    "descriptionId": 1135601,
+    "actions": [
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14
+    ]
+  },
+  {
+    "id": 13,
+    "nameId": 1135952,
+    "descriptionId": 1135953,
+    "actions": [
+      17
+    ]
+  },
+  {
+    "id": 24,
+    "nameId": 1136661,
+    "descriptionId": 1136662,
+    "actions": [
+      38
+    ]
+  },
+  {
+    "id": 33,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      88
+    ]
+  },
+  {
+    "id": 34,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      87
+    ]
+  },
+  {
+    "id": 35,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      86
+    ]
+  },
+  {
+    "id": 36,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      85
+    ]
+  },
+  {
+    "id": 37,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      84
+    ]
+  },
+  {
+    "id": 38,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      83
+    ]
+  },
+  {
+    "id": 39,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      82
+    ]
+  },
+  {
+    "id": 40,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      81
+    ]
+  },
+  {
+    "id": 41,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      80
+    ]
+  },
+  {
+    "id": 42,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      79
+    ]
+  },
+  {
+    "id": 43,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      78
+    ]
+  },
+  {
+    "id": 44,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      77
+    ]
+  },
+  {
+    "id": 45,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      76
+    ]
+  },
+  {
+    "id": 46,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      75
+    ]
+  },
+  {
+    "id": 47,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      74
+    ]
+  },
+  {
+    "id": 48,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      73
+    ]
+  },
+  {
+    "id": 49,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      72
+    ]
+  },
+  {
+    "id": 50,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      71
+    ]
+  },
+  {
+    "id": 51,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      70
+    ]
+  },
+  {
+    "id": 52,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      69
+    ]
+  },
+  {
+    "id": 53,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      68
+    ]
+  },
+  {
+    "id": 55,
+    "nameId": 1147308,
+    "descriptionId": 1147309,
+    "actions": [
+      93
+    ]
+  },
+  {
+    "id": 56,
+    "nameId": 1147311,
+    "descriptionId": 1147312,
+    "actions": [
+      109,
+      12,
+      100
+    ]
+  },
+  {
+    "id": 57,
+    "nameId": 1147313,
+    "descriptionId": 1147314,
+    "actions": [
+      9,
+      10,
+      158,
+      163
+    ]
+  },
+  {
+    "id": 58,
+    "nameId": 1147315,
+    "descriptionId": 1147316,
+    "actions": [
+      6,
+      98
+    ]
+  },
+  {
+    "id": 60,
+    "nameId": 1147319,
+    "descriptionId": 1147320,
+    "actions": [
+      161
+    ]
+  },
+  {
+    "id": 61,
+    "nameId": 1147321,
+    "descriptionId": 1147322,
+    "actions": [
+      160,
+      8
+    ]
+  },
+  {
+    "id": 63,
+    "nameId": 1147325,
+    "descriptionId": 1147326,
+    "actions": [
+      115,
+      113
+    ]
+  },
+  {
+    "id": 65,
+    "nameId": 1147329,
+    "descriptionId": 1147330,
+    "actions": [
+      13,
+      5
+    ]
+  },
+  {
+    "id": 66,
+    "nameId": 1147334,
+    "descriptionId": 1147335,
+    "actions": [
+      100,
+      103,
+      102,
+      101,
+      104,
+      8,
+      11,
+      108,
+      106,
+      107,
+      4,
+      3,
+      159,
+      1,
+      2,
+      158,
+      163,
+      156
+    ]
+  },
+  {
+    "id": 67,
+    "nameId": 1147341,
+    "descriptionId": 1147342,
+    "actions": [
+      110
+    ]
+  },
+  {
+    "id": 71,
+    "nameId": 1147355,
+    "descriptionId": 1147356,
+    "actions": [
+      61,
+      140
+    ]
+  },
+  {
+    "id": 72,
+    "nameId": 1147357,
+    "descriptionId": 1147358,
+    "actions": [
+      96,
+      139
+    ]
+  },
+  {
+    "id": 73,
+    "nameId": 1147401,
+    "descriptionId": 1147402,
+    "actions": [
+      114
+    ]
+  },
+  {
+    "id": 75,
+    "nameId": 1147500,
+    "descriptionId": 1147501,
+    "actions": [
+      116,
+      102
+    ]
+  },
+  {
+    "id": 76,
+    "nameId": 1147630,
+    "descriptionId": 1147631,
+    "actions": [
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14
+    ]
+  },
+  {
+    "id": 79,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      118
+    ]
+  },
+  {
+    "id": 80,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      119
+    ]
+  },
+  {
+    "id": 81,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      120
+    ]
+  },
+  {
+    "id": 82,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      121
+    ]
+  },
+  {
+    "id": 83,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      122
+    ]
+  },
+  {
+    "id": 84,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      123
+    ]
+  },
+  {
+    "id": 85,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      124
+    ]
+  },
+  {
+    "id": 87,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      126
+    ]
+  },
+  {
+    "id": 88,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      127
+    ]
+  },
+  {
+    "id": 89,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      128
+    ]
+  },
+  {
+    "id": 90,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      129
+    ]
+  },
+  {
+    "id": 91,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      130
+    ]
+  },
+  {
+    "id": 92,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      131
+    ]
+  },
+  {
+    "id": 94,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      133
+    ]
+  },
+  {
+    "id": 95,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      134
+    ]
+  },
+  {
+    "id": 96,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      135
+    ]
+  },
+  {
+    "id": 97,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      136
+    ]
+  },
+  {
+    "id": 98,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      137
+    ]
+  },
+  {
+    "id": 99,
+    "nameId": 0,
+    "descriptionId": 0,
+    "actions": [
+      138
+    ]
+  },
+  {
+    "id": 102,
+    "nameId": 1148212,
+    "descriptionId": 1148213,
+    "actions": [
+      102,
+      141,
+      162
+    ]
+  },
+  {
+    "id": 103,
+    "nameId": 1148214,
+    "descriptionId": 1148215,
+    "actions": [
+      7,
+      105,
+      159
+    ]
+  },
+  {
+    "id": 104,
+    "nameId": 1148339,
+    "descriptionId": 1148340,
+    "actions": [
+      89
+    ]
+  },
+  {
+    "id": 105,
+    "nameId": 1148928,
+    "descriptionId": 1148929,
+    "actions": [
+      142
+    ]
+  },
+  {
+    "id": 106,
+    "nameId": 1149012,
+    "descriptionId": 1149013,
+    "actions": [
+      102,
+      7
+    ]
+  },
+  {
+    "id": 108,
+    "nameId": 1149024,
+    "descriptionId": 1149025,
+    "actions": [
+      144
+    ]
+  },
+  {
+    "id": 109,
+    "nameId": 1149026,
+    "descriptionId": 1149027,
+    "actions": [
+      8,
+      145
+    ]
+  },
+  {
+    "id": 110,
+    "nameId": 1149028,
+    "descriptionId": 1149029,
+    "actions": [
+      104,
+      148
+    ]
+  },
+  {
+    "id": 111,
+    "nameId": 1149030,
+    "descriptionId": 1149031,
+    "actions": [
+      149
+    ]
+  },
+  {
+    "id": 112,
+    "nameId": 1149032,
+    "descriptionId": 1149033,
+    "actions": [
+      150
+    ]
+  },
+  {
+    "id": 114,
+    "nameId": 1150020,
+    "descriptionId": 1150021,
+    "actions": [
+      155
+    ]
+  },
+  {
+    "id": 115,
+    "nameId": 1150253,
+    "descriptionId": 1150254,
+    "actions": [
+      156,
+      156
+    ]
+  },
+  {
+    "id": 117,
+    "nameId": 1150255,
+    "descriptionId": 1150256,
+    "actions": [
+      17,
+      14,
+      14,
+      14,
+      14,
+      14
+    ]
+  },
+  {
+    "id": 118,
+    "nameId": 1150257,
+    "descriptionId": 1150258,
+    "actions": [
+      38,
+      14,
+      14,
+      14,
+      14,
+      14
+    ]
+  }
+]

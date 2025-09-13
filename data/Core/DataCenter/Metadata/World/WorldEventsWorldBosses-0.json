@@ -1,0 +1,20 @@
+[
+  {
+    "monsterList": [
+      8069
+    ],
+    "criterion": "",
+    "mapList": [
+      237241344
+    ],
+    "subareaList": [],
+    "areaList": [],
+    "scoreGroupShared": true,
+    "scorePerDamage": true,
+    "scoreTotal": -1,
+    "scoreRatio": 5,
+    "scoreDayCount": 7,
+    "id": 0,
+    "worldEventId": 0
+  }
+]

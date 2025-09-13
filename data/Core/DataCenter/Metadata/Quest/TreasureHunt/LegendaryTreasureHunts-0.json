@@ -36,6 +36,15 @@
     "xpRatio": 1
   },
   {
+    "id": 58,
+    "nameId": 1138804,
+    "level": 100,
+    "chestId": 31775,
+    "monsterId": 8173,
+    "mapItemId": 31780,
+    "xpRatio": 10
+  },
+  {
     "id": 57,
     "nameId": 866733,
     "level": 100,
@@ -45,12 +54,12 @@
     "xpRatio": 10
   },
   {
-    "id": 20,
-    "nameId": 460797,
+    "id": 59,
+    "nameId": 1138805,
     "level": 130,
-    "chestId": 15540,
-    "monsterId": 3524,
-    "mapItemId": 15534,
+    "chestId": 31776,
+    "monsterId": 8174,
+    "mapItemId": 31781,
     "xpRatio": 10
   },
   {
@@ -63,12 +72,39 @@
     "xpRatio": 10
   },
   {
+    "id": 61,
+    "nameId": 1138810,
+    "level": 130,
+    "chestId": 31778,
+    "monsterId": 8175,
+    "mapItemId": 31783,
+    "xpRatio": 10
+  },
+  {
     "id": 34,
     "nameId": 506617,
     "level": 130,
     "chestId": 16046,
     "monsterId": 3762,
     "mapItemId": 16041,
+    "xpRatio": 10
+  },
+  {
+    "id": 60,
+    "nameId": 1138806,
+    "level": 130,
+    "chestId": 31777,
+    "monsterId": 8176,
+    "mapItemId": 31782,
+    "xpRatio": 10
+  },
+  {
+    "id": 20,
+    "nameId": 460797,
+    "level": 130,
+    "chestId": 15540,
+    "monsterId": 3524,
+    "mapItemId": 15534,
     "xpRatio": 10
   },
   {
@@ -99,13 +135,13 @@
     "xpRatio": 10
   },
   {
-    "id": 55,
-    "nameId": 768476,
-    "level": 180,
-    "chestId": 20198,
-    "monsterId": 3724,
-    "mapItemId": 20194,
-    "xpRatio": 1
+    "id": 62,
+    "nameId": 1138857,
+    "level": 170,
+    "chestId": 31779,
+    "monsterId": 8177,
+    "mapItemId": 31784,
+    "xpRatio": 10
   },
   {
     "id": 46,
@@ -126,6 +162,15 @@
     "xpRatio": 10
   },
   {
+    "id": 55,
+    "nameId": 768476,
+    "level": 180,
+    "chestId": 20198,
+    "monsterId": 3724,
+    "mapItemId": 20194,
+    "xpRatio": 1
+  },
+  {
     "id": 51,
     "nameId": 632764,
     "level": 186,
@@ -135,39 +180,30 @@
     "xpRatio": 1
   },
   {
-    "id": 5,
-    "nameId": 460796,
-    "level": 200,
-    "chestId": 15401,
-    "monsterId": 3761,
-    "mapItemId": 15382,
-    "xpRatio": 10
-  },
-  {
-    "id": 50,
-    "nameId": 616179,
-    "level": 200,
-    "chestId": 17653,
-    "monsterId": 4329,
-    "mapItemId": 17643,
-    "xpRatio": 10
-  },
-  {
-    "id": 45,
-    "nameId": 608211,
-    "level": 200,
-    "chestId": 17241,
-    "monsterId": 3668,
-    "mapItemId": 17240,
-    "xpRatio": 10
-  },
-  {
     "id": 35,
     "nameId": 506616,
     "level": 200,
     "chestId": 16045,
     "monsterId": 3533,
     "mapItemId": 16042,
+    "xpRatio": 10
+  },
+  {
+    "id": 39,
+    "nameId": 583343,
+    "level": 200,
+    "chestId": 17231,
+    "monsterId": 4028,
+    "mapItemId": 17230,
+    "xpRatio": 10
+  },
+  {
+    "id": 5,
+    "nameId": 460796,
+    "level": 200,
+    "chestId": 15401,
+    "monsterId": 3761,
+    "mapItemId": 15382,
     "xpRatio": 10
   },
   {
@@ -180,12 +216,21 @@
     "xpRatio": 1
   },
   {
-    "id": 39,
-    "nameId": 583343,
+    "id": 45,
+    "nameId": 608211,
     "level": 200,
-    "chestId": 17231,
-    "monsterId": 4028,
-    "mapItemId": 17230,
+    "chestId": 17241,
+    "monsterId": 3668,
+    "mapItemId": 17240,
+    "xpRatio": 10
+  },
+  {
+    "id": 50,
+    "nameId": 616179,
+    "level": 200,
+    "chestId": 17653,
+    "monsterId": 4329,
+    "mapItemId": 17643,
     "xpRatio": 10
   }
 ]

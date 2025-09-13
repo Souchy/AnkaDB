@@ -1,9 +1,15 @@
 [
   {
-    "id": 4,
-    "nameId": 932679,
+    "id": 1,
+    "nameId": 933428,
     "order": 0,
-    "groupId": 2
+    "groupId": 1
+  },
+  {
+    "id": 2,
+    "nameId": 948605,
+    "order": 1,
+    "groupId": 1
   },
   {
     "id": 3,
@@ -12,46 +18,10 @@
     "groupId": 2
   },
   {
-    "id": 10,
-    "nameId": 932499,
+    "id": 4,
+    "nameId": 932679,
     "order": 0,
-    "groupId": 6
-  },
-  {
-    "id": 20,
-    "nameId": 932687,
-    "order": 1,
-    "groupId": 6
-  },
-  {
-    "id": 21,
-    "nameId": 932688,
-    "order": 2,
-    "groupId": 6
-  },
-  {
-    "id": 25,
-    "nameId": 932693,
-    "order": 3,
-    "groupId": 4
-  },
-  {
-    "id": 7,
-    "nameId": 932702,
-    "order": 0,
-    "groupId": 3
-  },
-  {
-    "id": 15,
-    "nameId": 932703,
-    "order": 1,
-    "groupId": 3
-  },
-  {
-    "id": 1,
-    "nameId": 933428,
-    "order": 0,
-    "groupId": 1
+    "groupId": 2
   },
   {
     "id": 5,
@@ -66,6 +36,24 @@
     "groupId": 1
   },
   {
+    "id": 7,
+    "nameId": 932702,
+    "order": 0,
+    "groupId": 3
+  },
+  {
+    "id": 8,
+    "nameId": 932690,
+    "order": 0,
+    "groupId": 9
+  },
+  {
+    "id": 10,
+    "nameId": 932499,
+    "order": 0,
+    "groupId": 6
+  },
+  {
     "id": 13,
     "nameId": 932676,
     "order": 5,
@@ -78,6 +66,42 @@
     "groupId": 1
   },
   {
+    "id": 15,
+    "nameId": 932703,
+    "order": 1,
+    "groupId": 3
+  },
+  {
+    "id": 20,
+    "nameId": 932687,
+    "order": 1,
+    "groupId": 6
+  },
+  {
+    "id": 21,
+    "nameId": 932688,
+    "order": 2,
+    "groupId": 6
+  },
+  {
+    "id": 23,
+    "nameId": 932691,
+    "order": 2,
+    "groupId": 9
+  },
+  {
+    "id": 24,
+    "nameId": 932692,
+    "order": 1,
+    "groupId": 9
+  },
+  {
+    "id": 25,
+    "nameId": 932693,
+    "order": 3,
+    "groupId": 4
+  },
+  {
     "id": 26,
     "nameId": 933429,
     "order": 2,
@@ -88,30 +112,6 @@
     "nameId": 936332,
     "order": 3,
     "groupId": 6
-  },
-  {
-    "id": 28,
-    "nameId": 936333,
-    "order": 4,
-    "groupId": 6
-  },
-  {
-    "id": 8,
-    "nameId": 932690,
-    "order": 0,
-    "groupId": 9
-  },
-  {
-    "id": 24,
-    "nameId": 932692,
-    "order": 1,
-    "groupId": 9
-  },
-  {
-    "id": 23,
-    "nameId": 932691,
-    "order": 2,
-    "groupId": 9
   },
   {
     "id": 29,
@@ -166,11 +166,5 @@
     "nameId": 948572,
     "order": 2,
     "groupId": 12
-  },
-  {
-    "id": 2,
-    "nameId": 948605,
-    "order": 1,
-    "groupId": 1
   }
 ]

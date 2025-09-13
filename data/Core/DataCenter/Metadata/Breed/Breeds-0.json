@@ -2,16 +2,11 @@
   {
     "id": 1,
     "shortNameId": "685",
-    "longNameId": "116103",
     "descriptionId": 305968,
     "gameplayDescriptionId": "598583",
-    "gameplayClassDescriptionId": "1076523",
-    "guideItemId": 244,
     "maleLook": "{1|10||53}",
     "femaleLook": "{1|11||52}",
     "creatureBonesId": 15,
-    "maleArtwork": 198,
-    "femaleArtwork": 199,
     "statsPointsForStrength": [
       {
         "values": [
@@ -158,56 +153,48 @@
     ],
     "breedRoles": [
       {
-        "breedId": 1,
-        "roleId": 1,
-        "descriptionId": 1004987,
-        "value": 7,
-        "order": 3
-      },
-      {
-        "breedId": 1,
-        "roleId": 2,
-        "descriptionId": 1004996,
-        "value": 8,
-        "order": 2
-      },
-      {
-        "breedId": 1,
-        "roleId": 3,
-        "descriptionId": 1007811,
-        "value": 8,
-        "order": 1
-      },
-      {
-        "breedId": 1,
-        "roleId": 4,
-        "descriptionId": 506469,
-        "value": 0,
-        "order": -1
-      },
-      {
-        "breedId": 1,
-        "roleId": 5,
-        "descriptionId": 506473,
-        "value": 7,
-        "order": -1
-      },
-      {
-        "breedId": 1,
-        "roleId": 6,
-        "descriptionId": 506517,
-        "value": 4,
-        "order": -1
-      },
-      {
-        "breedId": 1,
         "roleId": 7,
         "descriptionId": 506472,
         "value": 2,
         "order": -1
       },
       {
-        "breedId": 1,
+        "roleId": 6,
+        "descriptionId": 506517,
+        "value": 4,
+        "order": -1
+      },
+      {
+        "roleId": 5,
+        "descriptionId": 506473,
+        "value": 7,
+        "order": -1
+      },
+      {
+        "roleId": 4,
+        "descriptionId": 506469,
+        "value": 0,
+        "order": -1
+      },
+      {
+        "roleId": 3,
+        "descriptionId": 1007811,
+        "value": 8,
+        "order": 1
+      },
+      {
+        "roleId": 1,
+        "descriptionId": 1004987,
+        "value": 7,
+        "order": 3
+      },
+      {
+        "roleId": 2,
+        "descriptionId": 1004996,
+        "value": 8,
+        "order": 2
+      },
+      {
         "roleId": 8,
         "descriptionId": 506468,
         "value": 3,
@@ -230,23 +217,17 @@
       5319189,
       5984835
     ],
-    "spawnMap": 153093378,
     "complexity": 2,
     "sortIndex": 6
   },
   {
     "id": 2,
     "shortNameId": "697",
-    "longNameId": "116101",
     "descriptionId": 305966,
     "gameplayDescriptionId": "598597",
-    "gameplayClassDescriptionId": "1055357",
-    "guideItemId": 245,
     "maleLook": "{1|20||50}",
     "femaleLook": "{1|21||48}",
     "creatureBonesId": 16,
-    "maleArtwork": 200,
-    "femaleArtwork": 202,
     "statsPointsForStrength": [
       {
         "values": [
@@ -368,85 +349,77 @@
       }
     ],
     "breedSpellsId": [
-      12548,
-      12615,
-      12549,
-      12555,
-      13998,
-      12606,
-      14026,
-      14018,
-      14022,
-      14006,
-      12600,
-      14019,
-      12554,
-      12560,
-      12551,
-      14028,
-      12563,
-      12605,
-      14007,
-      18535,
-      12557,
-      12564
+      31132,
+      31110,
+      31135,
+      31111,
+      31114,
+      31115,
+      31116,
+      31117,
+      31118,
+      31119,
+      31120,
+      31121,
+      31122,
+      31123,
+      31124,
+      31125,
+      31152,
+      31126,
+      31127,
+      31128,
+      31129,
+      31131
     ],
     "breedRoles": [
       {
-        "breedId": 2,
-        "roleId": 1,
-        "descriptionId": 506481,
-        "value": 3,
-        "order": -1
-      },
-      {
-        "breedId": 2,
-        "roleId": 2,
-        "descriptionId": 506478,
-        "value": 2,
-        "order": -1
-      },
-      {
-        "breedId": 2,
-        "roleId": 3,
-        "descriptionId": 506479,
-        "value": 3,
-        "order": -1
-      },
-      {
-        "breedId": 2,
         "roleId": 4,
         "descriptionId": 1004937,
         "value": 5,
         "order": 2
       },
       {
-        "breedId": 2,
+        "roleId": 8,
+        "descriptionId": 823682,
+        "value": 6,
+        "order": 3
+      },
+      {
+        "roleId": 2,
+        "descriptionId": 506478,
+        "value": 2,
+        "order": -1
+      },
+      {
         "roleId": 5,
         "descriptionId": 506482,
         "value": 4,
         "order": -1
       },
       {
-        "breedId": 2,
-        "roleId": 6,
-        "descriptionId": 506483,
-        "value": 4,
-        "order": -1
-      },
-      {
-        "breedId": 2,
         "roleId": 7,
         "descriptionId": 823681,
         "value": 12,
         "order": 1
       },
       {
-        "breedId": 2,
-        "roleId": 8,
-        "descriptionId": 823682,
-        "value": 6,
-        "order": 3
+        "roleId": 1,
+        "descriptionId": 506481,
+        "value": 3,
+        "order": -1
+      },
+      {
+        "roleId": 3,
+        "descriptionId": 506479,
+        "value": 3,
+        "order": -1
+      },
+      {
+        "roleId": 6,
+        "descriptionId": 506483,
+        "value": 4,
+        "order": -1
       }
     ],
     "maleColors": [
@@ -465,23 +438,17 @@
       16755757,
       12495223
     ],
-    "spawnMap": 153093378,
     "complexity": 4,
     "sortIndex": 13
   },
   {
     "id": 3,
     "shortNameId": "681",
-    "longNameId": "116105",
     "descriptionId": 305969,
     "gameplayDescriptionId": "598579",
-    "gameplayClassDescriptionId": "1010305",
-    "guideItemId": 246,
     "maleLook": "{1|30||43}",
     "femaleLook": "{1|31||43}",
     "creatureBonesId": 17,
-    "maleArtwork": 203,
-    "femaleArtwork": 204,
     "statsPointsForStrength": [
       {
         "values": [
@@ -628,60 +595,52 @@
     ],
     "breedRoles": [
       {
-        "breedId": 3,
-        "roleId": 1,
-        "descriptionId": 598580,
-        "value": 8,
-        "order": 1
-      },
-      {
-        "breedId": 3,
-        "roleId": 2,
-        "descriptionId": 506524,
-        "value": 0,
-        "order": -1
-      },
-      {
-        "breedId": 3,
-        "roleId": 3,
-        "descriptionId": 506515,
-        "value": 4,
-        "order": -1
-      },
-      {
-        "breedId": 3,
-        "roleId": 4,
-        "descriptionId": 506516,
-        "value": 5,
-        "order": -1
-      },
-      {
-        "breedId": 3,
-        "roleId": 5,
-        "descriptionId": 506522,
-        "value": 5,
-        "order": -1
-      },
-      {
-        "breedId": 3,
-        "roleId": 6,
-        "descriptionId": 506521,
-        "value": 3,
-        "order": -1
-      },
-      {
-        "breedId": 3,
         "roleId": 7,
         "descriptionId": 1004994,
         "value": 6,
         "order": 2
       },
       {
-        "breedId": 3,
         "roleId": 8,
         "descriptionId": 1004995,
         "value": 6,
         "order": 3
+      },
+      {
+        "roleId": 4,
+        "descriptionId": 506516,
+        "value": 5,
+        "order": -1
+      },
+      {
+        "roleId": 6,
+        "descriptionId": 506521,
+        "value": 3,
+        "order": -1
+      },
+      {
+        "roleId": 5,
+        "descriptionId": 506522,
+        "value": 5,
+        "order": -1
+      },
+      {
+        "roleId": 1,
+        "descriptionId": 598580,
+        "value": 8,
+        "order": 1
+      },
+      {
+        "roleId": 2,
+        "descriptionId": 506524,
+        "value": 0,
+        "order": -1
+      },
+      {
+        "roleId": 3,
+        "descriptionId": 506515,
+        "value": 4,
+        "order": -1
       }
     ],
     "maleColors": [
@@ -700,23 +659,17 @@
       7814953,
       15588265
     ],
-    "spawnMap": 153093378,
     "complexity": 2,
     "sortIndex": 7
   },
   {
     "id": 4,
     "shortNameId": "701",
-    "longNameId": "116106",
     "descriptionId": 305965,
     "gameplayDescriptionId": "598617",
-    "gameplayClassDescriptionId": "1084674",
-    "guideItemId": 247,
     "maleLook": "{1|40||55}",
     "femaleLook": "{1|41||52}",
     "creatureBonesId": 18,
-    "maleArtwork": 205,
-    "femaleArtwork": 206,
     "statsPointsForStrength": [
       {
         "values": [
@@ -863,60 +816,52 @@
     ],
     "breedRoles": [
       {
-        "breedId": 4,
-        "roleId": 1,
-        "descriptionId": 1004986,
-        "value": 6,
-        "order": 2
-      },
-      {
-        "breedId": 4,
-        "roleId": 2,
-        "descriptionId": 506413,
-        "value": 2,
-        "order": -1
-      },
-      {
-        "breedId": 4,
-        "roleId": 3,
-        "descriptionId": 506416,
-        "value": 0,
-        "order": -1
-      },
-      {
-        "breedId": 4,
-        "roleId": 4,
-        "descriptionId": 506415,
-        "value": 2,
-        "order": -1
-      },
-      {
-        "breedId": 4,
-        "roleId": 5,
-        "descriptionId": 598619,
-        "value": 10,
-        "order": 1
-      },
-      {
-        "breedId": 4,
         "roleId": 6,
         "descriptionId": 1004953,
         "value": 7,
         "order": 3
       },
       {
-        "breedId": 4,
+        "roleId": 1,
+        "descriptionId": 1004986,
+        "value": 6,
+        "order": 2
+      },
+      {
+        "roleId": 8,
+        "descriptionId": 506409,
+        "value": 3,
+        "order": -1
+      },
+      {
+        "roleId": 3,
+        "descriptionId": 506416,
+        "value": 0,
+        "order": -1
+      },
+      {
+        "roleId": 4,
+        "descriptionId": 506415,
+        "value": 2,
+        "order": -1
+      },
+      {
+        "roleId": 2,
+        "descriptionId": 506413,
+        "value": 2,
+        "order": -1
+      },
+      {
         "roleId": 7,
         "descriptionId": 506414,
         "value": 1,
         "order": -1
       },
       {
-        "breedId": 4,
-        "roleId": 8,
-        "descriptionId": 506409,
-        "value": 3,
-        "order": -1
+        "roleId": 5,
+        "descriptionId": 598619,
+        "value": 10,
+        "order": 1
       }
     ],
     "maleColors": [
@@ -935,23 +880,17 @@
       3435918,
       15066306
     ],
-    "spawnMap": 153093378,
     "complexity": 2,
     "sortIndex": 8
   },
   {
     "id": 5,
     "shortNameId": "705",
-    "longNameId": "706",
     "descriptionId": 305960,
     "gameplayDescriptionId": "598627",
-    "gameplayClassDescriptionId": "1010380",
-    "guideItemId": 248,
     "maleLook": "{1|50||43}",
     "femaleLook": "{1|51||43}",
     "creatureBonesId": 22,
-    "maleArtwork": 207,
-    "femaleArtwork": 208,
     "statsPointsForStrength": [
       {
         "values": [
@@ -1098,59 +1037,51 @@
     ],
     "breedRoles": [
       {
-        "breedId": 5,
+        "roleId": 8,
+        "descriptionId": 506436,
+        "value": 4,
+        "order": -1
+      },
+      {
         "roleId": 1,
         "descriptionId": 598630,
         "value": 7,
         "order": 2
       },
       {
-        "breedId": 5,
-        "roleId": 2,
-        "descriptionId": 506463,
-        "value": 2,
-        "order": -1
-      },
-      {
-        "breedId": 5,
-        "roleId": 3,
-        "descriptionId": 506437,
-        "value": 0,
-        "order": -1
-      },
-      {
-        "breedId": 5,
-        "roleId": 4,
-        "descriptionId": 506429,
-        "value": 0,
-        "order": -1
-      },
-      {
-        "breedId": 5,
-        "roleId": 5,
-        "descriptionId": 598629,
-        "value": 7,
-        "order": 3
-      },
-      {
-        "breedId": 5,
         "roleId": 6,
         "descriptionId": 1004957,
         "value": 9,
         "order": 1
       },
       {
-        "breedId": 5,
         "roleId": 7,
         "descriptionId": 506462,
         "value": 2,
         "order": -1
       },
       {
-        "breedId": 5,
-        "roleId": 8,
-        "descriptionId": 506436,
-        "value": 4,
+        "roleId": 2,
+        "descriptionId": 506463,
+        "value": 2,
+        "order": -1
+      },
+      {
+        "roleId": 5,
+        "descriptionId": 598629,
+        "value": 7,
+        "order": 3
+      },
+      {
+        "roleId": 4,
+        "descriptionId": 506429,
+        "value": 0,
+        "order": -1
+      },
+      {
+        "roleId": 3,
+        "descriptionId": 506437,
+        "value": 0,
         "order": -1
       }
     ],
@@ -1170,23 +1101,17 @@
       15042816,
       12499369
     ],
-    "spawnMap": 153093378,
     "complexity": 5,
     "sortIndex": 19
   },
   {
     "id": 6,
     "shortNameId": "677",
-    "longNameId": "116109",
     "descriptionId": 969451,
     "gameplayDescriptionId": "598087",
-    "gameplayClassDescriptionId": "1086903",
-    "guideItemId": 249,
     "maleLook": "{1|60||58}",
     "femaleLook": "{1|61||57}",
     "creatureBonesId": 34,
-    "maleArtwork": 209,
-    "femaleArtwork": 210,
     "statsPointsForStrength": [
       {
         "values": [
@@ -1333,60 +1258,52 @@
     ],
     "breedRoles": [
       {
-        "breedId": 6,
         "roleId": 1,
         "descriptionId": 506420,
         "value": 4,
         "order": -1
       },
       {
-        "breedId": 6,
-        "roleId": 2,
-        "descriptionId": 506500,
-        "value": 0,
-        "order": -1
+        "roleId": 8,
+        "descriptionId": 1004931,
+        "value": 7,
+        "order": 2
       },
       {
-        "breedId": 6,
-        "roleId": 3,
-        "descriptionId": 506499,
-        "value": 2,
-        "order": -1
-      },
-      {
-        "breedId": 6,
-        "roleId": 4,
-        "descriptionId": 1004992,
-        "value": 6,
-        "order": 3
-      },
-      {
-        "breedId": 6,
-        "roleId": 5,
-        "descriptionId": 1004991,
-        "value": 9,
-        "order": 1
-      },
-      {
-        "breedId": 6,
-        "roleId": 6,
-        "descriptionId": 506502,
-        "value": 3,
-        "order": -1
-      },
-      {
-        "breedId": 6,
         "roleId": 7,
         "descriptionId": 506501,
         "value": 3,
         "order": -1
       },
       {
-        "breedId": 6,
-        "roleId": 8,
-        "descriptionId": 1004931,
-        "value": 7,
-        "order": 2
+        "roleId": 4,
+        "descriptionId": 1004992,
+        "value": 6,
+        "order": 3
+      },
+      {
+        "roleId": 6,
+        "descriptionId": 506502,
+        "value": 3,
+        "order": -1
+      },
+      {
+        "roleId": 3,
+        "descriptionId": 506499,
+        "value": 2,
+        "order": -1
+      },
+      {
+        "roleId": 5,
+        "descriptionId": 1004991,
+        "value": 9,
+        "order": 1
+      },
+      {
+        "roleId": 2,
+        "descriptionId": 506500,
+        "value": 0,
+        "order": -1
       }
     ],
     "maleColors": [
@@ -1405,23 +1322,17 @@
       7687730,
       14648576
     ],
-    "spawnMap": 153093378,
     "complexity": 4,
     "sortIndex": 16
   },
   {
     "id": 7,
     "shortNameId": "673",
-    "longNameId": "582016",
     "descriptionId": 305962,
     "gameplayDescriptionId": "598094",
-    "gameplayClassDescriptionId": "1063431",
-    "guideItemId": 250,
     "maleLook": "{1|70||43}",
     "femaleLook": "{1|71||43}",
     "creatureBonesId": 36,
-    "maleArtwork": 211,
-    "femaleArtwork": 212,
     "statsPointsForStrength": [
       {
         "values": [
@@ -1568,60 +1479,52 @@
     ],
     "breedRoles": [
       {
-        "breedId": 7,
-        "roleId": 1,
-        "descriptionId": 1009634,
-        "value": 9,
-        "order": 3
-      },
-      {
-        "breedId": 7,
-        "roleId": 2,
-        "descriptionId": 506497,
-        "value": 0,
-        "order": -1
-      },
-      {
-        "breedId": 7,
-        "roleId": 3,
-        "descriptionId": 506519,
-        "value": 2,
-        "order": -1
-      },
-      {
-        "breedId": 7,
-        "roleId": 4,
-        "descriptionId": 1009635,
-        "value": 12,
-        "order": 1
-      },
-      {
-        "breedId": 7,
-        "roleId": 5,
-        "descriptionId": 506503,
-        "value": 7,
-        "order": -1
-      },
-      {
-        "breedId": 7,
-        "roleId": 6,
-        "descriptionId": 506506,
-        "value": 5,
-        "order": -1
-      },
-      {
-        "breedId": 7,
         "roleId": 7,
         "descriptionId": 506496,
         "value": 5,
         "order": -1
       },
       {
-        "breedId": 7,
         "roleId": 8,
         "descriptionId": 1009636,
         "value": 9,
         "order": 2
+      },
+      {
+        "roleId": 6,
+        "descriptionId": 506506,
+        "value": 5,
+        "order": -1
+      },
+      {
+        "roleId": 4,
+        "descriptionId": 1009635,
+        "value": 12,
+        "order": 1
+      },
+      {
+        "roleId": 5,
+        "descriptionId": 506503,
+        "value": 7,
+        "order": -1
+      },
+      {
+        "roleId": 1,
+        "descriptionId": 1009634,
+        "value": 9,
+        "order": 3
+      },
+      {
+        "roleId": 2,
+        "descriptionId": 506497,
+        "value": 0,
+        "order": -1
+      },
+      {
+        "roleId": 3,
+        "descriptionId": 506519,
+        "value": 2,
+        "order": -1
       }
     ],
     "maleColors": [
@@ -1640,23 +1543,17 @@
       9799968,
       9791002
     ],
-    "spawnMap": 153093378,
     "complexity": 1,
     "sortIndex": 4
   },
   {
     "id": 8,
     "shortNameId": "693",
-    "longNameId": "806246",
     "descriptionId": 305967,
     "gameplayDescriptionId": "598592",
-    "gameplayClassDescriptionId": "836505",
-    "guideItemId": 251,
     "maleLook": "{1|80||55}",
     "femaleLook": "{1|81||53}",
     "creatureBonesId": 38,
-    "maleArtwork": 213,
-    "femaleArtwork": 214,
     "statsPointsForStrength": [
       {
         "values": [
@@ -1803,56 +1700,48 @@
     ],
     "breedRoles": [
       {
-        "breedId": 8,
         "roleId": 1,
         "descriptionId": 506465,
         "value": 2,
         "order": -1
       },
       {
-        "breedId": 8,
         "roleId": 2,
         "descriptionId": 506464,
         "value": 3,
         "order": -1
       },
       {
-        "breedId": 8,
-        "roleId": 3,
-        "descriptionId": 506486,
-        "value": 3,
-        "order": -1
-      },
-      {
-        "breedId": 8,
         "roleId": 4,
         "descriptionId": 506485,
         "value": 0,
         "order": -1
       },
       {
-        "breedId": 8,
-        "roleId": 5,
-        "descriptionId": 598594,
-        "value": 12,
-        "order": 1
-      },
-      {
-        "breedId": 8,
-        "roleId": 6,
-        "descriptionId": 1004963,
-        "value": 6,
-        "order": 3
-      },
-      {
-        "breedId": 8,
         "roleId": 7,
         "descriptionId": 506484,
         "value": 1,
         "order": -1
       },
       {
-        "breedId": 8,
+        "roleId": 3,
+        "descriptionId": 506486,
+        "value": 3,
+        "order": -1
+      },
+      {
+        "roleId": 6,
+        "descriptionId": 1004963,
+        "value": 6,
+        "order": 3
+      },
+      {
+        "roleId": 5,
+        "descriptionId": 598594,
+        "value": 12,
+        "order": 1
+      },
+      {
         "roleId": 8,
         "descriptionId": 1004961,
         "value": 8,
@@ -1875,23 +1764,17 @@
       12200764,
       12038292
     ],
-    "spawnMap": 153093378,
     "complexity": 1,
     "sortIndex": 1
   },
   {
     "id": 9,
     "shortNameId": "689",
-    "longNameId": "116108",
     "descriptionId": 305970,
     "gameplayDescriptionId": "598088",
-    "gameplayClassDescriptionId": "1010304",
-    "guideItemId": 252,
     "maleLook": "{1|90||53}",
     "femaleLook": "{1|91||52}",
     "creatureBonesId": 40,
-    "maleArtwork": 215,
-    "femaleArtwork": 216,
     "statsPointsForStrength": [
       {
         "values": [
@@ -2038,56 +1921,48 @@
     ],
     "breedRoles": [
       {
-        "breedId": 9,
-        "roleId": 1,
-        "descriptionId": 598074,
-        "value": 8,
-        "order": 2
-      },
-      {
-        "breedId": 9,
-        "roleId": 2,
-        "descriptionId": 506514,
-        "value": 0,
-        "order": -1
-      },
-      {
-        "breedId": 9,
-        "roleId": 3,
-        "descriptionId": 506509,
-        "value": 0,
-        "order": -1
-      },
-      {
-        "breedId": 9,
         "roleId": 4,
         "descriptionId": 506508,
         "value": 0,
         "order": -1
       },
       {
-        "breedId": 9,
-        "roleId": 5,
-        "descriptionId": 1004988,
-        "value": 10,
-        "order": 1
-      },
-      {
-        "breedId": 9,
-        "roleId": 6,
-        "descriptionId": 506511,
-        "value": 5,
+        "roleId": 2,
+        "descriptionId": 506514,
+        "value": 0,
         "order": -1
       },
       {
-        "breedId": 9,
         "roleId": 7,
         "descriptionId": 506507,
         "value": 2,
         "order": -1
       },
       {
-        "breedId": 9,
+        "roleId": 1,
+        "descriptionId": 598074,
+        "value": 8,
+        "order": 2
+      },
+      {
+        "roleId": 3,
+        "descriptionId": 506509,
+        "value": 0,
+        "order": -1
+      },
+      {
+        "roleId": 5,
+        "descriptionId": 1004988,
+        "value": 10,
+        "order": 1
+      },
+      {
+        "roleId": 6,
+        "descriptionId": 506511,
+        "value": 5,
+        "order": -1
+      },
+      {
         "roleId": 8,
         "descriptionId": 1004990,
         "value": 8,
@@ -2110,23 +1985,17 @@
       9392643,
       16422159
     ],
-    "spawnMap": 153093378,
     "complexity": 1,
     "sortIndex": 2
   },
   {
     "id": 10,
     "shortNameId": "661",
-    "longNameId": "662",
     "descriptionId": 305961,
     "gameplayDescriptionId": "598613",
-    "gameplayClassDescriptionId": "1087857",
-    "guideItemId": 253,
     "maleLook": "{1|100||58}",
     "femaleLook": "{1|101||55}",
     "creatureBonesId": 12,
-    "maleArtwork": 217,
-    "femaleArtwork": 218,
     "statsPointsForStrength": [
       {
         "values": [
@@ -2273,60 +2142,52 @@
     ],
     "breedRoles": [
       {
-        "breedId": 10,
-        "roleId": 1,
-        "descriptionId": 598615,
-        "value": 8,
-        "order": 2
-      },
-      {
-        "breedId": 10,
-        "roleId": 2,
-        "descriptionId": 506403,
-        "value": 0,
-        "order": -1
-      },
-      {
-        "breedId": 10,
-        "roleId": 3,
-        "descriptionId": 506398,
-        "value": 2,
-        "order": -1
-      },
-      {
-        "breedId": 10,
-        "roleId": 4,
-        "descriptionId": 1004950,
-        "value": 6,
-        "order": 3
-      },
-      {
-        "breedId": 10,
-        "roleId": 5,
-        "descriptionId": 511514,
-        "value": 5,
-        "order": -1
-      },
-      {
-        "breedId": 10,
         "roleId": 6,
         "descriptionId": 506404,
         "value": 1,
         "order": -1
       },
       {
-        "breedId": 10,
-        "roleId": 7,
-        "descriptionId": 598616,
-        "value": 10,
-        "order": 1
-      },
-      {
-        "breedId": 10,
         "roleId": 8,
         "descriptionId": 506399,
         "value": 0,
         "order": -1
+      },
+      {
+        "roleId": 3,
+        "descriptionId": 506398,
+        "value": 2,
+        "order": -1
+      },
+      {
+        "roleId": 2,
+        "descriptionId": 506403,
+        "value": 0,
+        "order": -1
+      },
+      {
+        "roleId": 4,
+        "descriptionId": 1004950,
+        "value": 6,
+        "order": 3
+      },
+      {
+        "roleId": 5,
+        "descriptionId": 511514,
+        "value": 5,
+        "order": -1
+      },
+      {
+        "roleId": 1,
+        "descriptionId": 598615,
+        "value": 8,
+        "order": 2
+      },
+      {
+        "roleId": 7,
+        "descriptionId": 598616,
+        "value": 10,
+        "order": 1
       }
     ],
     "maleColors": [
@@ -2345,23 +2206,17 @@
       15258276,
       15258276
     ],
-    "spawnMap": 153093378,
     "complexity": 3,
     "sortIndex": 12
   },
   {
     "id": 11,
     "shortNameId": "665",
-    "longNameId": "666",
     "descriptionId": 305964,
     "gameplayDescriptionId": "598609",
-    "gameplayClassDescriptionId": "883391",
-    "guideItemId": 254,
     "maleLook": "{1|110||55}",
     "femaleLook": "{1|111||53}",
     "creatureBonesId": 13,
-    "maleArtwork": 219,
-    "femaleArtwork": 220,
     "statsPointsForStrength": [
       {
         "values": [
@@ -2508,59 +2363,51 @@
     ],
     "breedRoles": [
       {
-        "breedId": 11,
-        "roleId": 1,
-        "descriptionId": 506448,
-        "value": 2,
-        "order": -1
-      },
-      {
-        "breedId": 11,
-        "roleId": 2,
-        "descriptionId": 1004946,
-        "value": 12,
-        "order": 1
-      },
-      {
-        "breedId": 11,
-        "roleId": 3,
-        "descriptionId": 506407,
-        "value": 6,
-        "order": -1
-      },
-      {
-        "breedId": 11,
-        "roleId": 4,
-        "descriptionId": 506408,
-        "value": 3,
-        "order": -1
-      },
-      {
-        "breedId": 11,
-        "roleId": 5,
-        "descriptionId": 1004945,
-        "value": 8,
-        "order": 2
-      },
-      {
-        "breedId": 11,
-        "roleId": 6,
-        "descriptionId": 1004948,
-        "value": 7,
-        "order": 3
-      },
-      {
-        "breedId": 11,
         "roleId": 7,
         "descriptionId": 506450,
         "value": 2,
         "order": -1
       },
       {
-        "breedId": 11,
+        "roleId": 1,
+        "descriptionId": 506448,
+        "value": 2,
+        "order": -1
+      },
+      {
+        "roleId": 5,
+        "descriptionId": 1004945,
+        "value": 8,
+        "order": 2
+      },
+      {
+        "roleId": 2,
+        "descriptionId": 1004946,
+        "value": 12,
+        "order": 1
+      },
+      {
         "roleId": 8,
         "descriptionId": 506406,
         "value": 2,
+        "order": -1
+      },
+      {
+        "roleId": 6,
+        "descriptionId": 1004948,
+        "value": 7,
+        "order": 3
+      },
+      {
+        "roleId": 3,
+        "descriptionId": 506407,
+        "value": 6,
+        "order": -1
+      },
+      {
+        "roleId": 4,
+        "descriptionId": 506408,
+        "value": 3,
         "order": -1
       }
     ],
@@ -2580,23 +2427,17 @@
       16422159,
       7750188
     ],
-    "spawnMap": 153093378,
     "complexity": 1,
     "sortIndex": 3
   },
   {
     "id": 12,
     "shortNameId": "669",
-    "longNameId": "576693",
     "descriptionId": 305959,
     "gameplayDescriptionId": "598601",
-    "gameplayClassDescriptionId": "969387",
-    "guideItemId": 255,
     "maleLook": "{1|120||57}",
     "femaleLook": "{1|121||53}",
     "creatureBonesId": 14,
-    "maleArtwork": 221,
-    "femaleArtwork": 222,
     "statsPointsForStrength": [
       {
         "values": [
@@ -2743,60 +2584,52 @@
     ],
     "breedRoles": [
       {
-        "breedId": 12,
-        "roleId": 1,
-        "descriptionId": 506438,
-        "value": 3,
-        "order": -1
-      },
-      {
-        "breedId": 12,
-        "roleId": 2,
-        "descriptionId": 1004943,
-        "value": 7,
-        "order": 3
-      },
-      {
-        "breedId": 12,
-        "roleId": 3,
-        "descriptionId": 506427,
-        "value": 1,
-        "order": -1
-      },
-      {
-        "breedId": 12,
-        "roleId": 4,
-        "descriptionId": 506423,
-        "value": 4,
-        "order": -1
-      },
-      {
-        "breedId": 12,
-        "roleId": 5,
-        "descriptionId": 598603,
-        "value": 8,
-        "order": 2
-      },
-      {
-        "breedId": 12,
         "roleId": 6,
         "descriptionId": 1004941,
         "value": 12,
         "order": 1
       },
       {
-        "breedId": 12,
+        "roleId": 8,
+        "descriptionId": 506428,
+        "value": 5,
+        "order": -1
+      },
+      {
+        "roleId": 2,
+        "descriptionId": 1004943,
+        "value": 7,
+        "order": 3
+      },
+      {
+        "roleId": 3,
+        "descriptionId": 506427,
+        "value": 1,
+        "order": -1
+      },
+      {
+        "roleId": 4,
+        "descriptionId": 506423,
+        "value": 4,
+        "order": -1
+      },
+      {
         "roleId": 7,
         "descriptionId": 506422,
         "value": 4,
         "order": -1
       },
       {
-        "breedId": 12,
-        "roleId": 8,
-        "descriptionId": 506428,
-        "value": 5,
+        "roleId": 1,
+        "descriptionId": 506438,
+        "value": 3,
         "order": -1
+      },
+      {
+        "roleId": 5,
+        "descriptionId": 598603,
+        "value": 8,
+        "order": 2
       }
     ],
     "maleColors": [
@@ -2815,23 +2648,17 @@
       14533780,
       9904435
     ],
-    "spawnMap": 153093378,
     "complexity": 3,
     "sortIndex": 11
   },
   {
     "id": 13,
     "shortNameId": "653",
-    "longNameId": "654",
     "descriptionId": 652,
     "gameplayDescriptionId": "598605",
-    "gameplayClassDescriptionId": "1010378",
-    "guideItemId": 256,
     "maleLook": "{1|1405||58}",
     "femaleLook": "{1|1407||55}",
     "creatureBonesId": 1537,
-    "maleArtwork": 1527,
-    "femaleArtwork": 1528,
     "statsPointsForStrength": [
       {
         "values": [
@@ -2978,60 +2805,52 @@
     ],
     "breedRoles": [
       {
-        "breedId": 13,
-        "roleId": 1,
-        "descriptionId": 598608,
-        "value": 6,
-        "order": 2
-      },
-      {
-        "breedId": 13,
-        "roleId": 2,
-        "descriptionId": 506459,
-        "value": 0,
-        "order": -1
-      },
-      {
-        "breedId": 13,
-        "roleId": 3,
-        "descriptionId": 506444,
-        "value": 0,
-        "order": -1
-      },
-      {
-        "breedId": 13,
-        "roleId": 4,
-        "descriptionId": 506443,
-        "value": 0,
-        "order": -1
-      },
-      {
-        "breedId": 13,
         "roleId": 5,
         "descriptionId": 598607,
         "value": 10,
         "order": 1
       },
       {
-        "breedId": 13,
-        "roleId": 6,
-        "descriptionId": 1004944,
-        "value": 7,
-        "order": 3
+        "roleId": 1,
+        "descriptionId": 598608,
+        "value": 6,
+        "order": 2
       },
       {
-        "breedId": 13,
         "roleId": 7,
         "descriptionId": 506461,
         "value": 5,
         "order": -1
       },
       {
-        "breedId": 13,
         "roleId": 8,
         "descriptionId": 506445,
         "value": 5,
         "order": -1
+      },
+      {
+        "roleId": 4,
+        "descriptionId": 506443,
+        "value": 0,
+        "order": -1
+      },
+      {
+        "roleId": 3,
+        "descriptionId": 506444,
+        "value": 0,
+        "order": -1
+      },
+      {
+        "roleId": 2,
+        "descriptionId": 506459,
+        "value": 0,
+        "order": -1
+      },
+      {
+        "roleId": 6,
+        "descriptionId": 1004944,
+        "value": 7,
+        "order": 3
       }
     ],
     "maleColors": [
@@ -3050,23 +2869,17 @@
       7098924,
       12499369
     ],
-    "spawnMap": 153093378,
     "complexity": 5,
     "sortIndex": 17
   },
   {
     "id": 14,
     "shortNameId": "657",
-    "longNameId": "658",
     "descriptionId": 656,
     "gameplayDescriptionId": "598631",
-    "gameplayClassDescriptionId": "888304",
-    "guideItemId": 257,
     "maleLook": "{1|1437||53}",
     "femaleLook": "{1|1438||52}",
     "creatureBonesId": 1538,
-    "maleArtwork": 1573,
-    "femaleArtwork": 1574,
     "statsPointsForStrength": [
       {
         "values": [
@@ -3213,60 +3026,52 @@
     ],
     "breedRoles": [
       {
-        "breedId": 14,
-        "roleId": 1,
-        "descriptionId": 506433,
-        "value": 5,
-        "order": -1
-      },
-      {
-        "breedId": 14,
-        "roleId": 2,
-        "descriptionId": 1004999,
-        "value": 7,
-        "order": 1
-      },
-      {
-        "breedId": 14,
-        "roleId": 3,
-        "descriptionId": 1005000,
-        "value": 7,
-        "order": 2
-      },
-      {
-        "breedId": 14,
-        "roleId": 4,
-        "descriptionId": 506430,
-        "value": 0,
-        "order": -1
-      },
-      {
-        "breedId": 14,
-        "roleId": 5,
-        "descriptionId": 1004998,
-        "value": 7,
-        "order": 3
-      },
-      {
-        "breedId": 14,
-        "roleId": 6,
-        "descriptionId": 506435,
-        "value": 5,
-        "order": -1
-      },
-      {
-        "breedId": 14,
         "roleId": 7,
         "descriptionId": 506431,
         "value": 1,
         "order": -1
       },
       {
-        "breedId": 14,
+        "roleId": 4,
+        "descriptionId": 506430,
+        "value": 0,
+        "order": -1
+      },
+      {
         "roleId": 8,
         "descriptionId": 506476,
         "value": 6,
         "order": -1
+      },
+      {
+        "roleId": 6,
+        "descriptionId": 506435,
+        "value": 5,
+        "order": -1
+      },
+      {
+        "roleId": 2,
+        "descriptionId": 1004999,
+        "value": 7,
+        "order": 1
+      },
+      {
+        "roleId": 1,
+        "descriptionId": 506433,
+        "value": 5,
+        "order": -1
+      },
+      {
+        "roleId": 5,
+        "descriptionId": 1004998,
+        "value": 7,
+        "order": 3
+      },
+      {
+        "roleId": 3,
+        "descriptionId": 1005000,
+        "value": 7,
+        "order": 2
       }
     ],
     "maleColors": [
@@ -3285,23 +3090,17 @@
       11839343,
       14077359
     ],
-    "spawnMap": 153093378,
     "complexity": 3,
     "sortIndex": 10
   },
   {
     "id": 15,
     "shortNameId": "92496",
-    "longNameId": "577202",
     "descriptionId": 112815,
     "gameplayDescriptionId": "601393",
-    "gameplayClassDescriptionId": "1086774",
-    "guideItemId": 258,
     "maleLook": "{1|1663||53}",
     "femaleLook": "{1|1664||52}",
     "creatureBonesId": 1886,
-    "maleArtwork": 1932,
-    "femaleArtwork": 1933,
     "statsPointsForStrength": [
       {
         "values": [
@@ -3448,56 +3247,48 @@
     ],
     "breedRoles": [
       {
-        "breedId": 15,
-        "roleId": 1,
-        "descriptionId": 506412,
-        "value": 3,
-        "order": -1
-      },
-      {
-        "breedId": 15,
-        "roleId": 2,
-        "descriptionId": 506456,
-        "value": 2,
-        "order": -1
-      },
-      {
-        "breedId": 15,
-        "roleId": 3,
-        "descriptionId": 506457,
-        "value": 3,
-        "order": -1
-      },
-      {
-        "breedId": 15,
         "roleId": 4,
         "descriptionId": 1004955,
         "value": 7,
         "order": 1
       },
       {
-        "breedId": 15,
-        "roleId": 5,
-        "descriptionId": 1004954,
-        "value": 7,
-        "order": 3
-      },
-      {
-        "breedId": 15,
-        "roleId": 6,
-        "descriptionId": 1004964,
-        "value": 7,
-        "order": 2
-      },
-      {
-        "breedId": 15,
         "roleId": 7,
         "descriptionId": 506455,
         "value": 6,
         "order": -1
       },
       {
-        "breedId": 15,
+        "roleId": 6,
+        "descriptionId": 1004964,
+        "value": 7,
+        "order": 2
+      },
+      {
+        "roleId": 1,
+        "descriptionId": 506412,
+        "value": 3,
+        "order": -1
+      },
+      {
+        "roleId": 5,
+        "descriptionId": 1004954,
+        "value": 7,
+        "order": 3
+      },
+      {
+        "roleId": 2,
+        "descriptionId": 506456,
+        "value": 2,
+        "order": -1
+      },
+      {
+        "roleId": 3,
+        "descriptionId": 506457,
+        "value": 3,
+        "order": -1
+      },
+      {
         "roleId": 8,
         "descriptionId": 506452,
         "value": 5,
@@ -3520,23 +3311,17 @@
       10984301,
       8100502
     ],
-    "spawnMap": 153093378,
     "complexity": 4,
     "sortIndex": 14
   },
   {
     "id": 16,
     "shortNameId": "504829",
-    "longNameId": "507144",
     "descriptionId": 504832,
     "gameplayDescriptionId": "598089",
-    "gameplayClassDescriptionId": "850531",
-    "guideItemId": 259,
     "maleLook": "{1|3179||53}",
     "femaleLook": "{1|3180||52}",
     "creatureBonesId": 3087,
-    "maleArtwork": 3089,
-    "femaleArtwork": 3090,
     "statsPointsForStrength": [
       {
         "values": [
@@ -3683,59 +3468,51 @@
     ],
     "breedRoles": [
       {
-        "breedId": 16,
-        "roleId": 1,
-        "descriptionId": 506489,
-        "value": 3,
-        "order": -1
-      },
-      {
-        "breedId": 16,
-        "roleId": 2,
-        "descriptionId": 506490,
-        "value": 0,
-        "order": -1
-      },
-      {
-        "breedId": 16,
         "roleId": 3,
         "descriptionId": 506493,
         "value": 0,
         "order": -1
       },
       {
-        "breedId": 16,
         "roleId": 4,
         "descriptionId": 1004934,
         "value": 6,
         "order": 3
       },
       {
-        "breedId": 16,
-        "roleId": 5,
-        "descriptionId": 598091,
-        "value": 7,
-        "order": 2
+        "roleId": 1,
+        "descriptionId": 506489,
+        "value": 3,
+        "order": -1
       },
       {
-        "breedId": 16,
         "roleId": 6,
         "descriptionId": 1004933,
         "value": 8,
         "order": 1
       },
       {
-        "breedId": 16,
-        "roleId": 7,
-        "descriptionId": 506491,
-        "value": 1,
+        "roleId": 2,
+        "descriptionId": 506490,
+        "value": 0,
         "order": -1
       },
       {
-        "breedId": 16,
+        "roleId": 5,
+        "descriptionId": 598091,
+        "value": 7,
+        "order": 2
+      },
+      {
         "roleId": 8,
         "descriptionId": 506494,
         "value": 5,
+        "order": -1
+      },
+      {
+        "roleId": 7,
+        "descriptionId": 506491,
+        "value": 1,
         "order": -1
       }
     ],
@@ -3755,23 +3532,17 @@
       2388929,
       12957582
     ],
-    "spawnMap": 153093378,
     "complexity": 5,
     "sortIndex": 18
   },
   {
     "id": 17,
     "shortNameId": "577229",
-    "longNameId": "577238",
     "descriptionId": 583059,
     "gameplayDescriptionId": "598588",
-    "gameplayClassDescriptionId": "1057739",
-    "guideItemId": 260,
     "maleLook": "{1|3285||53}",
     "femaleLook": "{1|3286||52}",
     "creatureBonesId": 3372,
-    "maleArtwork": 3374,
-    "femaleArtwork": 3375,
     "statsPointsForStrength": [
       {
         "values": [
@@ -3918,60 +3689,52 @@
     ],
     "breedRoles": [
       {
-        "breedId": 17,
-        "roleId": 1,
-        "descriptionId": 588552,
-        "value": 4,
-        "order": -1
-      },
-      {
-        "breedId": 17,
-        "roleId": 2,
-        "descriptionId": 588554,
-        "value": 4,
-        "order": -1
-      },
-      {
-        "breedId": 17,
-        "roleId": 3,
-        "descriptionId": 588555,
-        "value": 4,
-        "order": -1
-      },
-      {
-        "breedId": 17,
-        "roleId": 4,
-        "descriptionId": 588556,
-        "value": 4,
-        "order": -1
-      },
-      {
-        "breedId": 17,
         "roleId": 5,
         "descriptionId": 598591,
         "value": 7,
         "order": 1
       },
       {
-        "breedId": 17,
-        "roleId": 6,
-        "descriptionId": 1004936,
-        "value": 6,
-        "order": 2
-      },
-      {
-        "breedId": 17,
         "roleId": 7,
         "descriptionId": 588551,
         "value": 2,
         "order": -1
       },
       {
-        "breedId": 17,
+        "roleId": 4,
+        "descriptionId": 588556,
+        "value": 4,
+        "order": -1
+      },
+      {
+        "roleId": 3,
+        "descriptionId": 588555,
+        "value": 4,
+        "order": -1
+      },
+      {
+        "roleId": 2,
+        "descriptionId": 588554,
+        "value": 4,
+        "order": -1
+      },
+      {
+        "roleId": 6,
+        "descriptionId": 1004936,
+        "value": 6,
+        "order": 2
+      },
+      {
         "roleId": 8,
         "descriptionId": 598590,
         "value": 6,
         "order": 3
+      },
+      {
+        "roleId": 1,
+        "descriptionId": 588552,
+        "value": 4,
+        "order": -1
       }
     ],
     "maleColors": [
@@ -3990,23 +3753,17 @@
       15987438,
       16755757
     ],
-    "spawnMap": 153093378,
     "complexity": 4,
     "sortIndex": 15
   },
   {
     "id": 18,
     "shortNameId": "720113",
-    "longNameId": "720110",
     "descriptionId": 720111,
     "gameplayDescriptionId": "720112",
-    "gameplayClassDescriptionId": "1010381",
-    "guideItemId": 261,
     "maleLook": "{1|3498||58}",
     "femaleLook": "{1|3499||57}",
     "creatureBonesId": 3941,
-    "maleArtwork": 3374,
-    "femaleArtwork": 3375,
     "statsPointsForStrength": [
       {
         "values": [
@@ -4153,60 +3910,52 @@
     ],
     "breedRoles": [
       {
-        "breedId": 18,
-        "roleId": 1,
-        "descriptionId": 1004970,
-        "value": 5,
-        "order": 3
+        "roleId": 8,
+        "descriptionId": 718669,
+        "value": 4,
+        "order": -1
       },
       {
-        "breedId": 18,
         "roleId": 2,
         "descriptionId": 1004938,
         "value": 7,
         "order": 2
       },
       {
-        "breedId": 18,
-        "roleId": 3,
-        "descriptionId": 718667,
-        "value": 3,
-        "order": -1
-      },
-      {
-        "breedId": 18,
         "roleId": 4,
         "descriptionId": 718672,
         "value": 4,
         "order": -1
       },
       {
-        "breedId": 18,
-        "roleId": 5,
-        "descriptionId": 718673,
-        "value": 9,
-        "order": 1
-      },
-      {
-        "breedId": 18,
-        "roleId": 6,
-        "descriptionId": 718670,
+        "roleId": 3,
+        "descriptionId": 718667,
         "value": 3,
         "order": -1
       },
       {
-        "breedId": 18,
+        "roleId": 1,
+        "descriptionId": 1004970,
+        "value": 5,
+        "order": 3
+      },
+      {
         "roleId": 7,
         "descriptionId": 718671,
         "value": 2,
         "order": -1
       },
       {
-        "breedId": 18,
-        "roleId": 8,
-        "descriptionId": 718669,
-        "value": 4,
+        "roleId": 6,
+        "descriptionId": 718670,
+        "value": 3,
         "order": -1
+      },
+      {
+        "roleId": 5,
+        "descriptionId": 718673,
+        "value": 9,
+        "order": 1
       }
     ],
     "maleColors": [
@@ -4225,23 +3974,17 @@
       9717256,
       16756535
     ],
-    "spawnMap": 153093378,
     "complexity": 2,
     "sortIndex": 5
   },
   {
     "id": 20,
     "shortNameId": "970511",
-    "longNameId": "981534",
     "descriptionId": 982602,
     "gameplayDescriptionId": "950038",
-    "gameplayClassDescriptionId": "998985",
-    "guideItemId": 291,
     "maleLook": "{1|3221||55}",
     "femaleLook": "{1|3633||53}",
     "creatureBonesId": 7251,
-    "maleArtwork": 213,
-    "femaleArtwork": 214,
     "statsPointsForStrength": [
       {
         "values": [
@@ -4388,59 +4131,51 @@
     ],
     "breedRoles": [
       {
-        "breedId": 20,
-        "roleId": 1,
-        "descriptionId": 950043,
-        "value": 3,
-        "order": -1
-      },
-      {
-        "breedId": 20,
-        "roleId": 2,
-        "descriptionId": 950044,
-        "value": 2,
-        "order": -1
-      },
-      {
-        "breedId": 20,
-        "roleId": 3,
-        "descriptionId": 972189,
-        "value": 6,
-        "order": 3
-      },
-      {
-        "breedId": 20,
         "roleId": 4,
         "descriptionId": 950046,
         "value": 2,
         "order": -1
       },
       {
-        "breedId": 20,
-        "roleId": 5,
-        "descriptionId": 972188,
-        "value": 10,
-        "order": 1
+        "roleId": 3,
+        "descriptionId": 972189,
+        "value": 6,
+        "order": 3
       },
       {
-        "breedId": 20,
+        "roleId": 2,
+        "descriptionId": 950044,
+        "value": 2,
+        "order": -1
+      },
+      {
         "roleId": 6,
         "descriptionId": 972187,
         "value": 8,
         "order": 2
       },
       {
-        "breedId": 20,
-        "roleId": 7,
-        "descriptionId": 950045,
-        "value": 1,
-        "order": -1
-      },
-      {
-        "breedId": 20,
         "roleId": 8,
         "descriptionId": 972179,
         "value": 3,
+        "order": -1
+      },
+      {
+        "roleId": 5,
+        "descriptionId": 972188,
+        "value": 10,
+        "order": 1
+      },
+      {
+        "roleId": 1,
+        "descriptionId": 950043,
+        "value": 3,
+        "order": -1
+      },
+      {
+        "roleId": 7,
+        "descriptionId": 950045,
+        "value": 1,
         "order": -1
       }
     ],
@@ -4460,7 +4195,6 @@
       8885653,
       4209983
     ],
-    "spawnMap": 153093378,
     "complexity": 3,
     "sortIndex": 9
   }

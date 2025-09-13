@@ -1,6 +1,5 @@
 [
   {
-    "id": 11,
     "mapStage": 199,
     "mapCoordinateX": -8,
     "mapCoordinateY": 8,
@@ -8,7 +7,6 @@
     "exploredMapIcon": 458
   },
   {
-    "id": 12,
     "mapStage": 200,
     "mapCoordinateX": -6,
     "mapCoordinateY": 10,
@@ -16,7 +14,6 @@
     "exploredMapIcon": 459
   },
   {
-    "id": 13,
     "mapStage": 201,
     "mapCoordinateX": -5,
     "mapCoordinateY": 10,
@@ -24,7 +21,6 @@
     "exploredMapIcon": 458
   },
   {
-    "id": 14,
     "mapStage": 202,
     "mapCoordinateX": -4,
     "mapCoordinateY": 10,
@@ -32,7 +28,6 @@
     "exploredMapIcon": 460
   },
   {
-    "id": 15,
     "mapStage": 203,
     "mapCoordinateX": -3,
     "mapCoordinateY": 10,
@@ -40,7 +35,6 @@
     "exploredMapIcon": 458
   },
   {
-    "id": 16,
     "mapStage": 204,
     "mapCoordinateX": -2,
     "mapCoordinateY": 10,
@@ -48,7 +42,6 @@
     "exploredMapIcon": 458
   },
   {
-    "id": 17,
     "mapStage": 205,
     "mapCoordinateX": -2,
     "mapCoordinateY": 9,
@@ -56,7 +49,6 @@
     "exploredMapIcon": 459
   },
   {
-    "id": 18,
     "mapStage": 206,
     "mapCoordinateX": -1,
     "mapCoordinateY": 9,
@@ -64,7 +56,6 @@
     "exploredMapIcon": 459
   },
   {
-    "id": 19,
     "mapStage": 207,
     "mapCoordinateX": -1,
     "mapCoordinateY": 10,
@@ -72,7 +63,6 @@
     "exploredMapIcon": 458
   },
   {
-    "id": 20,
     "mapStage": 208,
     "mapCoordinateX": 0,
     "mapCoordinateY": 10,
@@ -80,7 +70,6 @@
     "exploredMapIcon": 460
   },
   {
-    "id": 21,
     "mapStage": 209,
     "mapCoordinateX": 0,
     "mapCoordinateY": 9,
@@ -88,7 +77,6 @@
     "exploredMapIcon": 458
   },
   {
-    "id": 22,
     "mapStage": 210,
     "mapCoordinateX": 1,
     "mapCoordinateY": 9,
@@ -96,7 +84,6 @@
     "exploredMapIcon": 460
   },
   {
-    "id": 23,
     "mapStage": 211,
     "mapCoordinateX": 1,
     "mapCoordinateY": 10,
@@ -104,7 +91,6 @@
     "exploredMapIcon": 459
   },
   {
-    "id": 24,
     "mapStage": 212,
     "mapCoordinateX": 2,
     "mapCoordinateY": 10,
@@ -112,7 +98,6 @@
     "exploredMapIcon": 460
   },
   {
-    "id": 25,
     "mapStage": 213,
     "mapCoordinateX": 3,
     "mapCoordinateY": 10,
@@ -120,7 +105,6 @@
     "exploredMapIcon": 460
   },
   {
-    "id": 26,
     "mapStage": 214,
     "mapCoordinateX": 4,
     "mapCoordinateY": 10,
@@ -128,7 +112,6 @@
     "exploredMapIcon": 458
   },
   {
-    "id": 27,
     "mapStage": 215,
     "mapCoordinateX": 4,
     "mapCoordinateY": 9,
@@ -136,7 +119,6 @@
     "exploredMapIcon": 459
   },
   {
-    "id": 28,
     "mapStage": 216,
     "mapCoordinateX": 3,
     "mapCoordinateY": 9,
@@ -144,7 +126,6 @@
     "exploredMapIcon": 460
   },
   {
-    "id": 29,
     "mapStage": 217,
     "mapCoordinateX": 2,
     "mapCoordinateY": 9,
@@ -152,7 +133,6 @@
     "exploredMapIcon": 459
   },
   {
-    "id": 30,
     "mapStage": 218,
     "mapCoordinateX": 2,
     "mapCoordinateY": 8,
@@ -160,7 +140,6 @@
     "exploredMapIcon": 459
   },
   {
-    "id": 31,
     "mapStage": 219,
     "mapCoordinateX": 3,
     "mapCoordinateY": 8,
@@ -168,7 +147,6 @@
     "exploredMapIcon": 459
   },
   {
-    "id": 32,
     "mapStage": 220,
     "mapCoordinateX": 3,
     "mapCoordinateY": 7,
@@ -176,7 +154,6 @@
     "exploredMapIcon": 460
   },
   {
-    "id": 33,
     "mapStage": 221,
     "mapCoordinateX": 4,
     "mapCoordinateY": 7,
@@ -184,7 +161,6 @@
     "exploredMapIcon": 458
   },
   {
-    "id": 34,
     "mapStage": 222,
     "mapCoordinateX": 4,
     "mapCoordinateY": 8,
@@ -192,7 +168,6 @@
     "exploredMapIcon": 458
   },
   {
-    "id": 35,
     "mapStage": 223,
     "mapCoordinateX": 5,
     "mapCoordinateY": 8,
@@ -200,7 +175,6 @@
     "exploredMapIcon": 458
   },
   {
-    "id": 36,
     "mapStage": 224,
     "mapCoordinateX": 5,
     "mapCoordinateY": 9,
@@ -208,7 +182,6 @@
     "exploredMapIcon": 460
   },
   {
-    "id": 37,
     "mapStage": 225,
     "mapCoordinateX": 6,
     "mapCoordinateY": 9,
@@ -216,7 +189,6 @@
     "exploredMapIcon": 459
   },
   {
-    "id": 38,
     "mapStage": 226,
     "mapCoordinateX": 6,
     "mapCoordinateY": 8,
@@ -224,7 +196,6 @@
     "exploredMapIcon": 458
   },
   {
-    "id": 39,
     "mapStage": 227,
     "mapCoordinateX": 6,
     "mapCoordinateY": 7,
@@ -232,7 +203,6 @@
     "exploredMapIcon": 458
   },
   {
-    "id": 40,
     "mapStage": 228,
     "mapCoordinateX": 5,
     "mapCoordinateY": 7,
@@ -240,7 +210,6 @@
     "exploredMapIcon": 460
   },
   {
-    "id": 41,
     "mapStage": 229,
     "mapCoordinateX": 5,
     "mapCoordinateY": 6,
@@ -248,7 +217,6 @@
     "exploredMapIcon": 460
   },
   {
-    "id": 42,
     "mapStage": 230,
     "mapCoordinateX": 6,
     "mapCoordinateY": 6,
@@ -256,7 +224,6 @@
     "exploredMapIcon": 461
   },
   {
-    "id": 43,
     "mapStage": 231,
     "mapCoordinateX": 6,
     "mapCoordinateY": 5,
@@ -264,7 +231,6 @@
     "exploredMapIcon": 463
   },
   {
-    "id": 44,
     "mapStage": 232,
     "mapCoordinateX": 7,
     "mapCoordinateY": 5,
@@ -272,7 +238,6 @@
     "exploredMapIcon": 463
   },
   {
-    "id": 45,
     "mapStage": 233,
     "mapCoordinateX": 7,
     "mapCoordinateY": 6,
@@ -280,7 +245,6 @@
     "exploredMapIcon": 461
   },
   {
-    "id": 46,
     "mapStage": 234,
     "mapCoordinateX": 7,
     "mapCoordinateY": 7,
@@ -288,7 +252,6 @@
     "exploredMapIcon": 462
   },
   {
-    "id": 47,
     "mapStage": 235,
     "mapCoordinateX": 7,
     "mapCoordinateY": 8,
@@ -296,7 +259,6 @@
     "exploredMapIcon": 463
   },
   {
-    "id": 48,
     "mapStage": 236,
     "mapCoordinateX": 8,
     "mapCoordinateY": 8,
@@ -304,7 +266,6 @@
     "exploredMapIcon": 462
   },
   {
-    "id": 49,
     "mapStage": 237,
     "mapCoordinateX": 8,
     "mapCoordinateY": 7,
@@ -312,7 +273,6 @@
     "exploredMapIcon": 461
   },
   {
-    "id": 50,
     "mapStage": 238,
     "mapCoordinateX": 8,
     "mapCoordinateY": 6,
@@ -320,7 +280,6 @@
     "exploredMapIcon": 463
   },
   {
-    "id": 51,
     "mapStage": 239,
     "mapCoordinateX": 9,
     "mapCoordinateY": 6,
@@ -328,7 +287,6 @@
     "exploredMapIcon": 463
   },
   {
-    "id": 52,
     "mapStage": 240,
     "mapCoordinateX": 9,
     "mapCoordinateY": 5,
@@ -336,7 +294,6 @@
     "exploredMapIcon": 463
   },
   {
-    "id": 53,
     "mapStage": 241,
     "mapCoordinateX": 8,
     "mapCoordinateY": 5,
@@ -344,7 +301,6 @@
     "exploredMapIcon": 461
   },
   {
-    "id": 54,
     "mapStage": 242,
     "mapCoordinateX": 8,
     "mapCoordinateY": 4,
@@ -352,7 +308,6 @@
     "exploredMapIcon": 461
   },
   {
-    "id": 55,
     "mapStage": 243,
     "mapCoordinateX": 8,
     "mapCoordinateY": 3,
@@ -360,7 +315,6 @@
     "exploredMapIcon": 461
   },
   {
-    "id": 56,
     "mapStage": 244,
     "mapCoordinateX": 9,
     "mapCoordinateY": 3,
@@ -368,7 +322,6 @@
     "exploredMapIcon": 462
   },
   {
-    "id": 57,
     "mapStage": 245,
     "mapCoordinateX": 9,
     "mapCoordinateY": 4,
@@ -376,7 +329,6 @@
     "exploredMapIcon": 461
   },
   {
-    "id": 58,
     "mapStage": 246,
     "mapCoordinateX": 10,
     "mapCoordinateY": 4,
@@ -384,7 +336,6 @@
     "exploredMapIcon": 461
   },
   {
-    "id": 59,
     "mapStage": 247,
     "mapCoordinateX": 10,
     "mapCoordinateY": 3,
@@ -392,7 +343,6 @@
     "exploredMapIcon": 462
   },
   {
-    "id": 60,
     "mapStage": 248,
     "mapCoordinateX": 10,
     "mapCoordinateY": 2,
@@ -400,7 +350,6 @@
     "exploredMapIcon": 462
   },
   {
-    "id": 61,
     "mapStage": 249,
     "mapCoordinateX": 10,
     "mapCoordinateY": 1,
@@ -408,7 +357,6 @@
     "exploredMapIcon": 463
   },
   {
-    "id": 62,
     "mapStage": 250,
     "mapCoordinateX": 10,
     "mapCoordinateY": 0,
@@ -416,7 +364,6 @@
     "exploredMapIcon": 461
   },
   {
-    "id": 63,
     "mapStage": 251,
     "mapCoordinateX": 9,
     "mapCoordinateY": 0,
@@ -424,7 +371,6 @@
     "exploredMapIcon": 461
   },
   {
-    "id": 64,
     "mapStage": 252,
     "mapCoordinateX": 9,
     "mapCoordinateY": 1,
@@ -432,7 +378,6 @@
     "exploredMapIcon": 461
   },
   {
-    "id": 65,
     "mapStage": 253,
     "mapCoordinateX": 9,
     "mapCoordinateY": 2,
@@ -440,7 +385,6 @@
     "exploredMapIcon": 463
   },
   {
-    "id": 66,
     "mapStage": 254,
     "mapCoordinateX": 8,
     "mapCoordinateY": 2,
@@ -448,7 +392,6 @@
     "exploredMapIcon": 461
   },
   {
-    "id": 67,
     "mapStage": 255,
     "mapCoordinateX": 8,
     "mapCoordinateY": 1,
@@ -456,7 +399,6 @@
     "exploredMapIcon": 463
   },
   {
-    "id": 68,
     "mapStage": 256,
     "mapCoordinateX": 8,
     "mapCoordinateY": 0,
@@ -464,7 +406,6 @@
     "exploredMapIcon": 463
   },
   {
-    "id": 69,
     "mapStage": 257,
     "mapCoordinateX": 8,
     "mapCoordinateY": -1,
@@ -472,7 +413,6 @@
     "exploredMapIcon": 462
   },
   {
-    "id": 70,
     "mapStage": 258,
     "mapCoordinateX": 9,
     "mapCoordinateY": -1,
@@ -480,7 +420,6 @@
     "exploredMapIcon": 461
   },
   {
-    "id": 71,
     "mapStage": 259,
     "mapCoordinateX": 10,
     "mapCoordinateY": -1,
@@ -488,7 +427,6 @@
     "exploredMapIcon": 463
   },
   {
-    "id": 72,
     "mapStage": 260,
     "mapCoordinateX": 10,
     "mapCoordinateY": -2,
@@ -496,7 +434,6 @@
     "exploredMapIcon": 462
   },
   {
-    "id": 73,
     "mapStage": 261,
     "mapCoordinateX": 9,
     "mapCoordinateY": -2,
@@ -504,7 +441,6 @@
     "exploredMapIcon": 461
   },
   {
-    "id": 74,
     "mapStage": 262,
     "mapCoordinateX": 8,
     "mapCoordinateY": -2,
@@ -512,7 +448,6 @@
     "exploredMapIcon": 461
   },
   {
-    "id": 75,
     "mapStage": 263,
     "mapCoordinateX": 8,
     "mapCoordinateY": -3,
@@ -520,7 +455,6 @@
     "exploredMapIcon": 463
   },
   {
-    "id": 76,
     "mapStage": 264,
     "mapCoordinateX": 9,
     "mapCoordinateY": -3,
@@ -528,7 +462,6 @@
     "exploredMapIcon": 463
   },
   {
-    "id": 77,
     "mapStage": 265,
     "mapCoordinateX": 9,
     "mapCoordinateY": -4,
@@ -536,7 +469,6 @@
     "exploredMapIcon": 462
   },
   {
-    "id": 78,
     "mapStage": 266,
     "mapCoordinateX": 8,
     "mapCoordinateY": -4,
@@ -544,7 +476,6 @@
     "exploredMapIcon": 463
   },
   {
-    "id": 79,
     "mapStage": 267,
     "mapCoordinateX": 8,
     "mapCoordinateY": -5,
@@ -552,7 +483,6 @@
     "exploredMapIcon": 461
   },
   {
-    "id": 80,
     "mapStage": 268,
     "mapCoordinateX": 7,
     "mapCoordinateY": -5,
@@ -560,7 +490,6 @@
     "exploredMapIcon": 463
   },
   {
-    "id": 81,
     "mapStage": 269,
     "mapCoordinateX": 6,
     "mapCoordinateY": -5,
@@ -568,7 +497,6 @@
     "exploredMapIcon": 463
   },
   {
-    "id": 82,
     "mapStage": 270,
     "mapCoordinateX": 6,
     "mapCoordinateY": -6,
@@ -576,7 +504,6 @@
     "exploredMapIcon": 451
   },
   {
-    "id": 83,
     "mapStage": 271,
     "mapCoordinateX": 5,
     "mapCoordinateY": -6,
@@ -584,7 +511,6 @@
     "exploredMapIcon": 451
   },
   {
-    "id": 84,
     "mapStage": 272,
     "mapCoordinateX": 4,
     "mapCoordinateY": -6,
@@ -592,7 +518,6 @@
     "exploredMapIcon": 453
   },
   {
-    "id": 85,
     "mapStage": 273,
     "mapCoordinateX": 3,
     "mapCoordinateY": -6,
@@ -600,7 +525,6 @@
     "exploredMapIcon": 453
   },
   {
-    "id": 86,
     "mapStage": 274,
     "mapCoordinateX": 2,
     "mapCoordinateY": -6,
@@ -608,7 +532,6 @@
     "exploredMapIcon": 452
   },
   {
-    "id": 87,
     "mapStage": 275,
     "mapCoordinateX": 2,
     "mapCoordinateY": -7,
@@ -616,7 +539,6 @@
     "exploredMapIcon": 452
   },
   {
-    "id": 88,
     "mapStage": 276,
     "mapCoordinateX": 1,
     "mapCoordinateY": -7,
@@ -624,7 +546,6 @@
     "exploredMapIcon": 453
   },
   {
-    "id": 89,
     "mapStage": 277,
     "mapCoordinateX": 1,
     "mapCoordinateY": -6,
@@ -632,7 +553,6 @@
     "exploredMapIcon": 451
   },
   {
-    "id": 90,
     "mapStage": 278,
     "mapCoordinateX": 0,
     "mapCoordinateY": -6,
@@ -640,7 +560,6 @@
     "exploredMapIcon": 451
   },
   {
-    "id": 91,
     "mapStage": 279,
     "mapCoordinateX": 0,
     "mapCoordinateY": -7,
@@ -648,7 +567,6 @@
     "exploredMapIcon": 453
   },
   {
-    "id": 92,
     "mapStage": 280,
     "mapCoordinateX": -1,
     "mapCoordinateY": -7,
@@ -656,7 +574,6 @@
     "exploredMapIcon": 452
   },
   {
-    "id": 93,
     "mapStage": 281,
     "mapCoordinateX": -1,
     "mapCoordinateY": -6,
@@ -664,7 +581,6 @@
     "exploredMapIcon": 451
   },
   {
-    "id": 94,
     "mapStage": 282,
     "mapCoordinateX": -2,
     "mapCoordinateY": -6,
@@ -672,7 +588,6 @@
     "exploredMapIcon": 451
   },
   {
-    "id": 95,
     "mapStage": 283,
     "mapCoordinateX": -2,
     "mapCoordinateY": -7,
@@ -680,7 +595,6 @@
     "exploredMapIcon": 452
   },
   {
-    "id": 96,
     "mapStage": 284,
     "mapCoordinateX": -3,
     "mapCoordinateY": -7,
@@ -688,7 +602,6 @@
     "exploredMapIcon": 452
   },
   {
-    "id": 97,
     "mapStage": 285,
     "mapCoordinateX": -3,
     "mapCoordinateY": -6,
@@ -696,7 +609,6 @@
     "exploredMapIcon": 452
   },
   {
-    "id": 98,
     "mapStage": 286,
     "mapCoordinateX": -3,
     "mapCoordinateY": -5,
@@ -704,7 +616,6 @@
     "exploredMapIcon": 451
   },
   {
-    "id": 99,
     "mapStage": 287,
     "mapCoordinateX": -4,
     "mapCoordinateY": -5,
@@ -712,7 +623,6 @@
     "exploredMapIcon": 451
   },
   {
-    "id": 100,
     "mapStage": 288,
     "mapCoordinateX": -4,
     "mapCoordinateY": -6,
@@ -720,7 +630,6 @@
     "exploredMapIcon": 453
   },
   {
-    "id": 101,
     "mapStage": 289,
     "mapCoordinateX": -5,
     "mapCoordinateY": -6,
@@ -728,7 +637,6 @@
     "exploredMapIcon": 452
   },
   {
-    "id": 102,
     "mapStage": 290,
     "mapCoordinateX": -5,
     "mapCoordinateY": -5,
@@ -736,7 +644,6 @@
     "exploredMapIcon": 453
   },
   {
-    "id": 103,
     "mapStage": 291,
     "mapCoordinateX": -6,
     "mapCoordinateY": -5,
@@ -744,7 +651,6 @@
     "exploredMapIcon": 451
   },
   {
-    "id": 104,
     "mapStage": 292,
     "mapCoordinateX": -6,
     "mapCoordinateY": -4,
@@ -752,7 +658,6 @@
     "exploredMapIcon": 451
   },
   {
-    "id": 105,
     "mapStage": 293,
     "mapCoordinateX": -5,
     "mapCoordinateY": -4,
@@ -760,7 +665,6 @@
     "exploredMapIcon": 453
   },
   {
-    "id": 106,
     "mapStage": 294,
     "mapCoordinateX": -5,
     "mapCoordinateY": -3,
@@ -768,7 +672,6 @@
     "exploredMapIcon": 452
   },
   {
-    "id": 107,
     "mapStage": 295,
     "mapCoordinateX": -6,
     "mapCoordinateY": -3,
@@ -776,7 +679,6 @@
     "exploredMapIcon": 453
   },
   {
-    "id": 108,
     "mapStage": 296,
     "mapCoordinateX": -7,
     "mapCoordinateY": -3,
@@ -784,7 +686,6 @@
     "exploredMapIcon": 451
   },
   {
-    "id": 109,
     "mapStage": 297,
     "mapCoordinateX": -7,
     "mapCoordinateY": -2,
@@ -792,7 +693,6 @@
     "exploredMapIcon": 453
   },
   {
-    "id": 110,
     "mapStage": 298,
     "mapCoordinateX": -6,
     "mapCoordinateY": -2,
@@ -800,7 +700,6 @@
     "exploredMapIcon": 452
   },
   {
-    "id": 111,
     "mapStage": 299,
     "mapCoordinateX": -6,
     "mapCoordinateY": -1,
@@ -808,7 +707,6 @@
     "exploredMapIcon": 452
   },
   {
-    "id": 112,
     "mapStage": 300,
     "mapCoordinateX": -6,
     "mapCoordinateY": 0,
@@ -816,7 +714,6 @@
     "exploredMapIcon": 452
   },
   {
-    "id": 113,
     "mapStage": 301,
     "mapCoordinateX": -6,
     "mapCoordinateY": 1,
@@ -824,7 +721,6 @@
     "exploredMapIcon": 452
   },
   {
-    "id": 114,
     "mapStage": 302,
     "mapCoordinateX": -7,
     "mapCoordinateY": 1,
@@ -832,7 +728,6 @@
     "exploredMapIcon": 451
   },
   {
-    "id": 115,
     "mapStage": 303,
     "mapCoordinateX": -7,
     "mapCoordinateY": 0,
@@ -840,7 +735,6 @@
     "exploredMapIcon": 451
   },
   {
-    "id": 116,
     "mapStage": 304,
     "mapCoordinateX": -7,
     "mapCoordinateY": -1,
@@ -848,7 +742,6 @@
     "exploredMapIcon": 451
   },
   {
-    "id": 117,
     "mapStage": 305,
     "mapCoordinateX": -8,
     "mapCoordinateY": -1,
@@ -856,7 +749,6 @@
     "exploredMapIcon": 453
   },
   {
-    "id": 118,
     "mapStage": 306,
     "mapCoordinateX": -8,
     "mapCoordinateY": 0,
@@ -864,7 +756,6 @@
     "exploredMapIcon": 452
   },
   {
-    "id": 119,
     "mapStage": 307,
     "mapCoordinateX": -8,
     "mapCoordinateY": 1,
@@ -872,7 +763,6 @@
     "exploredMapIcon": 452
   },
   {
-    "id": 120,
     "mapStage": 308,
     "mapCoordinateX": -8,
     "mapCoordinateY": 2,
@@ -880,7 +770,6 @@
     "exploredMapIcon": 451
   },
   {
-    "id": 121,
     "mapStage": 309,
     "mapCoordinateX": -7,
     "mapCoordinateY": 2,
@@ -888,7 +777,6 @@
     "exploredMapIcon": 453
   },
   {
-    "id": 122,
     "mapStage": 310,
     "mapCoordinateX": -7,
     "mapCoordinateY": 3,
@@ -896,7 +784,6 @@
     "exploredMapIcon": 451
   },
   {
-    "id": 123,
     "mapStage": 311,
     "mapCoordinateX": -7,
     "mapCoordinateY": 4,
@@ -904,7 +791,6 @@
     "exploredMapIcon": 453
   },
   {
-    "id": 124,
     "mapStage": 312,
     "mapCoordinateX": -6,
     "mapCoordinateY": 4,
@@ -912,7 +798,6 @@
     "exploredMapIcon": 453
   },
   {
-    "id": 125,
     "mapStage": 313,
     "mapCoordinateX": -6,
     "mapCoordinateY": 3,
@@ -920,7 +805,6 @@
     "exploredMapIcon": 452
   },
   {
-    "id": 126,
     "mapStage": 314,
     "mapCoordinateX": -6,
     "mapCoordinateY": 2,
@@ -928,7 +812,6 @@
     "exploredMapIcon": 451
   },
   {
-    "id": 127,
     "mapStage": 315,
     "mapCoordinateX": -5,
     "mapCoordinateY": 2,
@@ -936,7 +819,6 @@
     "exploredMapIcon": 451
   },
   {
-    "id": 128,
     "mapStage": 316,
     "mapCoordinateX": -5,
     "mapCoordinateY": 3,
@@ -944,7 +826,6 @@
     "exploredMapIcon": 451
   },
   {
-    "id": 129,
     "mapStage": 317,
     "mapCoordinateX": -4,
     "mapCoordinateY": 3,
@@ -952,7 +833,6 @@
     "exploredMapIcon": 453
   },
   {
-    "id": 130,
     "mapStage": 318,
     "mapCoordinateX": -4,
     "mapCoordinateY": 4,
@@ -960,7 +840,6 @@
     "exploredMapIcon": 452
   },
   {
-    "id": 131,
     "mapStage": 319,
     "mapCoordinateX": -5,
     "mapCoordinateY": 4,
@@ -968,7 +847,6 @@
     "exploredMapIcon": 451
   },
   {
-    "id": 132,
     "mapStage": 320,
     "mapCoordinateX": -5,
     "mapCoordinateY": 5,
@@ -976,7 +854,6 @@
     "exploredMapIcon": 451
   },
   {
-    "id": 133,
     "mapStage": 321,
     "mapCoordinateX": -6,
     "mapCoordinateY": 5,
@@ -984,7 +861,6 @@
     "exploredMapIcon": 452
   },
   {
-    "id": 134,
     "mapStage": 322,
     "mapCoordinateX": -6,
     "mapCoordinateY": 6,
@@ -992,7 +868,6 @@
     "exploredMapIcon": 452
   },
   {
-    "id": 135,
     "mapStage": 323,
     "mapCoordinateX": -5,
     "mapCoordinateY": 6,
@@ -1000,7 +875,6 @@
     "exploredMapIcon": 451
   },
   {
-    "id": 136,
     "mapStage": 324,
     "mapCoordinateX": -5,
     "mapCoordinateY": 7,
@@ -1008,7 +882,6 @@
     "exploredMapIcon": 453
   },
   {
-    "id": 137,
     "mapStage": 325,
     "mapCoordinateX": -4,
     "mapCoordinateY": 7,
@@ -1016,7 +889,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 138,
     "mapStage": 326,
     "mapCoordinateX": -4,
     "mapCoordinateY": 6,
@@ -1024,7 +896,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 139,
     "mapStage": 327,
     "mapCoordinateX": -4,
     "mapCoordinateY": 5,
@@ -1032,7 +903,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 140,
     "mapStage": 328,
     "mapCoordinateX": -3,
     "mapCoordinateY": 5,
@@ -1040,7 +910,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 141,
     "mapStage": 329,
     "mapCoordinateX": -3,
     "mapCoordinateY": 4,
@@ -1048,7 +917,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 142,
     "mapStage": 330,
     "mapCoordinateX": -2,
     "mapCoordinateY": 4,
@@ -1056,7 +924,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 143,
     "mapStage": 331,
     "mapCoordinateX": -2,
     "mapCoordinateY": 5,
@@ -1064,7 +931,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 144,
     "mapStage": 332,
     "mapCoordinateX": -2,
     "mapCoordinateY": 6,
@@ -1072,7 +938,6 @@
     "exploredMapIcon": 457
   },
   {
-    "id": 145,
     "mapStage": 333,
     "mapCoordinateX": -3,
     "mapCoordinateY": 6,
@@ -1080,7 +945,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 146,
     "mapStage": 334,
     "mapCoordinateX": -3,
     "mapCoordinateY": 7,
@@ -1088,7 +952,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 147,
     "mapStage": 335,
     "mapCoordinateX": -2,
     "mapCoordinateY": 7,
@@ -1096,7 +959,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 148,
     "mapStage": 336,
     "mapCoordinateX": -1,
     "mapCoordinateY": 7,
@@ -1104,7 +966,6 @@
     "exploredMapIcon": 457
   },
   {
-    "id": 149,
     "mapStage": 337,
     "mapCoordinateX": -1,
     "mapCoordinateY": 6,
@@ -1112,7 +973,6 @@
     "exploredMapIcon": 457
   },
   {
-    "id": 150,
     "mapStage": 338,
     "mapCoordinateX": -1,
     "mapCoordinateY": 5,
@@ -1120,7 +980,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 151,
     "mapStage": 339,
     "mapCoordinateX": -1,
     "mapCoordinateY": 4,
@@ -1128,7 +987,6 @@
     "exploredMapIcon": 457
   },
   {
-    "id": 152,
     "mapStage": 340,
     "mapCoordinateX": 0,
     "mapCoordinateY": 4,
@@ -1136,7 +994,6 @@
     "exploredMapIcon": 457
   },
   {
-    "id": 153,
     "mapStage": 341,
     "mapCoordinateX": 0,
     "mapCoordinateY": 5,
@@ -1144,7 +1001,6 @@
     "exploredMapIcon": 457
   },
   {
-    "id": 154,
     "mapStage": 342,
     "mapCoordinateX": 0,
     "mapCoordinateY": 6,
@@ -1152,7 +1008,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 155,
     "mapStage": 343,
     "mapCoordinateX": 1,
     "mapCoordinateY": 6,
@@ -1160,7 +1015,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 156,
     "mapStage": 344,
     "mapCoordinateX": 1,
     "mapCoordinateY": 5,
@@ -1168,7 +1022,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 157,
     "mapStage": 345,
     "mapCoordinateX": 1,
     "mapCoordinateY": 4,
@@ -1176,7 +1029,6 @@
     "exploredMapIcon": 457
   },
   {
-    "id": 158,
     "mapStage": 346,
     "mapCoordinateX": 2,
     "mapCoordinateY": 4,
@@ -1184,7 +1036,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 159,
     "mapStage": 347,
     "mapCoordinateX": 2,
     "mapCoordinateY": 5,
@@ -1192,7 +1043,6 @@
     "exploredMapIcon": 457
   },
   {
-    "id": 160,
     "mapStage": 348,
     "mapCoordinateX": 3,
     "mapCoordinateY": 5,
@@ -1200,7 +1050,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 161,
     "mapStage": 349,
     "mapCoordinateX": 3,
     "mapCoordinateY": 4,
@@ -1208,7 +1057,6 @@
     "exploredMapIcon": 457
   },
   {
-    "id": 162,
     "mapStage": 350,
     "mapCoordinateX": 4,
     "mapCoordinateY": 4,
@@ -1216,7 +1064,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 163,
     "mapStage": 351,
     "mapCoordinateX": 4,
     "mapCoordinateY": 3,
@@ -1224,7 +1071,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 164,
     "mapStage": 352,
     "mapCoordinateX": 5,
     "mapCoordinateY": 3,
@@ -1232,7 +1078,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 165,
     "mapStage": 353,
     "mapCoordinateX": 5,
     "mapCoordinateY": 2,
@@ -1240,7 +1085,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 166,
     "mapStage": 354,
     "mapCoordinateX": 6,
     "mapCoordinateY": 2,
@@ -1248,7 +1092,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 167,
     "mapStage": 355,
     "mapCoordinateX": 6,
     "mapCoordinateY": 1,
@@ -1256,7 +1099,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 168,
     "mapStage": 356,
     "mapCoordinateX": 6,
     "mapCoordinateY": 0,
@@ -1264,7 +1106,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 169,
     "mapStage": 357,
     "mapCoordinateX": 6,
     "mapCoordinateY": -1,
@@ -1272,7 +1113,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 170,
     "mapStage": 358,
     "mapCoordinateX": 6,
     "mapCoordinateY": -2,
@@ -1280,7 +1120,6 @@
     "exploredMapIcon": 457
   },
   {
-    "id": 171,
     "mapStage": 359,
     "mapCoordinateX": 5,
     "mapCoordinateY": -2,
@@ -1288,7 +1127,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 172,
     "mapStage": 360,
     "mapCoordinateX": 5,
     "mapCoordinateY": -3,
@@ -1296,7 +1134,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 173,
     "mapStage": 361,
     "mapCoordinateX": 4,
     "mapCoordinateY": -3,
@@ -1304,7 +1141,6 @@
     "exploredMapIcon": 457
   },
   {
-    "id": 174,
     "mapStage": 362,
     "mapCoordinateX": 4,
     "mapCoordinateY": -4,
@@ -1312,7 +1148,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 175,
     "mapStage": 363,
     "mapCoordinateX": 3,
     "mapCoordinateY": -4,
@@ -1320,7 +1155,6 @@
     "exploredMapIcon": 457
   },
   {
-    "id": 176,
     "mapStage": 364,
     "mapCoordinateX": 2,
     "mapCoordinateY": -4,
@@ -1328,7 +1162,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 177,
     "mapStage": 365,
     "mapCoordinateX": 1,
     "mapCoordinateY": -4,
@@ -1336,7 +1169,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 178,
     "mapStage": 366,
     "mapCoordinateX": 0,
     "mapCoordinateY": -4,
@@ -1344,7 +1176,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 179,
     "mapStage": 367,
     "mapCoordinateX": -1,
     "mapCoordinateY": -4,
@@ -1352,7 +1183,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 180,
     "mapStage": 368,
     "mapCoordinateX": -1,
     "mapCoordinateY": -3,
@@ -1360,7 +1190,6 @@
     "exploredMapIcon": 457
   },
   {
-    "id": 181,
     "mapStage": 369,
     "mapCoordinateX": -2,
     "mapCoordinateY": -3,
@@ -1368,7 +1197,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 182,
     "mapStage": 370,
     "mapCoordinateX": -2,
     "mapCoordinateY": -2,
@@ -1376,7 +1204,6 @@
     "exploredMapIcon": 457
   },
   {
-    "id": 183,
     "mapStage": 371,
     "mapCoordinateX": -3,
     "mapCoordinateY": -2,
@@ -1384,7 +1211,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 184,
     "mapStage": 372,
     "mapCoordinateX": -3,
     "mapCoordinateY": -1,
@@ -1392,7 +1218,6 @@
     "exploredMapIcon": 457
   },
   {
-    "id": 185,
     "mapStage": 373,
     "mapCoordinateX": -3,
     "mapCoordinateY": 0,
@@ -1400,7 +1225,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 186,
     "mapStage": 374,
     "mapCoordinateX": -3,
     "mapCoordinateY": 1,
@@ -1408,7 +1232,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 187,
     "mapStage": 375,
     "mapCoordinateX": -2,
     "mapCoordinateY": 1,
@@ -1416,7 +1239,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 188,
     "mapStage": 376,
     "mapCoordinateX": -2,
     "mapCoordinateY": 2,
@@ -1424,7 +1246,6 @@
     "exploredMapIcon": 457
   },
   {
-    "id": 189,
     "mapStage": 377,
     "mapCoordinateX": -1,
     "mapCoordinateY": 2,
@@ -1432,7 +1253,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 190,
     "mapStage": 378,
     "mapCoordinateX": 0,
     "mapCoordinateY": 2,
@@ -1440,7 +1260,6 @@
     "exploredMapIcon": 457
   },
   {
-    "id": 191,
     "mapStage": 379,
     "mapCoordinateX": 1,
     "mapCoordinateY": 2,
@@ -1448,7 +1267,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 192,
     "mapStage": 380,
     "mapCoordinateX": 2,
     "mapCoordinateY": 2,
@@ -1456,7 +1274,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 193,
     "mapStage": 381,
     "mapCoordinateX": 2,
     "mapCoordinateY": 1,
@@ -1464,7 +1281,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 194,
     "mapStage": 382,
     "mapCoordinateX": 2,
     "mapCoordinateY": 0,
@@ -1472,7 +1288,6 @@
     "exploredMapIcon": 457
   },
   {
-    "id": 195,
     "mapStage": 383,
     "mapCoordinateX": 3,
     "mapCoordinateY": 0,
@@ -1480,7 +1295,6 @@
     "exploredMapIcon": 457
   },
   {
-    "id": 196,
     "mapStage": 384,
     "mapCoordinateX": 3,
     "mapCoordinateY": -1,
@@ -1488,7 +1302,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 197,
     "mapStage": 385,
     "mapCoordinateX": 2,
     "mapCoordinateY": -1,
@@ -1496,7 +1309,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 198,
     "mapStage": 386,
     "mapCoordinateX": 2,
     "mapCoordinateY": -2,
@@ -1504,7 +1316,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 199,
     "mapStage": 387,
     "mapCoordinateX": 1,
     "mapCoordinateY": -2,
@@ -1512,7 +1323,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 200,
     "mapStage": 388,
     "mapCoordinateX": 0,
     "mapCoordinateY": -2,
@@ -1520,7 +1330,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 201,
     "mapStage": 389,
     "mapCoordinateX": -1,
     "mapCoordinateY": -2,
@@ -1528,7 +1337,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 202,
     "mapStage": 390,
     "mapCoordinateX": -1,
     "mapCoordinateY": -1,
@@ -1536,7 +1344,6 @@
     "exploredMapIcon": 457
   },
   {
-    "id": 203,
     "mapStage": 391,
     "mapCoordinateX": -2,
     "mapCoordinateY": -1,
@@ -1544,7 +1351,6 @@
     "exploredMapIcon": 457
   },
   {
-    "id": 204,
     "mapStage": 392,
     "mapCoordinateX": -2,
     "mapCoordinateY": 0,
@@ -1552,7 +1358,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 205,
     "mapStage": 393,
     "mapCoordinateX": -1,
     "mapCoordinateY": 0,
@@ -1560,7 +1365,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 206,
     "mapStage": 394,
     "mapCoordinateX": -1,
     "mapCoordinateY": 1,
@@ -1568,7 +1372,6 @@
     "exploredMapIcon": 457
   },
   {
-    "id": 207,
     "mapStage": 395,
     "mapCoordinateX": 0,
     "mapCoordinateY": 1,
@@ -1576,7 +1379,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 208,
     "mapStage": 396,
     "mapCoordinateX": 1,
     "mapCoordinateY": 1,
@@ -1584,7 +1386,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 209,
     "mapStage": 397,
     "mapCoordinateX": 1,
     "mapCoordinateY": 0,
@@ -1592,7 +1393,6 @@
     "exploredMapIcon": 455
   },
   {
-    "id": 210,
     "mapStage": 398,
     "mapCoordinateX": 1,
     "mapCoordinateY": -1,
@@ -1600,7 +1400,6 @@
     "exploredMapIcon": 457
   },
   {
-    "id": 211,
     "mapStage": 399,
     "mapCoordinateX": 0,
     "mapCoordinateY": -1,
@@ -1608,7 +1407,6 @@
     "exploredMapIcon": 456
   },
   {
-    "id": 212,
     "mapStage": 400,
     "mapCoordinateX": 0,
     "mapCoordinateY": 0,

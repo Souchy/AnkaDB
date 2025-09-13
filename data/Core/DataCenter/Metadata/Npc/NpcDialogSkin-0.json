@@ -1,26 +1,87 @@
 [
   {
     "id": 1,
-    "gfxId": 0
+    "gfxId": 2,
+    "buttonsColorTypes": 1,
+    "backgroundColor": "ffffff",
+    "isBold": false,
+    "fontColor": "000000cc",
+    "borderColor": "",
+    "hasHalo": false,
+    "headerGfxId": 2,
+    "headerColor": "ffffff",
+    "headerFontColor": "ffffff",
+    "headerDecorationGfxId": 2,
+    "headerDecorationColor": "ffffff",
+    "headerOrnamentGfxId": 2,
+    "headerOrnamentColor": "ffffff"
   },
   {
     "id": 2,
-    "gfxId": 1
+    "gfxId": 4,
+    "buttonsColorTypes": 1,
+    "backgroundColor": "ffffff",
+    "isBold": false,
+    "fontColor": "000000cc",
+    "borderColor": "",
+    "hasHalo": false,
+    "headerGfxId": 4,
+    "headerColor": "ffffff",
+    "headerFontColor": "ffffff",
+    "headerDecorationGfxId": 4,
+    "headerDecorationColor": "ffffff",
+    "headerOrnamentGfxId": 4,
+    "headerOrnamentColor": "ffffff"
   },
   {
     "id": 3,
-    "gfxId": 2
+    "gfxId": 5,
+    "buttonsColorTypes": 0,
+    "backgroundColor": "ffffff",
+    "isBold": false,
+    "fontColor": "ffffff",
+    "borderColor": "",
+    "hasHalo": false,
+    "headerGfxId": 5,
+    "headerColor": "ffffff",
+    "headerFontColor": "ffffff",
+    "headerDecorationGfxId": 5,
+    "headerDecorationColor": "ffffff",
+    "headerOrnamentGfxId": 5,
+    "headerOrnamentColor": "ffffff"
   },
   {
     "id": 4,
-    "gfxId": 3
+    "gfxId": 3,
+    "buttonsColorTypes": 1,
+    "backgroundColor": "ffffff",
+    "isBold": false,
+    "fontColor": "000000cc",
+    "borderColor": "",
+    "hasHalo": false,
+    "headerGfxId": 3,
+    "headerColor": "ffffff",
+    "headerFontColor": "ffffff",
+    "headerDecorationGfxId": 3,
+    "headerDecorationColor": "ffffff",
+    "headerOrnamentGfxId": 3,
+    "headerOrnamentColor": "ffffff"
   },
   {
-    "id": 5,
-    "gfxId": 0
-  },
-  {
-    "id": 6,
-    "gfxId": 0
+    "id": 7,
+    "gfxId": 1,
+    "buttonsColorTypes": 0,
+    "backgroundColor": "",
+    "isBold": false,
+    "fontColor": "ffffff",
+    "borderColor": "ffffff",
+    "hasHalo": false,
+    "headerGfxId": 1,
+    "headerColor": "ffffff",
+    "headerFontColor": "ffffff",
+    "headerDecorationGfxId": 1,
+    "headerDecorationColor": "ffffff",
+    "headerOrnamentGfxId": 0,
+    "headerOrnamentColor": ""
   }
 ]

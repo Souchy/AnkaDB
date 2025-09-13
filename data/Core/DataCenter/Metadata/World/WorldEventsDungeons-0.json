@@ -1,0 +1,776 @@
+[
+  {
+    "dungeonId": 90,
+    "dungeonMapIdTeleport": 152833024,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 19,
+    "dungeonMapIdTeleport": 193728512,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 8,
+    "dungeonMapIdTeleport": 190317568,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 1,
+    "dungeonMapIdTeleport": 121373187,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 88,
+    "dungeonMapIdTeleport": 146671616,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 48,
+    "dungeonMapIdTeleport": 96208898,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 47,
+    "dungeonMapIdTeleport": 87032322,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 25,
+    "dungeonMapIdTeleport": 5244419,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 138,
+    "dungeonMapIdTeleport": 221777408,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 45,
+    "dungeonMapIdTeleport": 94114816,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 34,
+    "dungeonMapIdTeleport": 163581440,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 13,
+    "dungeonMapIdTeleport": 104595971,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 21,
+    "dungeonMapIdTeleport": 87294471,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 32,
+    "dungeonMapIdTeleport": 64752640,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 142,
+    "dungeonMapIdTeleport": 224136192,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 36,
+    "dungeonMapIdTeleport": 66588160,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 52,
+    "dungeonMapIdTeleport": 116395520,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 11,
+    "dungeonMapIdTeleport": 166989824,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 24,
+    "dungeonMapIdTeleport": 98567683,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 27,
+    "dungeonMapIdTeleport": 157551616,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 18,
+    "dungeonMapIdTeleport": 106958848,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 39,
+    "dungeonMapIdTeleport": 22283266,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 35,
+    "dungeonMapIdTeleport": 176950272,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 100,
+    "dungeonMapIdTeleport": 174329344,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 17,
+    "dungeonMapIdTeleport": 116657665,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 9,
+    "dungeonMapIdTeleport": 149687296,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 91,
+    "dungeonMapIdTeleport": 157027328,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 89,
+    "dungeonMapIdTeleport": 149164032,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 115,
+    "dungeonMapIdTeleport": 199494656,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 72,
+    "dungeonMapIdTeleport": 118230016,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 15,
+    "dungeonMapIdTeleport": 155717632,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 92,
+    "dungeonMapIdTeleport": 157289472,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 125,
+    "dungeonMapIdTeleport": 208669696,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 6,
+    "dungeonMapIdTeleport": 72359936,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 37,
+    "dungeonMapIdTeleport": 66849792,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 41,
+    "dungeonMapIdTeleport": 22808578,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 50,
+    "dungeonMapIdTeleport": 96208902,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 54,
+    "dungeonMapIdTeleport": 55052288,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 101,
+    "dungeonMapIdTeleport": 174068736,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 80,
+    "dungeonMapIdTeleport": 132910080,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 123,
+    "dungeonMapIdTeleport": 208145408,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 126,
+    "dungeonMapIdTeleport": 208931840,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 10,
+    "dungeonMapIdTeleport": 149426176,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 122,
+    "dungeonMapIdTeleport": 207883264,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 55,
+    "dungeonMapIdTeleport": 56101888,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 51,
+    "dungeonMapIdTeleport": 89394178,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 139,
+    "dungeonMapIdTeleport": 220728833,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 79,
+    "dungeonMapIdTeleport": 130548736,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 44,
+    "dungeonMapIdTeleport": 102764033,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 56,
+    "dungeonMapIdTeleport": 56364032,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 75,
+    "dungeonMapIdTeleport": 125830659,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 28,
+    "dungeonMapIdTeleport": 21496834,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 58,
+    "dungeonMapIdTeleport": 59515138,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 57,
+    "dungeonMapIdTeleport": 57154305,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 94,
+    "dungeonMapIdTeleport": 162004992,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 131,
+    "dungeonMapIdTeleport": 210242560,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 102,
+    "dungeonMapIdTeleport": 175901184,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 86,
+    "dungeonMapIdTeleport": 143917569,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 59,
+    "dungeonMapIdTeleport": 62918656,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 22,
+    "dungeonMapIdTeleport": 182190081,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 38,
+    "dungeonMapIdTeleport": 66325504,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 82,
+    "dungeonMapIdTeleport": 136840192,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 124,
+    "dungeonMapIdTeleport": 208407552,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 132,
+    "dungeonMapIdTeleport": 209980416,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 31,
+    "dungeonMapIdTeleport": 26739712,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 14,
+    "dungeonMapIdTeleport": 104336897,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 104,
+    "dungeonMapIdTeleport": 179571712,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 61,
+    "dungeonMapIdTeleport": 62134792,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 140,
+    "dungeonMapIdTeleport": 223874048,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 95,
+    "dungeonMapIdTeleport": 160564224,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 71,
+    "dungeonMapIdTeleport": 112201217,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 99,
+    "dungeonMapIdTeleport": 169610240,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 110,
+    "dungeonMapIdTeleport": 195038208,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 68,
+    "dungeonMapIdTeleport": 110362626,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 98,
+    "dungeonMapIdTeleport": 169348096,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 136,
+    "dungeonMapIdTeleport": 220466176,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 97,
+    "dungeonMapIdTeleport": 169872384,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 73,
+    "dungeonMapIdTeleport": 119276035,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 69,
+    "dungeonMapIdTeleport": 109841921,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 70,
+    "dungeonMapIdTeleport": 109579777,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 84,
+    "dungeonMapIdTeleport": 140775424,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 83,
+    "dungeonMapIdTeleport": 137101312,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 76,
+    "dungeonMapIdTeleport": 129500160,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 67,
+    "dungeonMapIdTeleport": 110100482,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 103,
+    "dungeonMapIdTeleport": 176163840,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  },
+  {
+    "dungeonId": 87,
+    "dungeonMapIdTeleport": 143393281,
+    "scoreGroupShared": true,
+    "scorePerDamage": false,
+    "scorePerDungeon": 1,
+    "id": 0,
+    "worldEventId": 0
+  }
+]

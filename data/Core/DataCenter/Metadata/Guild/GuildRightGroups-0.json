@@ -11,6 +11,12 @@
         "groupId": 1
       },
       {
+        "id": 2,
+        "nameId": 948605,
+        "order": 1,
+        "groupId": 1
+      },
+      {
         "id": 5,
         "nameId": 932674,
         "order": 3,
@@ -39,12 +45,6 @@
         "nameId": 933429,
         "order": 2,
         "groupId": 1
-      },
-      {
-        "id": 2,
-        "nameId": 948605,
-        "order": 1,
-        "groupId": 1
       }
     ]
   },
@@ -54,15 +54,15 @@
     "order": 1,
     "rights": [
       {
-        "id": 4,
-        "nameId": 932679,
-        "order": 0,
-        "groupId": 2
-      },
-      {
         "id": 3,
         "nameId": 932680,
         "order": 1,
+        "groupId": 2
+      },
+      {
+        "id": 4,
+        "nameId": 932679,
+        "order": 0,
         "groupId": 2
       }
     ]
@@ -83,6 +83,19 @@
         "nameId": 932703,
         "order": 1,
         "groupId": 3
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nameId": 948578,
+    "order": 6,
+    "rights": [
+      {
+        "id": 25,
+        "nameId": 932693,
+        "order": 3,
+        "groupId": 4
       }
     ]
   },
@@ -118,19 +131,6 @@
     ]
   },
   {
-    "id": 4,
-    "nameId": 948578,
-    "order": 6,
-    "rights": [
-      {
-        "id": 25,
-        "nameId": 932693,
-        "order": 3,
-        "groupId": 4
-      }
-    ]
-  },
-  {
     "id": 9,
     "nameId": 948558,
     "order": 7,
@@ -142,15 +142,15 @@
         "groupId": 9
       },
       {
-        "id": 24,
-        "nameId": 932692,
-        "order": 1,
-        "groupId": 9
-      },
-      {
         "id": 23,
         "nameId": 932691,
         "order": 2,
+        "groupId": 9
+      },
+      {
+        "id": 24,
+        "nameId": 932692,
+        "order": 1,
         "groupId": 9
       }
     ]
